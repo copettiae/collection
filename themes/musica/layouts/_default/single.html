@@ -1,8 +1,9 @@
 {{ define "main" }}
 	<main>
 		<article>
+			{{ $baseURL := .Site.BaseURL }}
 			<h1>{{ .Title }}</h1>
-			<img src="/{{ .Params.image }}" alt="">
+			<img src="{{ $baseURL }}/{{ .Params.image }}" alt="">
 			<div>
 				{{ .Content }}
 			</div>
@@ -11,7 +12,7 @@
 				{{$media := .Params.media}}
 				{{ range $type, $filename := .Site.Data.media }}
 					{{ if (in $media $type) }}
-						<img src="/img/{{ $filename }}">	
+						<img src="{{ $baseURL }}/img/{{ $filename }}">	
 					{{ end }}
 				{{ end }}
 			</div>
