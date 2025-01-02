@@ -1,0 +1,14 @@
+baseURL = 'https://example.org/'
+languageCode = 'en-us'
+title = 'Collection'
+theme = "blank"
+[pagination]
+  pagerSize = 400
+[taxonomies]
+  artist = 'artist'
+  country = 'country'
+  genre = 'genre'
+  year = 'year'
+  media = 'media'
+  decade = 'decade'
+  related = 'related'

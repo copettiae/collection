@@ -1,0 +1,38 @@
+{{ range $album := .Site.Data.albums }}
+
+  {{
+    $params := dict
+      "image" $album.image
+      "artist" $album.artist
+      "id" $album.id
+      "country" $album.country
+      "year" $album.year
+      "media" $album.media
+      "genre" $album.genre
+      "decade" $album.decade
+      "related" $album.related
+  }}
+
+  {{ $content := dict
+    "mediaType" "text/markdown"
+    "value" $album.id
+  }}
+
+  {{ $page := dict
+    "content" $content
+    "params" $params
+    "kind" "page"
+    "path" ($album.id | urlize)
+    "title" $album.name
+    "country" $album.country
+    "year" $album.year
+    "genre" $album.genre
+    "artist" $album.artist
+    "media" $album.media
+    "decade" $album.decade
+    "related" $album.related
+  }}
+
+  {{ $.AddPage $page }}
+{{ end }}
+
