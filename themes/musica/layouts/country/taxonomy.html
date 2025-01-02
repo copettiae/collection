@@ -1,0 +1,9 @@
+{{ define "main" }}
+  <h1>{{ .Title }}</h1>
+  {{ .Content }}
+  <div class="listCountry">
+  {{ range .Pages }}
+    <h2 class="country"><a href="{{ .RelPermalink }}">{{ index .Site.Data.country .LinkTitle }} {{ len .Pages }} </a></h2>
+  {{ end }}
+</div>
+{{ end }}

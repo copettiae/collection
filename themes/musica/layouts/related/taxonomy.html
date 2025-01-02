@@ -1,0 +1,9 @@
+{{ define "main" }}
+  <h1>{{ .Title }}</h1>
+  {{ .Content }}
+  <div class="listArtist">
+  {{ range .Pages }}
+    <h2 class="artist" ><a href="{{ .RelPermalink }}">{{ .LinkTitle }} ({{ len .Pages }})</a></h2>
+  {{ end }}
+  </div>
+{{ end }}

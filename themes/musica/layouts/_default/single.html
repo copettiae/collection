@@ -1,0 +1,38 @@
+{{ define "main" }}
+	<main>
+		<article>
+			<h1>{{ .Title }}</h1>
+			<img src="/{{ .Params.image }}" alt="">
+			<div>
+				{{ .Content }}
+			</div>
+
+			<div class="medium-group"> 
+				{{$media := .Params.media}}
+				{{ range $type, $filename := .Site.Data.media }}
+					{{ if (in $media $type) }}
+						<img src="/img/{{ $filename }}">	
+					{{ end }}
+				{{ end }}
+			</div>
+			<div> 
+				<h3>#{{ .Params.id }} {{ index .Site.Data.country .Params.country }} {{ .Params.year }}</h3>    
+			</div>
+			<div> 
+				<em class="artist">{{ .Params.artist }}</em>
+			</div>
+				
+
+			{{ with .Params.tags }}
+			<div>
+				<ul id="tags">
+					{{ range . }}
+					<li><a href="{{ "/tags/" | relLangURL }}{{ . | urlize }}">{{ . }}</a></li>
+					{{ end }}
+				</ul>
+			</div>
+			{{ end }}
+		</article>
+	</main>
+{{ partial "sidebar.html" . }}
+{{ end }}

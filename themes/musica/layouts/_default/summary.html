@@ -1,0 +1,19 @@
+<a href="{{ .Permalink }}" class="item">
+		<img src="/{{ .Params.image }}" alt="">
+		<div class="title">{{ .Title }}</div>
+		<div class="medium-group"> 
+			{{$media := .Params.media}}
+			{{ range $type, $filename := .Site.Data.media }}
+				{{ if (in $media $type) }}
+					<img src="/img/{{ $filename }}">	
+				{{ end }}
+			{{ end }}
+		</div>
+		<div> 
+			<h3>#{{ .Params.id }} {{ index .Site.Data.country .Params.country }} {{ .Params.year }}</h3>    
+		</div>
+		<div> 
+			<em class="artist">{{ .Params.artist }}</em>
+		</div>
+	
+</a>

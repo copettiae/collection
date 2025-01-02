@@ -1,0 +1,211 @@
+body{
+    margin: 0;
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+}
+a{
+    color: unset;
+    text-decoration: none;
+}
+.container{
+    width: 1800px;
+    /*margin: auto;*/
+    max-width: 90vw;
+    text-align: center;
+    padding-top: 10px;
+    margin-left: 20px;
+}
+.title{
+    font-size: xx-large;
+    padding: 20px 0;
+}
+.listProduct .item > img{
+    width: 100%;
+    /*filter: drop-shadow(0 20px 20px #0009);*/
+}
+.medium-group > .imgOpacity{
+    opacity: 0.2;
+}
+.listProduct{
+    display: grid;
+    grid-template-columns: repeat(6, 1fr);
+    gap: 20px;
+}
+.listProduct .item{
+    background-color: #EEEEE6;
+    padding: 10px;
+    border-radius: 20px;
+    align-items: center;
+    display: flex;
+    flex-direction: column;
+    filter: drop-shadow(0 5px 5px #0009);
+}
+.listProduct .item > .title{
+    font-weight: 500;
+    font-size: 20px;
+    padding: 10px;
+}
+.listProduct .item > .id-year-container{
+    display: flex;
+    flex-wrap: nowrap;
+    margin: 0px;
+    justify-content: center;
+    flex: 1;
+    width: 100%;
+}
+.listProduct .item .id-year-container > .id{
+    font-size: 10px;
+    color: black;
+    margin: 0px;
+    align-content: center;
+    flex: 1;
+    text-align: start;
+    margin-top: auto;
+}
+.listProduct .item .id-year-container > .year{
+    font-size: 10px;
+    color: black;
+    margin: 0px;
+    flex: 1;
+    margin-top: auto;
+    text-align: end;
+}
+.listProduct .item .id-year-container > .flag{
+    font-size: 40px;
+    /*filter: drop-shadow(0px 5px 5px #0009);*/
+}
+.listProduct .item > .artist{
+    font-size: 20px; 
+    color: black;
+    margin: 5px;
+    padding: 10px;
+    /*text-shadow: 2px 2px 4px #000000;*/
+}
+.medium-group{
+    display: flex;
+    flex-wrap: nowrap;
+    justify-content: center;
+}
+.medium-group > img{
+    width: 25px;
+    margin: 2px;
+    /*filter: drop-shadow(0 20px 20px #0009);*/
+}
+.medium-group > img_opacity{
+    width: 25px;
+    margin: 2px;
+    filter: drop-shadow(0 20px 20px #0009);
+    filter: opacity(30%);
+}
+/* detail page */
+
+.detail{
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 5px;
+    text-align: left;
+}
+.detail .image img{
+    width: 500px;
+    filter: drop-shadow(0 20px 20px #0009);
+}
+.detail .image{
+    position: relative;
+}
+/*.detail .image::before{
+    position: absolute;
+    width: 300px;
+    height: 300px;
+    content: '';
+    background-color: #94817733;
+    z-index: -1;
+    border-radius: 190px 100px 170px 180px;
+    left: calc(50% - 150px);
+    top: 50px;
+
+}*/
+.detail .name{
+    font-size: xxx-large;
+    padding: 40px 0 0 0;
+    margin: 0 0 10px 0;
+}
+.artist{
+    font-size: 20px;
+}
+.detail .year{
+    font-weight: bold;
+    font-size: x-large;
+    letter-spacing: 7px;
+    margin-bottom: 20px;
+}
+.detail .description{
+    font-weight: 300;
+}
+.listArtist{
+    display: grid;
+    grid-template-columns: repeat(8, 1fr);
+    gap: 10px;
+    filter: drop-shadow(0 5px 5px #0009);
+}
+.listArtist .artist{
+    background-color: #BAB8ED;
+    padding: 20px;
+    border-radius: 20px;
+    align-items: center;
+    text-align: center;
+    display: flex;
+    flex-direction: row;
+    margin: 0;
+}
+.listCountry{
+    display: grid;
+    grid-template-columns: repeat(8, 1fr);
+    gap: 10px;
+    filter: drop-shadow(0 5px 5px #0009);
+}
+.listCountry .country{
+    background-color: #e2eed8;
+    padding: 20px;
+    border-radius: 20px;
+    align-items: center;
+    text-align: center;
+    font-size: 50px;
+    display: flex;
+    flex-direction: row;
+    margin: 0;
+}
+/* // ipad */
+@media only screen and (max-width: 992px) {
+    .listProduct{
+        grid-template-columns: repeat(3, 1fr);
+    }
+    .detail{
+        grid-template-columns:  40% 1fr;
+    }
+}
+
+
+/* mobile */
+@media only screen and (max-width: 768px) {
+    .listProduct{
+        grid-template-columns: repeat(2, 1fr);
+    }
+    .detail{
+        text-align: center;
+        grid-template-columns: 1fr;
+    }
+    .detail .image img{
+        width: unset;
+        height: 40vh;
+    } 
+    .detail .name{
+        font-size: x-large;
+        margin: 0;
+
+    }
+    .detail .buttons button{
+        font-size: small;
+    }
+    .detail .buttons{
+        justify-content: center;
+    }
+}

@@ -1,7 +1,7 @@
 baseURL = 'https://example.org/'
 languageCode = 'en-us'
 title = 'Collection'
-theme = "blank"
+theme = "musica"
 [pagination]
   pagerSize = 400
 [taxonomies]

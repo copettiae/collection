@@ -1,0 +1,38 @@
+{{ define "main" }}
+
+	<main>
+		
+		{{ if or .Title .Content }}
+		<div>
+			{{ with .Title }}<h1>{{ . }}</h1>{{ end }}
+			{{ with .Content }}<div>{{ . }}</div>{{ end }}
+		</div>
+		{{ end }}
+		
+		{{ $sortedPages := .Pages.ByParam "artist" }}
+		{{ $paginator := .Paginate $sortedPages }}
+
+		{{/* Loop for every album */}}
+		
+		<div class="listProduct">
+		{{ range $paginator.Pages }}
+		
+
+			{{ .Render "summary" }}
+
+		{{ end }}
+		</div>
+
+		{{/* Paginator navigation */}}
+		<div>
+			{{ if $paginator.HasPrev }}
+				<a href="{{ $paginator.Prev.URL }}">Previous Page</a>
+			{{ end }}
+			{{ $paginator.PageNumber }} of {{ $paginator.TotalPages }}
+			{{ if $paginator.HasNext }}
+				<a href="{{ $paginator.Next.URL }}">Next Page</a>
+			{{ end }}
+		</div>
+	</main>
+{{ partial "sidebar.html" . }}
+{{ end }}
