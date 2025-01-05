@@ -12354,7 +12354,7 @@
 "name": "Eye In The Sky",
 "year": 1982,
 "artist": "The Alan Parsons Project",
-"media": ["CD"],
+"media": ["CD","Box"],
 "genre": "Prog Rock",
 "country": "UK",
 "image": "img/884.jpg",
@@ -15621,6 +15621,19 @@
 "genre": "Classical",
 "country": "China",
 "image": "img/1144.jpg",
+"description": "",
+"decade": 2010,
+"related": []
+},
+{
+"id": 1203,
+"name": "Prog 90",
+"year": 2018,
+"artist": "Camel",
+"media": ["Mag"],
+"genre": "Prog Rock",
+"country": "UK",
+"image": "img/1203.jpg",
 "description": "",
 "decade": 2010,
 "related": []

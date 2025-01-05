@@ -200,12 +200,23 @@ a{
     .detail .name{
         font-size: x-large;
         margin: 0;
-
     }
     .detail .buttons button{
         font-size: small;
     }
     .detail .buttons{
         justify-content: center;
+    }
+    .listCountry{
+        display: grid;
+        grid-template-columns: repeat(2, 1fr);
+        gap: 10px;
+        filter: drop-shadow(0 5px 5px #0009);
+    }
+    .listArtist{
+        display: grid;
+        grid-template-columns: repeat(2, 1fr);
+        gap: 10px;
+        filter: drop-shadow(0 5px 5px #0009);
     }
 }
