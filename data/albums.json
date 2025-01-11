@@ -725,7 +725,7 @@
 "image": "img/47.jpg",
 "description": "",
 "decade": 1990,
-"related": []
+"related": ["Bee Gees"]
 },
 {
 "id": 48,
@@ -1479,7 +1479,7 @@
 "image": "img/100.jpg",
 "description": "",
 "decade": 1960,
-"related": []
+"related": ["Bee Gees"]
 },
 {
 "id": 101,
@@ -1492,7 +1492,7 @@
 "image": "img/101.jpg",
 "description": "",
 "decade": 1960,
-"related": []
+"related": ["Bee Gees"]
 },
 {
 "id": 1176,
@@ -1505,7 +1505,7 @@
 "image": "img/1176.jpg",
 "description": "Edition: Argentina",
 "decade": 1960,
-"related": []
+"related": ["Bee Gees"]
 },
 {
 "id": 102,
@@ -1518,7 +1518,7 @@
 "image": "img/102.jpg",
 "description": "",
 "decade": 1960,
-"related": []
+"related": ["Bee Gees"]
 },
 {
 "id": 103,
@@ -1531,7 +1531,7 @@
 "image": "img/103.jpg",
 "description": "",
 "decade": 1970,
-"related": []
+"related": ["Bee Gees"]
 },
 {
 "id": 104,
@@ -1544,7 +1544,7 @@
 "image": "img/104.jpg",
 "description": "",
 "decade": 1970,
-"related": []
+"related": ["Bee Gees"]
 },
 {
 "id": 105,
@@ -1557,7 +1557,7 @@
 "image": "img/105.jpg",
 "description": "",
 "decade": 1970,
-"related": []
+"related": ["Bee Gees"]
 },
 {
 "id": 106,
@@ -1570,7 +1570,7 @@
 "image": "img/106.jpg",
 "description": "",
 "decade": 1970,
-"related": []
+"related": ["Bee Gees"]
 },
 {
 "id": 107,
@@ -1583,7 +1583,7 @@
 "image": "img/107.jpg",
 "description": "",
 "decade": 1970,
-"related": []
+"related": ["Bee Gees"]
 },
 {
 "id": 1191,
@@ -1596,7 +1596,7 @@
 "image": "img/1191.jpg",
 "description": "Edition: Argentina",
 "decade": 1970,
-"related": []
+"related": ["Bee Gees"]
 },
 {
 "id": 108,
@@ -1609,7 +1609,7 @@
 "image": "img/108.jpg",
 "description": "",
 "decade": 1970,
-"related": []
+"related": ["Bee Gees"]
 },
 {
 "id": 109,
@@ -1622,7 +1622,7 @@
 "image": "img/109.jpg",
 "description": "",
 "decade": 1980,
-"related": []
+"related": ["Bee Gees"]
 },
 {
 "id": 110,
@@ -1635,7 +1635,7 @@
 "image": "img/110.jpg",
 "description": "",
 "decade": 1980,
-"related": []
+"related": ["Bee Gees"]
 },
 {
 "id": 111,
@@ -1648,7 +1648,7 @@
 "image": "img/111.jpg",
 "description": "",
 "decade": 1990,
-"related": []
+"related": ["Bee Gees"]
 },
 {
 "id": 112,
@@ -1661,7 +1661,7 @@
 "image": "img/112.jpg",
 "description": "",
 "decade": 1990,
-"related": []
+"related": ["Bee Gees"]
 },
 {
 "id": 113,
@@ -1674,7 +1674,7 @@
 "image": "img/113.jpg",
 "description": "",
 "decade": 1990,
-"related": []
+"related": ["Bee Gees"]
 },
 {
 "id": 114,
@@ -1687,7 +1687,7 @@
 "image": "img/114.jpg",
 "description": "",
 "decade": 2000,
-"related": []
+"related": ["Bee Gees"]
 },
 {
 "id": 115,
@@ -1862,10 +1862,10 @@
 "id": 466,
 "name": "The Legend Live",
 "year": 1979,
-"artist": "Bob Marley",
+"artist": "Bob Marley & The Wailers",
 "media": ["CD"],
 "genre": "Reggae",
-"country": "USA",
+"country": "Jamaica",
 "image": "img/466.jpg",
 "description": "Santa Barbara County Bowl November 25th 1979",
 "decade": 1970,
@@ -2434,7 +2434,7 @@
 "id": 165,
 "name": "Teaser And The Firecat",
 "year": 1971,
-"artist": "Cat Stevens",
+"artist": "Cat Stevens / Yusuf Islam",
 "media": ["CD"],
 "genre": "Folk Rock",
 "country": "UK",
@@ -2447,7 +2447,7 @@
 "id": 166,
 "name": "The Very Best Of Cat Stevens",
 "year": 2000,
-"artist": "Cat Stevens",
+"artist": "Cat Stevens / Yusuf Islam",
 "media": ["CD"],
 "genre": "Folk Rock",
 "country": "UK",
@@ -3234,7 +3234,7 @@
 "image": "img/219.jpg",
 "description": "",
 "decade": 2000,
-"related": []
+"related": ["Pink Floyd"]
 },
 {
 "id": 221,
@@ -3247,7 +3247,7 @@
 "image": "img/221.jpg",
 "description": "",
 "decade": 2010,
-"related": []
+"related": ["Pink Floyd"]
 },
 {
 "id": 181,
@@ -8681,7 +8681,7 @@
 "image": "img/621.jpg",
 "description": "",
 "decade": 1970,
-"related": []
+"related": ["Pink Floyd"]
 },
 {
 "id": 623,
@@ -8694,7 +8694,7 @@
 "image": "img/623.jpg",
 "description": "",
 "decade": 1970,
-"related": []
+"related": ["Pink Floyd"]
 },
 {
 "id": 625,
@@ -8707,7 +8707,7 @@
 "image": "img/625.jpg",
 "description": "",
 "decade": 1970,
-"related": []
+"related": ["Pink Floyd"]
 },
 {
 "id": 626,
@@ -8720,7 +8720,7 @@
 "image": "img/626.jpg",
 "description": "",
 "decade": 1970,
-"related": []
+"related": ["Pink Floyd"]
 },
 {
 "id": 628,
@@ -8733,7 +8733,7 @@
 "image": "img/628.jpg",
 "description": "",
 "decade": 1970,
-"related": []
+"related": ["Pink Floyd"]
 },
 {
 "id": 630,
@@ -8746,7 +8746,7 @@
 "image": "img/630.jpg",
 "description": "",
 "decade": 1970,
-"related": []
+"related": ["Pink Floyd"]
 },
 {
 "id": 631,
@@ -8759,7 +8759,7 @@
 "image": "img/631.jpg",
 "description": "",
 "decade": 1970,
-"related": []
+"related": ["Pink Floyd"]
 },
 {
 "id": 633,
@@ -8772,7 +8772,7 @@
 "image": "img/633.jpg",
 "description": "Is There Anybody Out There? (The Wall Live 1980-81)",
 "decade": 1980,
-"related": []
+"related": ["Pink Floyd"]
 },
 {
 "id": 634,
@@ -8785,7 +8785,7 @@
 "image": "img/634.jpg",
 "description": "",
 "decade": 1980,
-"related": []
+"related": ["Pink Floyd"]
 },
 {
 "id": 192,
@@ -8798,7 +8798,7 @@
 "image": "img/192.jpg",
 "description": "",
 "decade": 2010,
-"related": []
+"related": ["Pink Floyd"]
 },
 {
 "id": 636,
@@ -8811,7 +8811,7 @@
 "image": "img/636.jpg",
 "description": "Gerald Scarfe",
 "decade": 2010,
-"related": []
+"related": ["Pink Floyd"]
 },
 {
 "id": 637,
@@ -8824,7 +8824,7 @@
 "image": "img/637.jpg",
 "description": "2 DVD 1 BR",
 "decade": 2010,
-"related": []
+"related": ["Pink Floyd"]
 },
 {
 "id": 638,
@@ -8837,7 +8837,7 @@
 "image": "img/638.jpg",
 "description": "",
 "decade": 2010,
-"related": []
+"related": ["Pink Floyd"]
 },
 {
 "id": 639,
@@ -8850,7 +8850,7 @@
 "image": "img/639.jpg",
 "description": "",
 "decade": 2010,
-"related": []
+"related": ["Pink Floyd"]
 },
 {
 "id": 632,
@@ -8863,7 +8863,7 @@
 "image": "img/632.jpg",
 "description": "Martin Popoff",
 "decade": 2020,
-"related": []
+"related": ["Pink Floyd"]
 },
 {
 "id": 627,
@@ -8876,7 +8876,7 @@
 "image": "img/627.jpg",
 "description": "",
 "decade": 2020,
-"related": []
+"related": ["Pink Floyd"]
 },
 {
 "id": 640,
@@ -10787,7 +10787,7 @@
 "image": "img/776.jpg",
 "description": "Ron Geesin & Roger Waters",
 "decade": 1970,
-"related": ["Roger Waters"]
+"related": ["Roger Waters","Pink Floyd"]
 },
 {
 "id": 771,
@@ -10800,7 +10800,7 @@
 "image": "img/771.jpg",
 "description": "",
 "decade": 1980,
-"related": ["Roger Waters"]
+"related": ["Roger Waters","Pink Floyd"]
 },
 {
 "id": 772,
@@ -10813,7 +10813,7 @@
 "image": "img/772.jpg",
 "description": "",
 "decade": 1980,
-"related": ["Roger Waters"]
+"related": ["Roger Waters","Pink Floyd"]
 },
 {
 "id": 773,
@@ -10826,7 +10826,7 @@
 "image": "img/773.jpg",
 "description": "",
 "decade": 1990,
-"related": ["Roger Waters"]
+"related": ["Roger Waters","Pink Floyd"]
 },
 {
 "id": 774,
@@ -10839,7 +10839,7 @@
 "image": "img/774.jpg",
 "description": "",
 "decade": 2000,
-"related": ["Roger Waters"]
+"related": ["Roger Waters","Pink Floyd"]
 },
 {
 "id": 775,
@@ -10852,7 +10852,7 @@
 "image": "img/775.jpg",
 "description": "",
 "decade": 2010,
-"related": ["Roger Waters"]
+"related": ["Roger Waters","Pink Floyd"]
 },
 {
 "id": 624,
@@ -10865,7 +10865,7 @@
 "image": "img/624.jpg",
 "description": "",
 "decade": 2020,
-"related": ["Roger Waters"]
+"related": ["Roger Waters","Pink Floyd"]
 },
 {
 "id": 622,
@@ -10878,7 +10878,7 @@
 "image": "img/622.jpg",
 "description": "",
 "decade": 2020,
-"related": ["Roger Waters"]
+"related": ["Roger Waters","Pink Floyd"]
 },
 {
 "id": 987,
@@ -10891,7 +10891,7 @@
 "image": "img/987.jpg",
 "description": "",
 "decade": 2020,
-"related": ["Roger Waters","Others"]
+"related": ["Roger Waters","Pink Floyd"]
 },
 {
 "id": 1202,
@@ -10904,7 +10904,7 @@
 "image": "img/1202.jpg",
 "description": "",
 "decade": 2020,
-"related": ["Roger Waters","Others"]
+"related": ["Roger Waters","Pink Floyd"]
 },
 {
 "id": 1195,
@@ -10917,7 +10917,7 @@
 "image": "img/1195.jpg",
 "description": "",
 "decade": 2020,
-"related": ["Roger Waters","Others"]
+"related": ["Roger Waters","Pink Floyd"]
 },
 {
 "id": 777,
@@ -12341,7 +12341,7 @@
 "name": "The Turn Of A Friendly Card",
 "year": 1980,
 "artist": "The Alan Parsons Project",
-"media": ["CD","Box"],
+"media": ["CD"],
 "genre": "Prog Rock",
 "country": "UK",
 "image": "img/883.jpg",
@@ -12354,7 +12354,7 @@
 "name": "Eye In The Sky",
 "year": 1982,
 "artist": "The Alan Parsons Project",
-"media": ["CD","Box"],
+"media": ["CD"],
 "genre": "Prog Rock",
 "country": "UK",
 "image": "img/884.jpg",
@@ -12367,7 +12367,7 @@
 "name": "Ammonia Avenue",
 "year": 1984,
 "artist": "The Alan Parsons Project",
-"media": ["CD","Box"],
+"media": ["CD"],
 "genre": "Prog Rock",
 "country": "UK",
 "image": "img/885.jpg",
@@ -13777,7 +13777,7 @@
 "image": "img/1003.jpg",
 "description": "OST Various",
 "decade": 1970,
-"related": []
+"related": ["Bee Gees"]
 },
 {
 "id": 1004,
@@ -13790,7 +13790,7 @@
 "image": "img/1004.jpg",
 "description": "OST Various",
 "decade": 1970,
-"related": []
+"related": ["Bee Gees"]
 },
 {
 "id": 332,
@@ -15006,7 +15006,7 @@
 "name": "In A Word: Yes (1969 - )",
 "year": 2002,
 "artist": "Yes",
-"media": ["CD"],
+"media": ["Box"],
 "genre": "Prog Rock",
 "country": "UK",
 "image": "img/1101.jpg",
@@ -15188,7 +15188,7 @@
 "name": "The Studio Albums 1969-1987",
 "year": 2013,
 "artist": "Yes",
-"media": ["CD"],
+"media": ["Box"],
 "genre": "Prog Rock",
 "country": "UK",
 "image": "img/1072.jpg",
@@ -15240,7 +15240,7 @@
 "name": "Union Live",
 "year": 2014,
 "artist": "Yes",
-"media": ["Box"],
+"media": ["LP"],
 "genre": "Prog Rock",
 "country": "UK",
 "image": "img/1122.jpg",
@@ -15435,7 +15435,7 @@
 "name": "The Quest",
 "year": 2021,
 "artist": "Yes",
-"media": ["CD"],
+"media": ["Box"],
 "genre": "Prog Rock",
 "country": "UK",
 "image": "img/1137.jpg",
@@ -15637,5 +15637,83 @@
 "description": "",
 "decade": 2010,
 "related": []
+},
+{
+"id": 1204,
+"name": "The Turn Of A Friendly Card",
+"year": 1980,
+"artist": "The Alan Parsons Project",
+"media": ["Box"],
+"genre": "Prog Rock",
+"country": "UK",
+"image": "img/1204.jpg",
+"description": "",
+"decade": 1980,
+"related": []
+},
+{
+"id": 1205,
+"name": "Eye In The Sky",
+"year": 1982,
+"artist": "The Alan Parsons Project",
+"media": ["Box"],
+"genre": "Prog Rock",
+"country": "UK",
+"image": "img/1205.jpg",
+"description": "",
+"decade": 1980,
+"related": []
+},
+{
+"id": 1206,
+"name": "Ammonia Avenue",
+"year": 1984,
+"artist": "The Alan Parsons Project",
+"media": ["Box"],
+"genre": "Prog Rock",
+"country": "UK",
+"image": "img/1206.jpg",
+"description": "",
+"decade": 1980,
+"related": []
+},
+{
+"id": 1207,
+"name": "Prog 153",
+"year": 2024,
+"artist": "Jon Anderson",
+"media": ["Mag"],
+"genre": "Prog Rock",
+"country": "UK",
+"image": "img/1207.jpg",
+"description": "",
+"decade": 2020,
+"related": []
+},
+{
+"id": 1208,
+"name": "Prog 156",
+"year": 2024,
+"artist": "Yes",
+"media": ["Mag"],
+"genre": "Prog Rock",
+"country": "UK",
+"image": "img/1208.jpg",
+"description": "",
+"decade": 2020,
+"related": ["Yes"]
+},
+{
+"id": 1209,
+"name": "Prog 130",
+"year": 2022,
+"artist": "Bill Brufoard",
+"media": ["Mag"],
+"genre": "Prog Rock",
+"country": "UK",
+"image": "img/1209.jpg",
+"description": "",
+"decade": 2020,
+"related": ["Yes"]
 }
 ]
