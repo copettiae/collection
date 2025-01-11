@@ -15715,5 +15715,31 @@
 "description": "",
 "decade": 2020,
 "related": ["Yes"]
+},
+{
+"id": 1210,
+"name": "Prog 20",
+"year": 2011,
+"artist": "Yes",
+"media": ["Mag"],
+"genre": "Prog Rock",
+"country": "UK",
+"image": "img/1210.jpg",
+"description": "",
+"decade": 2010,
+"related": ["Yes"]
+},
+{
+"id": 1211,
+"name": "Prog 19",
+"year": 2011,
+"artist": "Pink Floyd",
+"media": ["Mag"],
+"genre": "Prog Rock",
+"country": "UK",
+"image": "img/1211.jpg",
+"description": "",
+"decade": 2010,
+"related": ["Yes"]
 }
 ]
