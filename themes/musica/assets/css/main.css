@@ -41,7 +41,7 @@ a{
 }
 .listProduct .item > .title{
     font-weight: 500;
-    font-size: 20px;
+    font-size: 0.8rem;
     padding: 10px;
 }
 .listProduct .item > .id-year-container{
@@ -129,7 +129,7 @@ a{
     margin: 0 0 10px 0;
 }
 .artist{
-    font-size: 20px;
+    font-size: 0.8rem;
 }
 .detail .year{
     font-weight: bold;
