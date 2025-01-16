@@ -16365,5 +16365,83 @@
 "description": "",
 "decade": 2020,
 "related": ["To Buy"]
+},
+{
+"id": 1260,
+"name": "Like It Is At The Bristol Hippodrome",
+"year": 2014,
+"artist": "Yes",
+"media": ["DVD"],
+"genre": "Prog Rock",
+"country": "UK",
+"image": "img/1260.jpg",
+"description": "",
+"decade": 2010,
+"related": ["Yes"]
+},
+{
+"id": 1261,
+"name": "Yes Featuring Jon Anderson, Trevor Rabin, Rick Wakeman Live At The Apollo (50th Anniversary)",
+"year": 2018,
+"artist": "Yes",
+"media": ["LP"],
+"genre": "Prog Rock",
+"country": "UK",
+"image": "img/1261.jpg",
+"description": "",
+"decade": 2010,
+"related": ["Yes"]
+},
+{
+"id": 1262,
+"name": "Brother Of Mine",
+"year": 1989,
+"artist": "Anderson Bruford Wakeman Howe",
+"media": ["LP"],
+"genre": "Prog Rock",
+"country": "UK",
+"image": "img/1262.jpg",
+"description": "",
+"decade": 1980,
+"related": ["Yes"]
+},
+{
+"id": 1263,
+"name": "Rhythm Of Love",
+"year": 1987,
+"artist": "Yes",
+"media": ["LP"],
+"genre": "Prog Rock",
+"country": "UK",
+"image": "img/1263.jpg",
+"description": "",
+"decade": 1980,
+"related": ["Yes"]
+},
+{
+"id": 1264,
+"name": "Prog 105",
+"year": 2019,
+"artist": "Pink Floyd",
+"media": ["Mag"],
+"genre": "Prog Rock",
+"country": "UK",
+"image": "img/1264.jpg",
+"description": "",
+"decade": 2010,
+"related": ["Pink Floyd"]
+},
+{
+"id": 1265,
+"name": "Full Circle Tour 2003",
+"year": 2003,
+"artist": "Yes",
+"media": ["Book"],
+"genre": "Prog Rock",
+"country": "UK",
+"image": "img/1265.jpg",
+"description": "",
+"decade": 2000,
+"related": ["Yes"]
 }
 ]
