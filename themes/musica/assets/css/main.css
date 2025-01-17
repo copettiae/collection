@@ -21,18 +21,19 @@ a{
 .listProduct .item > img{
     width: 100%;
     /*filter: drop-shadow(0 20px 20px #0009);*/
+    border-radius: 20px;
 }
 .medium-group > .imgOpacity{
     opacity: 0.2;
 }
 .listProduct{
     display: grid;
-    grid-template-columns: repeat(6, 1fr);
+    grid-template-columns: repeat(8, 1fr);
     gap: 20px;
 }
 .listProduct .item{
     background-color: #EEEEE6;
-    padding: 10px;
+    /*padding: 10px;*/
     border-radius: 20px;
     align-items: center;
     display: flex;
