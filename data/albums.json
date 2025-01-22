@@ -16277,16 +16277,16 @@
 },
 {
 "id": 1248,
-"name": "YES - fly from here deluxe box set.",
-"year": 2025,
-"artist": "To Buy",
-"media": ["To Buy"],
-"genre": "To Buy",
-"country": "To Buy",
+"name": "Fly From Here Deluxe",
+"year": 2011,
+"artist": "Yes",
+"media": ["Box"],
+"genre": "Prog Rock",
+"country": "UK",
 "image": "img/1248.jpg",
 "description": "",
-"decade": 2020,
-"related": ["To Buy"]
+"decade": 2010,
+"related": ["Yes"]
 },
 {
 "id": 1249,
@@ -17717,5 +17717,31 @@
 "description": "",
 "decade": 2020,
 "related": ["To Buy"]
+},
+{
+"id": 1364,
+"name": "The Flights Of Icarus",
+"year": 1977,
+"artist": "Roger Dean",
+"media": ["Book"],
+"genre": "Prog Rock",
+"country": "UK",
+"image": "img/1364.jpg",
+"description": "",
+"decade": 1970,
+"related": ["Yes"]
+},
+{
+"id": 1365,
+"name": "The Second Volume Album Cover Album",
+"year": 1982,
+"artist": "Roger Dean",
+"media": ["Book"],
+"genre": "Prog Rock",
+"country": "UK",
+"image": "img/1365.jpg",
+"description": "",
+"decade": 1980,
+"related": ["Yes"]
 }
 ]
