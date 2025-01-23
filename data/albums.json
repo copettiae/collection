@@ -15367,7 +15367,7 @@
 },
 {
 "id": 635,
-"name": "Royal Affair Tour Book",
+"name": "Royal Affair Tour",
 "year": 2019,
 "artist": "Yes",
 "media": ["Book"],
@@ -15376,7 +15376,7 @@
 "image": "img/635.jpg",
 "description": "",
 "decade": 2010,
-"related": ["Yes"]
+"related": ["Yes","Yes Tour Book"]
 },
 {
 "id": 1133,
@@ -15484,7 +15484,7 @@
 },
 {
 "id": 220,
-"name": "Close To The Edge 50th Anniversary Tour Book",
+"name": "Close To The Edge 50th Anniversary Tour",
 "year": 2022,
 "artist": "Yes",
 "media": ["Book"],
@@ -15493,7 +15493,7 @@
 "image": "img/220.jpg",
 "description": "",
 "decade": 2020,
-"related": ["Yes"]
+"related": ["Yes","Yes Tour Book"]
 },
 {
 "id": 1139,
@@ -16433,7 +16433,7 @@
 },
 {
 "id": 1265,
-"name": "Full Circle Tour 2003",
+"name": "Full Circle Tour",
 "year": 2003,
 "artist": "Yes",
 "media": ["Book"],
@@ -16442,7 +16442,7 @@
 "image": "img/1265.jpg",
 "description": "",
 "decade": 2000,
-"related": ["Yes"]
+"related": ["Yes","Yes Tour Book"]
 },
 {
 "id": 1266,
@@ -17743,5 +17743,252 @@
 "description": "",
 "decade": 1980,
 "related": ["Yes"]
-}
+},
+{
+"id": 1366,
+"name": "The First Volume Album Cover Album",
+"year": 2024,
+"artist": "To Buy",
+"media": ["To Buy"],
+"genre": "To Buy",
+"country": "To Buy",
+"image": "img/1366.jpg",
+"description": "",
+"decade": 2020,
+"related": ["To Buy"]
+},
+{
+"id": 1367,
+"name": "The Third Volume Album Cover Album",
+"year": 2024,
+"artist": "To Buy",
+"media": ["To Buy"],
+"genre": "To Buy",
+"country": "To Buy",
+"image": "img/1367.jpg",
+"description": "",
+"decade": 2020,
+"related": ["To Buy"]
+},
+{
+"id": 1368,
+"name": "The Fourth Volume Album Cover Album",
+"year": 2024,
+"artist": "To Buy",
+"media": ["To Buy"],
+"genre": "To Buy",
+"country": "To Buy",
+"image": "img/1368.jpg",
+"description": "",
+"decade": 2020,
+"related": ["To Buy"]
+},
+{
+"id": 1369,
+"name": "The Fifth Volume Album Cover Album",
+"year": 2024,
+"artist": "To Buy",
+"media": ["To Buy"],
+"genre": "To Buy",
+"country": "To Buy",
+"image": "img/1369.jpg",
+"description": "",
+"decade": 2020,
+"related": ["To Buy"]
+},
+{
+"id": 1370,
+"name": "The Sixth Volume Album Cover Album",
+"year": 2024,
+"artist": "To Buy",
+"media": ["To Buy"],
+"genre": "To Buy",
+"country": "To Buy",
+"image": "img/1370.jpg",
+"description": "",
+"decade": 2020,
+"related": ["To Buy"]
+},
+{
+"id": 1371,
+"name": "The Prog Years Box Set Deluxe 32 disc CD & DVD Box Set",
+"year": 2024,
+"artist": "To Buy",
+"media": ["To Buy"],
+"genre": "To Buy",
+"country": "To Buy",
+"image": "img/1371.jpg",
+"description": "",
+"decade": 2020,
+"related": ["To Buy"]
+},
+{
+"id": 1372,
+"name": "The Prog Side Of The Moon",
+"year": 2024,
+"artist": "To Buy",
+"media": ["To Buy"],
+"genre": "To Buy",
+"country": "To Buy",
+"image": "img/1372.jpg",
+"description": "",
+"decade": 2020,
+"related": ["To Buy"]
+},
+{
+"id": 1373,
+"name": "The Art Of Big O",
+"year": 2024,
+"artist": "To Buy",
+"media": ["To Buy"],
+"genre": "To Buy",
+"country": "To Buy",
+"image": "img/1373.jpg",
+"description": "",
+"decade": 2020,
+"related": ["To Buy"]
+},
+{
+"id": 1374,
+"name": "Yes Singles II",
+"year": 2024,
+"artist": "To Buy",
+"media": ["To Buy"],
+"genre": "To Buy",
+"country": "To Buy",
+"image": "img/1374.jpg",
+"description": "",
+"decade": 2020,
+"related": ["To Buy"]
+},
+{
+"id": 1375,
+"name": "Yes Fragile Outtakes",
+"year": 2024,
+"artist": "To Buy",
+"media": ["To Buy"],
+"genre": "To Buy",
+"country": "To Buy",
+"image": "img/1375.jpg",
+"description": "",
+"decade": 2020,
+"related": ["To Buy"]
+},
+{
+"id": 1376,
+"name": "Yes Yale Bowl '71",
+"year": 2024,
+"artist": "To Buy",
+"media": ["To Buy"],
+"genre": "To Buy",
+"country": "To Buy",
+"image": "img/1376.jpg",
+"description": "",
+"decade": 2020,
+"related": ["To Buy"]
+},
+{
+"id": 1377,
+"name": "KC & The Sunshine Band – Original Album Series",
+"year": 2024,
+"artist": "To Buy",
+"media": ["To Buy"],
+"genre": "To Buy",
+"country": "To Buy",
+"image": "img/1377.jpg",
+"description": "",
+"decade": 2020,
+"related": ["To Buy"]
+},
+{
+"id": 1378,
+"name": "Yes – High Vibration - SACD Box",
+"year": 2024,
+"artist": "To Buy",
+"media": ["To Buy"],
+"genre": "To Buy",
+"country": "To Buy",
+"image": "img/1378.jpg",
+"description": "",
+"decade": 2020,
+"related": ["To Buy"]
+},
+{
+"id": 1379,
+"name": "Bee Gees Idea",
+"year": 2024,
+"artist": "To Buy",
+"media": ["To Buy"],
+"genre": "To Buy",
+"country": "To Buy",
+"image": "img/1379.jpg",
+"description": "",
+"decade": 2020,
+"related": ["To Buy"]
+},
+{
+"id": 1380,
+"name": "Bee Gees 2 Years Now",
+"year": 2024,
+"artist": "To Buy",
+"media": ["To Buy"],
+"genre": "To Buy",
+"country": "To Buy",
+"image": "img/1380.jpg",
+"description": "",
+"decade": 2020,
+"related": ["To Buy"]
+},
+{
+"id": 1381,
+"name": "Bee Gees Trafalgar",
+"year": 2024,
+"artist": "To Buy",
+"media": ["To Buy"],
+"genre": "To Buy",
+"country": "To Buy",
+"image": "img/1381.jpg",
+"description": "",
+"decade": 2020,
+"related": ["To Buy"]
+},
+{
+"id": 1382,
+"name": "Bee Gees E.S.P.",
+"year": 2024,
+"artist": "To Buy",
+"media": ["To Buy"],
+"genre": "To Buy",
+"country": "To Buy",
+"image": "img/1382.jpg",
+"description": "",
+"decade": 2020,
+"related": ["To Buy"]
+},
+{
+"id": 1383,
+"name": "Bee Gees High Civilization",
+"year": 2024,
+"artist": "To Buy",
+"media": ["To Buy"],
+"genre": "To Buy",
+"country": "To Buy",
+"image": "img/1383.jpg",
+"description": "",
+"decade": 2020,
+"related": ["To Buy"]
+},
+{
+"id": 1384,
+"name": "Bee Gees Greatest",
+"year": 2024,
+"artist": "To Buy",
+"media": ["To Buy"],
+"genre": "To Buy",
+"country": "To Buy",
+"image": "img/1384.jpg",
+"description": "",
+"decade": 2020,
+"related": ["To Buy"]
+}    
 ]
