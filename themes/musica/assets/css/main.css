@@ -190,6 +190,8 @@ a{
 @media only screen and (max-width: 768px) {
     .listProduct{
         grid-template-columns: repeat(2, 1fr);
+        grid-gap: 20px;
+        padding: 10px;
     }
     .detail{
         text-align: center;
@@ -212,13 +214,15 @@ a{
     .listCountry{
         display: grid;
         grid-template-columns: repeat(2, 1fr);
-        gap: 10px;
+        grid-gap: 20px;
+        padding: 10px;
         filter: drop-shadow(0 5px 5px #0009);
     }
     .listArtist{
         display: grid;
         grid-template-columns: repeat(2, 1fr);
-        gap: 10px;
+        grid-gap: 20px;
+        padding: 10px;
         filter: drop-shadow(0 5px 5px #0009);
     }
 }
