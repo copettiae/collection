@@ -29,12 +29,13 @@ a{
 .listProduct{
     display: grid;
     grid-template-columns: repeat(8, 1fr);
-    gap: 20px;
+    grid-gap: 20px;
+    padding: 10px;
 }
 .listProduct .item{
     background-color: #EEEEE6;
     /*padding: 10px;*/
-    border-radius: 20px;
+    border-radius: 10px;
     align-items: center;
     display: flex;
     flex-direction: column;
