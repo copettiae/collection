@@ -15376,7 +15376,7 @@
 "image": "img/635.jpg",
 "description": "",
 "decade": 2010,
-"related": ["Yes","Yes Tour Book"]
+"related": ["Yes","Yes Tour"]
 },
 {
 "id": 1133,
@@ -15493,7 +15493,7 @@
 "image": "img/220.jpg",
 "description": "",
 "decade": 2020,
-"related": ["Yes","Yes Tour Book"]
+"related": ["Yes","Yes Tour"]
 },
 {
 "id": 1139,
@@ -16442,7 +16442,7 @@
 "image": "img/1265.jpg",
 "description": "",
 "decade": 2000,
-"related": ["Yes","Yes Tour Book"]
+"related": ["Yes","Yes Tour"]
 },
 {
 "id": 1266,
@@ -17898,7 +17898,7 @@
 "image": "img/1377.jpg",
 "description": "",
 "decade": 1970,
-"related": ["Yes","Tour"]
+"related": ["Yes Tour"]
 },
 {
 "id": 1378,
@@ -18293,15 +18293,15 @@
 {
 "id": 1408,
 "name": "Yes Wonderous Stories The Best Of Yes",
-"year": 2024,
-"artist": "To Buy",
-"media": ["To Buy"],
-"genre": "To Buy",
-"country": "To Buy",
+"year": 2014,
+"artist": "Yes",
+"media": ["CD"],
+"genre": "Prog Rock",
+"country": "UK",
 "image": "img/1408.jpg",
 "description": "",
-"decade": 2020,
-"related": ["To Buy"]
+"decade": 2010,
+"related": ["Yes"]
 },
 {
 "id": 1409,
@@ -18458,5 +18458,18 @@
 "description": "",
 "decade": 2020,
 "related": ["To Buy"]
+},
+{
+"id": 1421,
+"name": "Yesshows Tour",
+"year": 1980,
+"artist": "Yes",
+"media": ["Book"],
+"genre": "Prog Rock",
+"country": "UK",
+"image": "img/1421.jpg",
+"description": "",
+"decade": 1980,
+"related": ["Yes Tour"]
 }
 ]
