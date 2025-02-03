@@ -15707,7 +15707,7 @@
 "id": 1209,
 "name": "Prog 130",
 "year": 2022,
-"artist": "Bill Brufoard",
+"artist": "Bill Bruford",
 "media": ["Mag"],
 "genre": "Prog Rock",
 "country": "UK",
@@ -18470,6 +18470,19 @@
 "image": "img/1421.jpg",
 "description": "",
 "decade": 1980,
+"related": ["Yes Tour"]
+},
+{
+"id": 1422,
+"name": "Open Your Eyes 1997-1998 Tour",
+"year": 1997,
+"artist": "Yes",
+"media": ["Book"],
+"genre": "Prog Rock",
+"country": "UK",
+"image": "img/1422.jpg",
+"description": "",
+"decade": 1990,
 "related": ["Yes Tour"]
 }
 ]
