@@ -322,7 +322,7 @@
 "image": "img/18.jpg",
 "description": "",
 "decade": 1980,
-"related": []
+"related": ["ABWH"]
 },
 {
 "id": 20,
@@ -335,7 +335,7 @@
 "image": "img/20.jpg",
 "description": "10\"",
 "decade": 1980,
-"related": []
+"related": ["ABWH"]
 },
 {
 "id": 21,
@@ -348,7 +348,7 @@
 "image": "img/21.jpg",
 "description": " 7\", 45 RPM, Single",
 "decade": 1980,
-"related": []
+"related": ["ABWH"]
 },
 {
 "id": 22,
@@ -361,7 +361,7 @@
 "image": "img/22.jpg",
 "description": "",
 "decade": 1990,
-"related": []
+"related": ["ABWH"]
 },
 {
 "id": 23,
@@ -374,7 +374,7 @@
 "image": "img/23.jpg",
 "description": "",
 "decade": 1990,
-"related": []
+"related": ["ABWH"]
 },
 {
 "id": 24,
@@ -387,7 +387,7 @@
 "image": "img/24.jpg",
 "description": "",
 "decade": 1990,
-"related": []
+"related": ["ABWH"]
 },
 {
 "id": 26,
@@ -400,7 +400,7 @@
 "image": "img/26.jpg",
 "description": "",
 "decade": 2010,
-"related": []
+"related": ["ABWH"]
 },
 {
 "id": 383,
@@ -413,7 +413,7 @@
 "image": "img/383.jpg",
 "description": "",
 "decade": 2020,
-"related": []
+"related": ["ABWH"]
 },
 {
 "id": 27,
@@ -2562,7 +2562,7 @@
 },
 {
 "id": 1165,
-"name": "The Strawberry Bricks Guide To progressive Rock",
+"name": "The Strawberry Bricks Guide To Progressive Rock",
 "year": 2020,
 "artist": "Charles Snider",
 "media": ["Book"],
@@ -14418,7 +14418,7 @@
 },
 {
 "id": 939,
-"name": "Mountains Come Out of the Sky",
+"name": "Mountains Come Out Of The Sky",
 "year": 2010,
 "artist": "Will Romano",
 "media": ["Book"],
@@ -18536,5 +18536,44 @@
 "description": "",
 "decade": 1980,
 "related": ["Yes Tour"]
+},
+{
+"id": 1427,
+"name": "Union Tour",
+"year": 1991,
+"artist": "Yes",
+"media": ["Book"],
+"genre": "Prog Rock",
+"country": "UK",
+"image": "img/1427.jpg",
+"description": "",
+"decade": 1990,
+"related": ["Yes Tour"]
+},
+{
+"id": 1428,
+"name": "ABWH Tour",
+"year": 1989,
+"artist": "Anderson Bruford Wakeman Howe",
+"media": ["Book"],
+"genre": "Prog Rock",
+"country": "UK",
+"image": "img/1428.jpg",
+"description": "",
+"decade": 1980,
+"related": ["ABWH"]
+},
+{
+"id": 1429,
+"name": "Magnification Limited Edition 2CD",
+"year": 2024,
+"artist": "To Buy",
+"media": ["To Buy"],
+"genre": "To Buy",
+"country": "To Buy",
+"image": "img/1429.jpg",
+"description": "",
+"decade": 1980,
+"related": ["To Buy"]
 }
 ]
