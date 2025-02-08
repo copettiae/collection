@@ -15214,7 +15214,7 @@
 "name": "Like It Is At The Bristol Hippodrome",
 "year": 2014,
 "artist": "Yes",
-"media": ["LP"],
+"media": ["DVD","LP"],
 "genre": "Prog Rock",
 "country": "UK",
 "image": "img/1120.jpg",
@@ -16368,16 +16368,16 @@
 },
 {
 "id": 1260,
-"name": "Like It Is At The Bristol Hippodrome",
-"year": 2014,
+"name": "Fragile & Drama",
+"year": 2016,
 "artist": "Yes",
-"media": ["DVD"],
+"media": ["Book"],
 "genre": "Prog Rock",
 "country": "UK",
 "image": "img/1260.jpg",
 "description": "",
 "decade": 2010,
-"related": ["Yes"]
+"related": ["Yes Tour"]
 },
 {
 "id": 1261,
@@ -18526,7 +18526,7 @@
 },
 {
 "id": 1426,
-"name": "Yes World Tour",
+"name": "World Tour",
 "year": 1984,
 "artist": "Yes",
 "media": ["Book"],
@@ -18575,5 +18575,70 @@
 "description": "",
 "decade": 1980,
 "related": ["To Buy"]
+},
+{
+"id": 1430,
+"name": "The Classical Connection Tour",
+"year": 1991,
+"artist": "Rick Wakeman",
+"media": ["Book"],
+"genre": "Prog Rock",
+"country": "UK",
+"image": "img/1430.jpg",
+"description": "",
+"decade": 1990,
+"related": ["Rick Wakeman"]
+},
+{
+"id": 1431,
+"name": "20 Years 1969 - 1989",
+"year": 1989,
+"artist": "Rick Wakeman",
+"media": ["Book"],
+"genre": "Prog Rock",
+"country": "UK",
+"image": "img/1431.jpg",
+"description": "",
+"decade": 1980,
+"related": ["Rick Wakeman"]
+},
+{
+"id": 1432,
+"name": "It's Nearly Christmas Tour",
+"year": 1997,
+"artist": "Rick Wakeman",
+"media": ["Book"],
+"genre": "Prog Rock",
+"country": "UK",
+"image": "img/1432.jpg",
+"description": "",
+"decade": 1990,
+"related": ["Rick Wakeman"]
+},
+{
+"id": 1433,
+"name": "An Intimate Evening With Rick Wakeman Tour",
+"year": 1987,
+"artist": "Rick Wakeman",
+"media": ["Book"],
+"genre": "Prog Rock",
+"country": "UK",
+"image": "img/1433.jpg",
+"description": "",
+"decade": 1980,
+"related": ["Rick Wakeman"]
+},
+{
+"id": 1434,
+"name": "Tormato Tour",
+"year": 1978,
+"artist": "Yes",
+"media": ["Book"],
+"genre": "Prog Rock",
+"country": "UK",
+"image": "img/1434.jpg",
+"description": "",
+"decade": 1970,
+"related": ["Yes Tour"]
 }
 ]
