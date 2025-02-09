@@ -161,7 +161,7 @@
 "year": 1977,
 "artist": "Al Di Meola",
 "media": ["CD"],
-"genre": "Tango Fusion",
+"genre": "Fusion",
 "country": "USA",
 "image": "img/13.jpg",
 "description": "",
@@ -18640,5 +18640,18 @@
 "description": "",
 "decade": 1970,
 "related": ["Yes Tour"]
+},
+{
+"id": 1435,
+"name": "Yes Live At Montreux 2003 DVD",
+"year": 2024,
+"artist": "To Buy",
+"media": ["To Buy"],
+"genre": "To Buy",
+"country": "To Buy",
+"image": "img/1435.jpg",
+"description": "",
+"decade": 2024,
+"related": ["To Buy"]
 }
 ]
