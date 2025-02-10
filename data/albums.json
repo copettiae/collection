@@ -18653,5 +18653,18 @@
 "description": "",
 "decade": 2024,
 "related": ["To Buy"]
+},
+{
+"id": 1436,
+"name": "The Classical Connection II Tour",
+"year": 1992,
+"artist": "Rick Wakeman",
+"media": ["Tour"],
+"genre": "Prog Rock",
+"country": "UK",
+"image": "img/1436.jpg",
+"description": "",
+"decade": 1990,
+"related": ["Rick Wakeman"]
 }
 ]
