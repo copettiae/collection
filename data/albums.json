@@ -18666,5 +18666,18 @@
 "description": "",
 "decade": 1990,
 "related": ["Rick Wakeman"]
+},
+{
+"id": 1437,
+"name": "The Alone Last Tour",
+"year": 1994,
+"artist": "Rick Wakeman With Adam Wakeman",
+"media": ["Tour"],
+"genre": "Prog Rock",
+"country": "UK",
+"image": "img/1437.jpg",
+"description": "",
+"decade": 1990,
+"related": ["Rick Wakeman"]
 }
 ]
