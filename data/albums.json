@@ -18848,5 +18848,57 @@
 "description": "",
 "decade": 1970,
 "related": [""]
+},
+{
+"id": 1451,
+"name": "U.K. Tour",
+"year": 1973,
+"artist": "Yes",
+"media": ["Tour"],
+"genre": "Prog Rock",
+"country": "UK",
+"image": "img/1451.jpg",
+"description": "",
+"decade": 1970,
+"related": ["Yes Tour"]
+},
+{
+"id": 1452,
+"name": "Wakeman With Wakeman Tour",
+"year": 1992,
+"artist": "Rick Wakeman With Adam Wakeman",
+"media": ["Tour"],
+"genre": "Prog Rock",
+"country": "UK",
+"image": "img/1452.jpg",
+"description": "",
+"decade": 1990,
+"related": ["Rick Wakeman"]
+},
+{
+"id": 1453,
+"name": "Yesshows World Tour",
+"year": 1977,
+"artist": "Yes",
+"media": ["Tour"],
+"genre": "Prog Rock",
+"country": "UK",
+"image": "img/1453.jpg",
+"description": "",
+"decade": 1970,
+"related": ["Yes Tour"]
+},
+{
+"id": 1454,
+"name": "World Tour",
+"year": 2014,
+"artist": "Yes",
+"media": ["Tour"],
+"genre": "Prog Rock",
+"country": "UK",
+"image": "img/1454.jpg",
+"description": "",
+"decade": 2010,
+"related": ["Yes Tour"]
 }
 ]
