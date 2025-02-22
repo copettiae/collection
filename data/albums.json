@@ -17729,7 +17729,7 @@
 "image": "img/1364.jpg",
 "description": "",
 "decade": 1970,
-"related": ["Yes","Roger Dean"]
+"related": ["Roger Dean"]
 },
 {
 "id": 1365,
@@ -17742,7 +17742,7 @@
 "image": "img/1365.jpg",
 "description": "",
 "decade": 1980,
-"related": ["Yes","Roger Dean"]
+"related": ["Roger Dean"]
 },
 {
 "id": 1366,
@@ -18448,16 +18448,16 @@
 },
 {
 "id": 1420,
-"name": "The Caped Crusader Dan Wooding Book",
-"year": 2024,
-"artist": "To Buy",
-"media": ["To Buy"],
-"genre": "To Buy",
-"country": "To Buy",
+"name": "The Caped Crusader",
+"year": 1978,
+"artist": "Dan Wooding",
+"media": ["Book"],
+"genre": "Prog Rock",
+"country": "UK",
 "image": "img/1420.jpg",
 "description": "",
-"decade": 2020,
-"related": ["To Buy"]
+"decade": 1970,
+"related": ["Rick Wakeman"]
 },
 {
 "id": 1421,
@@ -18952,5 +18952,31 @@
 "description": "",
 "decade": 2020,
 "related": ["To Buy"]
+},
+{
+"id": 1459,
+"name": "Symphonic Tour",
+"year": 2001,
+"artist": "Yes",
+"media": ["Tour"],
+"genre": "Prog Rock",
+"country": "UK",
+"image": "img/1459.jpg",
+"description": "",
+"decade": 2000,
+"related": ["Yes Tour"]
+},
+{
+"id": 1460,
+"name": "The Ultimate Music Guide",
+"year": 2023,
+"artist": "Yes",
+"media": ["Mag"],
+"genre": "Prog Rock",
+"country": "UK",
+"image": "img/1460.jpg",
+"description": "",
+"decade": 2020,
+"related": ["Yes"]
 }
 ]
