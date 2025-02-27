@@ -8505,9 +8505,9 @@
 "id": 611,
 "name": "Bossa Antigua",
 "year": 1965,
-"artist": "Paul Desmond Featuring Jim Hall",
+"artist": "Paul Desmond",
 "media": ["CD"],
-"genre": "Bossa Samba",
+"genre": "Jazz Bossa Samba",
 "country": "USA",
 "image": "img/611.jpg",
 "description": "",
@@ -18807,7 +18807,7 @@
 "country": "UK",
 "image": "img/1447.jpg",
 "description": "",
-"decade": 2023,
+"decade": 2020,
 "related": ["Roger Dean"]
 },
 {
@@ -18978,5 +18978,44 @@
 "description": "",
 "decade": 2020,
 "related": ["Yes"]
+},
+{
+"id": 1461,
+"name": "In The Beginning",
+"year": 2025,
+"artist": "To Buy",
+"media": ["To Buy"],
+"genre": "To Buy",
+"country": "To Buy",
+"image": "img/1461.jpg",
+"description": "",
+"decade": 2020,
+"related": ["To Buy"]
+},
+{
+"id": 1462,
+"name": "In The Beginning Volume 2",
+"year": 2025,
+"artist": "To Buy",
+"media": ["To Buy"],
+"genre": "To Buy",
+"country": "To Buy",
+"image": "img/1462.jpg",
+"description": "",
+"decade": 2020,
+"related": ["To Buy"]
+},
+{
+"id": 1463,
+"name": "Skylark",
+"year": 1974,
+"artist": "Paul Desmond",
+"media": ["CD"],
+"genre": "Jazz Bossa Samba",
+"country": "USA",
+"image": "img/1463.jpg",
+"description": "",
+"decade": 1970,
+"related": [""]
 }
 ]
