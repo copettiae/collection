@@ -10378,7 +10378,7 @@
 "name": "The Return Of The Caped Crusader",
 "year": 2024,
 "artist": "Rick Wakeman",
-"media": ["Hat"],
+"media": ["Apparel"],
 "genre": "Prog Rock",
 "country": "UK",
 "image": "img/1197.jpg",
@@ -15474,7 +15474,7 @@
 "name": "Close To The Edge 50th Anniversary",
 "year": 2022,
 "artist": "Yes",
-"media": ["Hat"],
+"media": ["Apparel"],
 "genre": "Prog Rock",
 "country": "UK",
 "image": "img/1198.jpg",
@@ -16381,7 +16381,7 @@
 },
 {
 "id": 1261,
-"name": "Yes Featuring Jon Anderson, Trevor Rabin, Rick Wakeman Live At The Apollo (50th Anniversary)",
+"name": "Yes Featuring Jon Anderson, Trevor Rabin, Rick Wakeman",
 "year": 2018,
 "artist": "Yes",
 "media": ["LP"],
@@ -19017,5 +19017,18 @@
 "description": "",
 "decade": 1970,
 "related": [""]
+},
+{
+"id": 1464,
+"name": "Yes Featuring Jon Anderson, Trevor Rabin, Rick Wakeman",
+"year": 2017,
+"artist": "Yes",
+"media": ["Apparel"],
+"genre": "Prog Rock",
+"country": "UK",
+"image": "img/1464.jpg",
+"description": "",
+"decade": 2010,
+"related": ["Yes"]
 }
 ]
