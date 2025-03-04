@@ -3000,7 +3000,7 @@
 "image": "img/1179.jpg",
 "description": "",
 "decade": 1970,
-"related": []
+"related": ["Roger Dean"]
 },
 {
 "id": 1177,
@@ -3195,7 +3195,7 @@
 "image": "img/216.jpg",
 "description": "",
 "decade": 1970,
-"related": []
+"related": ["Roger Dean"]
 },
 {
 "id": 217,
@@ -4385,13 +4385,13 @@
 "name": "Focus X",
 "year": 2012,
 "artist": "Focus",
-"media": ["CD"],
+"media": ["CD","LP"],
 "genre": "Prog Rock",
 "country": "The Netherlands",
 "image": "img/302.jpg",
 "description": "",
 "decade": 2010,
-"related": []
+"related": ["Roger Dean"]
 },
 {
 "id": 303,
@@ -4430,7 +4430,7 @@
 "image": "img/305.jpg",
 "description": "",
 "decade": 2010,
-"related": []
+"related": ["Roger Dean"]
 },
 {
 "id": 306,
@@ -4443,7 +4443,7 @@
 "image": "img/306.jpg",
 "description": "",
 "decade": 2010,
-"related": []
+"related": ["Roger Dean"]
 },
 {
 "id": 950,
@@ -4456,7 +4456,7 @@
 "image": "img/950.jpg",
 "description": "",
 "decade": 2020,
-"related": []
+"related": ["Roger Dean"]
 },
 {
 "id": 1161,
@@ -5171,7 +5171,7 @@
 "image": "img/359.jpg",
 "description": "",
 "decade": 1970,
-"related": []
+"related": ["Roger Dean"]
 },
 {
 "id": 360,
@@ -7134,7 +7134,7 @@
 "image": "img/696.jpg",
 "description": "",
 "decade": 1970,
-"related": []
+"related": ["Roger Dean"]
 },
 {
 "id": 506,
@@ -8434,7 +8434,7 @@
 "image": "img/605.jpg",
 "description": "",
 "decade": 1970,
-"related": []
+"related": ["Roger Dean"]
 },
 {
 "id": 606,
@@ -9214,7 +9214,7 @@
 "image": "img/663.jpg",
 "description": "",
 "decade": 1970,
-"related": []
+"related": ["Roger Dean"]
 },
 {
 "id": 664,
@@ -10254,7 +10254,7 @@
 "image": "img/747.jpg",
 "description": "",
 "decade": 2010,
-"related": ["Rick Wakeman"]
+"related": ["Rick Wakeman","Roger Dean"]
 },
 {
 "id": 748,
@@ -10306,7 +10306,7 @@
 "image": "img/750.jpg",
 "description": "",
 "decade": 2010,
-"related": ["Rick Wakeman"]
+"related": ["Rick Wakeman","Roger Dean"]
 },
 {
 "id": 752,
@@ -10410,7 +10410,7 @@
 "image": "img/991.jpg",
 "description": "",
 "decade": 2020,
-"related": ["Rick Wakeman"]
+"related": ["Rick Wakeman","Roger Dean"]
 },
 {
 "id": 760,
@@ -14570,7 +14570,7 @@
 "image": "img/1178.jpg",
 "description": "",
 "decade": 1970,
-"related": ["Yes"]
+"related": ["Yes","Roger Dean"]
 },
 {
 "id": 1058,
@@ -15194,7 +15194,7 @@
 "image": "img/1072.jpg",
 "description": "",
 "decade": 2010,
-"related": ["Yes","Roger Dean"]
+"related": ["Yes"]
 },
 {
 "id": 1118,
@@ -15363,7 +15363,7 @@
 "image": "img/1132.jpg",
 "description": "",
 "decade": 2010,
-"related": ["Yes","Roger Dean"]
+"related": ["Yes"]
 },
 {
 "id": 635,
@@ -15441,7 +15441,7 @@
 "image": "img/1137.jpg",
 "description": "",
 "decade": 2020,
-"related": ["Yes","Roger Dean"]
+"related": ["Yes"]
 },
 {
 "id": 1112,
@@ -15454,7 +15454,7 @@
 "image": "img/1112.jpg",
 "description": "",
 "decade": 2020,
-"related": ["Yes","Roger Dean"]
+"related": ["Yes"]
 },
 {
 "id": 1084,
@@ -15467,7 +15467,7 @@
 "image": "img/1084.jpg",
 "description": "",
 "decade": 2020,
-"related": ["Yes","Roger Dean"]
+"related": ["Yes"]
 },
 {
 "id": 1198,
@@ -15545,7 +15545,7 @@
 "image": "img/1116.jpg",
 "description": "",
 "decade": 2020,
-"related": ["Yes","Roger Dean"]
+"related": ["Yes"]
 },
 {
 "id": 1162,
@@ -16056,16 +16056,16 @@
 },
 {
 "id": 1231,
-"name": "John Lodge Natural Avenue LP",
-"year": 2025,
-"artist": "To Buy",
-"media": ["To Buy"],
-"genre": "To Buy",
-"country": "To Buy",
+"name": "Natural Avenue",
+"year": 1977,
+"artist": "John Lodge",
+"media": ["LP"],
+"genre": "Pop Rock",
+"country": "UK",
 "image": "img/1231.jpg",
 "description": "",
-"decade": 2020,
-"related": ["To Buy"]
+"decade": 1970,
+"related": ["Roger Dean"]
 },
 {
 "id": 1232,
@@ -16286,7 +16286,7 @@
 "image": "img/1248.jpg",
 "description": "",
 "decade": 2010,
-"related": ["Yes","Roger Dean"]
+"related": ["Yes"]
 },
 {
 "id": 1249,
@@ -17642,16 +17642,16 @@
 },
 {
 "id": 1358,
-"name": "Osibisa Osibisa",
-"year": 2024,
-"artist": "To Buy",
-"media": ["To Buy"],
-"genre": "To Buy",
-"country": "To Buy",
+"name": "Osibisa",
+"year": 1971,
+"artist": "Osibisa",
+"media": ["LP"],
+"genre": "Funk / Soul / R&B",
+"country": "UK",
 "image": "img/1358.jpg",
 "description": "",
-"decade": 2020,
-"related": ["To Buy"]
+"decade": 1970,
+"related": ["Roger Dean"]
 },
 {
 "id": 1359,
@@ -17898,7 +17898,7 @@
 "image": "img/1377.jpg",
 "description": "",
 "decade": 1970,
-"related": ["Yes Tour","Roger Dean"]
+"related": ["Yes Tour"]
 },
 {
 "id": 1378,
@@ -19030,5 +19030,31 @@
 "description": "",
 "decade": 2010,
 "related": ["Yes"]
+},
+{
+"id": 1465,
+"name": "Jobim, Vinicius & Toquinho Com Miucha",
+"year": 1978,
+"artist": "Jobim, Vinicius & Toquinho Com Miucha",
+"media": ["DVD"],
+"genre": "Bossa Samba",
+"country": "Brazil",
+"image": "img/1465.jpg",
+"description": "",
+"decade": 1970,
+"related": [""]
+},
+{
+"id": 1466,
+"name": "I Told You I Was Trouble",
+"year": 2007,
+"artist": "Amy Winehouse",
+"media": ["DVD"],
+"genre": "Blues",
+"country": "UK",
+"image": "img/1466.jpg",
+"description": "",
+"decade": 2000,
+"related": [""]
 }
 ]
