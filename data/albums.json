@@ -15181,7 +15181,7 @@
 "image": "img/1117.jpg",
 "description": "",
 "decade": 2010,
-"related": ["Yes","Roger Dean"]
+"related": ["Yes"]
 },
 {
 "id": 1072,
@@ -15233,7 +15233,7 @@
 "image": "img/1121.jpg",
 "description": "",
 "decade": 2010,
-"related": ["Yes","Roger Dean"]
+"related": ["Yes"]
 },
 {
 "id": 1122,
@@ -15285,7 +15285,7 @@
 "image": "img/1125.jpg",
 "description": "",
 "decade": 2010,
-"related": ["Yes","Roger Dean"]
+"related": ["Yes"]
 },
 {
 "id": 1126,
@@ -15298,7 +15298,7 @@
 "image": "img/1126.jpg",
 "description": "",
 "decade": 2010,
-"related": ["Yes","Roger Dean"]
+"related": ["Yes"]
 },
 {
 "id": 1127,
@@ -15389,7 +15389,7 @@
 "image": "img/1133.jpg",
 "description": "",
 "decade": 2020,
-"related": ["Yes","Roger Dean"]
+"related": ["Yes"]
 },
 {
 "id": 1134,
@@ -15415,7 +15415,7 @@
 "image": "img/1135.jpg",
 "description": "",
 "decade": 2020,
-"related": ["Yes","Roger Dean"]
+"related": ["Yes"]
 },
 {
 "id": 1136,
@@ -15428,7 +15428,7 @@
 "image": "img/1136.jpg",
 "description": "",
 "decade": 2020,
-"related": ["Yes","Roger Dean"]
+"related": ["Yes"]
 },
 {
 "id": 1137,
@@ -15506,7 +15506,7 @@
 "image": "img/1139.jpg",
 "description": "",
 "decade": 2020,
-"related": ["Yes","Roger Dean"]
+"related": ["Yes"]
 },
 {
 "id": 1057,
@@ -15701,7 +15701,7 @@
 "image": "img/1208.jpg",
 "description": "",
 "decade": 2020,
-"related": ["Yes","Roger Dean"]
+"related": ["Yes"]
 },
 {
 "id": 1209,
@@ -15727,7 +15727,7 @@
 "image": "img/1210.jpg",
 "description": "",
 "decade": 2010,
-"related": ["Yes","Roger Dean"]
+"related": ["Yes"]
 },
 {
 "id": 1211,
@@ -17629,16 +17629,16 @@
 },
 {
 "id": 1357,
-"name": "Osibisa Woyaya",
-"year": 2024,
-"artist": "To Buy",
-"media": ["To Buy"],
-"genre": "To Buy",
-"country": "To Buy",
+"name": "Woyaya",
+"year": 1971,
+"artist": "Osibisa",
+"media": ["LP"],
+"genre": "Funk / Soul / R&B",
+"country": "UK",
 "image": "img/1357.jpg",
 "description": "",
-"decade": 2020,
-"related": ["To Buy"]
+"decade": 1970,
+"related": ["Roger Dean"]
 },
 {
 "id": 1358,
