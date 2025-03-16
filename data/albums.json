@@ -14999,7 +14999,7 @@
 "image": "img/1100.jpg",
 "description": "",
 "decade": 2000,
-"related": ["Yes","Roger Dean"]
+"related": ["Yes"]
 },
 {
 "id": 1101,
@@ -16537,16 +16537,16 @@
 },
 {
 "id": 1273,
-"name": "Yes Fragile (Super Deluxe Edition) + Signed Litho",
-"year": 2024,
-"artist": "To Buy",
-"media": ["To Buy"],
-"genre": "To Buy",
-"country": "To Buy",
+"name": "Fragile Super Deluxe Edition",
+"year": 1971,
+"artist": "Yes",
+"media": ["Box"],
+"genre": "Prog Rock",
+"country": "UK",
 "image": "img/1273.jpg",
 "description": "",
-"decade": 2020,
-"related": ["To Buy"]
+"decade": 1970,
+"related": ["Yes","Roger Dean"]
 },
 {
 "id": 1274,
@@ -18305,16 +18305,16 @@
 },
 {
 "id": 1409,
-"name": "Ann Wilson Fierce Bliss LP",
-"year": 2024,
-"artist": "To Buy",
-"media": ["To Buy"],
-"genre": "To Buy",
-"country": "To Buy",
+"name": "Fierce Bliss",
+"year": 2022,
+"artist": "Ann Wilson",
+"media": ["LP"],
+"genre": "Rock Pop",
+"country": "USA",
 "image": "img/1409.jpg",
 "description": "",
 "decade": 2020,
-"related": ["To Buy"]
+"related": ["Roger Dean"]
 },
 {
 "id": 1410,
