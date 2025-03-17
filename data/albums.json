@@ -16043,7 +16043,7 @@
 },
 {
 "id": 1230,
-"name": "John Lodge Live From Birmingham: The 10,000 Light Years Tour LP",
+"name": "John Lodge Live From Birmingham: The 10,000 Light Years Tour LP ** BOUGHT **",
 "year": 2025,
 "artist": "To Buy",
 "media": ["To Buy"],
@@ -16173,7 +16173,7 @@
 },
 {
 "id": 1240,
-"name": "Yes Union Live Album Cover Sticker",
+"name": "Yes Union Live Album Cover Sticker ** BOUGHT **",
 "year": 2025,
 "artist": "To Buy",
 "media": ["To Buy"],
@@ -16199,7 +16199,7 @@
 },
 {
 "id": 1242,
-"name": "Yes in the 1980s: Decades (Signed) Book",
+"name": "Yes in the 1980s: Decades (Signed) Book ** BOUGHT **",
 "year": 2025,
 "artist": "To Buy",
 "media": ["To Buy"],
@@ -16537,8 +16537,8 @@
 },
 {
 "id": 1273,
-"name": "Fragile Super Deluxe Edition",
-"year": 1971,
+"name": "Close To the Edge Super Deluxe Edition",
+"year": 1972,
 "artist": "Yes",
 "media": ["Box"],
 "genre": "Prog Rock",
@@ -19056,5 +19056,19 @@
 "description": "",
 "decade": 2000,
 "related": [""]
+}
+,
+{
+"id": 1467,
+"name": "Yes Perpetual Change",
+"year": 2001,
+"artist": "David Watkinson",
+"media": ["Book"],
+"genre": "Prog Rock",
+"country": "UK",
+"image": "img/1467.jpg",
+"description": "",
+"decade": 2000,
+"related": ["Yes"]
 }
 ]
