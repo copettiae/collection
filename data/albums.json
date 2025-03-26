@@ -14525,7 +14525,7 @@
 "name": "Fragile",
 "year": 1971,
 "artist": "Yes",
-"media": ["CD","LP"],
+"media": ["CD","LP","Poster"],
 "genre": "Prog Rock",
 "country": "UK",
 "image": "img/1053.jpg",
@@ -16043,16 +16043,16 @@
 },
 {
 "id": 1230,
-"name": "John Lodge Live From Birmingham: The 10,000 Light Years Tour LP ** BOUGHT **",
-"year": 2025,
-"artist": "To Buy",
-"media": ["To Buy"],
-"genre": "To Buy",
-"country": "To Buy",
+"name": "Live From Birmingham: The 10,000 Light Years Tour",
+"year": 2017,
+"artist": "John Lodge",
+"media": ["LP"],
+"genre": "Pop Rock",
+"country": "UK",
 "image": "img/1230.jpg",
 "description": "",
-"decade": 2020,
-"related": ["To Buy"]
+"decade": 2010,
+"related": ["Roger Dean"]
 },
 {
 "id": 1231,
@@ -18747,16 +18747,16 @@
 },
 {
 "id": 1443,
-"name": "Fragile",
-"year": 1971,
-"artist": "Roger Dean",
-"media": ["Poster"],
+"name": "Yes In The 1980s",
+"year": 2021,
+"artist": "Stephen Lambe With David Walkinson",
+"media": ["Book"],
 "genre": "Prog Rock",
 "country": "UK",
 "image": "img/1443.jpg",
 "description": "",
-"decade": 1970,
-"related": ["Roger Dean"]
+"decade": 2020,
+"related": ["Yes"]
 },
 {
 "id": 1444,
