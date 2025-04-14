@@ -16017,16 +16017,16 @@
 },
 {
 "id": 1228,
-"name": "Yes Essentially CD Box",
-"year": 2025,
-"artist": "To Buy",
-"media": ["To Buy"],
-"genre": "To Buy",
-"country": "To Buy",
+"name": "Essentially",
+"year": 2006,
+"artist": "Yes",
+"media": ["Box"],
+"genre": "Prog Rock",
+"country": "UK",
 "image": "img/1228.jpg",
 "description": "",
-"decade": 2020,
-"related": ["To Buy"]
+"decade": 2000,
+"related": ["Yes","Roger Dean"]
 },
 {
 "id": 1229,
@@ -18162,16 +18162,16 @@
 },
 {
 "id": 1398,
-"name": "Asia Astra LP",
-"year": 2024,
-"artist": "To Buy",
-"media": ["To Buy"],
-"genre": "To Buy",
-"country": "To Buy",
+"name": "Astra",
+"year": 1985,
+"artist": "Asia",
+"media": ["LP"],
+"genre": "Prog Rock",
+"country": "UK",
 "image": "img/1398.jpg",
 "description": "",
-"decade": 2020,
-"related": ["To Buy"]
+"decade": 1980,
+"related": ["Roger Dean"]
 },
 {
 "id": 1399,
