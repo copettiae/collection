@@ -14915,7 +14915,7 @@
 "name": "Open Your Eyes",
 "year": 1997,
 "artist": "Yes",
-"media": ["CD","LP"],
+"media": ["CD","LP","Tour"],
 "genre": "Prog Rock",
 "country": "UK",
 "image": "img/1092.jpg",
@@ -15848,7 +15848,7 @@
 },
 {
 "id": 1215,
-"name": "Classic Rock Presents Prog Rock Magazine - Issue 18 Oct 2010 (no CD)",
+"name": "Classic Rock Presents Prog Rock Magazine - Issue 11 Oct 2010 (no CD)",
 "year": 2025,
 "artist": "To Buy",
 "media": ["To Buy"],
@@ -18227,16 +18227,16 @@
 },
 {
 "id": 1403,
-"name": "Asia XXX LP",
-"year": 2024,
-"artist": "To Buy",
-"media": ["To Buy"],
-"genre": "To Buy",
-"country": "To Buy",
+"name": "XXX",
+"year": 2012,
+"artist": "Asia",
+"media": ["LP"],
+"genre": "Prog Rock",
+"country": "UK",
 "image": "img/1403.jpg",
 "description": "",
-"decade": 2020,
-"related": ["To Buy"]
+"decade": 2010,
+"related": ["Roger Dean"]
 },
 {
 "id": 1404,
@@ -18266,16 +18266,16 @@
 },
 {
 "id": 1406,
-"name": "** AVAILABLE **",
-"year": 2024,
-"artist": "To Buy",
-"media": ["To Buy"],
-"genre": "To Buy",
-"country": "To Buy",
-"image": "",
+"name": "Pink Floyd At Pompeii",
+"year": 2025,
+"artist": "Pink Floyd",
+"media": ["Mag"],
+"genre": "Prog Rock",
+"country": "UK",
+"image": "img/1406.jpg",
 "description": "",
 "decade": 2020,
-"related": ["To Buy"]
+"related": ["Pink Floyd"]
 },
 {
 "id": 1407,
@@ -18435,16 +18435,16 @@
 },
 {
 "id": 1419,
-"name": "Prog Magazine Virgins",
-"year": 2024,
-"artist": "To Buy",
-"media": ["To Buy"],
-"genre": "To Buy",
-"country": "To Buy",
+"name": "Prog 36",
+"year": 2013,
+"artist": "Roger Dean",
+"media": ["Mag"],
+"genre": "Prog Rock",
+"country": "UK",
 "image": "img/1419.jpg",
 "description": "",
-"decade": 2020,
-"related": ["To Buy"]
+"decade": 2010,
+"related": ["Roger Dean"]
 },
 {
 "id": 1420,
@@ -18474,16 +18474,16 @@
 },
 {
 "id": 1422,
-"name": "Open Your Eyes 1997-1998 Tour",
-"year": 1997,
-"artist": "Yes",
-"media": ["Tour"],
+"name": "Pink Floyd At Pompeii",
+"year": 2025,
+"artist": "Pink Floyd",
+"media": ["Poster"],
 "genre": "Prog Rock",
 "country": "UK",
 "image": "img/1422.jpg",
 "description": "",
-"decade": 1990,
-"related": ["Yes Tour","Roger Dean"]
+"decade": 2020,
+"related": ["Pink Floyd"]
 },
 {
 "id": 1423,
@@ -19056,8 +19056,7 @@
 "description": "",
 "decade": 2000,
 "related": [""]
-}
-,
+},
 {
 "id": 1467,
 "name": "Yes Perpetual Change",
@@ -19067,6 +19066,19 @@
 "genre": "Prog Rock",
 "country": "UK",
 "image": "img/1467.jpg",
+"description": "",
+"decade": 2000,
+"related": ["Yes"]
+},
+{
+"id": 1468,
+"name": "35th Anniversary Tour",
+"year": 2004,
+"artist": "Yes",
+"media": ["Tour"],
+"genre": "Prog Rock",
+"country": "UK",
+"image": "img/1468.jpg",
 "description": "",
 "decade": 2000,
 "related": ["Yes"]
