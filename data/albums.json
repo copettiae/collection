@@ -3455,7 +3455,7 @@
 "image": "img/1038.jpg",
 "description": "",
 "decade": 2010,
-"related": []
+"related": ["Roger Dean"]
 },
 {
 "id": 450,
@@ -3468,7 +3468,7 @@
 "image": "img/450.jpg",
 "description": "",
 "decade": 2010,
-"related": []
+"related": ["Roger Dean"]
 },
 {
 "id": 234,
@@ -15965,16 +15965,16 @@
 },
 {
 "id": 1224,
-"name": "Prog Magazine October 2016 Issue 70 Making Of Pink Floyd Atom Heart Mother",
-"year": 2025,
-"artist": "To Buy",
-"media": ["To Buy"],
-"genre": "To Buy",
-"country": "To Buy",
+"name": "Prog 70",
+"year": 2016,
+"artist": "Pink Floyd",
+"media": ["Mag"],
+"genre": "Prog Rock",
+"country": "UK",
 "image": "img/1224.jpg",
 "description": "",
-"decade": 2020,
-"related": ["To Buy"]
+"decade": 2010,
+"related": ["Pink Floyd"]
 },
 {
 "id": 1225,
@@ -16485,16 +16485,16 @@
 },
 {
 "id": 1269,
-"name": "DBA Halcyon Hymns",
-"year": 2024,
-"artist": "To Buy",
-"media": ["To Buy"],
-"genre": "To Buy",
-"country": "To Buy",
+"name": "Halcyon Hymns",
+"year": 2021,
+"artist": "Downes Braide Association",
+"media": ["LP"],
+"genre": "Prog Rock",
+"country": "UK",
 "image": "img/1269.jpg",
 "description": "",
 "decade": 2020,
-"related": ["To Buy"]
+"related": ["Roger Dean"]
 },
 {
 "id": 1270,
