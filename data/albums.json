@@ -16199,13 +16199,13 @@
 },
 {
 "id": 1242,
-"name": "Yes in the 1980s: Decades (Signed) Book ** BOUGHT **",
-"year": 2025,
+"name": "**Available**",
+"year": 2021,
 "artist": "To Buy",
 "media": ["To Buy"],
 "genre": "To Buy",
 "country": "To Buy",
-"image": "img/1242.jpg",
+"image": "img/1241.jpg",
 "description": "",
 "decade": 2020,
 "related": ["To Buy"]
@@ -18318,16 +18318,16 @@
 },
 {
 "id": 1410,
-"name": "Yes Keys To Ascension Box",
-"year": 2024,
-"artist": "To Buy",
-"media": ["To Buy"],
-"genre": "To Buy",
-"country": "To Buy",
+"name": "Keys To Ascension",
+"year": 2010,
+"artist": "Yes",
+"media": ["Box"],
+"genre": "Prog Rock",
+"country": "UK",
 "image": "img/1410.jpg",
 "description": "",
-"decade": 2020,
-"related": ["To Buy"]
+"decade": 2010,
+"related": ["Roger Dean"]
 },
 {
 "id": 1411,
@@ -19254,7 +19254,7 @@
 },
 {
 "id": 1482,
-"name": "Roger - Midnight Blue",
+"name": "Roger - Midnight Sun",
 "year": 2025,
 "artist": "To Buy",
 "media": ["To Buy"],
@@ -19267,7 +19267,7 @@
 },
 {
 "id": 1483,
-"name": "Roger - Midnight Blue WC",
+"name": "Roger - Midnight Sun WC",
 "year": 2025,
 "artist": "To Buy",
 "media": ["To Buy"],
