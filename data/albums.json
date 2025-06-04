@@ -15848,13 +15848,13 @@
 },
 {
 "id": 1215,
-"name": "Classic Rock Presents Prog Rock Magazine - Issue 11 Oct 2010 (no CD)",
+"name": "*** Available ***",
 "year": 2025,
 "artist": "To Buy",
 "media": ["To Buy"],
 "genre": "To Buy",
 "country": "To Buy",
-"image": "img/1215.jpg",
+"image": "img/available.png",
 "description": "",
 "decade": 2020,
 "related": ["To Buy"]
@@ -16199,16 +16199,16 @@
 },
 {
 "id": 1242,
-"name": "**Available**",
-"year": 2021,
-"artist": "To Buy",
-"media": ["To Buy"],
-"genre": "To Buy",
-"country": "To Buy",
+"name": "Marks / Mountain Queen",
+"year": 1972,
+"artist": "Alquin",
+"media": ["CD"],
+"genre": "Prog Rock",
+"country": "The Netherlands",
 "image": "img/1241.jpg",
 "description": "",
-"decade": 2020,
-"related": ["To Buy"]
+"decade": 1970,
+"related": [""]
 },
 {
 "id": 1243,
@@ -16329,16 +16329,16 @@
 },
 {
 "id": 1257,
-"name": "Classic Rock Prog magazine (October 2010)",
-"year": 2025,
-"artist": "To Buy",
-"media": ["To Buy"],
-"genre": "To Buy",
-"country": "To Buy",
+"name": "Classic Rock",
+"year": 2010,
+"artist": "Yes",
+"media": ["Mag"],
+"genre": "Prog Rock",
+"country": "UK",
 "image": "img/1257.jpg",
 "description": "",
-"decade": 2020,
-"related": ["To Buy"]
+"decade": 2010,
+"related": ["Yes"]
 },
 {
 "id": 1258,
@@ -17603,16 +17603,16 @@
 },
 {
 "id": 1355,
-"name": "Greenslade Greenslade",
-"year": 2024,
-"artist": "To Buy",
-"media": ["To Buy"],
-"genre": "To Buy",
-"country": "To Buy",
+"name": "Greenslade",
+"year": 1973,
+"artist": "Greenslade",
+"media": ["LP"],
+"genre": "Prog Rock",
+"country": "UK",
 "image": "img/1355.jpg",
 "description": "",
-"decade": 2020,
-"related": ["To Buy"]
+"decade": 1970,
+"related": ["Roger Dean"]
 },
 {
 "id": 1356,
@@ -19176,16 +19176,16 @@
 },
 {
 "id": 1476,
-"name": "Roger - Motown Vol 6",
-"year": 2025,
-"artist": "To Buy",
-"media": ["To Buy"],
-"genre": "To Buy",
-"country": "To Buy",
+"name": "Motown Chartbusters Vol. 6",
+"year": 1971,
+"artist": "Various",
+"media": ["LP"],
+"genre": "Funk / Soul / R&B",
+"country": "UK",
 "image": "img/1476.jpg",
 "description": "",
-"decade": 2020,
-"related": ["To Buy"]
+"decade": 1970,
+"related": ["Roger Dean"]
 },
 {
 "id": 1477,
