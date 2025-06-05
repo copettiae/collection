@@ -15848,16 +15848,16 @@
 },
 {
 "id": 1215,
-"name": "*** Available ***",
-"year": 2025,
-"artist": "To Buy",
-"media": ["To Buy"],
-"genre": "To Buy",
-"country": "To Buy",
-"image": "img/available.png",
+"name": "Record Collector 269",
+"year": 2002,
+"artist": "Yes",
+"media": ["Mag"],
+"genre": "Prog Rock",
+"country": "UK",
+"image": "img/1215.jpg",
 "description": "",
-"decade": 2020,
-"related": ["To Buy"]
+"decade": 2000,
+"related": ["Yes"]
 },
 {
 "id": 1216,
