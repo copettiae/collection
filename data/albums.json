@@ -19303,5 +19303,18 @@
 "description": "",
 "decade": 2020,
 "related": ["To Buy"]
+},
+{
+"id": 1486,
+"name": "Direct",
+"year": 1988,
+"artist": "Vangelis",
+"media": ["CD"],
+"genre": "Electronica",
+"country": "Greece",
+"image": "img/1486.jpg",
+"description": "",
+"decade": 1980,
+"related": ["Vangelis"]
 }
 ]
