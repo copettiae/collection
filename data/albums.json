@@ -19316,5 +19316,31 @@
 "description": "",
 "decade": 1980,
 "related": ["Vangelis"]
+},
+{
+"id": 1487,
+"name": "An Evening With Rick Wakeman Tour",
+"year": 2000,
+"artist": "Rick Wakeman",
+"media": ["Tour"],
+"genre": "Prog Rock",
+"country": "UK",
+"image": "img/1487.jpg",
+"description": "",
+"decade": 2000,
+"related": ["Rick Wakeman"]
+},
+{
+"id": 1488,
+"name": "The Six Wives of Henry VIII Hampton Court Palace",
+"year": 2009,
+"artist": "Rick Wakeman",
+"media": ["Tour"],
+"genre": "Prog Rock",
+"country": "UK",
+"image": "img/1488.jpg",
+"description": "",
+"decade": 2009,
+"related": ["Rick Wakeman"]
 }
 ]
