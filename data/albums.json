@@ -17747,15 +17747,15 @@
 {
 "id": 1366,
 "name": "The First Volume Album Cover Album",
-"year": 2024,
-"artist": "To Buy",
-"media": ["To Buy"],
-"genre": "To Buy",
-"country": "To Buy",
+"year": 1980,
+"artist": "Roger Dean",
+"media": ["Book"],
+"genre": "Prog Rock",
+"country": "UK",
 "image": "img/1366.jpg",
 "description": "",
-"decade": 2020,
-"related": ["To Buy"]
+"decade": 1980,
+"related": ["Roger Dean"]
 },
 {
 "id": 1367,
@@ -17773,28 +17773,28 @@
 {
 "id": 1368,
 "name": "The Fourth Volume Album Cover Album",
-"year": 2024,
-"artist": "To Buy",
-"media": ["To Buy"],
-"genre": "To Buy",
-"country": "To Buy",
+"year": 1987,
+"artist": "Roger Dean",
+"media": ["Book"],
+"genre": "Prog Rock",
+"country": "UK",
 "image": "img/1368.jpg",
 "description": "",
-"decade": 2020,
-"related": ["To Buy"]
+"decade": 1980,
+"related": ["Roger Dean"]
 },
 {
 "id": 1369,
 "name": "The Fifth Volume Album Cover Album",
-"year": 2024,
-"artist": "To Buy",
-"media": ["To Buy"],
-"genre": "To Buy",
-"country": "To Buy",
+"year": 1989,
+"artist": "Roger Dean",
+"media": ["Book"],
+"genre": "Prog Rock",
+"country": "UK",
 "image": "img/1369.jpg",
 "description": "",
-"decade": 2020,
-"related": ["To Buy"]
+"decade": 1980,
+"related": ["Roger Dean"]
 },
 {
 "id": 1370,
