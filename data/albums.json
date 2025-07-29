@@ -17760,15 +17760,15 @@
 {
 "id": 1367,
 "name": "The Third Volume Album Cover Album",
-"year": 2024,
-"artist": "To Buy",
-"media": ["To Buy"],
-"genre": "To Buy",
-"country": "To Buy",
+"year": 1986,
+"artist": "Roger Dean",
+"media": ["Book"],
+"genre": "Prog Rock",
+"country": "UK",
 "image": "img/1367.jpg",
 "description": "",
-"decade": 2020,
-"related": ["To Buy"]
+"decade": 1980,
+"related": ["Roger Dean"]
 },
 {
 "id": 1368,
@@ -17799,15 +17799,15 @@
 {
 "id": 1370,
 "name": "The Sixth Volume Album Cover Album",
-"year": 2024,
-"artist": "To Buy",
-"media": ["To Buy"],
-"genre": "To Buy",
-"country": "To Buy",
+"year": 1992,
+"artist": "Roger Dean",
+"media": ["Book"],
+"genre": "Prog Rock",
+"country": "UK",
 "image": "img/1370.jpg",
 "description": "",
-"decade": 2020,
-"related": ["To Buy"]
+"decade": 1990,
+"related": ["Roger Dean"]
 },
 {
 "id": 1371,
