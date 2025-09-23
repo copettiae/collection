@@ -19355,5 +19355,18 @@
 "description": "",
 "decade": 1980,
 "related": ["Roger Dean"]
+},
+{
+"id": 1490,
+"name": "Vangelis The Unknown Man - Complete",
+"year": 2025,
+"artist": "Mark J.T. Griffin",
+"media": ["Book"],
+"genre": "Prog Rock",
+"country": "UK",
+"image": "img/1490.jpg",
+"description": "",
+"decade": 2020,
+"related": ["Vangelis"]
 }
 ]
