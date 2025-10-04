@@ -10670,7 +10670,7 @@
 "image": "img/999.jpg",
 "description": "",
 "decade": 1980,
-"related": []
+"related": ["Roger Dean"]
 },
 {
 "id": 995,
@@ -10683,7 +10683,7 @@
 "image": "img/995.jpg",
 "description": "",
 "decade": 1990,
-"related": []
+"related": ["Roger Dean"]
 },
 {
 "id": 970,
@@ -10696,11 +10696,11 @@
 "image": "img/970.jpg",
 "description": "",
 "decade": 1990,
-"related": []
+"related": ["Roger Dean"]
 },
 {
 "id": 1199,
-"name": "Flights Of Icarus",
+"name": "Flights 464-1000",
 "year": 2000,
 "artist": "Roger Dean",
 "media": ["Poster"],
@@ -10709,7 +10709,7 @@
 "image": "img/1199.jpg",
 "description": "",
 "decade": 2000,
-"related": []
+"related": ["Roger Dean"]
 },
 {
 "id": 1200,
@@ -10722,7 +10722,7 @@
 "image": "img/1200.jpg",
 "description": "",
 "decade": 2000,
-"related": []
+"related": ["Roger Dean"]
 },
 {
 "id": 1201,
@@ -10735,7 +10735,7 @@
 "image": "img/1201.jpg",
 "description": "",
 "decade": 2000,
-"related": []
+"related": ["Roger Dean"]
 },
 {
 "id": 559,
@@ -10748,7 +10748,7 @@
 "image": "img/559.jpg",
 "description": "",
 "decade": 2010,
-"related": []
+"related": ["Roger Dean"]
 },
 {
 "id": 751,
@@ -10761,7 +10761,7 @@
 "image": "img/751.jpg",
 "description": "",
 "decade": 2020,
-"related": []
+"related": ["Roger Dean"]
 },
 {
 "id": 996,
@@ -10774,7 +10774,7 @@
 "image": "img/996.jpg",
 "description": "",
 "decade": 2020,
-"related": []
+"related": ["Roger Dean"]
 },
 {
 "id": 776,
@@ -15545,7 +15545,7 @@
 "image": "img/1116.jpg",
 "description": "",
 "decade": 2020,
-"related": ["Yes"]
+"related": ["Yes","Roger Dean"]
 },
 {
 "id": 1162,
@@ -17655,16 +17655,16 @@
 },
 {
 "id": 1359,
-"name": "Osibisa The Very Best Of Osibisa",
-"year": 2024,
-"artist": "To Buy",
-"media": ["To Buy"],
-"genre": "To Buy",
-"country": "To Buy",
+"name": "Fragile Steven Wilson Remix",
+"year": 2025,
+"artist": "Yes",
+"media": ["LP"],
+"genre": "Prog Rock",
+"country": "UK",
 "image": "img/1359.jpg",
 "description": "",
-"decade": 2020,
-"related": ["To Buy"]
+"decade": 1970,
+"related": ["Yes","Roger Dean"]
 },
 {
 "id": 1360,
@@ -18374,7 +18374,7 @@
 "year": 2014,
 "artist": "Black Moth",
 "media": ["LP"],
-"genre": "Metal",
+"genre": "Hard Rock",
 "country": "UK",
 "image": "img/1414.jpg",
 "description": "",
@@ -19433,5 +19433,44 @@
 "description": "",
 "decade": 1970,
 "related": []
+},
+{
+"id": 1496,
+"name": "Collectors IOM Stamp Pack",
+"year": 2025,
+"artist": "Rick Wakeman",
+"media": ["Stamp"],
+"genre": "Prog Rock",
+"country": "UK",
+"image": "img/1496.jpg",
+"description": "",
+"decade": 2020,
+"related": ["Rick Wakeman","Roger Dean"]
+},
+{
+"id": 1497,
+"name": "Beat Instrumental And International Recording Studio",
+"year": 1974,
+"artist": "Rick Wakeman",
+"media": ["Magazine"],
+"genre": "Prog Rock",
+"country": "UK",
+"image": "img/1497.jpg",
+"description": "",
+"decade": 1970,
+"related": ["Rick Wakeman"]
+},
+{
+"id": 1498,
+"name": "Home Keyboard Review",
+"year": 1987,
+"artist": "Rick Wakeman",
+"media": ["Magazine"],
+"genre": "Prog Rock",
+"country": "UK",
+"image": "img/1498.jpg",
+"description": "",
+"decade": 1980,
+"related": ["Rick Wakeman"]
 }
 ]
