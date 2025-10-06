@@ -16862,16 +16862,16 @@
 },
 {
 "id": 1298,
-"name": "Rick Wakeman The Other Side of Rick Wakeman DVD (2007) ",
-"year": 2024,
-"artist": "To Buy",
-"media": ["To Buy"],
-"genre": "To Buy",
-"country": "To Buy",
+"name": "The Other Side of Rick Wakeman",
+"year": 2007,
+"artist": "Rick Wakeman",
+"media": ["CD","DVD"],
+"genre": "Prog Rock",
+"country": "UK",
 "image": "img/1298.jpg",
 "description": "",
-"decade": 2020,
-"related": ["To Buy"]
+"decade": 2000,
+"related": ["Rick Wakeman"]
 },
 {
 "id": 1299,
@@ -16888,16 +16888,16 @@
 },
 {
 "id": 1300,
-"name": "Rick Wakeman Piano Portraits (2017) ",
-"year": 2024,
-"artist": "To Buy",
-"media": ["To Buy"],
-"genre": "To Buy",
-"country": "To Buy",
+"name": "Piano Portraits",
+"year": 2017,
+"artist": "Rick Wakeman",
+"media": ["CD"],
+"genre": "Prog Rock",
+"country": "UK",
 "image": "img/1300.jpg",
 "description": "",
-"decade": 2020,
-"related": ["To Buy"]
+"decade": 2010,
+"related": ["Rick Wakeman"]
 },
 {
 "id": 1301,
@@ -18071,16 +18071,16 @@
 },
 {
 "id": 1391,
-"name": "Yes Acoustic Guaranteed No Hiss DVD",
-"year": 2024,
-"artist": "To Buy",
-"media": ["To Buy"],
-"genre": "To Buy",
-"country": "To Buy",
+"name": "Yes Acoustic Guaranteed No Hiss",
+"year": 2004,
+"artist": "Yes",
+"media": ["DVD"],
+"genre": "Prog Rock",
+"country": "UK",
 "image": "img/1391.jpg",
 "description": "",
-"decade": 2020,
-"related": ["To Buy"]
+"decade": 2000,
+"related": ["Yes","Roger Dean"]
 },
 {
 "id": 1392,
@@ -18565,16 +18565,16 @@
 },
 {
 "id": 1429,
-"name": "Magnification Limited Edition 2CD",
-"year": 2024,
-"artist": "To Buy",
-"media": ["To Buy"],
-"genre": "To Buy",
-"country": "To Buy",
+"name": "Magnification Limited Edition",
+"year": 2001,
+"artist": "Yes",
+"media": ["CD"],
+"genre": "Prog Rock",
+"country": "UK",
 "image": "img/1429.jpg",
 "description": "",
-"decade": 1980,
-"related": ["To Buy"]
+"decade": 2000,
+"related": ["Yes"]
 },
 {
 "id": 1430,
@@ -19452,7 +19452,7 @@
 "name": "Beat Instrumental And International Recording Studio",
 "year": 1974,
 "artist": "Rick Wakeman",
-"media": ["Magazine"],
+"media": ["Mag"],
 "genre": "Prog Rock",
 "country": "UK",
 "image": "img/1497.jpg",
@@ -19465,12 +19465,25 @@
 "name": "Home Keyboard Review",
 "year": 1987,
 "artist": "Rick Wakeman",
-"media": ["Magazine"],
+"media": ["Mag"],
 "genre": "Prog Rock",
 "country": "UK",
 "image": "img/1498.jpg",
 "description": "",
 "decade": 1980,
 "related": ["Rick Wakeman"]
+},
+{
+"id": 1499,
+"name": "Ommadawn",
+"year": 1975,
+"artist": "Mike Oldfield",
+"media": ["CD"],
+"genre": "Prog Rock",
+"country": "UK",
+"image": "img/1499.jpg",
+"description": "",
+"decade": 1970,
+"related": []
 }
 ]
