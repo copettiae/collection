@@ -18309,7 +18309,7 @@
 "year": 2022,
 "artist": "Ann Wilson",
 "media": ["LP"],
-"genre": "Rock Pop",
+"genre": "Pop Rock",
 "country": "USA",
 "image": "img/1409.jpg",
 "description": "",
@@ -19537,5 +19537,31 @@
 "description": "",
 "decade": 1970,
 "related": ["George Harrison"]
+},
+{
+"id": 1504,
+"name": "I Robot",
+"year": 1977,
+"artist": "The Alan Parsons Project",
+"media": ["Box"],
+"genre": "Prog Rock",
+"country": "UK",
+"image": "img/1504.jpg",
+"description": "",
+"decade": 1970,
+"related": []
+},
+{
+"id": 1505,
+"name": "I Robot",
+"year": 1977,
+"artist": "The Alan Parsons Project",
+"media": ["Poster"],
+"genre": "Prog Rock",
+"country": "UK",
+"image": "img/1505.jpg",
+"description": "",
+"decade": 1970,
+"related": []
 }
 ]
