@@ -18565,7 +18565,7 @@
 },
 {
 "id": 1429,
-"name": "Magnification Limited Edition",
+"name": "Magnification Limited Edition 04926",
 "year": 2001,
 "artist": "Yes",
 "media": ["CD"],
@@ -19498,5 +19498,44 @@
 "description": "",
 "decade": 2010,
 "related": ["Rick Wakeman","Roger Dean"]
+},
+{
+"id": 1501,
+"name": "Wendy Carlos every album, every song",
+"year": 2024,
+"artist": "Mark Marrington",
+"media": ["Book"],
+"genre": "Electronica",
+"country": "UK",
+"image": "img/1501.jpg",
+"description": "",
+"decade": 2020,
+"related": ["Wendy Carlos"]
+},
+{
+"id": 1502,
+"name": "Focus 50",
+"year": 2021,
+"artist": "Focus",
+"media": ["CD"],
+"genre": "Prog Rock",
+"country": "The Netherlands",
+"image": "img/1502.jpg",
+"description": "",
+"decade": 2020,
+"related": ["Roger Dean"]
+},
+{
+"id": 1503,
+"name": "All Thibgs Must Pass",
+"year": 1970,
+"artist": "George Harrison",
+"media": ["CD"],
+"genre": "Pop Rock",
+"country": "UK",
+"image": "img/1503.jpg",
+"description": "",
+"decade": 1970,
+"related": []
 }
 ]
