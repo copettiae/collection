@@ -19563,5 +19563,83 @@
 "description": "",
 "decade": 1970,
 "related": []
+},
+{
+"id": 1506,
+"name": "The Return Of The Caped Crusader",
+"year": 2025,
+"artist": "Rick Wakeman",
+"media": ["Apparel"],
+"genre": "Prog Rock",
+"country": "UK",
+"image": "img/1506.jpg",
+"description": "",
+"decade": 2020,
+"related": ["Rick Wakeman"]
+},
+{
+"id": 1507,
+"name": "The Return Of The Caped Crusader",
+"year": 2025,
+"artist": "Rick Wakeman",
+"media": ["Mug"],
+"genre": "Prog Rock",
+"country": "UK",
+"image": "img/1507.jpg",
+"description": "",
+"decade": 2020,
+"related": ["Rick Wakeman"]
+},
+{
+"id": 1508,
+"name": "The Return Of The Caped Crusader",
+"year": 2025,
+"artist": "Rick Wakeman",
+"media": ["Tour"],
+"genre": "Prog Rock",
+"country": "UK",
+"image": "img/1508.jpg",
+"description": "",
+"decade": 2020,
+"related": ["Rick Wakeman"]
+},
+{
+"id": 1509,
+"name": "The Return Of The Caped Crusader",
+"year": 2025,
+"artist": "Rick Wakeman",
+"media": ["Apparel"],
+"genre": "Prog Rock",
+"country": "UK",
+"image": "img/1509.jpg",
+"description": "",
+"decade": 2020,
+"related": ["Rick Wakeman"]
+},
+{
+"id": 1510,
+"name": "Close To The Edge 50th Anniversary",
+"year": 2022,
+"artist": "Yes",
+"media": ["Mug"],
+"genre": "Prog Rock",
+"country": "UK",
+"image": "img/1510.jpg",
+"description": "",
+"decade": 2020,
+"related": [""]
+},
+{
+"id": 1511,
+"name": "Grumpy Old Rock Star",
+"year": 2019,
+"artist": "Rick Wakeman",
+"media": ["Mug"],
+"genre": "Prog Rock",
+"country": "UK",
+"image": "img/1511.jpg",
+"description": "",
+"decade": 2010,
+"related": []
 }
 ]
