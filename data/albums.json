@@ -19642,4 +19642,18 @@
 "decade": 2010,
 "related": []
 }
+,
+{
+"id": 1512,
+"name": "Prog 164",
+"year": 2025,
+"artist": "Supertramp",
+"media": ["Mag"],
+"genre": "Prog Rock",
+"country": "UK",
+"image": "img/1512.jpg",
+"description": "",
+"decade": 2020,
+"related": ["Supertramp"]
+}
 ]
