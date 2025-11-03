@@ -19215,16 +19215,16 @@
 },
 {
 "id": 1479,
-"name": "Roger - Snafu",
-"year": 2025,
-"artist": "To Buy",
-"media": ["To Buy"],
-"genre": "To Buy",
-"country": "To Buy",
+"name": "Snafu",
+"year": 1973,
+"artist": "Snafu",
+"media": ["LP"],
+"genre": "Rock",
+"country": "UK",
 "image": "img/1479.jpg",
 "description": "",
-"decade": 2020,
-"related": ["To Buy"]
+"decade": 1970,
+"related": ["Roger Dean"]
 },
 {
 "id": 1480,
