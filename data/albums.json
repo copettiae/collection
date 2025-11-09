@@ -19641,8 +19641,7 @@
 "description": "",
 "decade": 2010,
 "related": []
-}
-,
+},
 {
 "id": 1512,
 "name": "Prog 164",
@@ -19655,5 +19654,31 @@
 "description": "",
 "decade": 2020,
 "related": ["Supertramp"]
+},
+{
+"id": 1513,
+"name": "Classic Rock Society",
+"year": 2009,
+"artist": "Rick Wakeman",
+"media": ["Mag"],
+"genre": "Prog Rock",
+"country": "UK",
+"image": "img/1513.jpg",
+"description": "",
+"decade": 2000,
+"related": ["Rick Wakeman"]
+},
+{
+"id": 1514,
+"name": "The History Of Rock 85",
+"year": 1983,
+"artist": "Emerson, Lake & Palmer",
+"media": ["Mag"],
+"genre": "Prog Rock",
+"country": "UK",
+"image": "img/1514.jpg",
+"description": "",
+"decade": 1980,
+"related": ["Emerson, Lake & Palmer"]
 }
 ]
