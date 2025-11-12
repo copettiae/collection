@@ -19680,5 +19680,18 @@
 "description": "",
 "decade": 1980,
 "related": ["Emerson, Lake & Palmer"]
+},
+{
+"id": 1515,
+"name": "The Best Of",
+"year": 1967,
+"artist": "Jefferson Airplane",
+"media": ["CD"],
+"genre": "Psychedelic Rock",
+"country": "UK",
+"image": "img/1515.jpg",
+"description": "",
+"decade": 1960,
+"related": [""]
 }
 ]
