@@ -11,6 +11,7 @@
       "genre" $album.genre
       "decade" $album.decade
       "related" $album.related
+      "letter" $album.letter
   }}
 
   {{ $content := dict
@@ -31,6 +32,7 @@
     "media" $album.media
     "decade" $album.decade
     "related" $album.related
+    "letter" $album.letter
   }}
 
   {{ $.AddPage $page }}

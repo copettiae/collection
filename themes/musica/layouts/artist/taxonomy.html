@@ -1,6 +1,33 @@
 {{ define "main" }}
   <h1>{{ .Title }}</h1>
+  
+  {{/* List of letters */}}
+  {{ $letterList := split "ABCDEFGHIJKLMNOPQRSTUVWXYZ" ""}}
+  {{ range $letterList }}
+    <a href="#{{ . }}">{{ . }}</a>
+  {{ end }}
+  
   {{ .Content }}
+
+  {{ $pages := .Pages }}
+  {{ range $letter := $letterList }}
+    {{ $group := slice }}
+    {{ range $pages }}
+      {{ if hasPrefix (upper .LinkTitle) $letter }}
+        {{ $group = $group | append . }}
+      {{ end }}
+    {{ end }}
+    {{ if gt (len $group) 0 }}
+      <h2 id="{{ $letter }}">{{ $letter }}</h2>
+      <ul>
+        {{ range $group }}
+          <li><a href="{{ .RelPermalink }}">{{ .LinkTitle }} ({{ len .Pages }})</a></li>
+        {{ end }}
+      </ul>
+    {{ end }}
+  {{ end }}
+
+
   <div class="listArtist">
     {{ range .Pages }}
       <h2 class="artist" ><a href="{{ .RelPermalink }}">{{ .LinkTitle }} ({{ len .Pages }})</a></h2>

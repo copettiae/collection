@@ -10,7 +10,8 @@
 "image": "img/1.jpg",
 "description": "",
 "decade": 2000,
-"related": []
+"related": [],
+"letter": "A"
 },
 {
 "id": 2,
@@ -23,7 +24,8 @@
 "image": "img/2.jpg",
 "description": "",
 "decade": 1970,
-"related": []
+"related": [],
+"letter": "A"
 },
 {
 "id": 3,
@@ -36,7 +38,8 @@
 "image": "img/3.jpg",
 "description": "",
 "decade": 2000,
-"related": []
+"related": [],
+"letter": "A"
 },
 {
 "id": 4,
@@ -49,7 +52,8 @@
 "image": "img/4.jpg",
 "description": "",
 "decade": 1960,
-"related": []
+"related": [],
+"letter": "A"
 },
 {
 "id": 5,
@@ -62,7 +66,8 @@
 "image": "img/5.jpg",
 "description": "",
 "decade": 1970,
-"related": []
+"related": [],
+"letter": "A"
 },
 {
 "id": 6,
@@ -75,7 +80,8 @@
 "image": "img/6.jpg",
 "description": "",
 "decade": 1970,
-"related": []
+"related": [],
+"letter": "A"
 },
 {
 "id": 7,
@@ -88,7 +94,8 @@
 "image": "img/7.jpg",
 "description": "",
 "decade": 1970,
-"related": []
+"related": [],
+"letter": "A"
 },
 {
 "id": 8,
@@ -101,7 +108,8 @@
 "image": "img/8.jpg",
 "description": "",
 "decade": 1970,
-"related": []
+"related": [],
+"letter": "A"
 },
 {
 "id": 9,
@@ -114,7 +122,8 @@
 "image": "img/9.jpg",
 "description": "",
 "decade": 1970,
-"related": []
+"related": [],
+"letter": "A"
 },
 {
 "id": 10,
@@ -127,7 +136,8 @@
 "image": "img/10.jpg",
 "description": "",
 "decade": 1970,
-"related": []
+"related": [],
+"letter": "A"
 },
 {
 "id": 11,
@@ -140,7 +150,8 @@
 "image": "img/11.jpg",
 "description": "",
 "decade": 1970,
-"related": []
+"related": [],
+"letter": "A"
 },
 {
 "id": 12,
@@ -153,7 +164,8 @@
 "image": "img/12.jpg",
 "description": "",
 "decade": 1970,
-"related": []
+"related": [],
+"letter": "A"
 },
 {
 "id": 13,
@@ -166,7 +178,8 @@
 "image": "img/13.jpg",
 "description": "",
 "decade": 1970,
-"related": []
+"related": [],
+"letter": "A"
 },
 {
 "id": 14,
@@ -179,7 +192,8 @@
 "image": "img/14.jpg",
 "description": "",
 "decade": 1990,
-"related": []
+"related": [],
+"letter": "A"
 },
 {
 "id": 1138,
@@ -192,7 +206,8 @@
 "image": "img/1138.jpg",
 "description": "",
 "decade": 1970,
-"related": []
+"related": [],
+"letter": "A"
 },
 {
 "id": 1169,
@@ -205,7 +220,8 @@
 "image": "img/1169.jpg",
 "description": "",
 "decade": 2000,
-"related": []
+"related": [],
+"letter": "A"
 },
 {
 "id": 15,
@@ -218,7 +234,8 @@
 "image": "img/15.jpg",
 "description": "",
 "decade": 1970,
-"related": []
+"related": [],
+"letter": "A"
 },
 {
 "id": 16,
@@ -231,7 +248,8 @@
 "image": "img/16.jpg",
 "description": "",
 "decade": 1990,
-"related": []
+"related": [],
+"letter": "A"
 },
 {
 "id": 899,
@@ -244,7 +262,8 @@
 "image": "img/899.jpg",
 "description": "",
 "decade": 1970,
-"related": []
+"related": [],
+"letter": "A"
 },
 {
 "id": 901,
@@ -257,7 +276,8 @@
 "image": "img/901.jpg",
 "description": "",
 "decade": 1970,
-"related": []
+"related": [],
+"letter": "A"
 },
 {
 "id": 903,
@@ -270,7 +290,8 @@
 "image": "img/903.jpg",
 "description": "",
 "decade": 1970,
-"related": []
+"related": [],
+"letter": "A"
 },
 {
 "id": 867,
@@ -283,7 +304,8 @@
 "image": "img/867.jpg",
 "description": "",
 "decade": 1970,
-"related": []
+"related": [],
+"letter": "A"
 },
 {
 "id": 17,
@@ -296,7 +318,8 @@
 "image": "img/17.jpg",
 "description": "",
 "decade": 1970,
-"related": []
+"related": [],
+"letter": "A"
 },
 {
 "id": 411,
@@ -309,7 +332,8 @@
 "image": "img/411.jpg",
 "description": "",
 "decade": 1970,
-"related": []
+"related": [],
+"letter": "A"
 },
 {
 "id": 18,
@@ -322,7 +346,8 @@
 "image": "img/18.jpg",
 "description": "",
 "decade": 1980,
-"related": ["ABWH"]
+"related": ["ABWH"],
+"letter": "A"
 },
 {
 "id": 20,
@@ -335,7 +360,8 @@
 "image": "img/20.jpg",
 "description": "10\"",
 "decade": 1980,
-"related": ["ABWH"]
+"related": ["ABWH"],
+"letter": "A"
 },
 {
 "id": 21,
@@ -348,7 +374,8 @@
 "image": "img/21.jpg",
 "description": " 7\", 45 RPM, Single",
 "decade": 1980,
-"related": ["ABWH"]
+"related": ["ABWH"],
+"letter": "A"
 },
 {
 "id": 22,
@@ -361,7 +388,8 @@
 "image": "img/22.jpg",
 "description": "",
 "decade": 1990,
-"related": ["ABWH"]
+"related": ["ABWH"],
+"letter": "A"
 },
 {
 "id": 23,
@@ -374,7 +402,8 @@
 "image": "img/23.jpg",
 "description": "",
 "decade": 1990,
-"related": ["ABWH"]
+"related": ["ABWH"],
+"letter": "A"
 },
 {
 "id": 24,
@@ -19595,7 +19624,7 @@
 "name": "The Return Of The Caped Crusader",
 "year": 2025,
 "artist": "Rick Wakeman",
-"media": ["Tour"],
+"media": ["Tour","DVD"],
 "genre": "Prog Rock",
 "country": "UK",
 "image": "img/1508.jpg",

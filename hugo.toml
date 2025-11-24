@@ -6,6 +6,7 @@ theme = "musica"
   pagerSize = 400
 [taxonomies]
   artist = 'artist'
+  letter = 'letter'
   country = 'country'
   genre = 'genre'
   year = 'year'
