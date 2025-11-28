@@ -19722,5 +19722,18 @@
 "description": "",
 "decade": 1960,
 "related": [""]
+},
+{
+"id": 1516,
+"name": "Owner Of A Lonely Heart",
+"year": 1991,
+"artist": "Yes",
+"media": ["LP"],
+"genre": "Prog Rock",
+"country": "UK",
+"image": "img/1516.jpg",
+"description": "",
+"decade": 1990,
+"related": ["Yes"]
 }
 ]
