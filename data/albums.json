@@ -19270,16 +19270,16 @@
 },
 {
 "id": 1481,
-"name": "Roger - The Gun",
-"year": 2025,
-"artist": "To Buy",
-"media": ["To Buy"],
-"genre": "To Buy",
-"country": "To Buy",
+"name": "Gun",
+"year": 1968,
+"artist": "The Gun",
+"media": ["LP"],
+"genre": "Psychedelic Rock",
+"country": "UK",
 "image": "img/1481.jpg",
 "description": "",
-"decade": 2020,
-"related": ["To Buy"]
+"decade": 1960,
+"related": ["Roger Dean"]
 },
 {
 "id": 1482,
