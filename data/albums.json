@@ -19735,5 +19735,18 @@
 "description": "",
 "decade": 1990,
 "related": ["Yes"]
+},
+{
+"id": 1517,
+"name": "Rick Wakeman In The 1970s",
+"year": 2023,
+"artist": "Geoffrey Feakes",
+"media": ["Book"],
+"genre": "Prog Rock",
+"country": "UK",
+"image": "img/1517.jpg",
+"description": "",
+"decade": 2020,
+"related": ["Rick Wakeman"]
 }
 ]
