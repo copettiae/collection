@@ -19774,5 +19774,44 @@
 "description": "",
 "decade": 1970,
 "related": ["Rick Wakeman"]
+},
+{
+"id": 1520,
+"name": "Classic Rock Legends",
+"year": 2001,
+"artist": "Caravan",
+"media": ["DVD"],
+"genre": "Prog Rock",
+"country": "UK",
+"image": "img/1520.jpg",
+"description": "",
+"decade": 2000,
+"related": [""]
+},
+{
+"id": 1521,
+"name": "Classic Rock Legends",
+"year": 2001,
+"artist": "Caravan",
+"media": ["DVD"],
+"genre": "Prog Rock",
+"country": "UK",
+"image": "img/1521.jpg",
+"description": "",
+"decade": 2000,
+"related": [""]
+},
+{
+"id": 1522,
+"name": "Yesspeak",
+"year": 2002,
+"artist": "Yes",
+"media": ["DVD"],
+"genre": "Prog Rock",
+"country": "UK",
+"image": "img/1522.jpg",
+"description": "",
+"decade": 2000,
+"related": ["Yes"]
 }
 ]
