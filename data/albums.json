@@ -9237,7 +9237,7 @@
 "name": "Space Hymns",
 "year": 1971,
 "artist": "Ramases",
-"media": ["CD"],
+"media": ["CD","LP"],
 "genre": "Psychedelic Rock",
 "country": "UK",
 "image": "img/663.jpg",
@@ -18350,7 +18350,7 @@
 "name": "Keys To Ascension",
 "year": 2010,
 "artist": "Yes",
-"media": ["Box"],
+"media": ["Box","CD","DVD"],
 "genre": "Prog Rock",
 "country": "UK",
 "image": "img/1410.jpg",
@@ -19852,5 +19852,18 @@
 "description": "",
 "decade": 2020,
 "related": ["To Buy"]
+},
+{
+"id": 1526,
+"name": "Yessongs Special Edition",
+"year": 2012,
+"artist": "Yes",
+"media": ["DVD"],
+"genre": "Prog Rock",
+"country": "UK",
+"image": "img/1526.jpg",
+"description": "",
+"decade": 2010,
+"related": ["Yes"]
 }
 ]
