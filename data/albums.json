@@ -18087,16 +18087,16 @@
 },
 {
 "id": 1390,
-"name": "Yes Special Edition EP DVD",
-"year": 2024,
-"artist": "To Buy",
-"media": ["To Buy DVD"],
-"genre": "To Buy",
-"country": "To Buy",
+"name": "Yes Special Edition EP",
+"year": 2003,
+"artist": "Yes",
+"media": ["DVD"],
+"genre": "Prog Rock",
+"country": "UK",
 "image": "img/1390.jpg",
 "description": "",
-"decade": 2020,
-"related": ["To Buy"]
+"decade": 2000,
+"related": ["Yes"]
 },
 {
 "id": 1391,
@@ -18386,16 +18386,16 @@
 },
 {
 "id": 1413,
-"name": "Night Of The Guitars DVD",
-"year": 2024,
-"artist": "To Buy",
-"media": ["To Buy DVD"],
-"genre": "To Buy",
-"country": "To Buy",
+"name": "Night Of The Guitars",
+"year": 2001,
+"artist": "Various",
+"media": ["DVD"],
+"genre": "Rock",
+"country": "UK",
 "image": "img/1413.jpg",
 "description": "",
-"decade": 2020,
-"related": ["To Buy"]
+"decade": 2000,
+"related": [""]
 },
 {
 "id": 1414,
@@ -18672,16 +18672,16 @@
 },
 {
 "id": 1435,
-"name": "Yes Live At Montreux 2003 DVD",
-"year": 2024,
-"artist": "To Buy",
-"media": ["To Buy DVD"],
-"genre": "To Buy",
-"country": "To Buy",
+"name": "Live At Montreux",
+"year": 2003,
+"artist": "Yes",
+"media": ["DVD"],
+"genre": "Prog Rock",
+"country": "UK",
 "image": "img/1435.jpg",
 "description": "",
-"decade": 2024,
-"related": ["To Buy"]
+"decade": 2000,
+"related": ["Yes"]
 },
 {
 "id": 1436,
@@ -19864,6 +19864,71 @@
 "image": "img/1526.jpg",
 "description": "",
 "decade": 2010,
+"related": ["Yes","Roger Dean"]
+},
+{
+"id": 1527,
+"name": "Close To The Edge The Story Of Yes",
+"year": 1999,
+"artist": "Chris Welch",
+"media": ["Book"],
+"genre": "Prog Rock",
+"country": "UK",
+"image": "img/1527.jpg",
+"description": "",
+"decade": 1990,
 "related": ["Yes"]
+},
+{
+"id": 1528,
+"name": "Remedy Live",
+"year": 2005,
+"artist": "Steve Howe",
+"media": ["DVD"],
+"genre": "Prog Rock",
+"country": "UK",
+"image": "img/1528.jpg",
+"description": "",
+"decade": 2000,
+"related": [""]
+},
+{
+"id": 1529,
+"name": "Yesyears",
+"year": 1991,
+"artist": "Yes",
+"media": ["DVD"],
+"genre": "Prog Rock",
+"country": "UK",
+"image": "img/1529.jpg",
+"description": "",
+"decade": 1990,
+"related": ["Yes"]
+},
+{
+"id": 1530,
+"name": "At The Mesa Arts Center DVD",
+"year": 2015,
+"artist": "To Buy",
+"media": ["To Buy DVD"],
+"genre": "Prog Rock",
+"country": "UK",
+"image": "img/1530.jpg",
+"description": "",
+"decade": 2010,
+"related": [""]
+},
+{
+"id": 1531,
+"name": "Yes Featuring Jon Anderson, Trevor Rabin, Rick Wakeman DVD",
+"year": 2018,
+"artist": "To Buy",
+"media": ["To Buy DVD"],
+"genre": "Prog Rock",
+"country": "UK",
+"image": "img/1531.jpg",
+"description": "",
+"decade": 2010,
+"related": [""]
 }
 ]
