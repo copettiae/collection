@@ -8831,9 +8831,9 @@
 },
 {
 "id": 636,
-"name": "The Making of The Wall",
+"name": "Pink Floyd The Making of The Wall",
 "year": 2010,
-"artist": "Pink Floyd",
+"artist": "Gerald Scarfe",
 "media": ["Book"],
 "genre": "Prog Rock",
 "country": "UK",
@@ -8885,7 +8885,7 @@
 "id": 632,
 "name": "Pink Floyd And The Dark Side Of The Moon 50 Years",
 "year": 2023,
-"artist": "Pink Floyd",
+"artist": "Martin Popoff",
 "media": ["Book"],
 "genre": "Prog Rock",
 "country": "UK",
@@ -10225,7 +10225,7 @@
 "name": "Treasure Chest",
 "year": 2010,
 "artist": "Rick Wakeman",
-"media": ["DVD"],
+"media": ["DVD","Box"],
 "genre": "Prog Rock",
 "country": "UK",
 "image": "img/698.jpg",
@@ -12064,7 +12064,7 @@
 "image": "img/861.jpg",
 "description": "",
 "decade": 1970,
-"related": []
+"related": ["Supertramp"]
 },
 {
 "id": 862,
@@ -12077,7 +12077,7 @@
 "image": "img/862.jpg",
 "description": "",
 "decade": 1970,
-"related": []
+"related": ["Supertramp"]
 },
 {
 "id": 863,
@@ -12090,7 +12090,7 @@
 "image": "img/863.jpg",
 "description": "",
 "decade": 1970,
-"related": []
+"related": ["Supertramp"]
 },
 {
 "id": 864,
@@ -12103,7 +12103,7 @@
 "image": "img/864.jpg",
 "description": "",
 "decade": 1970,
-"related": []
+"related": ["Supertramp"]
 },
 {
 "id": 865,
@@ -12116,7 +12116,7 @@
 "image": "img/865.jpg",
 "description": "",
 "decade": 1970,
-"related": []
+"related": ["Supertramp"]
 },
 {
 "id": 866,
@@ -12129,7 +12129,7 @@
 "image": "img/866.jpg",
 "description": "",
 "decade": 1970,
-"related": []
+"related": ["Supertramp"]
 },
 {
 "id": 868,
@@ -12142,7 +12142,7 @@
 "image": "img/868.jpg",
 "description": "",
 "decade": 1970,
-"related": []
+"related": ["Supertramp"]
 },
 {
 "id": 869,
@@ -12155,7 +12155,7 @@
 "image": "img/869.jpg",
 "description": "",
 "decade": 1970,
-"related": []
+"related": ["Supertramp"]
 },
 {
 "id": 870,
@@ -12168,7 +12168,7 @@
 "image": "img/870.jpg",
 "description": "",
 "decade": 1980,
-"related": []
+"related": ["Supertramp"]
 },
 {
 "id": 981,
@@ -12181,7 +12181,7 @@
 "image": "img/981.jpg",
 "description": "",
 "decade": 1980,
-"related": []
+"related": ["Supertramp"]
 },
 {
 "id": 1147,
@@ -12194,7 +12194,7 @@
 "image": "img/1147.jpg",
 "description": "",
 "decade": 1990,
-"related": []
+"related": ["Supertramp"]
 },
 {
 "id": 1148,
@@ -12207,7 +12207,7 @@
 "image": "img/1148.jpg",
 "description": "Recorded at the Royal Albert Hall, London, England, September 19 and 20, 1997.",
 "decade": 1990,
-"related": []
+"related": ["Supertramp"]
 },
 {
 "id": 871,
@@ -13995,7 +13995,7 @@
 "name": "Supernatural Fairy Tales - The Progressive Rock Era",
 "year": 1996,
 "artist": "Various",
-"media": ["Box"],
+"media": ["Box","CD"],
 "genre": "Prog Rock",
 "country": "UK",
 "image": "img/699.jpg",
@@ -14759,14 +14759,14 @@
 },
 {
 "id": 1064,
-"name": "The Authorised Biography",
+"name": "Yes The Authorised Biography",
 "year": 1981,
-"artist": "Yes",
+"artist": "Dan Hedges",
 "media": ["Book"],
 "genre": "",
 "country": "UK",
 "image": "img/1064.jpg",
-"description": "Dan Hedges",
+"description": "",
 "decade": 1980,
 "related": ["Yes"]
 },
@@ -15035,7 +15035,7 @@
 "name": "In A Word: Yes (1969 - )",
 "year": 2002,
 "artist": "Yes",
-"media": ["Box"],
+"media": ["Box","CD"],
 "genre": "Prog Rock",
 "country": "UK",
 "image": "img/1101.jpg",
@@ -15217,7 +15217,7 @@
 "name": "The Studio Albums 1969-1987",
 "year": 2013,
 "artist": "Yes",
-"media": ["Box"],
+"media": ["Box","CD"],
 "genre": "Prog Rock",
 "country": "UK",
 "image": "img/1072.jpg",
@@ -15541,12 +15541,12 @@
 "id": 1057,
 "name": "Yes: A Visual Biography I: 1968 - 1981",
 "year": 2022,
-"artist": "Yes",
+"artist": "Martin Popoff",
 "media": ["Book"],
 "genre": "Prog Rock",
 "country": "UK",
 "image": "img/1057.jpg",
-"description": "Martin Popoff",
+"description": "",
 "decade": 2020,
 "related": ["Yes"]
 },
@@ -15554,12 +15554,12 @@
 "id": 1059,
 "name": "Yes: A Visual Biography II: 1982 - 2022",
 "year": 2022,
-"artist": "Yes",
+"artist": "Martin Popoff",
 "media": ["Book"],
 "genre": "Prog Rock",
 "country": "UK",
 "image": "img/1059.jpg",
-"description": "Martin Popoff",
+"description": "",
 "decade": 2020,
 "related": ["Yes"]
 },
@@ -15672,7 +15672,7 @@
 "name": "The Turn Of A Friendly Card",
 "year": 1980,
 "artist": "The Alan Parsons Project",
-"media": ["Box"],
+"media": ["Box","CD"],
 "genre": "Prog Rock",
 "country": "UK",
 "image": "img/1204.jpg",
@@ -16049,7 +16049,7 @@
 "name": "Essentially",
 "year": 2006,
 "artist": "Yes",
-"media": ["Box"],
+"media": ["Box","CD"],
 "genre": "Prog Rock",
 "country": "UK",
 "image": "img/1228.jpg",
@@ -18074,16 +18074,16 @@
 },
 {
 "id": 1389,
-"name": "Yes The Best Of MusikLaden Live DVD",
-"year": 2024,
-"artist": "To Buy",
-"media": ["To Buy DVD"],
-"genre": "To Buy",
-"country": "To Buy",
+"name": "The Best Of MusikLaden Live",
+"year": 1999,
+"artist": "Yes",
+"media": ["DVD"],
+"genre": "Prog Rock",
+"country": "UK",
 "image": "img/1389.jpg",
 "description": "",
-"decade": 2020,
-"related": ["To Buy"]
+"decade": 1990,
+"related": ["Yes"]
 },
 {
 "id": 1390,
@@ -19930,5 +19930,31 @@
 "description": "",
 "decade": 2010,
 "related": [""]
+},
+{
+"id": 1532,
+"name": "Total Rock Review",
+"year": 2006,
+"artist": "Yes",
+"media": ["DVD"],
+"genre": "Prog Rock",
+"country": "UK",
+"image": "img/1532.jpg",
+"description": "",
+"decade": 2000,
+"related": ["Yes"]
+},
+{
+"id": 1533,
+"name": "Greatest Video Hits",
+"year": 2005,
+"artist": "Yes",
+"media": ["DVD"],
+"genre": "Prog Rock",
+"country": "UK",
+"image": "img/1533.jpg",
+"description": "",
+"decade": 2000,
+"related": ["Yes"]
 }
 ]
