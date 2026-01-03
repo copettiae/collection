@@ -3952,7 +3952,7 @@
 "image": "img/265.jpg",
 "description": "",
 "decade": 1970,
-"related": []
+"related": ["Emerson, Lake & Palmer"]
 },
 {
 "id": 266,
@@ -3965,7 +3965,7 @@
 "image": "img/266.jpg",
 "description": "",
 "decade": 2000,
-"related": []
+"related": ["Emerson, Lake & Palmer"]
 },
 {
 "id": 267,
@@ -3978,7 +3978,7 @@
 "image": "img/267.jpg",
 "description": "Box Set",
 "decade": 2010,
-"related": []
+"related": ["Emerson, Lake & Palmer"]
 },
 {
 "id": 268,
@@ -16241,16 +16241,16 @@
 },
 {
 "id": 1243,
-"name": "Ramases Space Hymns LP",
-"year": 2025,
-"artist": "To Buy",
-"media": ["To Buy LP"],
-"genre": "To Buy",
-"country": "To Buy",
+"name": "B Yond - The Very Best Of ",
+"year": 2019,
+"artist": "John Lodge",
+"media": ["LP"],
+"genre": "Prog Rock",
+"country": "UK",
 "image": "img/1243.jpg",
 "description": "",
-"decade": 2020,
-"related": ["To Buy"]
+"decade": 2010,
+"related": ["Roger Dean"]
 },
 {
 "id": 1244,
@@ -16878,16 +16878,16 @@
 },
 {
 "id": 1297,
-"name": "Rick Wakeman Amazing Grace (2007)",
-"year": 2024,
-"artist": "To Buy",
-"media": ["To Buy DVD"],
-"genre": "To Buy",
-"country": "To Buy",
+"name": "Amazing Grace",
+"year": 2007,
+"artist": "Rick Wakeman",
+"media": ["DVD","CD"],
+"genre": "Prog Rock",
+"country": "UK",
 "image": "img/1297.jpg",
 "description": "",
-"decade": 2020,
-"related": ["To Buy"]
+"decade": 2000,
+"related": ["Rick Wakeman"]
 },
 {
 "id": 1298,
@@ -18876,7 +18876,7 @@
 "image": "img/1450.jpg",
 "description": "",
 "decade": 1970,
-"related": [""]
+"related": ["Emerson, Lake & Palmer"]
 },
 {
 "id": 1451,
@@ -19701,7 +19701,7 @@
 "id": 1514,
 "name": "The History Of Rock 85",
 "year": 1983,
-"artist": "Emerson, Lake & Palmer",
+"artist": "Keith Emerson",
 "media": ["Mag"],
 "genre": "Prog Rock",
 "country": "UK",
@@ -19956,5 +19956,31 @@
 "description": "",
 "decade": 2000,
 "related": ["Yes"]
+},
+{
+"id": 1534,
+"name": "Prog 66",
+"year": 2016,
+"artist": "Keith Emerson",
+"media": ["Mag"],
+"genre": "Prog Rock",
+"country": "UK",
+"image": "img/1534.jpg",
+"description": "",
+"decade": 2010,
+"related": ["Emerson, Lake & Palmer"]
+},
+{
+"id": 1535,
+"name": "In The Big Dream A Video Compilation",
+"year": 1989,
+"artist": "Anderson Bruford Wakeman Howe",
+"media": ["Cass"],
+"genre": "Prog Rock",
+"country": "UK",
+"image": "img/1535.jpg",
+"description": "",
+"decade": 1980,
+"related": ["Roger Dean"]
 }
 ]
