@@ -17100,15 +17100,15 @@
 {
 "id": 1314,
 "name": "Rick Wakeman Treasure Chest Volume 1 - The Real Lisztomania (2002) ",
-"year": 2024,
-"artist": "To Buy",
-"media": ["To Buy CD"],
-"genre": "To Buy",
-"country": "To Buy",
+"year": 2002,
+"artist": "Rick Wakeman",
+"media": ["Box","CD"],
+"genre": "Prog Rock",
+"country": "UK",
 "image": "img/1314.jpg",
 "description": "",
-"decade": 2020,
-"related": ["To Buy"]
+"decade": 2000,
+"related": ["Rick Wakeman"]
 },
 {
 "id": 1315,
@@ -17118,7 +17118,7 @@
 "media": ["To Buy CD"],
 "genre": "To Buy",
 "country": "To Buy",
-"image": "img/1315.jpg",
+"image": "img/available.png",
 "description": "",
 "decade": 2020,
 "related": ["To Buy"]
@@ -17131,7 +17131,7 @@
 "media": ["To Buy CD"],
 "genre": "To Buy",
 "country": "To Buy",
-"image": "img/1316.jpg",
+"image": "img/available.png",
 "description": "",
 "decade": 2020,
 "related": ["To Buy"]
@@ -17144,7 +17144,7 @@
 "media": ["To Buy CD"],
 "genre": "To Buy",
 "country": "To Buy",
-"image": "img/1317.jpg",
+"image": "img/available.png",
 "description": "",
 "decade": 2020,
 "related": ["To Buy"]
@@ -17157,7 +17157,7 @@
 "media": ["To Buy CD"],
 "genre": "To Buy",
 "country": "To Buy",
-"image": "img/1318.jpg",
+"image": "img/available.png",
 "description": "",
 "decade": 2020,
 "related": ["To Buy"]
@@ -17170,7 +17170,7 @@
 "media": ["To Buy CD"],
 "genre": "To Buy",
 "country": "To Buy",
-"image": "img/1319.jpg",
+"image": "img/available.png",
 "description": "",
 "decade": 2020,
 "related": ["To Buy"]
@@ -17183,7 +17183,7 @@
 "media": ["To Buy CD"],
 "genre": "To Buy",
 "country": "To Buy",
-"image": "img/1320.jpg",
+"image": "img/available.png",
 "description": "",
 "decade": 2020,
 "related": ["To Buy"]
