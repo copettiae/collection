@@ -3224,7 +3224,7 @@
 "image": "img/216.jpg",
 "description": "",
 "decade": 1970,
-"related": ["Roger Dean"]
+"related": ["Roger Dean","Greenslade"]
 },
 {
 "id": 217,
@@ -5213,7 +5213,7 @@
 "image": "img/360.jpg",
 "description": "Greenslade",
 "decade": 1970,
-"related": []
+"related": ["Roger Dean","Greenslade"]
 },
 {
 "id": 1085,
@@ -17164,16 +17164,16 @@
 },
 {
 "id": 1319,
-"name": "Rick Wakeman Treasure Chest Volume 6 - Medium Rare (2002) ",
-"year": 2024,
-"artist": "To Buy",
-"media": ["To Buy CD"],
-"genre": "To Buy",
-"country": "To Buy",
-"image": "img/available.png",
+"name": "Azymuth",
+"year": 2025,
+"artist": "Azymuth",
+"media": ["Apparel"],
+"genre": "Fusion",
+"country": "Brazil",
+"image": "img/1319.jpg",
 "description": "",
 "decade": 2020,
-"related": ["To Buy"]
+"related": []
 },
 {
 "id": 1320,
@@ -17641,7 +17641,7 @@
 "image": "img/1355.jpg",
 "description": "",
 "decade": 1970,
-"related": ["Roger Dean"]
+"related": ["Roger Dean","Greenslade"]
 },
 {
 "id": 1356,
