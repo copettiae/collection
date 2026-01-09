@@ -7,8 +7,8 @@ theme = "musica"
 [taxonomies]
   artist = 'artist'
   country = 'country'
-  genre = 'genre'
-  year = 'year'
-  media = 'media'
   decade = 'decade'
+  genre = 'genre'
+  media = 'media'
   related = 'related'
+  year = 'year'
