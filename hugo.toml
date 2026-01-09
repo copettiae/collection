@@ -5,10 +5,10 @@ theme = "musica"
 [pagination]
   pagerSize = 400
 [taxonomies]
-  artist = 'Artist'
-  country = 'Country'
-  decade = 'Decade'
-  genre = 'Genre'
-  media = 'Media'
-  related = 'Related'
-  year = 'Year'
+  artist = 'artist'
+  country = 'country'
+  genre = 'genre'
+  year = 'year'
+  media = 'media'
+  decade = 'decade'
+  related = 'related'
