@@ -1,6 +1,6 @@
-[
+[ 
 {
-"id": 1,
+"id": 1, 
 "name": "Abba Gold Greatest Hits",
 "year": 2004,
 "artist": "Abba",
@@ -11,7 +11,7 @@
 "description": "",
 "decade": 2000,
 "related": [],
-"letter": "A"
+"letter": "A" 
 },
 {
 "id": 2,
@@ -16020,16 +16020,16 @@
 },
 {
 "id": 1226,
-"name": "Rick Wakeman At Lincoln Cathedral - Ltd Edition Box Set, 2CD+DVD, Postcards",
-"year": 2025,
-"artist": "To Buy",
-"media": ["To Buy Box"],
-"genre": "To Buy",
-"country": "To Buy",
+"name": "Rick Wakeman At Lincoln Cathedral",
+"year": 2018,
+"artist": "Rick Wakeman",
+"media": ["Box","CD","DVD"],
+"genre": "Prog Rock",
+"country": "UK",
 "image": "img/1226.jpg",
 "description": "",
-"decade": 2020,
-"related": ["To Buy"]
+"decade": 2010,
+"related": ["Rick Wakeman"]
 },
 {
 "id": 1227,
@@ -17099,7 +17099,7 @@
 },
 {
 "id": 1314,
-"name": "Rick Wakeman Treasure Chest Volume 1 - The Real Lisztomania (2002) ",
+"name": "Treasure Chest",
 "year": 2002,
 "artist": "Rick Wakeman",
 "media": ["Box","CD"],
