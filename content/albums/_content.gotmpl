@@ -1,4 +1,124 @@
-{{ $skip_ids := slice 1 }}
+{{ $skip_ids := slice }}
+// -- A
+// Abba
+{{ $skip_ids = $skip_ids | append 1 }}
+// Amy Winehouse
+{{ $skip_ids = $skip_ids | append 1466 }}
+// Andy Gibb
+{{ $skip_ids = $skip_ids | append 47 }}
+// Aretha Franklin
+{{ $skip_ids = $skip_ids | append 66 }}
+// Ariel Ramirez / Los Fronterizos
+{{ $skip_ids = $skip_ids | append 193 }}
+// Arthur Grumiaux - Herman Krebbers - Heinz Holliger
+{{ $skip_ids = $skip_ids | append 68 }}
+// Arturo Sandoval
+{{ $skip_ids = $skip_ids | append 69 }}
+// -- B
+// B.B. King
+{{ $skip_ids = $skip_ids | append 90 }}
+// Barbra Streisand
+{{ $skip_ids = $skip_ids | append 95 96 }}
+// Barry Manilow
+{{ $skip_ids = $skip_ids | append 278 }}
+// Barry White
+{{ $skip_ids = $skip_ids | append 97 }}
+// Bee Gees
+{{ $skip_ids = $skip_ids | append 100 101 1176 102 103 1381 104 105 106 107 1191 108 109 110 111 112 113 114 }}
+// Bob Marley & the Wailers
+{{ $skip_ids = $skip_ids | append 134 127 128 129 130 131 466 132 133 }}
+// Burning Spear
+{{ $skip_ids = $skip_ids | append 142 143 144 145 146 147 148 }}
+// -- C
+// Carly Simon
+{{ $skip_ids = $skip_ids | append 162 }}
+// Carpenters
+{{ $skip_ids = $skip_ids | append 163 }}
+// Chicago & Foreigner
+{{ $skip_ids = $skip_ids | append 176 }}
+// Chopin Complete Edition
+{{ $skip_ids = $skip_ids | append 702 190 686 687 517 692 921 180 187 922 923 924 186 191 188 189 576 }}
+// Christafari
+{{ $skip_ids = $skip_ids | append 199 200 201 }}
+// Christopher Cross
+{{ $skip_ids = $skip_ids | append 202 }}
+// -- D
+// David Bowie
+{{ $skip_ids = $skip_ids | append 217 }}
+// David Gates & Bread
+{{ $skip_ids = $skip_ids | append 218 }}
+// Depeche Mode
+{{ $skip_ids = $skip_ids | append 226 }}
+// Dire Straits
+{{ $skip_ids = $skip_ids | append 228 229 1193 }}
+// Don McLean
+{{ $skip_ids = $skip_ids | append 230 }}
+// Donna Summer
+{{ $skip_ids = $skip_ids | append 232 }}
+// Duran Duran
+{{ $skip_ids = $skip_ids | append 238 }}
+// Dusty Springfield
+{{ $skip_ids = $skip_ids | append 239 }}
+// -- E
+// Eagles
+{{ $skip_ids = $skip_ids | append 240 }}
+// Earth Wind & Fire
+{{ $skip_ids = $skip_ids | append 245 }}
+// Edie Brickell & New Bohemians
+{{ $skip_ids = $skip_ids | append 247 }}
+// Electric Light Orchestra
+{{ $skip_ids = $skip_ids | append 254 255 }}
+// Elton John
+{{ $skip_ids = $skip_ids | append 260 }}
+// -- F
+// Fleetwood Mac
+{{ $skip_ids = $skip_ids | append 288 }}
+// Freddie Mercury
+{{ $skip_ids = $skip_ids | append 314 }}
+// -- G
+// George Michael
+{{ $skip_ids = $skip_ids | append 394 }}
+// Gerry Rafferty
+{{ $skip_ids = $skip_ids | append 330 }}
+// Grace Jones
+{{ $skip_ids = $skip_ids | append 354 }}
+// -- J
+// James Taylor
+{{ $skip_ids = $skip_ids | append 400 }}
+// K
+// KC & the Sunshine Band
+{{ $skip_ids = $skip_ids | append 461 }}
+// Kiss
+{{ $skip_ids = $skip_ids | append 1173 1172 }}
+// Kraftwerk
+{{ $skip_ids = $skip_ids | append 476 }}
+// -- L
+// Laurent Voulzy
+{{ $skip_ids = $skip_ids | append 478 479 }}
+// Leonard Cohen
+{{ $skip_ids = $skip_ids | append 486 487 488 }}
+// Los Fabulosos Cadillacs
+{{ $skip_ids = $skip_ids | append 490 }}
+// Luis Miguel
+{{ $skip_ids = $skip_ids | append 495 }}
+// -- M
+// Madonna
+{{ $skip_ids = $skip_ids | append 497 }}
+// Mercedes Sosa
+{{ $skip_ids = $skip_ids | append 550 }}
+// Michael Jackson
+{{ $skip_ids = $skip_ids | append 554 }}
+// Mike Ribas
+{{ $skip_ids = $skip_ids | append 564 }}
+// Molotov
+{{ $skip_ids = $skip_ids | append 572 }}
+// -- N
+// Neil Diamond
+{{ $skip_ids = $skip_ids | append 577 }}
+
+
+
+
 
 {{ range $album := .Site.Data.albums }}
   {{ if not (in $skip_ids $album.id) }}
