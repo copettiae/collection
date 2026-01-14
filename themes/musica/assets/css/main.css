@@ -85,7 +85,7 @@ a{
 .medium-group{
     display: flex;
     flex-wrap: nowrap;
-    justify-content: center;
+    justify-content: left;
 }
 .medium-group > img{
     width: 25px;

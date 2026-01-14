@@ -3,10 +3,7 @@
 		<article>
 			{{ $baseURL := .Site.BaseURL }}
 			<h1>{{ .Title }}</h1>
-			<img src="{{ $baseURL }}/{{ .Params.image }}" alt="" loading="lazy">
-			<div>
-				{{ .Content }}
-			</div>
+			<img src="{{ $baseURL }}/{{ .Params.image }}" width="500" alt="" loading="lazy">
 
 			<div class="medium-group"> 
 				{{$media := .Params.media}}
@@ -17,7 +14,7 @@
 				{{ end }}
 			</div>
 			<div> 
-				<h3>#{{ .Params.id }} {{ index .Site.Data.country .Params.country }} {{ .Params.year }}</h3>    
+				<h1>#{{ .Params.id }} {{ index .Site.Data.country .Params.country }} {{ .Params.year }}</h1>    
 			</div>
 			<div> 
 				<em class="artist">{{ .Params.artist }}</em>
