@@ -17112,16 +17112,16 @@
 },
 {
 "id": 1315,
-"name": "Available",
-"year": 2024,
-"artist": "To Buy",
-"media": ["To Buy DVD"],
-"genre": "To Buy",
-"country": "To Buy",
-"image": "img/available.png",
+"name": "International Musician And Recording World",
+"year": 1978,
+"artist": "Rick Wakeman",
+"media": ["Mag"],
+"genre": "Prog Rock",
+"country": "UK",
+"image": "img/1315.jpg",
 "description": "",
-"decade": 2020,
-"related": ["To Buy"]
+"decade": 1970,
+"related": ["Rick Wakeman"]
 },
 {
 "id": 1316,
@@ -17177,16 +17177,16 @@
 },
 {
 "id": 1320,
-"name": "Rick Wakeman Treasure Chest Volume 8 - Stories (2002) ",
-"year": 2024,
-"artist": "To Buy",
-"media": ["To Buy CD"],
-"genre": "To Buy",
-"country": "To Buy",
-"image": "img/available.png",
+"name": "International Musician And Recording World",
+"year": 1975,
+"artist": "Rick Wakeman",
+"media": ["Mag"],
+"genre": "Prog Rock",
+"country": "UK",
+"image": "img/1320.jpg",
 "description": "",
-"decade": 2020,
-"related": ["To Buy"]
+"decade": 1970,
+"related": ["Rick Wakeman"]
 },
 {
 "id": 1321,
@@ -18451,16 +18451,16 @@
 },
 {
 "id": 1418,
-"name": "Pianist Rick Wakeman Magazine",
-"year": 2024,
-"artist": "To Buy",
-"media": ["To Buy Mag"],
-"genre": "To Buy",
-"country": "To Buy",
+"name": "Pianist 95",
+"year": 2017,
+"artist": "Rick Wakeman",
+"media": ["Mag"],
+"genre": "Prog Rock",
+"country": "UK",
 "image": "img/1418.jpg",
 "description": "",
-"decade": 2020,
-"related": ["To Buy"]
+"decade": 2010,
+"related": ["Rick Wakeman"]
 },
 {
 "id": 1419,
