@@ -663,7 +663,7 @@
 "image": "img/41.jpg",
 "description": "",
 "decade": 2000,
-"related": ["Documentary"]
+"related": [""]
 },
 {
 "id": 1054,
@@ -12708,7 +12708,7 @@
 "name": "Help",
 "year": 2007,
 "artist": "The Beatles",
-"media": ["Box"],
+"media": ["Box","DVD"],
 "genre": "Pop Rock",
 "country": "UK",
 "image": "img/241.jpg",
@@ -15106,7 +15106,7 @@
 "image": "img/1107.jpg",
 "description": "",
 "decade": 2000,
-"related": ["Yes","Documentary"]
+"related": ["Yes"]
 },
 {
 "id": 1108,
@@ -15119,7 +15119,7 @@
 "image": "img/1108.jpg",
 "description": "",
 "decade": 2000,
-"related": ["Yes","Documentary"]
+"related": ["Yes"]
 },
 {
 "id": 1109,
@@ -15132,7 +15132,7 @@
 "image": "img/1109.jpg",
 "description": "",
 "decade": 2000,
-"related": ["Yes","Documentary"]
+"related": ["Yes"]
 },
 {
 "id": 1110,
@@ -15158,7 +15158,7 @@
 "image": "img/1111.jpg",
 "description": "",
 "decade": 2000,
-"related": ["Yes","Documentary"]
+"related": ["Yes"]
 },
 {
 "id": 1113,
