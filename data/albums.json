@@ -33,7 +33,7 @@
 "year": 2009,
 "artist": "Aera",
 "media": ["CD"],
-"genre": "Jazz",
+"genre": "Jazz/Fusion",
 "country": "Germany",
 "image": "img/3.jpg",
 "description": "",
@@ -103,7 +103,7 @@
 "year": 1975,
 "artist": "Agnes Strange",
 "media": ["CD"],
-"genre": "Hard Rock",
+"genre": "Rock",
 "country": "UK",
 "image": "img/8.jpg",
 "description": "",
@@ -117,7 +117,7 @@
 "year": 1975,
 "artist": "Akira Ishikawa",
 "media": ["CD"],
-"genre": "Funk / Soul / R&B",
+"genre": "Funk/Soul/R&B",
 "country": "Japan",
 "image": "img/9.jpg",
 "description": "",
@@ -131,7 +131,7 @@
 "year": 1972,
 "artist": "Akira Ishikawa & Count Buffalo",
 "media": ["CD"],
-"genre": "Fusion",
+"genre": "Jazz/Fusion",
 "country": "Japan",
 "image": "img/10.jpg",
 "description": "",
@@ -145,7 +145,7 @@
 "year": 1971,
 "artist": "Akira Ishikawa & His Count Buffalos",
 "media": ["CD"],
-"genre": "Fusion",
+"genre": "Jazz/Fusion",
 "country": "Japan",
 "image": "img/11.jpg",
 "description": "",
@@ -159,7 +159,7 @@
 "year": 1973,
 "artist": "Akira Ishikawa & His Count Buffalos",
 "media": ["CD"],
-"genre": "Fusion",
+"genre": "Jazz/Fusion",
 "country": "Japan",
 "image": "img/12.jpg",
 "description": "",
@@ -173,7 +173,7 @@
 "year": 1977,
 "artist": "Al Di Meola",
 "media": ["CD"],
-"genre": "Fusion",
+"genre": "Jazz/Fusion",
 "country": "USA",
 "image": "img/13.jpg",
 "description": "",
@@ -243,7 +243,7 @@
 "year": 1999,
 "artist": "Alice Coltrane",
 "media": ["CD"],
-"genre": "Fusion",
+"genre": "Jazz/Fusion",
 "country": "USA",
 "image": "img/16.jpg",
 "description": "",
@@ -346,7 +346,7 @@
 "image": "img/18.jpg",
 "description": "",
 "decade": 1980,
-"related": ["ABWH"],
+"related": ["Yes","Roger Dean"],
 "letter": "A"
 },
 {
@@ -360,7 +360,7 @@
 "image": "img/20.jpg",
 "description": "10\"",
 "decade": 1980,
-"related": ["ABWH"],
+"related": ["Yes","Roger Dean"],
 "letter": "A"
 },
 {
@@ -374,7 +374,7 @@
 "image": "img/21.jpg",
 "description": " 7\", 45 RPM, Single",
 "decade": 1980,
-"related": ["ABWH"],
+"related": ["Yes","Roger Dean"],
 "letter": "A"
 },
 {
@@ -388,7 +388,7 @@
 "image": "img/22.jpg",
 "description": "",
 "decade": 1990,
-"related": ["ABWH"],
+"related": ["Yes","Roger Dean"],
 "letter": "A"
 },
 {
@@ -402,7 +402,7 @@
 "image": "img/23.jpg",
 "description": "",
 "decade": 1990,
-"related": ["ABWH"],
+"related": ["Yes","Roger Dean"],
 "letter": "A"
 },
 {
@@ -416,7 +416,7 @@
 "image": "img/24.jpg",
 "description": "",
 "decade": 1990,
-"related": ["ABWH"]
+"related": ["Yes","Roger Dean"]
 },
 {
 "id": 26,
@@ -429,7 +429,7 @@
 "image": "img/26.jpg",
 "description": "",
 "decade": 2010,
-"related": ["ABWH"]
+"related": ["Yes","Roger Dean"]
 },
 {
 "id": 383,
@@ -442,7 +442,7 @@
 "image": "img/383.jpg",
 "description": "",
 "decade": 2020,
-"related": ["ABWH"]
+"related": ["Yes","Roger Dean"]
 },
 {
 "id": 27,
@@ -450,7 +450,7 @@
 "year": 1979,
 "artist": "Andreas Vollenweider",
 "media": ["CD"],
-"genre": "Fusion",
+"genre": "Jazz/Fusion",
 "country": "Switzerland",
 "image": "img/27.jpg",
 "description": "",
@@ -463,7 +463,7 @@
 "year": 1981,
 "artist": "Andreas Vollenweider",
 "media": ["CD"],
-"genre": "Fusion",
+"genre": "Jazz/Fusion",
 "country": "Switzerland",
 "image": "img/28.jpg",
 "description": "",
@@ -476,7 +476,7 @@
 "year": 1982,
 "artist": "Andreas Vollenweider",
 "media": ["CD"],
-"genre": "Fusion",
+"genre": "Jazz/Fusion",
 "country": "Switzerland",
 "image": "img/29.jpg",
 "description": "",
@@ -489,7 +489,7 @@
 "year": 1984,
 "artist": "Andreas Vollenweider",
 "media": ["LP"],
-"genre": "Fusion",
+"genre": "Jazz/Fusion",
 "country": "Switzerland",
 "image": "img/1182.jpg",
 "description": "",
@@ -502,7 +502,7 @@
 "year": 1984,
 "artist": "Andreas Vollenweider",
 "media": ["LP"],
-"genre": "Fusion",
+"genre": "Jazz/Fusion",
 "country": "Switzerland",
 "image": "img/30.jpg",
 "description": "",
@@ -515,7 +515,7 @@
 "year": 1984,
 "artist": "Andreas Vollenweider",
 "media": ["CD"],
-"genre": "Fusion",
+"genre": "Jazz/Fusion",
 "country": "Switzerland",
 "image": "img/31.jpg",
 "description": "",
@@ -528,7 +528,7 @@
 "year": 1986,
 "artist": "Andreas Vollenweider",
 "media": ["CD","LP"],
-"genre": "Fusion",
+"genre": "Jazz/Fusion",
 "country": "Switzerland",
 "image": "img/32.jpg",
 "description": "",
@@ -541,7 +541,7 @@
 "year": 1989,
 "artist": "Andreas Vollenweider",
 "media": ["CD"],
-"genre": "Fusion",
+"genre": "Jazz/Fusion",
 "country": "Switzerland",
 "image": "img/34.jpg",
 "description": "",
@@ -554,7 +554,7 @@
 "year": 1990,
 "artist": "Andreas Vollenweider",
 "media": ["CD"],
-"genre": "Fusion",
+"genre": "Jazz/Fusion",
 "country": "Switzerland",
 "image": "img/366.jpg",
 "description": "Hans Vollenweider - Andreas Vollenweider",
@@ -567,7 +567,7 @@
 "year": 1991,
 "artist": "Andreas Vollenweider",
 "media": ["CD"],
-"genre": "Fusion",
+"genre": "Jazz/Fusion",
 "country": "Switzerland",
 "image": "img/35.jpg",
 "description": "",
@@ -580,7 +580,7 @@
 "year": 1993,
 "artist": "Andreas Vollenweider",
 "media": ["CD"],
-"genre": "Fusion",
+"genre": "Jazz/Fusion",
 "country": "Switzerland",
 "image": "img/36.jpg",
 "description": "",
@@ -593,7 +593,7 @@
 "year": 1994,
 "artist": "Andreas Vollenweider",
 "media": ["CD"],
-"genre": "Fusion",
+"genre": "Jazz/Fusion",
 "country": "Switzerland",
 "image": "img/37.jpg",
 "description": "",
@@ -606,7 +606,7 @@
 "year": 1997,
 "artist": "Andreas Vollenweider",
 "media": ["CD"],
-"genre": "Fusion",
+"genre": "Jazz/Fusion",
 "country": "Switzerland",
 "image": "img/38.jpg",
 "description": "",
@@ -619,7 +619,7 @@
 "year": 1999,
 "artist": "Andreas Vollenweider",
 "media": ["CD"],
-"genre": "Fusion",
+"genre": "Jazz/Fusion",
 "country": "Switzerland",
 "image": "img/39.jpg",
 "description": "",
@@ -632,7 +632,7 @@
 "year": 2004,
 "artist": "Andreas Vollenweider",
 "media": ["CD"],
-"genre": "Fusion",
+"genre": "Jazz/Fusion",
 "country": "Switzerland",
 "image": "img/40.jpg",
 "description": "",
@@ -645,7 +645,7 @@
 "year": 2006,
 "artist": "Andreas Vollenweider",
 "media": ["CD"],
-"genre": "Fusion",
+"genre": "Jazz/Fusion",
 "country": "Switzerland",
 "image": "img/45.jpg",
 "description": "Andreas Vollenweider Featuring Carly Simon",
@@ -658,7 +658,7 @@
 "year": 2006,
 "artist": "Andreas Vollenweider",
 "media": ["DVD"],
-"genre": "Fusion",
+"genre": "Jazz/Fusion",
 "country": "Switzerland",
 "image": "img/41.jpg",
 "description": "",
@@ -671,7 +671,7 @@
 "year": 2006,
 "artist": "Andreas Vollenweider",
 "media": ["CD","DVD"],
-"genre": "Fusion",
+"genre": "Jazz/Fusion",
 "country": "Switzerland",
 "image": "img/1054.jpg",
 "description": "",
@@ -684,7 +684,7 @@
 "year": 2008,
 "artist": "Andreas Vollenweider",
 "media": ["CD"],
-"genre": "Fusion",
+"genre": "Jazz/Fusion",
 "country": "Switzerland",
 "image": "img/44.jpg",
 "description": "Andreas Vollenweider & Friends",
@@ -697,7 +697,7 @@
 "year": 2009,
 "artist": "Andreas Vollenweider",
 "media": ["CD"],
-"genre": "Fusion",
+"genre": "Jazz/Fusion",
 "country": "Switzerland",
 "image": "img/42.jpg",
 "description": "",
@@ -710,7 +710,7 @@
 "year": 2020,
 "artist": "Andreas Vollenweider",
 "media": ["CD"],
-"genre": "Fusion",
+"genre": "Jazz/Fusion",
 "country": "Switzerland",
 "image": "img/43.jpg",
 "description": "",
@@ -723,7 +723,7 @@
 "year": 2024,
 "artist": "Andreas Vollenweider",
 "media": ["CD","DVD"],
-"genre": "Fusion",
+"genre": "Jazz/Fusion",
 "country": "Switzerland",
 "image": "img/1146.jpg",
 "description": "",
@@ -983,7 +983,7 @@
 "year": 1998,
 "artist": "Aretha Franklin",
 "media": ["CD"],
-"genre": "Funk / Soul / R&B",
+"genre": "Funk/Soul/R&B",
 "country": "USA",
 "image": "img/66.jpg",
 "description": "",
@@ -1035,7 +1035,7 @@
 "year": 2012,
 "artist": "Arturo Sandoval",
 "media": ["CD"],
-"genre": "Jazz",
+"genre": "Jazz/Fusion",
 "country": "USA",
 "image": "img/69.jpg",
 "description": "",
@@ -1269,7 +1269,7 @@
 "year": 1975,
 "artist": "Azymuth",
 "media": ["CD"],
-"genre": "Fusion",
+"genre": "Jazz/Fusion",
 "country": "Brazil",
 "image": "img/86.jpg",
 "description": "",
@@ -1282,7 +1282,7 @@
 "year": 1977,
 "artist": "Azymuth",
 "media": ["CD"],
-"genre": "Fusion",
+"genre": "Jazz/Fusion",
 "country": "Brazil",
 "image": "img/87.jpg",
 "description": "",
@@ -1295,7 +1295,7 @@
 "year": 1979,
 "artist": "Azymuth",
 "media": ["CD"],
-"genre": "Fusion",
+"genre": "Jazz/Fusion",
 "country": "Brazil",
 "image": "img/88.jpg",
 "description": "",
@@ -1308,7 +1308,7 @@
 "year": 2001,
 "artist": "Azymuth",
 "media": ["CD"],
-"genre": "Fusion",
+"genre": "Jazz/Fusion",
 "country": "Brazil",
 "image": "img/89.jpg",
 "description": "Cascades 1982 Rapid Transit 1983",
@@ -1464,7 +1464,7 @@
 "year": 1994,
 "artist": "Barry White",
 "media": ["CD"],
-"genre": "Funk / Soul / R&B",
+"genre": "Funk/Soul/R&B",
 "country": "USA",
 "image": "img/97.jpg",
 "description": "",
@@ -1503,7 +1503,7 @@
 "year": 1967,
 "artist": "Bee Gees",
 "media": ["CD"],
-"genre": "Funk / Soul / R&B",
+"genre": "Funk/Soul/R&B",
 "country": "UK",
 "image": "img/100.jpg",
 "description": "",
@@ -1516,7 +1516,7 @@
 "year": 1968,
 "artist": "Bee Gees",
 "media": ["CD"],
-"genre": "Funk / Soul / R&B",
+"genre": "Funk/Soul/R&B",
 "country": "UK",
 "image": "img/101.jpg",
 "description": "",
@@ -1529,7 +1529,7 @@
 "year": 1968,
 "artist": "Bee Gees",
 "media": ["LP"],
-"genre": "Funk / Soul / R&B",
+"genre": "Funk/Soul/R&B",
 "country": "UK",
 "image": "img/1176.jpg",
 "description": "Edition: Argentina",
@@ -1542,7 +1542,7 @@
 "year": 1969,
 "artist": "Bee Gees",
 "media": ["CD"],
-"genre": "Funk / Soul / R&B",
+"genre": "Funk/Soul/R&B",
 "country": "UK",
 "image": "img/102.jpg",
 "description": "",
@@ -1555,7 +1555,7 @@
 "year": 1970,
 "artist": "Bee Gees",
 "media": ["CD"],
-"genre": "Funk / Soul / R&B",
+"genre": "Funk/Soul/R&B",
 "country": "UK",
 "image": "img/103.jpg",
 "description": "",
@@ -1568,7 +1568,7 @@
 "year": 1973,
 "artist": "Bee Gees",
 "media": ["CD"],
-"genre": "Funk / Soul / R&B",
+"genre": "Funk/Soul/R&B",
 "country": "UK",
 "image": "img/104.jpg",
 "description": "",
@@ -1581,7 +1581,7 @@
 "year": 1974,
 "artist": "Bee Gees",
 "media": ["CD"],
-"genre": "Funk / Soul / R&B",
+"genre": "Funk/Soul/R&B",
 "country": "UK",
 "image": "img/105.jpg",
 "description": "",
@@ -1594,7 +1594,7 @@
 "year": 1975,
 "artist": "Bee Gees",
 "media": ["CD"],
-"genre": "Funk / Soul / R&B",
+"genre": "Funk/Soul/R&B",
 "country": "UK",
 "image": "img/106.jpg",
 "description": "",
@@ -1607,7 +1607,7 @@
 "year": 1976,
 "artist": "Bee Gees",
 "media": ["CD"],
-"genre": "Funk / Soul / R&B",
+"genre": "Funk/Soul/R&B",
 "country": "UK",
 "image": "img/107.jpg",
 "description": "",
@@ -1620,7 +1620,7 @@
 "year": 1978,
 "artist": "Bee Gees",
 "media": ["LP"],
-"genre": "Funk / Soul / R&B",
+"genre": "Funk/Soul/R&B",
 "country": "UK",
 "image": "img/1191.jpg",
 "description": "Edition: Argentina",
@@ -1633,7 +1633,7 @@
 "year": 1978,
 "artist": "Bee Gees",
 "media": ["CD"],
-"genre": "Funk / Soul / R&B",
+"genre": "Funk/Soul/R&B",
 "country": "UK",
 "image": "img/108.jpg",
 "description": "",
@@ -1646,7 +1646,7 @@
 "year": 1981,
 "artist": "Bee Gees",
 "media": ["CD"],
-"genre": "Funk / Soul / R&B",
+"genre": "Funk/Soul/R&B",
 "country": "UK",
 "image": "img/109.jpg",
 "description": "",
@@ -1659,7 +1659,7 @@
 "year": 1989,
 "artist": "Bee Gees",
 "media": ["CD"],
-"genre": "Funk / Soul / R&B",
+"genre": "Funk/Soul/R&B",
 "country": "UK",
 "image": "img/110.jpg",
 "description": "",
@@ -1672,7 +1672,7 @@
 "year": 1993,
 "artist": "Bee Gees",
 "media": ["CD"],
-"genre": "Funk / Soul / R&B",
+"genre": "Funk/Soul/R&B",
 "country": "UK",
 "image": "img/111.jpg",
 "description": "",
@@ -1685,7 +1685,7 @@
 "year": 1997,
 "artist": "Bee Gees",
 "media": ["CD"],
-"genre": "Funk / Soul / R&B",
+"genre": "Funk/Soul/R&B",
 "country": "UK",
 "image": "img/112.jpg",
 "description": "",
@@ -1698,7 +1698,7 @@
 "year": 1998,
 "artist": "Bee Gees",
 "media": ["CD"],
-"genre": "Funk / Soul / R&B",
+"genre": "Funk/Soul/R&B",
 "country": "UK",
 "image": "img/113.jpg",
 "description": "",
@@ -1711,7 +1711,7 @@
 "year": 2001,
 "artist": "Bee Gees",
 "media": ["CD"],
-"genre": "Funk / Soul / R&B",
+"genre": "Funk/Soul/R&B",
 "country": "UK",
 "image": "img/114.jpg",
 "description": "",
@@ -1841,7 +1841,7 @@
 "year": 1974,
 "artist": "Bob James",
 "media": ["CD"],
-"genre": "Jazz",
+"genre": "Jazz/Fusion",
 "country": "USA",
 "image": "img/123.jpg",
 "description": "",
@@ -1854,7 +1854,7 @@
 "year": 1975,
 "artist": "Bob James",
 "media": ["CD"],
-"genre": "Jazz",
+"genre": "Jazz/Fusion",
 "country": "USA",
 "image": "img/124.jpg",
 "description": "",
@@ -1867,7 +1867,7 @@
 "year": 1976,
 "artist": "Bob James",
 "media": ["CD"],
-"genre": "Jazz",
+"genre": "Jazz/Fusion",
 "country": "USA",
 "image": "img/125.jpg",
 "description": "",
@@ -1880,7 +1880,7 @@
 "year": 2014,
 "artist": "Bob james",
 "media": ["CD"],
-"genre": "Jazz",
+"genre": "Jazz/Fusion",
 "country": "USA",
 "image": "img/126.jpg",
 "description": "H' 1980 Sign Of The Times 1981",
@@ -2010,7 +2010,7 @@
 "year": 1995,
 "artist": "Bobby McFerrin",
 "media": ["CD"],
-"genre": "Jazz",
+"genre": "Jazz/Fusion",
 "country": "USA",
 "image": "img/135.jpg",
 "description": "",
@@ -2023,7 +2023,7 @@
 "year": 2000,
 "artist": "Bobby McFerrin",
 "media": ["DVD"],
-"genre": "Jazz",
+"genre": "Jazz/Fusion",
 "country": "USA",
 "image": "img/985.jpg",
 "description": "",
@@ -2036,7 +2036,7 @@
 "year": 2018,
 "artist": "Bobby Timmons Trio",
 "media": ["CD"],
-"genre": "Jazz",
+"genre": "Jazz/Fusion",
 "country": "USA",
 "image": "img/136.jpg",
 "description": "Sweet And Soulful Sounds 1962 Born To Be Blue 1963 A Little Barefoot Soul 1964 Chung-King 1965",
@@ -2062,7 +2062,7 @@
 "year": 1968,
 "artist": "Booker T & The MG's",
 "media": ["CD"],
-"genre": "Funk / Soul / R&B",
+"genre": "Funk/Soul/R&B",
 "country": "USA",
 "image": "img/137.jpg",
 "description": "",
@@ -2075,7 +2075,7 @@
 "year": 1970,
 "artist": "Booker T & The MG's",
 "media": ["CD"],
-"genre": "Funk / Soul / R&B",
+"genre": "Funk/Soul/R&B",
 "country": "USA",
 "image": "img/138.jpg",
 "description": "",
@@ -2270,7 +2270,7 @@
 "year": 1962,
 "artist": "Cal Tjader",
 "media": ["CD"],
-"genre": "Jazz",
+"genre": "Jazz/Fusion",
 "country": "USA",
 "image": "img/154.jpg",
 "description": "",
@@ -2400,7 +2400,7 @@
 "year": 1958,
 "artist": "Cannonball Adderley",
 "media": ["CD"],
-"genre": "Jazz",
+"genre": "Jazz/Fusion",
 "country": "USA",
 "image": "img/158.jpg",
 "description": "",
@@ -2582,7 +2582,7 @@
 "year": 2001,
 "artist": "Charles Lloyd",
 "media": ["CD"],
-"genre": "Jazz",
+"genre": "Jazz/Fusion",
 "country": "USA",
 "image": "img/173.jpg",
 "description": "",
@@ -2647,7 +2647,7 @@
 "year": 1972,
 "artist": "Chick Corea",
 "media": ["CD"],
-"genre": "Fusion",
+"genre": "Jazz/Fusion",
 "country": "USA",
 "image": "img/178.jpg",
 "description": "Chick Corea, Return To Forever",
@@ -2660,7 +2660,7 @@
 "year": 1973,
 "artist": "Chick Corea",
 "media": ["CD"],
-"genre": "Fusion",
+"genre": "Jazz/Fusion",
 "country": "USA",
 "image": "img/681.jpg",
 "description": "Return To Forever Featuring Chick Corea",
@@ -2673,7 +2673,7 @@
 "year": 1974,
 "artist": "Chick Corea",
 "media": ["CD"],
-"genre": "Fusion",
+"genre": "Jazz/Fusion",
 "country": "USA",
 "image": "img/682.jpg",
 "description": "Return To Forever Featuring Chick Corea",
@@ -2686,7 +2686,7 @@
 "year": 1975,
 "artist": "Chick Corea",
 "media": ["CD"],
-"genre": "Fusion",
+"genre": "Jazz/Fusion",
 "country": "USA",
 "image": "img/683.jpg",
 "description": "Return To Forever Featuring Chick Corea",
@@ -2699,7 +2699,7 @@
 "year": 1976,
 "artist": "Chick Corea",
 "media": ["CD"],
-"genre": "Fusion",
+"genre": "Jazz/Fusion",
 "country": "USA",
 "image": "img/177.jpg",
 "description": "Chick Corea",
@@ -3024,7 +3024,7 @@
 "year": 1970,
 "artist": "Clear Blue Sky",
 "media": ["LP"],
-"genre": "Hard Rock",
+"genre": "Rock",
 "country": "UK",
 "image": "img/1179.jpg",
 "description": "",
@@ -3037,7 +3037,7 @@
 "year": 1975,
 "artist": "Clearlight",
 "media": ["CD"],
-"genre": "Fusion",
+"genre": "Jazz/Fusion",
 "country": "France",
 "image": "img/1177.jpg",
 "description": "",
@@ -3167,7 +3167,7 @@
 "year": 1976,
 "artist": "Crucis",
 "media": ["CD"],
-"genre": "Fusion",
+"genre": "Jazz/Fusion",
 "country": "Argentina",
 "image": "img/212.jpg",
 "description": "Crucis 1976 Los Delirios Del Mariscal 1976",
@@ -3180,7 +3180,7 @@
 "year": 1972,
 "artist": "Dakila",
 "media": ["LP"],
-"genre": "Funk / Soul / R&B",
+"genre": "Funk/Soul/R&B",
 "country": "USA",
 "image": "img/213.jpg",
 "description": "",
@@ -3206,7 +3206,7 @@
 "year": 2000,
 "artist": "Dave Brubeck",
 "media": ["CD"],
-"genre": "Jazz",
+"genre": "Jazz/Fusion",
 "country": "USA",
 "image": "img/215.jpg",
 "description": "",
@@ -3284,7 +3284,7 @@
 "year": 1966,
 "artist": "David Snell",
 "media": ["CD"],
-"genre": "Jazz",
+"genre": "Jazz/Fusion",
 "country": "UK",
 "image": "img/181.jpg",
 "description": "",
@@ -3323,7 +3323,7 @@
 "year": 1970,
 "artist": "Demon Fuzz",
 "media": ["CD"],
-"genre": "Fusion",
+"genre": "Jazz/Fusion",
 "country": "UK",
 "image": "img/224.jpg",
 "description": "",
@@ -3453,7 +3453,7 @@
 "year": 2003,
 "artist": "Donna Summer",
 "media": ["CD"],
-"genre": "Funk / Soul / R&B",
+"genre": "Funk/Soul/R&B",
 "country": "USA",
 "image": "img/232.jpg",
 "description": "",
@@ -3466,7 +3466,7 @@
 "year": 1968,
 "artist": "Dorothy Ashby",
 "media": ["CD"],
-"genre": "Fusion",
+"genre": "Jazz/Fusion",
 "country": "USA",
 "image": "img/233.jpg",
 "description": "",
@@ -3518,7 +3518,7 @@
 "year": 2003,
 "artist": "Dr. Lonnie Smith",
 "media": ["CD"],
-"genre": "Jazz",
+"genre": "Jazz/Fusion",
 "country": "USA",
 "image": "img/235.jpg",
 "description": "",
@@ -3635,7 +3635,7 @@
 "year": 1999,
 "artist": "Earth Wind & Fire",
 "media": ["CD"],
-"genre": "Funk / Soul / R&B",
+"genre": "Funk/Soul/R&B",
 "country": "USA",
 "image": "img/245.jpg",
 "description": "",
@@ -3778,7 +3778,7 @@
 "year": 1957,
 "artist": "Ella Fitzgerald & Louis Armstrong",
 "media": ["CD"],
-"genre": "Jazz",
+"genre": "Jazz/Fusion",
 "country": "USA",
 "image": "img/258.jpg",
 "description": "",
@@ -3791,7 +3791,7 @@
 "year": 1994,
 "artist": "Ella Fitzgerald & Louis Armstrong",
 "media": ["CD"],
-"genre": "Jazz",
+"genre": "Jazz/Fusion",
 "country": "USA",
 "image": "img/259.jpg",
 "description": "",
@@ -3986,7 +3986,7 @@
 "year": 1975,
 "artist": "Emphasis",
 "media": ["CD"],
-"genre": "Fusion",
+"genre": "Jazz/Fusion",
 "country": "Switzerland",
 "image": "img/268.jpg",
 "description": "",
@@ -4051,7 +4051,7 @@
 "year": 1996,
 "artist": "Eric Burdon",
 "media": ["CD"],
-"genre": "Funk / Soul / R&B",
+"genre": "Funk/Soul/R&B",
 "country": "UK",
 "image": "img/276.jpg",
 "description": "",
@@ -4181,7 +4181,7 @@
 "year": 1971,
 "artist": "Felt",
 "media": ["CD"],
-"genre": "Fusion",
+"genre": "Jazz/Fusion",
 "country": "USA",
 "image": "img/286.jpg",
 "description": "",
@@ -4519,7 +4519,7 @@
 "year": 1983,
 "artist": "Frank Sinatra",
 "media": ["CD"],
-"genre": "Jazz",
+"genre": "Jazz/Fusion",
 "country": "USA",
 "image": "img/310.jpg",
 "description": "",
@@ -4532,7 +4532,7 @@
 "year": 2004,
 "artist": "Frank Zappa",
 "media": ["CD"],
-"genre": "Fusion",
+"genre": "Jazz/Fusion",
 "country": "USA",
 "image": "img/311.jpg",
 "description": "",
@@ -4558,7 +4558,7 @@
 "year": 1972,
 "artist": "Frank Zappa The Mothers",
 "media": ["CD"],
-"genre": "Fusion",
+"genre": "Jazz/Fusion",
 "country": "USA",
 "image": "img/313.jpg",
 "description": "",
@@ -4623,7 +4623,7 @@
 "year": 2015,
 "artist": "Gabor Szabo",
 "media": ["CD"],
-"genre": "Jazz",
+"genre": "Jazz/Fusion",
 "country": "Hungary",
 "image": "img/319.jpg",
 "description": "Gypsy '66 1965 Spellbinder 1966",
@@ -4727,7 +4727,7 @@
 "year": 2006,
 "artist": "George Benson",
 "media": ["CD"],
-"genre": "Jazz",
+"genre": "Jazz/Fusion",
 "country": "USA",
 "image": "img/326.jpg",
 "description": "",
@@ -4751,14 +4751,14 @@
 "id": 328,
 "name": "The Concert For Bangladesh",
 "year": 1971,
-"artist": "George Harrison & Others",
+"artist": "George Harrison",
 "media": ["LP"],
 "genre": "Pop Rock",
 "country": "USA",
 "image": "img/328.jpg",
 "description": "",
 "decade": 1970,
-"related": ["George Harrison"]
+"related": ["The Fab Four"]
 },
 {
 "id": 394,
@@ -5104,7 +5104,7 @@
 "year": 1985,
 "artist": "Grace Jones",
 "media": ["CD","LP"],
-"genre": "Funk / Soul / R&B",
+"genre": "Funk/Soul/R&B",
 "country": "UK",
 "image": "img/354.jpg",
 "description": "",
@@ -5156,7 +5156,7 @@
 "year": 1964,
 "artist": "Grant Green",
 "media": ["CD"],
-"genre": "Jazz",
+"genre": "Jazz/Fusion",
 "country": "USA",
 "image": "img/356.jpg",
 "description": "",
@@ -5169,7 +5169,7 @@
 "year": 1979,
 "artist": "Grant Green",
 "media": ["CD"],
-"genre": "Jazz",
+"genre": "Jazz/Fusion",
 "country": "USA",
 "image": "img/357.jpg",
 "description": "",
@@ -5338,7 +5338,7 @@
 "year": 1973,
 "artist": "Herbie Hancock",
 "media": ["CD"],
-"genre": "Jazz",
+"genre": "Jazz/Fusion",
 "country": "USA",
 "image": "img/370.jpg",
 "description": "",
@@ -5351,7 +5351,7 @@
 "year": 2011,
 "artist": "Herbie Hancock",
 "media": ["CD"],
-"genre": "Jazz",
+"genre": "Jazz/Fusion",
 "country": "USA",
 "image": "img/371.jpg",
 "description": "",
@@ -5416,7 +5416,7 @@
 "year": 1976,
 "artist": "Hiroshi Suzuki",
 "media": ["CD"],
-"genre": "Fusion",
+"genre": "Jazz/Fusion",
 "country": "Japan",
 "image": "img/375.jpg",
 "description": "",
@@ -5429,7 +5429,7 @@
 "year": 1971,
 "artist": "Hozan Yamamoto With Sharps & Flats",
 "media": ["CD"],
-"genre": "Funk / Soul / R&B",
+"genre": "Funk/Soul/R&B",
 "country": "Japan",
 "image": "img/376.jpg",
 "description": "",
@@ -5442,7 +5442,7 @@
 "year": 2012,
 "artist": "Hughes De Courson",
 "media": ["CD"],
-"genre": "Fusion",
+"genre": "Jazz/Fusion",
 "country": "France",
 "image": "img/379.jpg",
 "description": "Bach l'Africain Lambarena",
@@ -5455,7 +5455,7 @@
 "year": 2012,
 "artist": "Hughes De Courson",
 "media": ["CD"],
-"genre": "Fusion",
+"genre": "Jazz/Fusion",
 "country": "France",
 "image": "img/377.jpg",
 "description": "Mozart l'Egyptien",
@@ -5468,7 +5468,7 @@
 "year": 2012,
 "artist": "Hughes De Courson",
 "media": ["CD"],
-"genre": "Fusion",
+"genre": "Jazz/Fusion",
 "country": "France",
 "image": "img/378.jpg",
 "description": "Mozart l'Egyptien 2",
@@ -5481,7 +5481,7 @@
 "year": 2012,
 "artist": "Hughes De Courson",
 "media": ["CD"],
-"genre": "Fusion",
+"genre": "Jazz/Fusion",
 "country": "France",
 "image": "img/380.jpg",
 "description": "Vivaldi l'Irlandais O'Stravaganza",
@@ -5494,7 +5494,7 @@
 "year": 1977,
 "artist": "Iceberg",
 "media": ["CD"],
-"genre": "Fusion",
+"genre": "Jazz/Fusion",
 "country": "Spain",
 "image": "img/381.jpg",
 "description": "",
@@ -5546,7 +5546,7 @@
 "year": 1972,
 "artist": "Ira Kris",
 "media": ["CD"],
-"genre": "Jazz",
+"genre": "Jazz/Fusion",
 "country": "Germany",
 "image": "img/386.jpg",
 "description": "",
@@ -5559,12 +5559,12 @@
 "year": 1979,
 "artist": "Irene Papas",
 "media": ["CD"],
-"genre": "Fusion",
+"genre": "Electronica",
 "country": "Greece",
 "image": "img/387.jpg",
 "description": "",
 "decade": 1970,
-"related": []
+"related": ["Vangelis"]
 },
 {
 "id": 388,
@@ -5676,7 +5676,7 @@
 "year": 1965,
 "artist": "J. J. Johnson",
 "media": ["CD"],
-"genre": "Jazz",
+"genre": "Jazz/Fusion",
 "country": "USA",
 "image": "img/396.jpg",
 "description": "",
@@ -5754,7 +5754,7 @@
 "year": 1972,
 "artist": "Janko Nilovic",
 "media": ["CD"],
-"genre": "Funk / Soul / R&B",
+"genre": "Funk/Soul/R&B",
 "country": "France",
 "image": "img/404.jpg",
 "description": "Vol 1",
@@ -5767,7 +5767,7 @@
 "year": 1972,
 "artist": "Janko Nilovic",
 "media": ["CD"],
-"genre": "Funk / Soul / R&B",
+"genre": "Funk/Soul/R&B",
 "country": "France",
 "image": "img/403.jpg",
 "description": "Vol 1",
@@ -5780,7 +5780,7 @@
 "year": 1972,
 "artist": "Janko Nilovic",
 "media": ["CD"],
-"genre": "Funk / Soul / R&B",
+"genre": "Funk/Soul/R&B",
 "country": "France",
 "image": "img/405.jpg",
 "description": "Vol 1",
@@ -5793,7 +5793,7 @@
 "year": 1975,
 "artist": "Jean-Luc Ponty",
 "media": ["CD"],
-"genre": "Fusion",
+"genre": "Jazz/Fusion",
 "country": "France",
 "image": "img/406.jpg",
 "description": "",
@@ -5806,7 +5806,7 @@
 "year": 1976,
 "artist": "Jean-Luc Ponty",
 "media": ["CD"],
-"genre": "Fusion",
+"genre": "Jazz/Fusion",
 "country": "France",
 "image": "img/407.jpg",
 "description": "",
@@ -5819,7 +5819,7 @@
 "year": 1976,
 "artist": "Jean-Luc Ponty",
 "media": ["CD"],
-"genre": "Fusion",
+"genre": "Jazz/Fusion",
 "country": "France",
 "image": "img/408.jpg",
 "description": "",
@@ -5832,7 +5832,7 @@
 "year": 1977,
 "artist": "Jean-Luc Ponty",
 "media": ["CD"],
-"genre": "Fusion",
+"genre": "Jazz/Fusion",
 "country": "France",
 "image": "img/409.jpg",
 "description": "",
@@ -5845,7 +5845,7 @@
 "year": 1978,
 "artist": "Jean-Luc Ponty",
 "media": ["CD"],
-"genre": "Fusion",
+"genre": "Jazz/Fusion",
 "country": "France",
 "image": "img/410.jpg",
 "description": "",
@@ -6092,7 +6092,7 @@
 "year": 1964,
 "artist": "Jimmy Smith",
 "media": ["CD"],
-"genre": "Jazz",
+"genre": "Jazz/Fusion",
 "country": "USA",
 "image": "img/940.jpg",
 "description": "",
@@ -6105,7 +6105,7 @@
 "year": 1970,
 "artist": "Jiro Inagaki & His Soul Media",
 "media": ["CD"],
-"genre": "Fusion",
+"genre": "Jazz/Fusion",
 "country": "Japan",
 "image": "img/432.jpg",
 "description": "",
@@ -6118,7 +6118,7 @@
 "year": 1975,
 "artist": "Jiro Inagaki & Soul Media",
 "media": ["CD"],
-"genre": "Jazz",
+"genre": "Jazz/Fusion",
 "country": "Japan",
 "image": "img/433.jpg",
 "description": "",
@@ -6144,7 +6144,7 @@
 "year": 1963,
 "artist": "Joe Henderson",
 "media": ["CD"],
-"genre": "Jazz",
+"genre": "Jazz/Fusion",
 "country": "USA",
 "image": "img/435.jpg",
 "description": "",
@@ -6170,7 +6170,7 @@
 "year": 2005,
 "artist": "Joey Defrancesco With Jimmy Smith",
 "media": ["CD"],
-"genre": "Jazz",
+"genre": "Jazz/Fusion",
 "country": "USA",
 "image": "img/437.jpg",
 "description": "",
@@ -6183,7 +6183,7 @@
 "year": 2014,
 "artist": "John Coltrane",
 "media": ["CD"],
-"genre": "Jazz",
+"genre": "Jazz/Fusion",
 "country": "USA",
 "image": "img/438.jpg",
 "description": "Giant Steps 1960 Coltrane Jazz 1961 Bags & Trane 1961 My Favorites Things 1961",
@@ -6508,7 +6508,7 @@
 "year": 2015,
 "artist": "Kamasi Whashington",
 "media": ["CD"],
-"genre": "Jazz",
+"genre": "Jazz/Fusion",
 "country": "USA",
 "image": "img/459.jpg",
 "description": "",
@@ -6521,7 +6521,7 @@
 "year": 2006,
 "artist": "Karl Jenkins",
 "media": ["CD"],
-"genre": "",
+"genre": "Jazz/Fusion",
 "country": "UK",
 "image": "img/401.jpg",
 "description": "",
@@ -6534,7 +6534,7 @@
 "year": 1999,
 "artist": "Kazumi Watanabe",
 "media": ["CD"],
-"genre": "Funk / Soul / R&B",
+"genre": "Funk/Soul/R&B",
 "country": "Japan",
 "image": "img/460.jpg",
 "description": "",
@@ -6547,7 +6547,7 @@
 "year": 1996,
 "artist": "KC & The Sunshine Band",
 "media": ["CD"],
-"genre": "Funk / Soul / R&B",
+"genre": "Funk/Soul/R&B",
 "country": "USA",
 "image": "img/461.jpg",
 "description": "",
@@ -6560,7 +6560,7 @@
 "year": 1973,
 "artist": "Keith Mansfield & John Cameron",
 "media": ["LP"],
-"genre": "Jazz",
+"genre": "Jazz/Fusion",
 "country": "UK",
 "image": "img/462.jpg",
 "description": "",
@@ -6573,7 +6573,7 @@
 "year": 2014,
 "artist": "Kenny Burrell",
 "media": ["CD"],
-"genre": "Jazz",
+"genre": "Jazz/Fusion",
 "country": "USA",
 "image": "img/463.jpg",
 "description": "Kenny Burrell with Stanley Turrentine / Major Holley Jr / Bill English / Ray Barretto",
@@ -6716,7 +6716,7 @@
 "year": 1992,
 "artist": "Kitaro",
 "media": ["CD"],
-"genre": "Fusion",
+"genre": "Jazz/Fusion",
 "country": "Japan",
 "image": "img/472.jpg",
 "description": "",
@@ -6729,7 +6729,7 @@
 "year": 1973,
 "artist": "Kollektiv",
 "media": ["CD"],
-"genre": "Fusion",
+"genre": "Jazz/Fusion",
 "country": "Germany",
 "image": "img/473.jpg",
 "description": "",
@@ -6742,7 +6742,7 @@
 "year": 1972,
 "artist": "Kraan",
 "media": ["CD"],
-"genre": "Fusion",
+"genre": "Jazz/Fusion",
 "country": "Germany",
 "image": "img/474.jpg",
 "description": "1972 / 1973",
@@ -6924,7 +6924,7 @@
 "year": 1976,
 "artist": "Lonnie Liston Smith & The Cosmic Echoes",
 "media": ["CD"],
-"genre": "Funk / Soul / R&B",
+"genre": "Funk/Soul/R&B",
 "country": "USA",
 "image": "img/489.jpg",
 "description": "",
@@ -6937,7 +6937,7 @@
 "year": 1993,
 "artist": "Los Fabulosos Cadillacs",
 "media": ["CD"],
-"genre": "Funk / Soul / R&B",
+"genre": "Funk/Soul/R&B",
 "country": "Argentina",
 "image": "img/490.jpg",
 "description": "",
@@ -6976,7 +6976,7 @@
 "year": 1990,
 "artist": "Luis Cobos",
 "media": ["CD"],
-"genre": "Fusion",
+"genre": "Classical",
 "country": "Spain",
 "image": "img/492.jpg",
 "description": "",
@@ -6989,7 +6989,7 @@
 "year": 1969,
 "artist": "Luis Gasca",
 "media": ["CD"],
-"genre": "Jazz",
+"genre": "Jazz/Fusion",
 "country": "USA",
 "image": "img/493.jpg",
 "description": "",
@@ -7002,7 +7002,7 @@
 "year": 1976,
 "artist": "Luis Gasca",
 "media": ["CD"],
-"genre": "Fusion",
+"genre": "Jazz/Fusion",
 "country": "USA",
 "image": "img/494.jpg",
 "description": "",
@@ -7171,7 +7171,7 @@
 "year": 1971,
 "artist": "Mahavishnu Orchestra",
 "media": ["CD"],
-"genre": "Fusion",
+"genre": "Jazz/Fusion",
 "country": "UK",
 "image": "img/506.jpg",
 "description": "",
@@ -7184,7 +7184,7 @@
 "year": 1973,
 "artist": "Mahavishnu Orchestra",
 "media": ["CD"],
-"genre": "Fusion",
+"genre": "Jazz/Fusion",
 "country": "UK",
 "image": "img/507.jpg",
 "description": "",
@@ -7197,7 +7197,7 @@
 "year": 1973,
 "artist": "Mahavishnu Orchestra",
 "media": ["CD"],
-"genre": "Fusion",
+"genre": "Jazz/Fusion",
 "country": "UK",
 "image": "img/508.jpg",
 "description": "",
@@ -7210,7 +7210,7 @@
 "year": 1974,
 "artist": "Mahavishnu Orchestra",
 "media": ["CD"],
-"genre": "Fusion",
+"genre": "Jazz/Fusion",
 "country": "UK",
 "image": "img/509.jpg",
 "description": "",
@@ -7223,7 +7223,7 @@
 "year": 1975,
 "artist": "Mahavishnu Orchestra",
 "media": ["CD"],
-"genre": "Fusion",
+"genre": "Jazz/Fusion",
 "country": "UK",
 "image": "img/510.jpg",
 "description": "",
@@ -7665,7 +7665,7 @@
 "year": 1971,
 "artist": "Mark-Almond",
 "media": ["CD"],
-"genre": "Fusion",
+"genre": "Jazz/Fusion",
 "country": "UK",
 "image": "img/543.jpg",
 "description": "",
@@ -7678,7 +7678,7 @@
 "year": 1972,
 "artist": "Mark-Almond",
 "media": ["CD"],
-"genre": "Fusion",
+"genre": "Jazz/Fusion",
 "country": "UK",
 "image": "img/544.jpg",
 "description": "",
@@ -7691,7 +7691,7 @@
 "year": 1975,
 "artist": "Masaru Imada Trio +2",
 "media": ["CD"],
-"genre": "Fusion",
+"genre": "Jazz/Fusion",
 "country": "Japan",
 "image": "img/545.jpg",
 "description": "",
@@ -7782,7 +7782,7 @@
 "year": 2017,
 "artist": "Mezcla",
 "media": ["CD"],
-"genre": "Fusion",
+"genre": "Jazz/Fusion",
 "country": "UK",
 "image": "img/552.jpg",
 "description": "",
@@ -7951,7 +7951,7 @@
 "year": 1986,
 "artist": "Mike Ribas",
 "media": ["LP"],
-"genre": "Funk / Soul / R&B",
+"genre": "Funk/Soul/R&B",
 "country": "Argentina",
 "image": "img/564.jpg",
 "description": "Edition: Argentina",
@@ -7964,7 +7964,7 @@
 "year": 1998,
 "artist": "Mikio Masuda",
 "media": ["CD"],
-"genre": "Jazz",
+"genre": "Jazz/Fusion",
 "country": "Japan",
 "image": "img/565.jpg",
 "description": "",
@@ -7977,7 +7977,7 @@
 "year": 1959,
 "artist": "Miles Davis",
 "media": ["CD"],
-"genre": "Jazz",
+"genre": "Jazz/Fusion",
 "country": "USA",
 "image": "img/566.jpg",
 "description": "",
@@ -7990,7 +7990,7 @@
 "year": 1961,
 "artist": "Miles Davis",
 "media": ["CD"],
-"genre": "Jazz",
+"genre": "Jazz/Fusion",
 "country": "USA",
 "image": "img/567.jpg",
 "description": "",
@@ -8003,7 +8003,7 @@
 "year": 1971,
 "artist": "Miles Davis",
 "media": ["CD"],
-"genre": "Jazz",
+"genre": "Jazz/Fusion",
 "country": "USA",
 "image": "img/568.jpg",
 "description": "",
@@ -8016,7 +8016,7 @@
 "year": 1987,
 "artist": "Miles Davis /  Marcus Miller",
 "media": ["CD"],
-"genre": "Jazz",
+"genre": "Jazz/Fusion",
 "country": "USA",
 "image": "img/569.jpg",
 "description": "",
@@ -8029,7 +8029,7 @@
 "year": 1970,
 "artist": "Minoru Muraoka",
 "media": ["CD"],
-"genre": "Jazz",
+"genre": "Jazz/Fusion",
 "country": "Japan",
 "image": "img/570.jpg",
 "description": "",
@@ -8276,7 +8276,7 @@
 "year": 2003,
 "artist": "Nina Simone",
 "media": ["CD"],
-"genre": "Jazz",
+"genre": "Jazz/Fusion",
 "country": "USA",
 "image": "img/592.jpg",
 "description": "",
@@ -8302,7 +8302,7 @@
 "year": 1994,
 "artist": "Nucleus",
 "media": ["CD"],
-"genre": "Fusion",
+"genre": "Jazz/Fusion",
 "country": "UK",
 "image": "img/594.jpg",
 "description": "Elastic Rock 1970 We'll Talk About It Later 1971",
@@ -8328,7 +8328,7 @@
 "year": 1980,
 "artist": "Osamu Kitajima",
 "media": ["CD"],
-"genre": "Fusion",
+"genre": "Jazz/Fusion",
 "country": "Japan",
 "image": "img/596.jpg",
 "description": "",
@@ -8341,7 +8341,7 @@
 "year": 1981,
 "artist": "Osamu Kitajima",
 "media": ["CD"],
-"genre": "Fusion",
+"genre": "Jazz/Fusion",
 "country": "Japan",
 "image": "img/597.jpg",
 "description": "",
@@ -8354,7 +8354,7 @@
 "year": 1977,
 "artist": "Osibisa",
 "media": ["CD"],
-"genre": "Funk / Soul / R&B",
+"genre": "Funk/Soul/R&B",
 "country": "UK",
 "image": "img/598.jpg",
 "description": "",
@@ -8367,7 +8367,7 @@
 "year": 1992,
 "artist": "Otis Redding",
 "media": ["CD"],
-"genre": "Funk / Soul / R&B",
+"genre": "Funk/Soul/R&B",
 "country": "USA",
 "image": "img/599.jpg",
 "description": "",
@@ -8458,7 +8458,7 @@
 "year": 1972,
 "artist": "Paladin",
 "media": ["LP"],
-"genre": "Hard Rock",
+"genre": "Rock",
 "country": "UK",
 "image": "img/605.jpg",
 "description": "",
@@ -8471,7 +8471,7 @@
 "year": 1996,
 "artist": "Paquito D'Rivera",
 "media": ["CD"],
-"genre": "Fusion",
+"genre": "Jazz/Fusion",
 "country": "USA",
 "image": "img/606.jpg",
 "description": "Paquito D'Rivera Presents Cuba Jazz 90 Miles To Cubafeaturing Bebo And Chucho Valdés",
@@ -8528,7 +8528,7 @@
 "image": "img/610.jpg",
 "description": "",
 "decade": 1970,
-"related": []
+"related": ["The Fab Four"]
 },
 {
 "id": 611,
@@ -8554,7 +8554,7 @@
 "image": "img/612.jpg",
 "description": "",
 "decade": 1980,
-"related": []
+"related": ["The Fab Four"]
 },
 {
 "id": 613,
@@ -8567,7 +8567,7 @@
 "image": "img/613.jpg",
 "description": "",
 "decade": 2000,
-"related": []
+"related": ["The Fab Four"]
 },
 {
 "id": 976,
@@ -8580,7 +8580,7 @@
 "image": "img/976.jpg",
 "description": "",
 "decade": 2000,
-"related": []
+"related": ["The Fab Four"]
 },
 {
 "id": 428,
@@ -8593,7 +8593,7 @@
 "image": "img/428.jpg",
 "description": "",
 "decade": 2020,
-"related": []
+"related": ["The Fab Four"]
 },
 {
 "id": 614,
@@ -8606,7 +8606,7 @@
 "image": "img/614.jpg",
 "description": "",
 "decade": 1970,
-"related": []
+"related": ["The Fab Four"]
 },
 {
 "id": 615,
@@ -8692,7 +8692,7 @@
 "year": 1975,
 "artist": "Piirpauke",
 "media": ["CD"],
-"genre": "Fusion",
+"genre": "Jazz/Fusion",
 "country": "Finland",
 "image": "img/1066.jpg",
 "description": "",
@@ -9056,7 +9056,7 @@
 "year": 1970,
 "artist": "Quatermass",
 "media": ["CD"],
-"genre": "Fusion",
+"genre": "Jazz/Fusion",
 "country": "UK",
 "image": "img/1074.jpg",
 "description": "",
@@ -9290,7 +9290,7 @@
 "year": 1969,
 "artist": "Rare Earth",
 "media": ["CD"],
-"genre": "Funk / Soul / R&B",
+"genre": "Funk/Soul/R&B",
 "country": "USA",
 "image": "img/667.jpg",
 "description": "",
@@ -10699,7 +10699,7 @@
 "image": "img/999.jpg",
 "description": "",
 "decade": 1980,
-"related": ["Roger Dean"]
+"related": ["Yes","Roger Dean"]
 },
 {
 "id": 995,
@@ -10816,7 +10816,7 @@
 "image": "img/776.jpg",
 "description": "Ron Geesin & Roger Waters",
 "decade": 1970,
-"related": ["Roger Waters","Pink Floyd"]
+"related": ["Pink Floyd"]
 },
 {
 "id": 771,
@@ -10829,7 +10829,7 @@
 "image": "img/771.jpg",
 "description": "",
 "decade": 1980,
-"related": ["Roger Waters","Pink Floyd"]
+"related": ["Pink Floyd"]
 },
 {
 "id": 772,
@@ -10842,7 +10842,7 @@
 "image": "img/772.jpg",
 "description": "",
 "decade": 1980,
-"related": ["Roger Waters","Pink Floyd"]
+"related": ["Pink Floyd"]
 },
 {
 "id": 773,
@@ -10855,7 +10855,7 @@
 "image": "img/773.jpg",
 "description": "",
 "decade": 1990,
-"related": ["Roger Waters","Pink Floyd"]
+"related": ["Pink Floyd"]
 },
 {
 "id": 774,
@@ -10868,7 +10868,7 @@
 "image": "img/774.jpg",
 "description": "",
 "decade": 2000,
-"related": ["Roger Waters","Pink Floyd"]
+"related": ["Pink Floyd"]
 },
 {
 "id": 775,
@@ -10881,7 +10881,7 @@
 "image": "img/775.jpg",
 "description": "",
 "decade": 2010,
-"related": ["Roger Waters","Pink Floyd"]
+"related": ["Pink Floyd"]
 },
 {
 "id": 624,
@@ -10894,7 +10894,7 @@
 "image": "img/624.jpg",
 "description": "",
 "decade": 2020,
-"related": ["Roger Waters","Pink Floyd"]
+"related": ["Pink Floyd"]
 },
 {
 "id": 622,
@@ -10907,7 +10907,7 @@
 "image": "img/622.jpg",
 "description": "",
 "decade": 2020,
-"related": ["Roger Waters","Pink Floyd"]
+"related": ["Pink Floyd"]
 },
 {
 "id": 987,
@@ -10920,7 +10920,7 @@
 "image": "img/987.jpg",
 "description": "",
 "decade": 2020,
-"related": ["Roger Waters","Pink Floyd"]
+"related": ["Pink Floyd"]
 },
 {
 "id": 1202,
@@ -10933,7 +10933,7 @@
 "image": "img/1202.jpg",
 "description": "",
 "decade": 2020,
-"related": ["Roger Waters","Pink Floyd"]
+"related": ["Pink Floyd"]
 },
 {
 "id": 1195,
@@ -10946,7 +10946,7 @@
 "image": "img/1195.jpg",
 "description": "",
 "decade": 2020,
-"related": ["Roger Waters","Pink Floyd"]
+"related": ["Pink Floyd"]
 },
 {
 "id": 777,
@@ -10954,7 +10954,7 @@
 "year": 1977,
 "artist": "Ronald Snijders",
 "media": ["CD"],
-"genre": "Fusion",
+"genre": "Jazz/Fusion",
 "country": "The Netherlands",
 "image": "img/777.jpg",
 "description": "",
@@ -10972,7 +10972,7 @@
 "image": "img/1168.jpg",
 "description": "",
 "decade": 2000,
-"related": []
+"related": ["The Fab Four"]
 },
 {
 "id": 778,
@@ -10993,7 +10993,7 @@
 "year": 1976,
 "artist": "Ryo Fukui",
 "media": ["CD"],
-"genre": "Jazz",
+"genre": "Jazz/Fusion",
 "country": "Japan",
 "image": "img/779.jpg",
 "description": "",
@@ -11006,7 +11006,7 @@
 "year": 1977,
 "artist": "Ryo Fukui",
 "media": ["CD"],
-"genre": "Jazz",
+"genre": "Jazz/Fusion",
 "country": "Japan",
 "image": "img/780.jpg",
 "description": "",
@@ -11019,7 +11019,7 @@
 "year": 2020,
 "artist": "Ryo Fukui",
 "media": ["CD"],
-"genre": "Jazz",
+"genre": "Jazz/Fusion",
 "country": "Japan",
 "image": "img/781.jpg",
 "description": "",
@@ -11032,7 +11032,7 @@
 "year": 2020,
 "artist": "Ryo Fukui",
 "media": ["CD"],
-"genre": "Jazz",
+"genre": "Jazz/Fusion",
 "country": "Japan",
 "image": "img/782.jpg",
 "description": "",
@@ -11084,7 +11084,7 @@
 "year": 1992,
 "artist": "Sade",
 "media": ["CD"],
-"genre": "Funk / Soul / R&B",
+"genre": "Funk/Soul/R&B",
 "country": "UK",
 "image": "img/787.jpg",
 "description": "",
@@ -11175,12 +11175,12 @@
 "year": 1968,
 "artist": "Santana",
 "media": ["CD"],
-"genre": "Afro/Fusion",
+"genre": "Afro/Latin/Fusion",
 "country": "USA",
 "image": "img/794.jpg",
 "description": "",
 "decade": 1960,
-"related": ["Santana"]
+"related": []
 },
 {
 "id": 795,
@@ -11188,12 +11188,12 @@
 "year": 1969,
 "artist": "Santana",
 "media": ["CD"],
-"genre": "Afro/Fusion",
+"genre": "Afro/Latin/Fusion",
 "country": "USA",
 "image": "img/795.jpg",
 "description": "",
 "decade": 1960,
-"related": ["Santana"]
+"related": []
 },
 {
 "id": 796,
@@ -11201,12 +11201,12 @@
 "year": 1970,
 "artist": "Santana",
 "media": ["CD","LP"],
-"genre": "Afro/Fusion",
+"genre": "Afro/Latin/Fusion",
 "country": "USA",
 "image": "img/796.jpg",
 "description": "",
 "decade": 1970,
-"related": ["Santana"]
+"related": []
 },
 {
 "id": 798,
@@ -11214,12 +11214,12 @@
 "year": 1971,
 "artist": "Santana",
 "media": ["CD"],
-"genre": "Afro/Fusion",
+"genre": "Afro/Latin/Fusion",
 "country": "USA",
 "image": "img/798.jpg",
 "description": "",
 "decade": 1970,
-"related": ["Santana"]
+"related": []
 },
 {
 "id": 799,
@@ -11227,12 +11227,12 @@
 "year": 1972,
 "artist": "Santana",
 "media": ["CD"],
-"genre": "Afro/Fusion",
+"genre": "Afro/Latin/Fusion",
 "country": "USA",
 "image": "img/799.jpg",
 "description": "",
 "decade": 1970,
-"related": ["Santana"]
+"related": []
 },
 {
 "id": 160,
@@ -11240,12 +11240,12 @@
 "year": 1972,
 "artist": "Santana",
 "media": ["CD"],
-"genre": "Afro/Fusion",
+"genre": "Afro/Latin/Fusion",
 "country": "USA",
 "image": "img/160.jpg",
 "description": "Carlos Santana & Buddy Miles",
 "decade": 1970,
-"related": ["Santana"]
+"related": []
 },
 {
 "id": 161,
@@ -11253,12 +11253,12 @@
 "year": 1973,
 "artist": "Santana",
 "media": ["CD"],
-"genre": "Afro/Fusion",
+"genre": "Afro/Latin/Fusion",
 "country": "USA",
 "image": "img/161.jpg",
 "description": "Carlos Santana & Mahavishnu John McLaughlin",
 "decade": 1970,
-"related": ["Santana"]
+"related": []
 },
 {
 "id": 800,
@@ -11266,12 +11266,12 @@
 "year": 1973,
 "artist": "Santana",
 "media": ["CD"],
-"genre": "Afro/Fusion",
+"genre": "Afro/Latin/Fusion",
 "country": "USA",
 "image": "img/800.jpg",
 "description": "",
 "decade": 1970,
-"related": ["Santana"]
+"related": []
 },
 {
 "id": 801,
@@ -11279,12 +11279,12 @@
 "year": 1974,
 "artist": "Santana",
 "media": ["CD"],
-"genre": "Afro/Fusion",
+"genre": "Afro/Latin/Fusion",
 "country": "USA",
 "image": "img/801.jpg",
 "description": "",
 "decade": 1970,
-"related": ["Santana"]
+"related": []
 },
 {
 "id": 802,
@@ -11292,12 +11292,12 @@
 "year": 1974,
 "artist": "Santana",
 "media": ["CD"],
-"genre": "Afro/Fusion",
+"genre": "Afro/Latin/Fusion",
 "country": "USA",
 "image": "img/802.jpg",
 "description": "Santana - Devadip",
 "decade": 1970,
-"related": ["Santana"]
+"related": []
 },
 {
 "id": 803,
@@ -11305,12 +11305,12 @@
 "year": 1974,
 "artist": "Santana",
 "media": ["CD"],
-"genre": "Afro/Fusion",
+"genre": "Afro/Latin/Fusion",
 "country": "USA",
 "image": "img/803.jpg",
 "description": "",
 "decade": 1970,
-"related": ["Santana"]
+"related": []
 },
 {
 "id": 804,
@@ -11318,12 +11318,12 @@
 "year": 1976,
 "artist": "Santana",
 "media": ["CD"],
-"genre": "Afro/Fusion",
+"genre": "Afro/Latin/Fusion",
 "country": "USA",
 "image": "img/804.jpg",
 "description": "",
 "decade": 1970,
-"related": ["Santana"]
+"related": []
 },
 {
 "id": 805,
@@ -11331,12 +11331,12 @@
 "year": 1977,
 "artist": "Santana",
 "media": ["CD"],
-"genre": "Afro/Fusion",
+"genre": "Afro/Latin/Fusion",
 "country": "USA",
 "image": "img/805.jpg",
 "description": "",
 "decade": 1970,
-"related": ["Santana"]
+"related": []
 },
 {
 "id": 806,
@@ -11344,12 +11344,12 @@
 "year": 1977,
 "artist": "Santana",
 "media": ["CD"],
-"genre": "Afro/Fusion",
+"genre": "Afro/Latin/Fusion",
 "country": "USA",
 "image": "img/806.jpg",
 "description": "",
 "decade": 1970,
-"related": ["Santana"]
+"related": []
 },
 {
 "id": 807,
@@ -11357,12 +11357,12 @@
 "year": 1978,
 "artist": "Santana",
 "media": ["CD"],
-"genre": "Afro/Fusion",
+"genre": "Afro/Latin/Fusion",
 "country": "USA",
 "image": "img/807.jpg",
 "description": "",
 "decade": 1970,
-"related": ["Santana"]
+"related": []
 },
 {
 "id": 808,
@@ -11370,12 +11370,12 @@
 "year": 1979,
 "artist": "Santana",
 "media": ["CD"],
-"genre": "Afro/Fusion",
+"genre": "Afro/Latin/Fusion",
 "country": "USA",
 "image": "img/808.jpg",
 "description": "",
 "decade": 1970,
-"related": ["Santana"]
+"related": []
 },
 {
 "id": 809,
@@ -11383,12 +11383,12 @@
 "year": 1979,
 "artist": "Santana",
 "media": ["CD"],
-"genre": "Afro/Fusion",
+"genre": "Afro/Latin/Fusion",
 "country": "USA",
 "image": "img/809.jpg",
 "description": "Santana - Devadip",
 "decade": 1970,
-"related": ["Santana"]
+"related": []
 },
 {
 "id": 810,
@@ -11396,12 +11396,12 @@
 "year": 1980,
 "artist": "Santana",
 "media": ["CD"],
-"genre": "Afro/Fusion",
+"genre": "Afro/Latin/Fusion",
 "country": "USA",
 "image": "img/810.jpg",
 "description": "Santana - Devadip",
 "decade": 1980,
-"related": ["Santana"]
+"related": []
 },
 {
 "id": 811,
@@ -11409,12 +11409,12 @@
 "year": 1981,
 "artist": "Santana",
 "media": ["CD"],
-"genre": "Afro/Fusion",
+"genre": "Afro/Latin/Fusion",
 "country": "USA",
 "image": "img/811.jpg",
 "description": "",
 "decade": 1980,
-"related": ["Santana"]
+"related": []
 },
 {
 "id": 812,
@@ -11422,12 +11422,12 @@
 "year": 1982,
 "artist": "Santana",
 "media": ["CD"],
-"genre": "Afro/Fusion",
+"genre": "Afro/Latin/Fusion",
 "country": "USA",
 "image": "img/812.jpg",
 "description": "",
 "decade": 1980,
-"related": ["Santana"]
+"related": []
 },
 {
 "id": 813,
@@ -11435,12 +11435,12 @@
 "year": 1983,
 "artist": "Santana",
 "media": ["CD"],
-"genre": "Afro/Fusion",
+"genre": "Afro/Latin/Fusion",
 "country": "USA",
 "image": "img/813.jpg",
 "description": "",
 "decade": 1980,
-"related": ["Santana"]
+"related": []
 },
 {
 "id": 814,
@@ -11448,12 +11448,12 @@
 "year": 1985,
 "artist": "Santana",
 "media": ["CD"],
-"genre": "Afro/Fusion",
+"genre": "Afro/Latin/Fusion",
 "country": "USA",
 "image": "img/814.jpg",
 "description": "",
 "decade": 1980,
-"related": ["Santana"]
+"related": []
 },
 {
 "id": 815,
@@ -11461,12 +11461,12 @@
 "year": 1987,
 "artist": "Santana",
 "media": ["CD"],
-"genre": "Afro/Fusion",
+"genre": "Afro/Latin/Fusion",
 "country": "USA",
 "image": "img/815.jpg",
 "description": "",
 "decade": 1980,
-"related": ["Santana"]
+"related": []
 },
 {
 "id": 816,
@@ -11474,12 +11474,12 @@
 "year": 1987,
 "artist": "Santana",
 "media": ["CD"],
-"genre": "Afro/Fusion",
+"genre": "Afro/Latin/Fusion",
 "country": "USA",
 "image": "img/816.jpg",
 "description": "",
 "decade": 1980,
-"related": ["Santana"]
+"related": []
 },
 {
 "id": 817,
@@ -11487,12 +11487,12 @@
 "year": 1988,
 "artist": "Santana",
 "media": ["CD","DVD","LP"],
-"genre": "Afro/Fusion",
+"genre": "Afro/Latin/Fusion",
 "country": "USA",
 "image": "img/817.jpg",
 "description": "",
 "decade": 1980,
-"related": ["Santana"]
+"related": []
 },
 {
 "id": 819,
@@ -11500,12 +11500,12 @@
 "year": 1990,
 "artist": "Santana",
 "media": ["CD"],
-"genre": "Afro/Fusion",
+"genre": "Afro/Latin/Fusion",
 "country": "USA",
 "image": "img/819.jpg",
 "description": "",
 "decade": 1990,
-"related": ["Santana"]
+"related": []
 },
 {
 "id": 820,
@@ -11513,12 +11513,12 @@
 "year": 1992,
 "artist": "Santana",
 "media": ["CD"],
-"genre": "Afro/Fusion",
+"genre": "Afro/Latin/Fusion",
 "country": "USA",
 "image": "img/820.jpg",
 "description": "",
 "decade": 1990,
-"related": ["Santana"]
+"related": []
 },
 {
 "id": 821,
@@ -11526,12 +11526,12 @@
 "year": 1993,
 "artist": "Santana",
 "media": ["CD","DVD"],
-"genre": "Afro/Fusion",
+"genre": "Afro/Latin/Fusion",
 "country": "USA",
 "image": "img/821.jpg",
 "description": "",
 "decade": 1990,
-"related": ["Santana"]
+"related": []
 },
 {
 "id": 822,
@@ -11539,12 +11539,12 @@
 "year": 1994,
 "artist": "Santana",
 "media": ["CD"],
-"genre": "Afro/Fusion",
+"genre": "Afro/Latin/Fusion",
 "country": "USA",
 "image": "img/822.jpg",
 "description": "",
 "decade": 1990,
-"related": ["Santana"]
+"related": []
 },
 {
 "id": 33,
@@ -11552,12 +11552,12 @@
 "year": 2009,
 "artist": "Santana",
 "media": ["CD"],
-"genre": "Afro/Fusion",
+"genre": "Afro/Latin/Fusion",
 "country": "USA",
 "image": "img/33.jpg",
 "description": "",
 "decade": 2000,
-"related": ["Santana"]
+"related": []
 },
 {
 "id": 823,
@@ -11591,7 +11591,7 @@
 "year": 1974,
 "artist": "Scope",
 "media": ["CD"],
-"genre": "Fusion",
+"genre": "Jazz/Fusion",
 "country": "The Netherlands",
 "image": "img/825.jpg",
 "description": "",
@@ -11643,7 +11643,7 @@
 "year": 2003,
 "artist": "Shuggie Otis",
 "media": ["CD"],
-"genre": "Funk / Soul / R&B",
+"genre": "Funk/Soul/R&B",
 "country": "USA",
 "image": "img/829.jpg",
 "description": "Here Comes Shuggie Otis 1970 Freedom Flight 1971",
@@ -11682,7 +11682,7 @@
 "year": 1972,
 "artist": "Sinto",
 "media": ["CD"],
-"genre": "Fusion",
+"genre": "Jazz/Fusion",
 "country": "Germany",
 "image": "img/832.jpg",
 "description": "",
@@ -11695,7 +11695,7 @@
 "year": 1979,
 "artist": "Sky",
 "media": ["CD"],
-"genre": "Fusion",
+"genre": "Jazz/Fusion",
 "country": "UK",
 "image": "img/833.jpg",
 "description": "",
@@ -11708,7 +11708,7 @@
 "year": 1975,
 "artist": "Soft Machine",
 "media": ["CD"],
-"genre": "Fusion",
+"genre": "Jazz/Fusion",
 "country": "UK",
 "image": "img/834.jpg",
 "description": "",
@@ -11721,7 +11721,7 @@
 "year": 1976,
 "artist": "Soft Machine",
 "media": ["CD"],
-"genre": "Fusion",
+"genre": "Jazz/Fusion",
 "country": "UK",
 "image": "img/835.jpg",
 "description": "",
@@ -11838,7 +11838,7 @@
 "year": 1961,
 "artist": "Stanley Turrentine With The Three Sounds",
 "media": ["CD"],
-"genre": "Jazz",
+"genre": "Jazz/Fusion",
 "country": "USA",
 "image": "img/843.jpg",
 "description": "1960",
@@ -11864,7 +11864,7 @@
 "year": 1980,
 "artist": "Steely Dan",
 "media": ["CD"],
-"genre": "Funk / Soul / R&B",
+"genre": "Funk/Soul/R&B",
 "country": "USA",
 "image": "img/845.jpg",
 "description": "",
@@ -11929,7 +11929,7 @@
 "year": 1996,
 "artist": "Stevie Wonder",
 "media": ["CD"],
-"genre": "Funk / Soul / R&B",
+"genre": "Funk/Soul/R&B",
 "country": "USA",
 "image": "img/851.jpg",
 "description": "",
@@ -12064,7 +12064,7 @@
 "image": "img/861.jpg",
 "description": "",
 "decade": 1970,
-"related": ["Supertramp"]
+"related": []
 },
 {
 "id": 862,
@@ -12077,7 +12077,7 @@
 "image": "img/862.jpg",
 "description": "",
 "decade": 1970,
-"related": ["Supertramp"]
+"related": []
 },
 {
 "id": 863,
@@ -12090,7 +12090,7 @@
 "image": "img/863.jpg",
 "description": "",
 "decade": 1970,
-"related": ["Supertramp"]
+"related": []
 },
 {
 "id": 864,
@@ -12103,7 +12103,7 @@
 "image": "img/864.jpg",
 "description": "",
 "decade": 1970,
-"related": ["Supertramp"]
+"related": []
 },
 {
 "id": 865,
@@ -12116,7 +12116,7 @@
 "image": "img/865.jpg",
 "description": "",
 "decade": 1970,
-"related": ["Supertramp"]
+"related": []
 },
 {
 "id": 866,
@@ -12129,7 +12129,7 @@
 "image": "img/866.jpg",
 "description": "",
 "decade": 1970,
-"related": ["Supertramp"]
+"related": []
 },
 {
 "id": 868,
@@ -12142,7 +12142,7 @@
 "image": "img/868.jpg",
 "description": "",
 "decade": 1970,
-"related": ["Supertramp"]
+"related": []
 },
 {
 "id": 869,
@@ -12155,7 +12155,7 @@
 "image": "img/869.jpg",
 "description": "",
 "decade": 1970,
-"related": ["Supertramp"]
+"related": []
 },
 {
 "id": 870,
@@ -12168,7 +12168,7 @@
 "image": "img/870.jpg",
 "description": "",
 "decade": 1980,
-"related": ["Supertramp"]
+"related": []
 },
 {
 "id": 981,
@@ -12181,7 +12181,7 @@
 "image": "img/981.jpg",
 "description": "",
 "decade": 1980,
-"related": ["Supertramp"]
+"related": []
 },
 {
 "id": 1147,
@@ -12194,7 +12194,7 @@
 "image": "img/1147.jpg",
 "description": "",
 "decade": 1990,
-"related": ["Supertramp"]
+"related": []
 },
 {
 "id": 1148,
@@ -12207,7 +12207,7 @@
 "image": "img/1148.jpg",
 "description": "Recorded at the Royal Albert Hall, London, England, September 19 and 20, 1997.",
 "decade": 1990,
-"related": ["Supertramp"]
+"related": []
 },
 {
 "id": 871,
@@ -12215,7 +12215,7 @@
 "year": 1973,
 "artist": "Sway",
 "media": ["CD"],
-"genre": "Fusion",
+"genre": "Jazz/Fusion",
 "country": "Italy",
 "image": "img/871.jpg",
 "description": "",
@@ -12254,7 +12254,7 @@
 "year": 1973,
 "artist": "Tadao Sawai, Kazue Sawai, Takeshi Inomata, Norio Maeda, Hozan Yamamoto",
 "media": ["CD"],
-"genre": "Fusion",
+"genre": "Jazz/Fusion",
 "country": "Japan",
 "image": "img/874.jpg",
 "description": "",
@@ -12267,7 +12267,7 @@
 "year": 1972,
 "artist": "Takeshi Inomata & Sound Limited",
 "media": ["CD"],
-"genre": "Jazz",
+"genre": "Jazz/Fusion",
 "country": "Japan",
 "image": "img/875.jpg",
 "description": "",
@@ -12306,7 +12306,7 @@
 "year": 1994,
 "artist": "Terumasa Hino",
 "media": ["CD"],
-"genre": "Jazz",
+"genre": "Jazz/Fusion",
 "country": "Japan",
 "image": "img/878.jpg",
 "description": "",
@@ -12506,7 +12506,7 @@
 "image": "img/892.jpg",
 "description": "",
 "decade": 1960,
-"related": []
+"related": ["The Fab Four"]
 },
 {
 "id": 893,
@@ -12519,7 +12519,7 @@
 "image": "img/893.jpg",
 "description": "",
 "decade": 1960,
-"related": []
+"related": ["The Fab Four"]
 },
 {
 "id": 894,
@@ -12532,7 +12532,7 @@
 "image": "img/894.jpg",
 "description": "",
 "decade": 1960,
-"related": []
+"related": ["The Fab Four"]
 },
 {
 "id": 895,
@@ -12545,7 +12545,7 @@
 "image": "img/895.jpg",
 "description": "",
 "decade": 1960,
-"related": []
+"related": ["The Fab Four"]
 },
 {
 "id": 896,
@@ -12558,7 +12558,7 @@
 "image": "img/896.jpg",
 "description": "",
 "decade": 1960,
-"related": []
+"related": ["The Fab Four"]
 },
 {
 "id": 897,
@@ -12571,7 +12571,7 @@
 "image": "img/897.jpg",
 "description": "",
 "decade": 1960,
-"related": []
+"related": ["The Fab Four"]
 },
 {
 "id": 898,
@@ -12584,7 +12584,7 @@
 "image": "img/898.jpg",
 "description": "",
 "decade": 1960,
-"related": []
+"related": ["The Fab Four"]
 },
 {
 "id": 900,
@@ -12597,7 +12597,7 @@
 "image": "img/900.jpg",
 "description": "",
 "decade": 1960,
-"related": []
+"related": ["The Fab Four"]
 },
 {
 "id": 902,
@@ -12610,7 +12610,7 @@
 "image": "img/902.jpg",
 "description": "",
 "decade": 1960,
-"related": []
+"related": ["The Fab Four"]
 },
 {
 "id": 904,
@@ -12623,7 +12623,7 @@
 "image": "img/904.jpg",
 "description": "White Album",
 "decade": 1960,
-"related": []
+"related": ["The Fab Four"]
 },
 {
 "id": 905,
@@ -12636,7 +12636,7 @@
 "image": "img/905.jpg",
 "description": "",
 "decade": 1960,
-"related": []
+"related": ["The Fab Four"]
 },
 {
 "id": 906,
@@ -12649,7 +12649,7 @@
 "image": "img/906.jpg",
 "description": "",
 "decade": 1960,
-"related": []
+"related": ["The Fab Four"]
 },
 {
 "id": 907,
@@ -12662,7 +12662,7 @@
 "image": "img/907.jpg",
 "description": "",
 "decade": 1970,
-"related": []
+"related": ["The Fab Four"]
 },
 {
 "id": 908,
@@ -12675,7 +12675,7 @@
 "image": "img/908.jpg",
 "description": "",
 "decade": 1970,
-"related": []
+"related": ["The Fab Four"]
 },
 {
 "id": 1186,
@@ -12688,7 +12688,7 @@
 "image": "img/1186.jpg",
 "description": "Edition: Argentina",
 "decade": 1970,
-"related": []
+"related": ["The Fab Four"]
 },
 {
 "id": 1185,
@@ -12701,7 +12701,7 @@
 "image": "img/1185.jpg",
 "description": "Edition: Argentina",
 "decade": 1970,
-"related": []
+"related": ["The Fab Four"]
 },
 {
 "id": 241,
@@ -12714,7 +12714,7 @@
 "image": "img/241.jpg",
 "description": "",
 "decade": 2000,
-"related": []
+"related": ["The Fab Four"]
 },
 {
 "id": 1194,
@@ -12727,7 +12727,7 @@
 "image": "img/1194.jpg",
 "description": "",
 "decade": 2010,
-"related": []
+"related": ["The Fab Four"]
 },
 {
 "id": 1163,
@@ -12740,7 +12740,7 @@
 "image": "img/1163.jpg",
 "description": "",
 "decade": 2020,
-"related": []
+"related": ["The Fab Four"]
 },
 {
 "id": 909,
@@ -12761,7 +12761,7 @@
 "year": 1959,
 "artist": "The Chico Hamilton Quintet",
 "media": ["CD"],
-"genre": "Jazz",
+"genre": "Jazz/Fusion",
 "country": "USA",
 "image": "img/910.jpg",
 "description": "",
@@ -13125,7 +13125,7 @@
 "year": 2003,
 "artist": "The Glenn Miller Orchestra",
 "media": ["CD"],
-"genre": "Jazz",
+"genre": "Jazz/Fusion",
 "country": "USA",
 "image": "img/934.jpg",
 "description": "",
@@ -13138,7 +13138,7 @@
 "year": 2003,
 "artist": "The Glenn Miller Orchestra",
 "media": ["CD"],
-"genre": "Jazz",
+"genre": "Jazz/Fusion",
 "country": "USA",
 "image": "img/935.jpg",
 "description": "",
@@ -13177,7 +13177,7 @@
 "year": 1964,
 "artist": "The Horace Silver Quintet",
 "media": ["CD"],
-"genre": "Jazz",
+"genre": "Jazz/Fusion",
 "country": "USA",
 "image": "img/938.jpg",
 "description": "",
@@ -13203,7 +13203,7 @@
 "year": 1975,
 "artist": "The Manhattan Transfer",
 "media": ["CD"],
-"genre": "Jazz",
+"genre": "Jazz/Fusion",
 "country": "USA",
 "image": "img/944.jpg",
 "description": "",
@@ -13216,7 +13216,7 @@
 "year": 1986,
 "artist": "The Platters",
 "media": ["CD"],
-"genre": "Funk / Soul / R&B",
+"genre": "Funk/Soul/R&B",
 "country": "USA",
 "image": "img/945.jpg",
 "description": "",
@@ -13242,7 +13242,7 @@
 "year": 1959,
 "artist": "The Wes Montgomery Trio",
 "media": ["CD"],
-"genre": "Jazz",
+"genre": "Jazz/Fusion",
 "country": "USA",
 "image": "img/947.jpg",
 "description": "",
@@ -13385,7 +13385,7 @@
 "year": 1986,
 "artist": "Toots Thielemans / Jonny Teupen / Paul Kuhn",
 "media": ["CD"],
-"genre": "Jazz",
+"genre": "Jazz/Fusion",
 "country": "USA",
 "image": "img/958.jpg",
 "description": "",
@@ -13528,7 +13528,7 @@
 "year": 1977,
 "artist": "Tropea",
 "media": ["CD"],
-"genre": "Funk / Soul / R&B",
+"genre": "Funk/Soul/R&B",
 "country": "USA",
 "image": "img/968.jpg",
 "description": "",
@@ -13775,7 +13775,7 @@
 "year": 1971,
 "artist": "Various",
 "media": ["CD"],
-"genre": "Soundtrack",
+"genre": ["Soundtrack","Electronica"],
 "country": "USA",
 "image": "img/1001.jpg",
 "description": "OST Various",
@@ -13910,7 +13910,7 @@
 "image": "img/451.jpg",
 "description": "OST John Lennon",
 "decade": 1980,
-"related": []
+"related": ["The Fab Four"]
 },
 {
 "id": 989,
@@ -13944,7 +13944,7 @@
 "year": 1994,
 "artist": "Various",
 "media": ["CD"],
-"genre": "Soundtrack",
+"genre": ["Soundtrack","Electronica"],
 "country": "USA",
 "image": "img/990.jpg",
 "description": "OST Vangelis",
@@ -14022,7 +14022,7 @@
 "year": 1997,
 "artist": "Various",
 "media": ["CD"],
-"genre": "Fusion",
+"genre": "Jazz/Fusion",
 "country": "USA",
 "image": "img/1011.jpg",
 "description": "",
@@ -14126,7 +14126,7 @@
 "year": 2012,
 "artist": "Various",
 "media": ["CD"],
-"genre": "Funk / Soul / R&B",
+"genre": "Funk/Soul/R&B",
 "country": "USA",
 "image": "img/1017.jpg",
 "description": "",
@@ -14152,7 +14152,7 @@
 "year": 2016,
 "artist": "Various",
 "media": ["CD"],
-"genre": "Funk / Soul / R&B",
+"genre": "Funk/Soul/R&B",
 "country": "USA",
 "image": "img/1019.jpg",
 "description": "",
@@ -14165,7 +14165,7 @@
 "year": 2017,
 "artist": "Various",
 "media": ["CD"],
-"genre": "Funk / Soul / R&B",
+"genre": "Funk/Soul/R&B",
 "country": "UK",
 "image": "img/1020.jpg",
 "description": "",
@@ -14295,7 +14295,7 @@
 "year": 1964,
 "artist": "Wayne Shorter",
 "media": ["CD"],
-"genre": "Jazz",
+"genre": "Jazz/Fusion",
 "country": "USA",
 "image": "img/1035.jpg",
 "description": "",
@@ -14308,7 +14308,7 @@
 "year": 1966,
 "artist": "Wayne Shorter",
 "media": ["CD"],
-"genre": "Jazz",
+"genre": "Jazz/Fusion",
 "country": "USA",
 "image": "img/1036.jpg",
 "description": "",
@@ -14425,7 +14425,7 @@
 "year": 1960,
 "artist": "Wes Montgomery",
 "media": ["CD"],
-"genre": "Jazz",
+"genre": "Jazz/Fusion",
 "country": "USA",
 "image": "img/1044.jpg",
 "description": "",
@@ -14503,7 +14503,7 @@
 "year": 1992,
 "artist": "Wilson Pickett",
 "media": ["CD"],
-"genre": "Funk / Soul / R&B",
+"genre": "Funk/Soul/R&B",
 "country": "USA",
 "image": "img/1049.jpg",
 "description": "",
@@ -17168,7 +17168,7 @@
 "year": 2025,
 "artist": "Azymuth",
 "media": ["Apparel"],
-"genre": "Fusion",
+"genre": "Jazz/Fusion",
 "country": "Brazil",
 "image": "img/1319.jpg",
 "description": "",
@@ -17662,7 +17662,7 @@
 "year": 1971,
 "artist": "Osibisa",
 "media": ["LP"],
-"genre": "Funk / Soul / R&B",
+"genre": "Funk/Soul/R&B",
 "country": "UK",
 "image": "img/1357.jpg",
 "description": "",
@@ -17675,7 +17675,7 @@
 "year": 1971,
 "artist": "Osibisa",
 "media": ["LP"],
-"genre": "Funk / Soul / R&B",
+"genre": "Funk/Soul/R&B",
 "country": "UK",
 "image": "img/1358.jpg",
 "description": "",
@@ -17974,7 +17974,7 @@
 "year": 1971,
 "artist": "Bee Gees",
 "media": ["CD"],
-"genre": "Funk / Soul / R&B",
+"genre": "Funk/Soul/R&B",
 "country": "UK",
 "image": "img/1381.jpg",
 "description": "",
@@ -18403,7 +18403,7 @@
 "year": 2014,
 "artist": "Black Moth",
 "media": ["LP"],
-"genre": "Hard Rock",
+"genre": "Rock",
 "country": "UK",
 "image": "img/1414.jpg",
 "description": "",
@@ -18590,7 +18590,7 @@
 "image": "img/1428.jpg",
 "description": "",
 "decade": 1980,
-"related": ["ABWH","Roger Dean"]
+"related": ["Yes","Roger Dean"]
 },
 {
 "id": 1429,
@@ -18746,7 +18746,7 @@
 "image": "img/1440.jpg",
 "description": "",
 "decade": 2010,
-"related": ["Jean-Michel Jarre"]
+"related": []
 },
 {
 "id": 1441,
@@ -18759,7 +18759,7 @@
 "image": "img/1441.jpg",
 "description": "",
 "decade": 2010,
-"related": ["Jean-Michel Jarre"]
+"related": []
 },
 {
 "id": 1442,
@@ -18772,7 +18772,7 @@
 "image": "img/1442.jpg",
 "description": "",
 "decade": 2010,
-"related": ["Jean-Michel Jarre"]
+"related": []
 },
 {
 "id": 1443,
@@ -19209,7 +19209,7 @@
 "year": 1971,
 "artist": "Various",
 "media": ["LP"],
-"genre": "Funk / Soul / R&B",
+"genre": "Funk/Soul/R&B",
 "country": "UK",
 "image": "img/1476.jpg",
 "description": "",
@@ -19404,12 +19404,12 @@
 "year": 2025,
 "artist": "Santana",
 "media": ["Pass"],
-"genre": "Afro/Fusion",
+"genre": "Afro/Latin/Fusion",
 "country": "UK",
 "image": "img/1491.jpg",
 "description": "",
 "decade": 2020,
-"related": ["Santana"]
+"related": []
 },
 {
 "id": 1492,
@@ -19417,12 +19417,12 @@
 "year": 2025,
 "artist": "Santana",
 "media": ["Bag"],
-"genre": "Afro/Fusion",
+"genre": "Afro/Latin/Fusion",
 "country": "UK",
 "image": "img/1492.jpg",
 "description": "",
 "decade": 2020,
-"related": ["Santana"]
+"related": []
 },
 {
 "id": 1493,
@@ -19430,12 +19430,12 @@
 "year": 2025,
 "artist": "Santana",
 "media": ["Poster"],
-"genre": "Afro/Fusion",
+"genre": "Afro/Latin/Fusion",
 "country": "UK",
 "image": "img/1493.jpg",
 "description": "",
 "decade": 2020,
-"related": ["Santana"]
+"related": []
 },
 {
 "id": 1494,
@@ -19456,7 +19456,7 @@
 "year": 1978,
 "artist": "Leb i Sol",
 "media": ["CD"],
-"genre": "Fusion",
+"genre": "Jazz/Fusion",
 "country": "Slovenia",
 "image": "img/1495.jpg",
 "description": "",
@@ -19565,7 +19565,7 @@
 "image": "img/1503.jpg",
 "description": "",
 "decade": 1970,
-"related": ["George Harrison"]
+"related": ["The Fab Four"]
 },
 {
 "id": 1504,
@@ -19682,7 +19682,7 @@
 "image": "img/1512.jpg",
 "description": "",
 "decade": 2020,
-"related": ["Supertramp"]
+"related": []
 },
 {
 "id": 1513,
@@ -19981,7 +19981,7 @@
 "image": "img/1535.jpg",
 "description": "",
 "decade": 1980,
-"related": ["Roger Dean"]
+"related": ["Yes","Roger Dean"]
 },
 {
 "id": 1536,
@@ -19989,11 +19989,11 @@
 "year": 1970,
 "artist": "Santana",
 "media": ["Poster"],
-"genre": "Afro/Fusion",
+"genre": "Afro/Latin/Fusion",
 "country": "UK",
 "image": "img/1536.jpg",
 "description": "",
 "decade": 1970,
-"related": ["Santana"]
+"related": []
 }
 ]
