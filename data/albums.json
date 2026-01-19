@@ -10222,15 +10222,15 @@
 },
 {
 "id": 698,
-"name": "Treasure Chest",
-"year": 2010,
+"name": "Video Vault",
+"year": 2007,
 "artist": "Rick Wakeman",
-"media": ["DVD","Box"],
+"media": ["Box"],
 "genre": "Prog Rock",
 "country": "UK",
 "image": "img/698.jpg",
 "description": "",
-"decade": 2010,
+"decade": 2000,
 "related": ["Rick Wakeman"]
 },
 {
@@ -17102,7 +17102,7 @@
 "name": "Treasure Chest",
 "year": 2002,
 "artist": "Rick Wakeman",
-"media": ["Box","CD"],
+"media": ["Box"],
 "genre": "Prog Rock",
 "country": "UK",
 "image": "img/1314.jpg",
@@ -20008,5 +20008,18 @@
 "description": "",
 "decade": 1990,
 "related": ["Pink Floyd"]
-}
+},
+{"id": 1538,"name": "1975 Live At The Empire Pool King Arthur On Ice","year": 2007,"artist": "Rick Wakeman","media": ["DVD"],"genre": "Prog Rock","country": "UK","image": "img/1538.jpg","description": "","decade": 2000,"related": ["Rick Wakeman"]},
+{"id": 1539,"name": "Live At The Maltings 1976","year": 2007,"artist": "Rick Wakeman","media": ["DVD"],"genre": "Prog Rock","country": "UK","image": "img/1539.jpg","description": "","decade": 2000,"related": ["Rick Wakeman"]},
+{"id": 1540,"name": "Live 1980 Swedish Television Special","year": 2007,"artist": "Rick Wakeman","media": ["DVD"],"genre": "Prog Rock","country": "UK","image": "img/1540.jpg","description": "","decade": 2000,"related": ["Rick Wakeman"]},
+{"id": 1541,"name": "1984 Live At The Hammersmith Odeon 1981","year": 2007,"artist": "Rick Wakeman","media": ["DVD"],"genre": "Prog Rock","country": "UK","image": "img/1541.jpg","description": "","decade": 2000,"related": ["Rick Wakeman"]},
+{"id": 1542,"name": "Night Music","year": 2007,"artist": "Rick Wakeman","media": ["DVD"],"genre": "Prog Rock","country": "UK","image": "img/1542.jpg","description": "","decade": 2000,"related": ["Rick Wakeman"]},
+{"id": 1543,"name": "Rarities Plus Interview","year": 2007,"artist": "Rick Wakeman","media": ["DVD"],"genre": "Prog Rock","country": "UK","image": "img/1543.jpg","description": "","decade": 2000,"related": ["Rick Wakeman"]},
+{"id": 1544,"name": "The Real Lisztomania","year": 2002,"artist": "Rick Wakeman","media": ["CD"],"genre": "Prog Rock","country": "UK","image": "img/1544.jpg","description": "","decade": 2000,"related": ["Rick Wakeman"]},
+{"id": 1545,"name": "The Oscar Concert","year": 2002,"artist": "Rick Wakeman","media": ["CD"],"genre": "Prog Rock","country": "UK","image": "img/1545.jpg","description": "","decade": 2000,"related": ["Rick Wakeman"]},
+{"id": 1546,"name": "The Missing Half","year": 2002,"artist": "Rick Wakeman","media": ["CD"],"genre": "Prog Rock","country": "UK","image": "img/1546.jpg","description": "","decade": 2000,"related": ["Rick Wakeman"]},
+{"id": 1547,"name": "Almost Classical","year": 2002,"artist": "Rick Wakeman","media": ["CD"],"genre": "Prog Rock","country": "UK","image": "img/1547.jpg","description": "","decade": 2000,"related": ["Rick Wakeman"]},
+{"id": 1548,"name": "The Mixture","year": 2002,"artist": "Rick Wakeman","media": ["CD"],"genre": "Prog Rock","country": "UK","image": "img/1548.jpg","description": "","decade": 2000,"related": ["Rick Wakeman"]},
+{"id": 1549,"name": "Medium Rare","year": 2002,"artist": "Rick Wakeman","media": ["CD"],"genre": "Prog Rock","country": "UK","image": "img/1549.jpg","description": "","decade": 2000,"related": ["Rick Wakeman"]},
+{"id": 1550,"name": "Stories","year": 2002,"artist": "Rick Wakeman","media": ["CD"],"genre": "Prog Rock","country": "UK","image": "img/1550.jpg","description": "","decade": 2000,"related": ["Rick Wakeman"]}
 ]
