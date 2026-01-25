@@ -16388,19 +16388,7 @@
 "decade": 2020,
 "related": ["Roger Dean"]
 },
-{
-"id": 1270,
-"name": "Celestial Songs",
-"year": 2023,
-"artist": "Downes Braide Association",
-"media": ["LP","CD","Box","Poster"],
-"genre": "Prog Rock",
-"country": "UK",
-"image": "img/1270.jpg",
-"description": "",
-"decade": 2020,
-"related": ["Roger Dean"]
-},
+{"id": 1270,"name": "Celestial Songs","year": 2023,"artist": "Downes Braide Association","media": ["LP","CD","Box"],"genre": "Prog Rock","country": "UK","image": "img/1270.jpg","description": "","decade": 2020,"related": ["Roger Dean"]},
 {
 "id": 1271,
 "name": "Yes The Yes Album (Super Deluxe Edition)",
@@ -19575,5 +19563,6 @@
 {"id": 1562,"name": "Tales From Topographic Oceans The Steve Wilson Remix","year": 2018,"artist": "Yes","media": ["LP"],"genre": "Prog Rock","country": "UK","image": "img/1562.jpg","description": "","decade": 2010,"related": ["Yes","Roger Dean"]},
 {"id": 1563,"name": "Relayer The Steve Wilson Remix","year": 2018,"artist": "Yes","media": ["LP"],"genre": "Prog Rock","country": "UK","image": "img/1563.jpg","description": "","decade": 2010,"related": ["Yes","Roger Dean"]},
 {"id": 1564,"name": "The Yes Album The Steve Wilson Remix","year": 2018,"artist": "Yes","media": ["LP"],"genre": "Prog Rock","country": "UK","image": "img/1564.jpg","description": "","decade": 2010,"related": ["Yes"]},
-{"id": 1565,"name": "Close To The Edge The Steve Wilson Remix","year": 2018,"artist": "Yes","media": ["LP"],"genre": "Prog Rock","country": "UK","image": "img/1565.jpg","description": "","decade": 2010,"related": ["Yes","Roger Dean"]}
+{"id": 1565,"name": "Close To The Edge The Steve Wilson Remix","year": 2018,"artist": "Yes","media": ["LP"],"genre": "Prog Rock","country": "UK","image": "img/1565.jpg","description": "","decade": 2010,"related": ["Yes","Roger Dean"]},
+{"id": 1566,"name": "Celestial Songs","year": 2023,"artist": "Downes Braide Association","media": ["Poster"],"genre": "Prog Rock","country": "UK","image": "img/1566.jpg","description": "","decade": 2020,"related": ["Roger Dean"]}
 ]
