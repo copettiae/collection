@@ -1,102 +1,11 @@
 [ 
-{
-"id": 1, 
-"name": "Abba Gold Greatest Hits",
-"year": 2004,
-"artist": "Abba",
-"media": ["CD"],
-"genre": "Pop Rock",
-"country": "Sweden",
-"image": "img/1.jpg",
-"description": "",
-"decade": 2000,
-"related": [],
-"letter": "A" 
-},
-{
-"id": 2,
-"name": "In Search Of Ancient Gods",
-"year": 1976,
-"artist": "Absolute Elsewhere",
-"media": ["CD"],
-"genre": "Prog Rock",
-"country": "UK",
-"image": "img/2.jpg",
-"description": "",
-"decade": 1970,
-"related": [],
-"letter": "A"
-},
-{
-"id": 3,
-"name": "Mechelwind",
-"year": 2009,
-"artist": "Aera",
-"media": ["CD"],
-"genre": "Jazz/Fusion",
-"country": "Germany",
-"image": "img/3.jpg",
-"description": "",
-"decade": 2000,
-"related": [],
-"letter": "A"
-},
-{
-"id": 4,
-"name": "After All",
-"year": 1969,
-"artist": "After All",
-"media": ["CD"],
-"genre": "Prog Rock",
-"country": "USA",
-"image": "img/4.jpg",
-"description": "",
-"decade": 1960,
-"related": [],
-"letter": "A"
-},
-{
-"id": 5,
-"name": "Malesch",
-"year": 1972,
-"artist": "Agitation Free",
-"media": ["CD"],
-"genre": "Prog Rock",
-"country": "Germany",
-"image": "img/5.jpg",
-"description": "",
-"decade": 1970,
-"related": [],
-"letter": "A"
-},
-{
-"id": 6,
-"name": "2nd",
-"year": 1973,
-"artist": "Agitation Free",
-"media": ["CD"],
-"genre": "Prog Rock",
-"country": "Germany",
-"image": "img/6.jpg",
-"description": "",
-"decade": 1970,
-"related": [],
-"letter": "A"
-},
-{
-"id": 7,
-"name": "Last",
-"year": 1976,
-"artist": "Agitation Free",
-"media": ["CD"],
-"genre": "Prog Rock",
-"country": "Germany",
-"image": "img/7.jpg",
-"description": "",
-"decade": 1970,
-"related": [],
-"letter": "A"
-},
+{"id": 1,"name": "Abba Gold Greatest Hits","year": 2004,"artist": "Abba","media": ["CD"],"genre": "Pop Rock","country": "Sweden","image": "img/1.jpg","description": "","decade": 2000,"related": []},
+{"id": 2,"name": "In Search Of Ancient Gods","year": 1976,"artist": "Absolute Elsewhere","media": ["CD"],"genre": "Prog Rock","country": "UK","image": "img/2.jpg","description": "","decade": 1970,"related": []},
+{"id": 3,"name": "Mechelwind","year": 2009,"artist": "Aera","media": ["CD"],"genre": "Jazz/Fusion","country": "Germany","image": "img/3.jpg","description": "","decade": 2000,"related": []},
+{"id": 4,"name": "After All","year": 1969,"artist": "After All","media": ["CD"],"genre": "Prog Rock","country": "USA","image": "img/4.jpg","description": "","decade": 1960,"related": []},
+{"id": 5,"name": "Malesch","year": 1972,"artist": "Agitation Free","media": ["CD"],"genre": "Prog Rock","country": "Germany","image": "img/5.jpg","description": "","decade": 1970,"related": []},
+{"id": 6,"name": "2nd","year": 1973,"artist": "Agitation Free","media": ["CD"],"genre": "Prog Rock","country": "Germany","image": "img/6.jpg","description": "","decade": 1970,"related": []},
+{"id": 7,"name": "Last","year": 1976,"artist": "Agitation Free","media": ["CD"],"genre": "Prog Rock","country": "Germany","image": "img/7.jpg","description": "","decade": 1970,"related": []},
 {
 "id": 8,
 "name": "Dust In The Sunlight",
@@ -108,8 +17,7 @@
 "image": "img/8.jpg",
 "description": "",
 "decade": 1970,
-"related": [],
-"letter": "A"
+"related": []
 },
 {
 "id": 9,
@@ -122,8 +30,7 @@
 "image": "img/9.jpg",
 "description": "",
 "decade": 1970,
-"related": [],
-"letter": "A"
+"related": []
 },
 {
 "id": 10,
@@ -136,8 +43,7 @@
 "image": "img/10.jpg",
 "description": "",
 "decade": 1970,
-"related": [],
-"letter": "A"
+"related": []
 },
 {
 "id": 11,
@@ -150,8 +56,7 @@
 "image": "img/11.jpg",
 "description": "",
 "decade": 1970,
-"related": [],
-"letter": "A"
+"related": []
 },
 {
 "id": 12,
@@ -164,8 +69,7 @@
 "image": "img/12.jpg",
 "description": "",
 "decade": 1970,
-"related": [],
-"letter": "A"
+"related": []
 },
 {
 "id": 13,
@@ -178,8 +82,7 @@
 "image": "img/13.jpg",
 "description": "",
 "decade": 1970,
-"related": [],
-"letter": "A"
+"related": []
 },
 {
 "id": 14,
@@ -192,8 +95,7 @@
 "image": "img/14.jpg",
 "description": "",
 "decade": 1990,
-"related": [],
-"letter": "A"
+"related": []
 },
 {
 "id": 1138,
@@ -206,8 +108,7 @@
 "image": "img/1138.jpg",
 "description": "",
 "decade": 1970,
-"related": [],
-"letter": "A"
+"related": []
 },
 {
 "id": 1169,
@@ -220,8 +121,7 @@
 "image": "img/1169.jpg",
 "description": "",
 "decade": 2000,
-"related": [],
-"letter": "A"
+"related": []
 },
 {
 "id": 15,
@@ -234,8 +134,7 @@
 "image": "img/15.jpg",
 "description": "",
 "decade": 1970,
-"related": [],
-"letter": "A"
+"related": []
 },
 {
 "id": 16,
@@ -15851,16 +15750,16 @@
 },
 {
 "id": 1213,
-"name": "Classic Rock Presents Prog Rock Magazine - Issue 17 Sep 2010 (no CD)Roger Waters",
-"year": 2025,
-"artist": "To Buy",
-"media": ["To Buy Mag"],
-"genre": "To Buy",
-"country": "To Buy",
+"name": "Classic Rock",
+"year": 2010,
+"artist": "Roger Waters",
+"media": ["Mag"],
+"genre": "Prog Rock",
+"country": "UK",
 "image": "img/1213.jpg",
 "description": "",
-"decade": 2020,
-"related": ["To Buy"]
+"decade": 2010,
+"related": ["Pink Floyd"]
 },
 {
 "id": 1214,
@@ -16330,32 +16229,8 @@
 "decade": 2020,
 "related": ["To Buy"]
 },
-{
-"id": 1250,
-"name": "YES Steven Wilson Remixes by Yes (Record, 2018) Box Set",
-"year": 2025,
-"artist": "To Buy",
-"media": ["To Buy Box"],
-"genre": "To Buy",
-"country": "To Buy",
-"image": "img/1250.jpg",
-"description": "",
-"decade": 2020,
-"related": ["To Buy"]
-},
-{
-"id": 1256,
-"name": "YES Talk Box set",
-"year": 2025,
-"artist": "To Buy",
-"media": ["To Buy Box"],
-"genre": "To Buy",
-"country": "To Buy",
-"image": "img/1256.jpg",
-"description": "",
-"decade": 2020,
-"related": ["To Buy"]
-},
+{"id": 1250,"name": "The Steven Wilson Remixes","year": 2018,"artist": "Yes","media": ["Box"],"genre": "Prog Rock","country": "UK","image": "img/1250.jpg","description": "","decade": 2010,"related": ["Yes"]},
+{"id": 1256,"name": "YES Talk Box set","year": 2025,"artist": "To Buy","media": ["To Buy Box"],"genre": "To Buy","country": "To Buy","image": "img/1256.jpg","description": "","decade": 2020,"related": ["To Buy"]},
 {
 "id": 1257,
 "name": "Classic Rock",
@@ -17684,7 +17559,7 @@
 },
 {
 "id": 1359,
-"name": "Fragile Steven Wilson Remix",
+"name": "Fragile The Steven Wilson Remix",
 "year": 2025,
 "artist": "Yes",
 "media": ["LP"],
@@ -19671,19 +19546,7 @@
 "decade": 2010,
 "related": []
 },
-{
-"id": 1512,
-"name": "Prog 164",
-"year": 2025,
-"artist": "Supertramp",
-"media": ["Mag"],
-"genre": "Prog Rock",
-"country": "UK",
-"image": "img/1512.jpg",
-"description": "",
-"decade": 2020,
-"related": []
-},
+{"id": 1512,"name": "Prog 164","year": 2025,"artist": "Supertramp","media": ["Mag"],"genre": "Prog Rock","country": "UK","image": "img/1512.jpg","description": "","decade": 2020,"related": []},
 {"id": 1513,"name": "Classic Rock Society","year": 2009,"artist": "Rick Wakeman","media": ["Mag"],"genre": "Prog Rock","country": "UK","image": "img/1513.jpg","description": "","decade": 2000,"related": ["Rick Wakeman"]},
 {"id": 1514,"name": "The History Of Rock 85","year": 1983,"artist": "Keith Emerson","media": ["Mag"],"genre": "Prog Rock","country": "UK","image": "img/1514.jpg","description": "","decade": 1980,"related": ["Emerson, Lake & Palmer"]},
 {"id": 1515,"name": "The Best Of","year": 1967,"artist": "Jefferson Airplane","media": ["CD"],"genre": "Psychedelic Rock","country": "UK","image": "img/1515.jpg","description": "","decade": 1960,"related": [""]},
@@ -19730,5 +19593,11 @@
 {"id": 1556,"name": "Nice","year": 1969,"artist": "The Nice","media": ["CD"],"genre": "Prog Rock","country": "UK","image": "img/1556.jpg","description": "","decade": 1960,"related": ["Emerson, Lake & Palmer"]},
 {"id": 1557,"name": "Ars Longa Vita Brevis","year": 1968,"artist": "The Nice","media": ["CD"],"genre": "Prog Rock","country": "UK","image": "img/1557.jpg","description": "","decade": 1960,"related": ["Emerson, Lake & Palmer"]},
 {"id": 1558,"name": "Invisible Connections","year": 1985,"artist": "Vangelis","media": ["CD"],"genre": "Electronica","country": "Greece","image": "img/1558.jpg","description": "","decade": 1980,"related": ["Vangelis"]},
-{"id": 1559,"name": "Discovery","year": 1984,"artist": "Mike Oldfield","media": ["CD"],"genre": "Prog Rock","country": "UK","image": "img/1559.jpg","description": "","decade": 1980,"related": [""]}
+{"id": 1559,"name": "Discovery","year": 1984,"artist": "Mike Oldfield","media": ["CD"],"genre": "Prog Rock","country": "UK","image": "img/1559.jpg","description": "","decade": 1980,"related": [""]},
+{"id": 1560,"name": "Record Collector 542","year": 2023,"artist": "Pink FLoyd","media": ["Mag"],"genre": "Prog Rock","country": "UK","image": "img/1560.jpg","description": "","decade": 2020,"related": ["Pink Floyd"]},
+{"id": 1561,"name": "Record Collector 464","year": 2017,"artist": "Emerson, Lake & Palmer","media": ["Mag"],"genre": "Prog Rock","country": "UK","image": "img/1561.jpg","description": "","decade": 2010,"related": ["Emerson, Lake & Palmer"]},
+{"id": 1562,"name": "Tales From Topographic Oceans The Steve Wilson Remix","year": 2018,"artist": "Yes","media": ["LP"],"genre": "Prog Rock","country": "UK","image": "img/1562.jpg","description": "","decade": 2010,"related": ["Yes","Roger Dean"]},
+{"id": 1563,"name": "Relayer The Steve Wilson Remix","year": 2018,"artist": "Yes","media": ["LP"],"genre": "Prog Rock","country": "UK","image": "img/1563.jpg","description": "","decade": 2010,"related": ["Yes","Roger Dean"]},
+{"id": 1564,"name": "The Yes Album The Steve Wilson Remix","year": 2018,"artist": "Yes","media": ["LP"],"genre": "Prog Rock","country": "UK","image": "img/1564.jpg","description": "","decade": 2010,"related": ["Yes"]},
+{"id": 1565,"name": "Close To The Edge The Steve Wilson Remix","year": 2018,"artist": "Yes","media": ["LP"],"genre": "Prog Rock","country": "UK","image": "img/1565.jpg","description": "","decade": 2010,"related": ["Yes","Roger Dean"]}
 ]
