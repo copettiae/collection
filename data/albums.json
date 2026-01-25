@@ -5296,19 +5296,7 @@
 "decade": 1970,
 "related": ["Bossa"]
 },
-{
-"id": 374,
-"name": "The Work of Hipgnosis 'Walk Away Ren\u00E9'",
-"year": 1978,
-"artist": "Hipgnosis",
-"media": ["Book"],
-"genre": "Prog Rock",
-"country": "UK",
-"image": "img/374.jpg",
-"description": "",
-"decade": 1970,
-"related": []
-},
+{"id": 374,"name": "The Work of Hipgnosis 'Walk Away Ren\u00E9'","year": 1978,"artist": "Hipgnosis","media": ["Book"],"genre": "Prog Rock","country": "UK","image": "img/374.jpg","description": "","decade": 1970,"related": ["Pink Floyd"]},
 {
 "id": 375,
 "name": "Cat",
@@ -15129,7 +15117,7 @@
 "name": "Heaven & Earth",
 "year": 2014,
 "artist": "Yes",
-"media": ["CD"],
+"media": ["CD","LP"],
 "genre": "Prog Rock",
 "country": "UK",
 "image": "img/1118.jpg",
@@ -18168,19 +18156,7 @@
 "decade": 1980,
 "related": ["Roger Dean"]
 },
-{
-"id": 1406,
-"name": "Pink Floyd At Pompeii",
-"year": 2025,
-"artist": "Pink Floyd",
-"media": ["Mag"],
-"genre": "Prog Rock",
-"country": "UK",
-"image": "img/1406.jpg",
-"description": "",
-"decade": 2020,
-"related": ["Pink Floyd"]
-},
+{"id": 1406,"name": "Classic Rock","year": 2025,"artist": "Pink Floyd","media": ["Mag"],"genre": "Prog Rock","country": "UK","image": "img/1406.jpg","description": "","decade": 2020,"related": ["Pink Floyd"]},
 {
 "id": 1407,
 "name": "White Willow Future Hopes LP",
