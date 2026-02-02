@@ -168,10 +168,10 @@
 // Tracy Chapman
 {{ $skip_ids = $skip_ids | append 965 966 }}
 
-
 // TO BUY
 {{ $skip_ids = $skip_ids | append 
 1212
+1213
 1214
 1216
 1217
@@ -195,6 +195,7 @@
 1244
 1245
 1249
+1250
 1251
 1252
 1253
@@ -293,6 +294,7 @@
 1525
 1530
 1531
+
 }}
 
 // -- U
@@ -319,7 +321,6 @@
         "genre" $album.genre
         "decade" $album.decade
         "related" $album.related
-        "letter" $album.letter
     }}
 
     {{ $content := dict
@@ -340,7 +341,6 @@
       "media" $album.media
       "decade" $album.decade
       "related" $album.related
-      "letter" $album.letter
     }}
 
     {{ $.AddPage $page }}
