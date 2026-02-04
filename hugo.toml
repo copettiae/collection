@@ -1,4 +1,4 @@
-baseURL = 'copettiae.github.io/collection/'
+baseURL = 'http://copettiae.github.io/collection/'
 languageCode = 'en-us'
 title = 'Collection'
 theme = "musica"
