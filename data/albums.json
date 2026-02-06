@@ -3112,19 +3112,7 @@
 "decade": 2000,
 "related": []
 },
-{
-"id": 216,
-"name": "Cactus Choir",
-"year": 1976,
-"artist": "Dave Greenslade",
-"media": ["LP"],
-"genre": "Prog Rock",
-"country": "UK",
-"image": "img/216.jpg",
-"description": "",
-"decade": 1970,
-"related": ["Roger Dean","Greenslade"]
-},
+{"id": 216,"name": "Cactus Choir","year": 1976,"artist": "Dave Greenslade","media": ["LP"],"genre": "Prog Rock","country": "UK","image": "img/216.jpg","description": "","decade": 1970,"related": ["Roger Dean"]},
 {
 "id": 217,
 "name": "The Best Of David Bowie 1969/1974",
@@ -5101,19 +5089,7 @@
 "decade": 1970,
 "related": ["Roger Dean"]
 },
-{
-"id": 360,
-"name": "Greenslade & Bedside Manners Are Extra",
-"year": 1973,
-"artist": "Greenslade",
-"media": ["CD"],
-"genre": "Prog Rock",
-"country": "UK",
-"image": "img/360.jpg",
-"description": "Greenslade",
-"decade": 1970,
-"related": ["Roger Dean","Greenslade"]
-},
+{"id": 360,"name": "Greenslade & Bedside Manners Are Extra","year": 1973,"artist": "Greenslade","media": ["CD"],"genre": "Prog Rock","country": "UK","image": "img/360.jpg","description": "Greenslade","decade": 1970,"related": ["Roger Dean"]},
 {
 "id": 1085,
 "name": "Grobschnitt",
@@ -9368,19 +9344,7 @@
 "decade": 1970,
 "related": []
 },
-{
-"id": 684,
-"name": "The White Ladies",
-"year": 1976,
-"artist": "Rick Van Der Linden And Trace",
-"media": ["CD"],
-"genre": "Prog Rock",
-"country": "The Netherlands",
-"image": "img/684.jpg",
-"description": "",
-"decade": 1970,
-"related": ["Trace"]
-},
+{"id": 684,"name": "The White Ladies","year": 1976,"artist": "Trace","media": ["CD"],"genre": "Prog Rock","country": "The Netherlands","image": "img/684.jpg","description": "","decade": 1970,"related": []},
 {
 "id": 685,
 "name": "The Six Wives of Henry VIII",
@@ -13307,32 +13271,8 @@
 "decade": 2000,
 "related": []
 },
-{
-"id": 963,
-"name": "Trace",
-"year": 1974,
-"artist": "Trace",
-"media": ["CD"],
-"genre": "Prog Rock",
-"country": "The Netherlands",
-"image": "img/963.jpg",
-"description": "",
-"decade": 1970,
-"related": ["Trace"]
-},
-{
-"id": 964,
-"name": "Birds",
-"year": 1975,
-"artist": "Trace",
-"media": ["CD"],
-"genre": "Prog Rock",
-"country": "The Netherlands",
-"image": "img/964.jpg",
-"description": "",
-"decade": 1970,
-"related": ["Trace"]
-},
+{"id": 963,"name": "Trace","year": 1974,"artist": "Trace","media": ["CD"],"genre": "Prog Rock","country": "The Netherlands","image": "img/963.jpg","description": "","decade": 1970,"related": []},
+{"id": 964,"name": "Birds","year": 1975,"artist": "Trace","media": ["CD"],"genre": "Prog Rock","country": "The Netherlands","image": "img/964.jpg","description": "","decade": 1970,"related": []},
 {
 "id": 965,
 "name": "Tracy Chapman",
@@ -17457,32 +17397,8 @@
 "decade": 2020,
 "related": ["To Buy"]
 },
-{
-"id": 1355,
-"name": "Greenslade",
-"year": 1973,
-"artist": "Greenslade",
-"media": ["LP"],
-"genre": "Prog Rock",
-"country": "UK",
-"image": "img/1355.jpg",
-"description": "",
-"decade": 1970,
-"related": ["Roger Dean","Greenslade"]
-},
-{
-"id": 1356,
-"name": "Greenslade Bedside Manners Are Extra",
-"year": 2024,
-"artist": "To Buy",
-"media": ["Wanted"],
-"genre": "To Buy",
-"country": "To Buy",
-"image": "img/1356.jpg",
-"description": "",
-"decade": 2020,
-"related": ["To Buy"]
-},
+{"id": 1355,"name": "Greenslade","year": 1973,"artist": "Greenslade","media": ["LP"],"genre": "Prog Rock","country": "UK","image": "img/1355.jpg","description": "","decade": 1970,"related": ["Roger Dean"]},
+{"id": 1356,"name": "Greenslade Bedside Manners Are Extra","year": 2024,"artist": "To Buy","media": ["Wanted"],"genre": "To Buy","country": "To Buy","image": "img/1356.jpg","description": "","decade": 2020,"related": ["To Buy"]},
 {
 "id": 1357,
 "name": "Woyaya",
