@@ -18641,19 +18641,7 @@
 "decade": 2020,
 "related": ["To Buy"]
 },
-{
-"id": 1459,
-"name": "Symphonic Tour",
-"year": 2001,
-"artist": "Yes",
-"media": ["Tour"],
-"genre": "Prog Rock",
-"country": "UK",
-"image": "img/1459.jpg",
-"description": "",
-"decade": 2000,
-"related": ["Yes"]
-},
+{"id": 1459,"name": "Symphonic Tour","year": 2001,"artist": "Yes","media": ["Tour"],"genre": "Prog Rock","country": "UK","image": "img/1459.jpg","description": "","decade": 2000,"related": ["Yes"]},
 {
 "id": 1460,
 "name": "The Ultimate Music Guide",
@@ -19407,5 +19395,7 @@
 {"id": 1586,"name": "Pigs Might Fly The Inside Story Of Pink Floyd","year": 2007,"artist": "Mark Blake","media": ["Book"],"genre": "Prog Rock","country": "UK","image": "img/1586.jpg","description": "","decade": 2000,"related": ["Pink Floyd"]},
 {"id": 1587,"name": "Inside Out A Personal History Of Pink Floyd","year": 2004,"artist": "Nick Mason","media": ["Book"],"genre": "Prog Rock","country": "UK","image": "img/1587.jpg","description": "","decade": 2000,"related": ["Pink Floyd"]},
 {"id": 1588,"name": "Yes Union North America Programme","year": 1991,"artist": "Yes","media": ["Tour"],"genre": "Prog Rock","country": "UK","image": "img/1588.jpg","description": "","decade": 1990,"related": ["Yes"]},
-{"id": 1589,"name": "Topography The Yes Anthology Studio, Live & Solo Classics","year": 2004,"artist": "Yes","media": ["CD"],"genre": "Prog Rock","country": "UK","image": "img/1589.jpg","description": "","decade": 2000,"related": ["Yes"]}
+{"id": 1589,"name": "Topography The Yes Anthology Studio, Live & Solo Classics","year": 2004,"artist": "Yes","media": ["CD"],"genre": "Prog Rock","country": "UK","image": "img/1589.jpg","description": "","decade": 2000,"related": ["Yes"]},
+{"id": 1590,"name": "Love Will Find The Way","year": 1987,"artist": "Yes","media": ["LP"],"genre": "Prog Rock","country": "UK","image": "img/1590.jpg","description": "","decade": 1980,"related": ["Yes"]},
+{"id": 1591,"name": "Symphonic Tour","year": 2001,"artist": "Yes","media": ["Tour"],"genre": "Prog Rock","country": "UK","image": "img/1591.jpg","description": "","decade": 2000,"related": ["Yes"]}
 ]
