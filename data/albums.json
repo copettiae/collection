@@ -19397,5 +19397,8 @@
 {"id": 1588,"name": "Yes Union North America Programme","year": 1991,"artist": "Yes","media": ["Tour"],"genre": "Prog Rock","country": "UK","image": "img/1588.jpg","description": "","decade": 1990,"related": ["Yes"]},
 {"id": 1589,"name": "Topography The Yes Anthology Studio, Live & Solo Classics","year": 2004,"artist": "Yes","media": ["CD"],"genre": "Prog Rock","country": "UK","image": "img/1589.jpg","description": "","decade": 2000,"related": ["Yes"]},
 {"id": 1590,"name": "Love Will Find The Way","year": 1987,"artist": "Yes","media": ["LP"],"genre": "Prog Rock","country": "UK","image": "img/1590.jpg","description": "","decade": 1980,"related": ["Yes"]},
-{"id": 1591,"name": "Symphonic Tour","year": 2001,"artist": "Yes","media": ["Tour"],"genre": "Prog Rock","country": "UK","image": "img/1591.jpg","description": "","decade": 2000,"related": ["Yes"]}
+{"id": 1591,"name": "Symphonic Tour","year": 2001,"artist": "Yes","media": ["Tour"],"genre": "Prog Rock","country": "UK","image": "img/1591.jpg","description": "","decade": 2000,"related": ["Yes"]},
+{"id": 1592,"name": "It Can Happen","year": 1984,"artist": "Yes","media": ["LP"],"genre": "Prog Rock","country": "UK","image": "img/1592.jpg","description": "","decade": 1980,"related": ["Yes"]},
+{"id": 1593,"name": "Prog 144","year": 2023,"artist": "Keith Emerson","media": ["Mag"],"genre": "Prog Rock","country": "UK","image": "img/1593.jpg","description": "","decade": 2020,"related": ["Emerson, Lake & Palmer"]},
+{"id": 1594,"name": "Classic Rock 17","year": 2011,"artist": "Various","media": ["Mag"],"genre": "Prog Rock","country": "UK","image": "img/1594.jpg","description": "","decade": 2010,"related": ["Emerson, Lake & Palmer","Yes","Pink Floyd"]}
 ]
