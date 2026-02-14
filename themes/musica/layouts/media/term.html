@@ -9,7 +9,7 @@
 		</div>
 		{{ end }}
 		
-		{{ $sortedPages := (.Pages.ByParam "year").Reverse.ByParam "artist" }}
+		{{ $sortedPages := (.Pages.ByParam "year").ByParam "artist" }}
 		{{ $paginator := .Paginate $sortedPages }}
 
 		{{/* Loop for every album */}}
