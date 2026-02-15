@@ -1,6 +1,8 @@
 <a href="{{ .Permalink }}" class="item">
 		{{ $baseURL := .Site.BaseURL }}
-		<img src="{{ $baseURL }}/{{ .Params.image }}" alt="" loading="lazy">
+
+		<img src="{{ $baseURL }}/{{ index ( .Params.image ) 0 }}" alt="" loading="lazy">
+
 		<div class="title">{{ .Title }}</div>
 		<div class="medium-group"> 
 			{{$media := .Params.media}}
