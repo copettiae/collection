@@ -8606,7 +8606,7 @@
 "decade": 1970,
 "related": ["Pink Floyd"]
 },
-{"id": 633,"name": "Is There Anybody Out There?","year": 1980,"artist": "Pink Floyd","media": ["CD","Box"],"genre": "Prog Rock","country": "UK","image": ["img/633.jpg"],"description": "","decade": 1980,"related": ["Pink Floyd"]},
+{"id": 633,"name": "Is There Anybody Out There?","year": 1980,"artist": "Pink Floyd","media": ["CD","Box"],"genre": "Prog Rock","country": "UK","image": ["img/633.jpg","img/633-2.jpg","img/633-3.jpg"],"description": "","decade": 1980,"related": ["Pink Floyd"]},
 {"id": 634,"name": "The Final Cut","year": 1983,"artist": "Pink Floyd","media": ["CD","LP"],"genre": "Prog Rock","country": "UK","image": ["img/634.jpg"],"description": "","decade": 1980,"related": ["Pink Floyd"]},
 {
 "id": 192,
@@ -9952,19 +9952,7 @@
 "decade": 2010,
 "related": ["Rick Wakeman"]
 },
-{
-"id": 698,
-"name": "Video Vault",
-"year": 2007,
-"artist": "Rick Wakeman",
-"media": ["DVD","Box"],
-"genre": "Prog Rock",
-"country": "UK",
-"image": ["img/698.jpg"],
-"description": "",
-"decade": 2000,
-"related": ["Rick Wakeman"]
-},
+{"id": 698,"name": "Video Vault","year": 2007,"artist": "Rick Wakeman","media": ["DVD","Box"],"genre": "Prog Rock","country": "UK","image": ["img/698.jpg","img/1538.jpg","img/1539.jpg","img/1540.jpg","img/1541.jpg","img/1542.jpg","img/1543.jpg"],"description": "","decade": 2000,"related": ["Rick Wakeman"]},
 {
 "id": 1164,
 "name": "Classic Rock",
@@ -13674,19 +13662,7 @@
 "decade": 1990,
 "related": []
 },
-{
-"id": 699,
-"name": "Supernatural Fairy Tales - The Progressive Rock Era",
-"year": 1996,
-"artist": "Various",
-"media": ["Box","CD"],
-"genre": "Prog Rock",
-"country": "UK",
-"image": ["img/699.jpg"],
-"description": "",
-"decade": 1990,
-"related": ["Roger Dean"]
-},
+{"id": 699,"name": "Supernatural Fairy Tales - The Progressive Rock Era","year": 1996,"artist": "Various","media": ["Box","CD"],"genre": "Prog Rock","country": "UK","image": ["img/699.jpg","img/699-2.jpg","img/699-3.jpg","img/699-4.jpg","img/699-5.jpg","img/699-6.jpg","img/699-7.jpg"],"description": "","decade": 1990,"related": ["Roger Dean"]},
 {
 "id": 140,
 "name": "Buena Vista Social Club",
@@ -14714,19 +14690,7 @@
 "decade": 2000,
 "related": ["Yes"]
 },
-{
-"id": 1101,
-"name": "In A Word: Yes (1969 - )",
-"year": 2002,
-"artist": "Yes",
-"media": ["Box","CD"],
-"genre": "Prog Rock",
-"country": "UK",
-"image": ["img/1101.jpg"],
-"description": "",
-"decade": 2000,
-"related": ["Yes","Roger Dean"]
-},
+{"id": 1101,"name": "In A Word: Yes (1969 - )","year": 2002,"artist": "Yes","media": ["Box","CD"],"genre": "Prog Rock","country": "UK","image": ["img/1101.jpg","img/1101-2.jpg","img/1101-3.jpg"],"description": "","decade": 2000,"related": ["Yes","Roger Dean"]},
 {
 "id": 1102,
 "name": "Symphonic Live",
@@ -14819,18 +14783,7 @@
 "related": ["Yes"]
 },
 {
-"id": 1110,
-"name": "The Word Is Live",
-"year": 2005,
-"artist": "Yes",
-"media": ["CD"],
-"genre": "Prog Rock",
-"country": "UK",
-"image": ["img/1110.jpg"],
-"description": "",
-"decade": 2000,
-"related": ["Yes","Roger Dean"]
-},
+"id": 1110,"name": "The Word Is Live","year": 2005,"artist": "Yes","media": ["CD","Box"],"genre": "Prog Rock","country": "UK","image": ["img/1110.jpg","img/1110-2.jpg"],"description": "","decade": 2000,"related": ["Yes","Roger Dean"]},
 {
 "id": 1111,
 "name": "La Definitiva Y Autorizada Historia En Una Edicion Coleccionista De 2 Discos",
@@ -16625,19 +16578,7 @@
 "decade": 2020,
 "related": ["To Buy"]
 },
-{
-"id": 1314,
-"name": "Treasure Chest",
-"year": 2002,
-"artist": "Rick Wakeman",
-"media": ["CD","Box"],
-"genre": "Prog Rock",
-"country": "UK",
-"image": ["img/1314.jpg"],
-"description": "",
-"decade": 2000,
-"related": ["Rick Wakeman"]
-},
+{"id": 1314,"name": "Treasure Chest","year": 2002,"artist": "Rick Wakeman","media": ["CD","Box"],"genre": "Prog Rock","country": "UK","image": ["img/1314.jpg","img/1314-2.jpg","img/1544.jpg","img/1545.jpg","img/1548.jpg","img/1546.jpg","img/1550.jpg","img/1549.jpg","img/740.jpg","img/1547.jpg"],"description": "","decade": 2000,"related": ["Rick Wakeman"]},
 {
 "id": 1315,
 "name": "International Musician And Recording World",
@@ -19146,7 +19087,7 @@
 {"id": 1564,"name": "The Yes Album The Steve Wilson Remix","year": 2018,"artist": "Yes","media": ["LP"],"genre": "Prog Rock","country": "UK","image": ["img/1564.jpg"],"description": "","decade": 2010,"related": ["Yes"]},
 {"id": 1565,"name": "Close To The Edge The Steve Wilson Remix","year": 2018,"artist": "Yes","media": ["LP"],"genre": "Prog Rock","country": "UK","image": ["img/1565.jpg"],"description": "","decade": 2010,"related": ["Yes","Roger Dean"]},
 {"id": 1566,"name": "Celestial Songs","year": 2023,"artist": "Downes Braide Association","media": ["Poster"],"genre": "Prog Rock","country": "UK","image": ["img/1566.jpg"],"description": "","decade": 2020,"related": ["Roger Dean"]},
-{"id": 1567,"name": "Wondrous Stories A Complete Introduction To Progressive Rock","year": 2010,"artist": "Various","media": ["CD","Box"],"genre": "Prog Rock","country": "UK","image": ["img/1567.jpg"],"description": "","decade": 2020,"related": ["Roger Dean"]},
+{"id": 1567,"name": "Wondrous Stories A Complete Introduction To Progressive Rock","year": 2010,"artist": "Various","media": ["CD","Box"],"genre": "Prog Rock","country": "UK","image": ["img/1567.jpg","img/1567-2.jpg","img/1567-3.jpg"],"description": "","decade": 2020,"related": ["Roger Dean"]},
 {"id": 1568,"name": "Um Amor Infinito","year": 2004,"artist": "Madredeus","media": ["CD"],"genre": "Fado/Folk","country": "Portugal","image": ["img/1568.jpg"],"description": "","decade": 2000,"related": []},
 {"id": 1569,"name": "Yes Magazine Vol 6 No 3","year": 1996,"artist": "Gottlieb Bros","media": ["Mag"],"genre": "Prog Rock","country": "UK","image": ["img/1569.jpg"],"description": "","decade": 1990,"related": ["Yes","Roger Dean"]},
 {"id": 1570,"name": "Yes Magazine Vol 5 No 1","year": 1993,"artist": "Gottlieb Bros","media": ["Mag"],"genre": "Prog Rock","country": "UK","image": ["img/1570.jpg"],"description": "","decade": 1990,"related": ["Yes","Roger Dean"]},
