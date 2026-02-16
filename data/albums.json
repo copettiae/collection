@@ -2931,45 +2931,9 @@
 "decade": 1970,
 "related": []
 },
-{
-"id": 515,
-"name": "Dark Fables",
-"year": 1999,
-"artist": "Clive Nolan & Oliver Wakeman",
-"media": ["CD"],
-"genre": "Prog Rock",
-"country": "UK",
-"image": ["img/515.jpg"],
-"description": "Tales by Gaslight",
-"decade": 1990,
-"related": []
-},
-{
-"id": 203,
-"name": "Jabberwocky",
-"year": 1999,
-"artist": "Clive Nolan & Oliver Wakeman",
-"media": ["CD"],
-"genre": "Prog Rock",
-"country": "UK",
-"image": ["img/203.jpg"],
-"description": "Tales by Gaslight",
-"decade": 1990,
-"related": []
-},
-{
-"id": 514,
-"name": "The Hound Of The Baskervilles",
-"year": 1999,
-"artist": "Clive Nolan & Oliver Wakeman",
-"media": ["CD"],
-"genre": "Prog Rock",
-"country": "UK",
-"image": ["img/514.jpg"],
-"description": "Tales by Gaslight",
-"decade": 1990,
-"related": []
-},
+{"id": 515,"name": "Dark Fables","year": 2021,"artist": "Clive Nolan & Oliver Wakeman","media": ["CD"],"genre": "Prog Rock","country": "UK","image": ["img/515.jpg"],"description": "Tales by Gaslight","decade": 2020,"related": []},
+{"id": 203,"name": "Jabberwocky","year": 1999,"artist": "Clive Nolan & Oliver Wakeman","media": ["CD"],"genre": "Prog Rock","country": "UK","image": ["img/203.jpg"],"description": "Tales by Gaslight","decade": 1990,"related": []},
+{"id": 514,"name": "The Hound Of The Baskervilles","year": 2002,"artist": "Clive Nolan & Oliver Wakeman","media": ["CD"],"genre": "Prog Rock","country": "UK","image": ["img/514.jpg"],"description": "Tales by Gaslight","decade": 2000,"related": []},
 {
 "id": 206,
 "name": "Space Cabaret / Open Spaces",
@@ -19174,5 +19138,23 @@
 {"id": 1592,"name": "It Can Happen","year": 1984,"artist": "Yes","media": ["LP"],"genre": "Prog Rock","country": "UK","image": ["img/1592.jpg"],"description": "","decade": 1980,"related": ["Yes"]},
 {"id": 1593,"name": "Prog 144","year": 2023,"artist": "Keith Emerson","media": ["Mag"],"genre": "Prog Rock","country": "UK","image": ["img/1593.jpg"],"description": "","decade": 2020,"related": ["Emerson, Lake & Palmer"]},
 {"id": 1594,"name": "Classic Rock","year": 2011,"artist": "Various","media": ["Mag"],"genre": "Prog Rock","country": "UK","image": ["img/1594.jpg","img/1594-2.jpg"],"description": "","decade": 2010,"related": ["Yes","Pink Floyd","Emerson, Lake & Palmer"]},
-{"id": 1595,"name": "Classic Rock","year": 2010,"artist": "Roger Waters","media": ["Mag"],"genre": "Prog Rock","country": "UK","image": ["img/1595.jpg","img/1595-2.jpg"],"description": "","decade": 2010,"related": ["Pink Floyd"]}
+{"id": 1595,"name": "Classic Rock","year": 2010,"artist": "Roger Waters","media": ["Mag"],"genre": "Prog Rock","country": "UK","image": ["img/1595.jpg","img/1595-2.jpg"],"description": "","decade": 2010,"related": ["Pink Floyd"]},
+{"id": 1596,"name": "Tales by Gaslight","year": 2021,"artist": "Clive Nolan & Oliver Wakeman","media": ["Box","CD"],"genre": "Prog Rock","country": "UK",
+"image": [
+    "img/1596.jpg",
+    "img/203.jpg",
+    "img/1596-2.jpg",
+    "img/1596-3.jpg",
+    "img/1596-4.jpg",
+    "img/514.jpg",
+    "img/1596-5.jpg",
+    "img/1596-6.jpg",
+    "img/1596-7.jpg",
+    "img/515.jpg",
+    "img/1596-8.jpg",
+    "img/1596-9.jpg",
+    "img/1596-10.jpg",
+    "img/1596-11.jpg",
+    "img/1596-12.jpg"
+],"description": "","decade": 2020,"related": []}
 ]
