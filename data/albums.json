@@ -14800,7 +14800,7 @@
 "decade": 2010,
 "related": ["Yes","Roger Dean"]
 },
-{"id": 1117,"name": "Prog 40","year": 2013,"artist": "Yes","media": ["Mag"],"genre": "Prog Rock","country": "UK","image": ["img/1117.jpg","img/1117-2.jpg"],"description": "","decade": 2010,"related": ["Yes"]},
+{"id": 1117,"name": "Prog 40","year": 2013,"artist": "Yes","media": ["Mag"],"genre": "Prog Rock","country": "UK","image": ["img/1117.jpg","img/1117-2.jpg","img/1117-3.jpg"],"description": "","decade": 2010,"related": ["Yes"]},
 {
 "id": 1072,
 "name": "The Studio Albums 1969-1987",
@@ -15303,19 +15303,6 @@
 "related": ["To Buy"]
 },
 {
-"id": 1253,
-"name": "Classic Rock Presents Prog Rock Magazine - Issue 86 April 2018 No CD",
-"year": 2025,
-"artist": "To Buy",
-"media": ["To Buy Mag"],
-"genre": "To Buy",
-"country": "To Buy",
-"image": ["img/1253.jpg"],
-"description": "",
-"decade": 2020,
-"related": ["To Buy"]
-},
-{
 "id": 1254,
 "name": "Classic Rock Presents Prog Rock Magazine - Issue 91 October 2018 No CD",
 "year": 2025,
@@ -15324,32 +15311,6 @@
 "genre": "To Buy",
 "country": "To Buy",
 "image": ["img/1254.jpg"],
-"description": "",
-"decade": 2020,
-"related": ["To Buy"]
-},
-{
-"id": 1255,
-"name": "Classic Rock presents PROG Magazine Issue 47 No CD.",
-"year": 2025,
-"artist": "To Buy",
-"media": ["To Buy Mag"],
-"genre": "To Buy",
-"country": "To Buy",
-"image": ["img/1255.jpg"],
-"description": "",
-"decade": 2020,
-"related": ["To Buy"]
-},
-{
-"id": 1212,
-"name": "Classic Rock presents PROG Rock Magazine Issue 32 No CD.",
-"year": 2025,
-"artist": "To Buy",
-"media": ["To Buy Mag"],
-"genre": "To Buy",
-"country": "To Buy",
-"image": ["img/1212.jpg"],
 "description": "",
 "decade": 2020,
 "related": ["To Buy"]
@@ -15957,19 +15918,6 @@
 "related": ["Yes"]
 },
 {
-"id": 1268,
-"name": "Yes Relayer (Rhino High Fidelity)",
-"year": 2024,
-"artist": "To Buy",
-"media": ["Wanted"],
-"genre": "To Buy",
-"country": "To Buy",
-"image": ["img/1268.jpg"],
-"description": "",
-"decade": 2020,
-"related": ["To Buy"]
-},
-{
 "id": 1269,
 "name": "Halcyon Hymns",
 "year": 2021,
@@ -15992,19 +15940,6 @@
 "genre": "To Buy",
 "country": "To Buy",
 "image": ["img/1271.jpg"],
-"description": "",
-"decade": 2020,
-"related": ["To Buy"]
-},
-{
-"id": 1272,
-"name": "Yes Yessingles",
-"year": 2024,
-"artist": "To Buy",
-"media": ["Wanted"],
-"genre": "To Buy",
-"country": "To Buy",
-"image": ["img/1272.jpg"],
 "description": "",
 "decade": 2020,
 "related": ["To Buy"]
@@ -16960,19 +16895,6 @@
 "related": ["To Buy"]
 },
 {
-"id": 1347,
-"name": "Rick Wakeman and Gordon Giltrap From Brush and Stone ",
-"year": 2024,
-"artist": "To Buy",
-"media": ["Wanted"],
-"genre": "To Buy",
-"country": "To Buy",
-"image": ["img/1347.jpg"],
-"description": "",
-"decade": 2020,
-"related": ["To Buy"]
-},
-{
 "id": 1348,
 "name": "The Magician's Birthday",
 "year": 1972,
@@ -17282,45 +17204,6 @@
 "genre": "To Buy",
 "country": "To Buy",
 "image": ["img/1373.jpg"],
-"description": "",
-"decade": 2020,
-"related": ["To Buy"]
-},
-{
-"id": 1374,
-"name": "Yes Singles II",
-"year": 2024,
-"artist": "To Buy",
-"media": ["Wanted"],
-"genre": "To Buy",
-"country": "To Buy",
-"image": ["img/1374.jpg"],
-"description": "",
-"decade": 2020,
-"related": ["To Buy"]
-},
-{
-"id": 1375,
-"name": "Yes Fragile Outtakes",
-"year": 2024,
-"artist": "To Buy",
-"media": ["Wanted"],
-"genre": "To Buy",
-"country": "To Buy",
-"image": ["img/1375.jpg"],
-"description": "",
-"decade": 2020,
-"related": ["To Buy"]
-},
-{
-"id": 1376,
-"name": "Yes Yale Bowl '71",
-"year": 2024,
-"artist": "To Buy",
-"media": ["Wanted"],
-"genre": "To Buy",
-"country": "To Buy",
-"image": ["img/1376.jpg"],
 "description": "",
 "decade": 2020,
 "related": ["To Buy"]
@@ -18332,32 +18215,6 @@
 "description": "",
 "decade": 2020,
 "related": ["Yes"]
-},
-{
-"id": 1461,
-"name": "In The Beginning",
-"year": 2025,
-"artist": "To Buy",
-"media": ["Wanted"],
-"genre": "To Buy",
-"country": "To Buy",
-"image": ["img/1461.jpg"],
-"description": "",
-"decade": 2020,
-"related": ["To Buy"]
-},
-{
-"id": 1462,
-"name": "In The Beginning Volume 2",
-"year": 2025,
-"artist": "To Buy",
-"media": ["Wanted"],
-"genre": "To Buy",
-"country": "To Buy",
-"image": ["img/1462.jpg"],
-"description": "",
-"decade": 2020,
-"related": ["To Buy"]
 },
 {
 "id": 1463,
