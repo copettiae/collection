@@ -53,7 +53,7 @@ a{
     border-radius: 10px;
     align-items: center;
     display: flex;
-    flex-direction: row;
+    flex-direction: column;
     filter: drop-shadow(0 5px 5px #0009);
 }
 .listProduct .item > .title{
