@@ -3,13 +3,13 @@
 		<article>
 			{{ $baseURL := .Site.BaseURL }}
 			<h1>{{ .Title }}</h1>
-
-			{{ with .Params.image }}
-				{{ range . }}
-					<img src="{{ $baseURL }}/{{ . }}" width="400" alt="" loading="lazy">
+			<div class="listSingleGrid">
+				{{ with .Params.image }}
+					{{ range . }}
+						<img class="listSingle" src="{{ $baseURL }}/{{ . }}" height="300" alt="" loading="lazy">
+					{{ end }}
 				{{ end }}
-			{{ end }}
-
+			</div>
 			<div class="medium-group"> 
 				{{$media := .Params.media}}
 				{{ range $type, $filename := .Site.Data.media }}
@@ -24,8 +24,6 @@
 			<div> 
 				<em class="artist-single">{{ .Params.artist }}</em>
 			</div>
-				
-
 			{{ with .Params.tags }}
 			<div>
 				<ul id="tags">

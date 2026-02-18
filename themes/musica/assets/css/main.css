@@ -41,6 +41,21 @@ a{
     flex-direction: column;
     filter: drop-shadow(0 5px 5px #0009);
 }
+.listSingleGrid{
+    display: grid;
+    grid-template-columns: repeat(8, 1fr);
+    grid-gap: 15px;
+    padding: 15px;
+}
+.listSingle{
+    background-color: #EEEEE6;
+    padding: 10px;
+    border-radius: 10px;
+    align-items: center;
+    display: flex;
+    flex-direction: row;
+    filter: drop-shadow(0 5px 5px #0009);
+}
 .listProduct .item > .title{
     font-weight: 500;
     font-size: 0.8rem;
