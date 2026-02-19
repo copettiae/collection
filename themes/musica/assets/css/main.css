@@ -55,6 +55,8 @@ a{
     display: flex;
     flex-direction: column;
     filter: drop-shadow(0 5px 5px #0009);
+    width: 100%;
+    height: 100%;
 }
 .listProduct .item > .title{
     font-weight: 500;
