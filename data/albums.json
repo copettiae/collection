@@ -17690,21 +17690,9 @@
 },
 {"id": 1426,"name": "World Tour 1984","year": 1984,"artist": "Yes","media": ["Tour"],"genre": "Prog Rock","country": "UK",
 "image": [
-    "img/1426.jpg",
-    "img/1426-2.jpg",
-    "img/1426-3.jpg",
-    "img/1426-4.jpg",
-    "img/1426-5.jpg",
-    "img/1426-6.jpg",
-    "img/1426-7.jpg",
-    "img/1426-8.jpg",
-    "img/1426-9.jpg",
-    "img/1426-10.jpg",
-    "img/1426-11.jpg",
-    "img/1426-12.jpg",
-    "img/1426-13.jpg",
-    "img/1426-14.jpg",
-    "img/1426-15.jpg",
+    "img/1426.jpg",    "img/1426-2.jpg",    "img/1426-3.jpg",    "img/1426-4.jpg",    "img/1426-5.jpg",
+    "img/1426-6.jpg",    "img/1426-7.jpg",    "img/1426-8.jpg",    "img/1426-9.jpg",    "img/1426-10.jpg",
+    "img/1426-11.jpg",    "img/1426-12.jpg",    "img/1426-13.jpg",    "img/1426-14.jpg",    "img/1426-15.jpg",
     "img/1426-16.jpg"
 ],"description": "","decade": 1980,"related": ["Yes"]},
 {
@@ -17753,18 +17741,15 @@
     "img/1430-13.jpg",    "img/1430-14.jpg",    "img/1430-15.jpg",    "img/1430-16.jpg"
 ],"description": "","decade": 1990,"related": ["Rick Wakeman"]},
 {
-"id": 1431,
-"name": "20 Years 1969 - 1989",
-"year": 1989,
-"artist": "Rick Wakeman",
-"media": ["Book"],
-"genre": "Prog Rock",
-"country": "UK",
-"image": ["img/1431.jpg"],
-"description": "",
-"decade": 1980,
-"related": ["Rick Wakeman"]
-},
+"id": 1431,"name": "20 Years 1969 - 1989","year": 1989,"artist": "Rick Wakeman","media": ["Tour"],"genre": "Prog Rock","country": "UK",
+"image": [
+    "img/1431.jpg",    "img/1431-2.jpg",    "img/1431-3.jpg",    "img/1431-4.jpg",    "img/1431-5.jpg",    "img/1431-6.jpg",
+    "img/1431-7.jpg",    "img/1431-8.jpg",    "img/1431-9.jpg",    "img/1431-10.jpg",    "img/1431-11.jpg",    "img/1431-12.jpg",
+    "img/1431-13.jpg",    "img/1431-14.jpg",    "img/1431-15.jpg",    "img/1431-16.jpg",    "img/1431-17.jpg",    "img/1431-18.jpg",
+    "img/1431-19.jpg",    "img/1431-20.jpg",    "img/1431-21.jpg",    "img/1431-22.jpg",    "img/1431-23.jpg",    "img/1431-24.jpg",
+    "img/1431-25.jpg",    "img/1431-26.jpg",    "img/1431-27.jpg",    "img/1431-28.jpg",    "img/1431-29.jpg",    "img/1431-30.jpg",
+    "img/1431-31.jpg",    "img/1431-32.jpg"
+],"description": "","decade": 1980,"related": ["Rick Wakeman"]},
 {"id": 1432,"name": "It's Nearly Christmas Tour","year": 1997,"artist": "Rick Wakeman","media": ["Tour"],"genre": "Prog Rock","country": "UK",
 "image": [
     "img/1432.jpg",    "img/1432-2.jpg",    "img/1432-3.jpg",    "img/1432-4.jpg",    "img/1432-5.jpg",    "img/1432-6.jpg",
