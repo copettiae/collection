@@ -17746,19 +17746,12 @@
 "decade": 2000,
 "related": ["Yes"]
 },
-{
-"id": 1430,
-"name": "The Classical Connection Tour",
-"year": 1991,
-"artist": "Rick Wakeman",
-"media": ["Tour"],
-"genre": "Prog Rock",
-"country": "UK",
-"image": ["img/1430.jpg"],
-"description": "",
-"decade": 1990,
-"related": ["Rick Wakeman"]
-},
+{"id": 1430,"name": "The Classical Connection Tour","year": 1991,"artist": "Rick Wakeman","media": ["Tour"],"genre": "Prog Rock","country": "UK",
+"image": [
+    "img/1430.jpg",    "img/1430-2.jpg",    "img/1430-3.jpg",    "img/1430-4.jpg",    "img/1430-5.jpg",    "img/1430-6.jpg",
+    "img/1430-7.jpg",    "img/1430-8.jpg",    "img/1430-9.jpg",    "img/1430-10.jpg",    "img/1430-11.jpg",    "img/1430-12.jpg",
+    "img/1430-13.jpg",    "img/1430-14.jpg",    "img/1430-15.jpg",    "img/1430-16.jpg"
+],"description": "","decade": 1990,"related": ["Rick Wakeman"]},
 {
 "id": 1431,
 "name": "20 Years 1969 - 1989",
@@ -17772,54 +17765,22 @@
 "decade": 1980,
 "related": ["Rick Wakeman"]
 },
-{
-"id": 1432,
-"name": "It's Nearly Christmas Tour",
-"year": 1997,
-"artist": "Rick Wakeman",
-"media": ["Tour"],
-"genre": "Prog Rock",
-"country": "UK",
-"image": ["img/1432.jpg"],
-"description": "",
-"decade": 1990,
-"related": ["Rick Wakeman"]
-},
-{
-"id": 1433,
-"name": "An Intimate Evening With Rick Wakeman Tour",
-"year": 1987,
-"artist": "Rick Wakeman",
-"media": ["Tour"],
-"genre": "Prog Rock",
-"country": "UK",
-"image": ["img/1433.jpg"],
-"description": "",
-"decade": 1980,
-"related": ["Rick Wakeman"]
-},
+{"id": 1432,"name": "It's Nearly Christmas Tour","year": 1997,"artist": "Rick Wakeman","media": ["Tour"],"genre": "Prog Rock","country": "UK",
+"image": [
+    "img/1432.jpg",    "img/1432-2.jpg",    "img/1432-3.jpg",    "img/1432-4.jpg",    "img/1432-5.jpg",    "img/1432-6.jpg",
+    "img/1432-7.jpg",    "img/1432-8.jpg",    "img/1432-9.jpg",    "img/1432-10.jpg",    "img/1432-11.jpg",    "img/1432-12.jpg"
+],"description": "","decade": 1990,"related": ["Rick Wakeman"]},
+{"id": 1433,"name": "An Intimate Evening With Rick Wakeman Tour","year": 1987,"artist": "Rick Wakeman","media": ["Tour"],"genre": "Prog Rock","country": "UK",
+"image": [
+    "img/1433.jpg",    "img/1433-2.jpg",    "img/1433-3.jpg",    "img/1433-4.jpg",    "img/1433-5.jpg",    "img/1433-6.jpg",    "img/1433-7.jpg",
+    "img/1433-8.jpg",    "img/1433-9.jpg",    "img/1433-10.jpg",    "img/1433-11.jpg",    "img/1433-12.jpg",    "img/1433-13.jpg",    "img/1433-14.jpg",
+    "img/1433-15.jpg",    "img/1433-16.jpg"
+],"description": "","decade": 1980,"related": ["Rick Wakeman"]},
 {"id": 1434,"name": "Tormato Tour","year": 1978,"artist": "Yes","media": ["Tour"],"genre": "Prog Rock","country": "UK",
 "image": [
-    "img/1434.jpg",
-    "img/1434-2.jpg",
-    "img/1434-3.jpg",
-    "img/1434-4.jpg",
-    "img/1434-5.jpg",
-    "img/1434-6.jpg",
-    "img/1434-7.jpg",
-    "img/1434-8.jpg",
-    "img/1434-9.jpg",
-    "img/1434-10.jpg",
-    "img/1434-11.jpg",
-    "img/1434-12.jpg",
-    "img/1434-13.jpg",
-    "img/1434-14.jpg",
-    "img/1434-15.jpg",
-    "img/1434-16.jpg",
-    "img/1434-17.jpg",
-    "img/1434-18.jpg",
-    "img/1434-19.jpg",
-    "img/1434-20.jpg"
+    "img/1434.jpg",    "img/1434-2.jpg",    "img/1434-3.jpg",    "img/1434-4.jpg",    "img/1434-5.jpg",    "img/1434-6.jpg",    "img/1434-7.jpg",    "img/1434-8.jpg",
+    "img/1434-9.jpg",    "img/1434-10.jpg",    "img/1434-11.jpg",    "img/1434-12.jpg",    "img/1434-13.jpg",    "img/1434-14.jpg",    "img/1434-15.jpg",    "img/1434-16.jpg",
+    "img/1434-17.jpg",    "img/1434-18.jpg",    "img/1434-19.jpg",    "img/1434-20.jpg"
     ],"description": "","decade": 1970,"related": ["Yes"]},
 {
 "id": 1435,
@@ -18673,18 +18634,14 @@
 "related": []
 },
 {
-"id": 1500,
-"name": "Journey To The Centre Of The Earth Official Programme",
-"year": 2014,
-"artist": "Rick Wakeman",
-"media": ["Tour"],
-"genre": "Prog Rock",
-"country": "UK",
-"image": ["img/1500.jpg"],
-"description": "",
-"decade": 2010,
-"related": ["Rick Wakeman","Roger Dean"]
-},
+"id": 1500,"name": "Journey To The Centre Of The Earth Official Programme","year": 2014,"artist": "Rick Wakeman","media": ["Tour"],"genre": "Prog Rock","country": "UK",
+"image": [
+    "img/1500.jpg",    "img/1500-2.jpg",    "img/1500-3.jpg",    "img/1500-4.jpg",    "img/1500-5.jpg",    "img/1500-6.jpg",    "img/1500-7.jpg",    "img/1500-8.jpg",
+    "img/1500-9.jpg",    "img/1500-10.jpg",    "img/1500-11.jpg",    "img/1500-12.jpg",    "img/1500-13.jpg",    "img/1500-14.jpg",    "img/1500-15.jpg",    "img/1500-16.jpg",
+    "img/1500-17.jpg",    "img/1500-18.jpg",    "img/1500-20.jpg",    "img/1500-21.jpg",    "img/1500-22.jpg",    "img/1500-23.jpg",    "img/1500-24.jpg",    "img/1500-25.jpg",
+    "img/1500-26.jpg",    "img/1500-27.jpg",    "img/1500-28.jpg",    "img/1500-29.jpg",    "img/1500-30.jpg",    "img/1500-31.jpg",    "img/1500-32.jpg",    "img/1500-33.jpg",
+    "img/1500-34.jpg",    "img/1500-35.jpg"
+    ],"description": "","decade": 2010,"related": ["Rick Wakeman","Roger Dean"]},
 {
 "id": 1501,
 "name": "Wendy Carlos every album, every song",
