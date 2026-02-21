@@ -245,4 +245,21 @@ a{
         padding: 10px;
         filter: drop-shadow(0 5px 5px #0009);
     }
+    .listSingleGrid{
+        display: grid;
+        grid-template-columns: repeat(8, 1fr);
+        grid-gap: 15px;
+        padding: 15px;
+    }
+    .listSingle{
+        background-color: #EEEEE6;
+        padding: 0px;
+        border-radius: 10px;
+        align-items: center;
+        display: flex;
+        flex-direction: column;
+        filter: drop-shadow(0 5px 5px #0009);
+        width: 100%;
+        height: 100%;
+    }
 }
