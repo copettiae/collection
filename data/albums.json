@@ -248,34 +248,8 @@
 "related": ["Yes","Roger Dean"],
 "letter": "A"
 },
-{
-"id": 20,
-"name": "Brother Of Mine",
-"year": 1989,
-"artist": "Anderson Bruford Wakeman Howe",
-"media": ["LP"],
-"genre": "Prog Rock",
-"country": "UK",
-"image": ["img/20.jpg"],
-"description": "10\"",
-"decade": 1980,
-"related": ["Yes","Roger Dean"],
-"letter": "A"
-},
-{
-"id": 21,
-"name": "Order Of The Universe",
-"year": 1989,
-"artist": "Anderson Bruford Wakeman Howe",
-"media": ["LP"],
-"genre": "Prog Rock",
-"country": "UK",
-"image": ["img/21.jpg"],
-"description": " 7\", 45 RPM, Single",
-"decade": 1980,
-"related": ["Yes","Roger Dean"],
-"letter": "A"
-},
+{"id": 20,"name": "Brother Of Mine","year": 1989,"artist": "Anderson Bruford Wakeman Howe","media": ["LP"],"genre": "Prog Rock","country": "UK","image": ["img/20.jpg","img/20-2.jpg","img/20-3.jpg"],"description": "","decade": 1980,"related": ["Yes","Roger Dean"]},
+{"id": 21,"name": "Order Of The Universe","year": 1989,"artist": "Anderson Bruford Wakeman Howe","media": ["LP"],"genre": "Prog Rock","country": "UK","image": ["img/21.jpg","img/21-2.jpg"],"description": "","decade": 1980,"related": ["Yes","Roger Dean"]},
 {
 "id": 22,
 "name": "An Evening Of Yes Music Plus",
@@ -14303,19 +14277,7 @@
 "decade": 1970,
 "related": ["Yes"]
 },
-{
-"id": 1068,
-"name": "Don't Kill The Whale",
-"year": 1978,
-"artist": "Yes",
-"media": ["LP"],
-"genre": "Prog Rock",
-"country": "UK",
-"image": ["img/1068.jpg"],
-"description": "7\"",
-"decade": 1970,
-"related": ["Yes"]
-},
+{"id": 1068,"name": "Don't Kill The Whale","year": 1978,"artist": "Yes","media": ["LP"],"genre": "Prog Rock","country": "UK","image": ["img/1068.jpg","img/1068-2.jpg"],"description": "","decade": 1970,"related": ["Yes"]},
 {
 "id": 1069,
 "name": "Tormato",
@@ -15316,6 +15278,7 @@
 "decade": 2020,
 "related": ["To Buy"]
 },
+{"id": 1255,"name": "Brother Of Mine","year": 1989,"artist": "Anderson Bruford Wakeman Howe","media": ["Poster"],"genre": "Prog Rock","country": "UK","image": ["img/20-2.jpg"],"description": "","decade": 1980,"related": ["Yes","Roger Dean"]},
 {"id": 1212,"name": "Rick Wakeman's Criminal Record Songbook","year": 1978,"artist": "Rick Wakeman","media": ["Book"],"genre": "Prog Rock","country": "UK","image": ["img/1212.jpg","img/1212-2.jpg","img/1212-3.jpg","img/1212-4.jpg","img/1212-5.jpg"],"description": "","decade": 1970,"related": ["Rick Wakeman"]},
 {"id": 1213,"name": "Classic Rock","year": 2010,"artist": "Roger Waters","media": ["Mag"],"genre": "Prog Rock","country": "UK","image": ["img/1213.jpg"],"description": "","decade": 2010,"related": ["Pink Floyd"]},
 {"id": 1214,"name": "Classic Rock Presents Prog Magazine - Issue 58 August 2015 No CD","year": 2025,"artist": "To Buy","media": ["To Buy Mag"],"genre": "To Buy","country": "To Buy","image": ["img/1214.jpg"],"description": "","decade": 2020,"related": ["To Buy"]},
@@ -15746,32 +15709,8 @@
 "related": ["Yes"]
 },
 {"id": 1261,"name": "Yes Featuring Jon Anderson, Trevor Rabin, Rick Wakeman","year": 2018,"artist": "ARW","media": ["LP"],"genre": "Prog Rock","country": "UK","image": ["img/1261.jpg"],"description": "","decade": 2010,"related": ["Yes","Rick Wakeman"]},
-{
-"id": 1262,
-"name": "Brother Of Mine",
-"year": 1989,
-"artist": "Anderson Bruford Wakeman Howe",
-"media": ["LP"],
-"genre": "Prog Rock",
-"country": "UK",
-"image": ["img/1262.jpg"],
-"description": "",
-"decade": 1980,
-"related": ["Yes","Roger Dean"]
-},
-{
-"id": 1263,
-"name": "Rhythm Of Love",
-"year": 1987,
-"artist": "Yes",
-"media": ["LP"],
-"genre": "Prog Rock",
-"country": "UK",
-"image": ["img/1263.jpg"],
-"description": "",
-"decade": 1980,
-"related": ["Yes"]
-},
+{"id": 1262,"name": "Brother Of Mine","year": 1989,"artist": "Anderson Bruford Wakeman Howe","media": ["LP"],"genre": "Prog Rock","country": "UK","image": ["img/1262.jpg","img/1262-2.jpg"],"description": "","decade": 1980,"related": ["Yes","Roger Dean"]},
+{"id": 1263,"name": "Rhythm Of Love","year": 1987,"artist": "Yes","media": ["LP"],"genre": "Prog Rock","country": "UK","image": ["img/1263.jpg","img/1263-2.jpg"],"description": "","decade": 1980,"related": ["Yes"]},
 {
 "id": 1264,
 "name": "Prog 105",
@@ -18764,7 +18703,7 @@
 {"id": 1513,"name": "Classic Rock Society","year": 2009,"artist": "Rick Wakeman","media": ["Mag"],"genre": "Prog Rock","country": "UK","image": ["img/1513.jpg"],"description": "","decade": 2000,"related": ["Rick Wakeman"]},
 {"id": 1514,"name": "The History Of Rock 85","year": 1983,"artist": "Keith Emerson","media": ["Mag"],"genre": "Prog Rock","country": "UK","image": ["img/1514.jpg"],"description": "","decade": 1980,"related": ["Emerson, Lake & Palmer"]},
 {"id": 1515,"name": "The Best Of","year": 1967,"artist": "Jefferson Airplane","media": ["CD"],"genre": "Psychedelic Rock","country": "UK","image": ["img/1515.jpg"],"description": "","decade": 1960,"related": [""]},
-{"id": 1516,"name": "Owner Of A Lonely Heart","year": 1991,"artist": "Yes","media": ["LP"],"genre": "Prog Rock","country": "UK","image": ["img/1516.jpg"],"description": "","decade": 1990,"related": ["Yes"]},
+{"id": 1516,"name": "Owner Of A Lonely Heart","year": 1991,"artist": "Yes","media": ["LP"],"genre": "Prog Rock","country": "UK","image": ["img/1516.jpg","img/1516-2.jpg"],"description": "","decade": 1990,"related": ["Yes"]},
 {"id": 1517,"name": "Rick Wakeman In The 1970s","year": 2023,"artist": "Geoffrey Feakes","media": ["Book"],"genre": "Prog Rock","country": "UK","image": ["img/1517.jpg"],"description": "","decade": 2020,"related": ["Rick Wakeman"]},
 {"id": 1518,"name": "Ishoku-Sokuhatsu","year": 1974,"artist": "Yonin Bayashi","media": ["CD"],"genre": "Prog Rock","country": "Japan","image": ["img/1518.jpg"],"description": "","decade": 1970,"related": [""]},
 {"id": 1519,"name": "Rolling Stones Magazine 179","year": 1974,"artist": "Rick Wakeman","media": ["Mag"],"genre": "Prog Rock","country": "UK","image": ["img/1519.jpg"],"description": "","decade": 1970,"related": ["Rick Wakeman"]},
@@ -18849,9 +18788,9 @@
     "img/052.jpg"
 ],"description": "","decade": "1990","related": ["Yes"]},
 {"id": 1589,"name": "Topography The Yes Anthology Studio, Live & Solo Classics","year": 2004,"artist": "Yes","media": ["CD"],"genre": "Prog Rock","country": "USA","image": ["img/1589.jpg"],"description": "","decade": 2000,"related": ["Yes"]},
-{"id": 1590,"name": "Love Will Find The Way","year": 1987,"artist": "Yes","media": ["LP"],"genre": "Prog Rock","country": "UK","image": ["img/1590.jpg"],"description": "","decade": 1980,"related": [""]},
+{"id": 1590,"name": "Love Will Find The Way","year": 1987,"artist": "Yes","media": ["LP"],"genre": "Prog Rock","country": "UK","image": ["img/1590.jpg","img/1590-2.jpg"],"description": "","decade": 1980,"related": ["Yes"]},
 {"id": 1591,"name": "Symphonic Tour","year": 2001,"artist": "Yes","media": ["Tour"],"genre": "Prog Rock","country": "UK","image": ["img/1591.jpg"],"description": "","decade": 2000,"related": ["Yes"]},
-{"id": 1592,"name": "It Can Happen","year": 1984,"artist": "Yes","media": ["LP"],"genre": "Prog Rock","country": "UK","image": ["img/1592.jpg"],"description": "","decade": 1980,"related": ["Yes"]},
+{"id": 1592,"name": "It Can Happen","year": 1984,"artist": "Yes","media": ["LP"],"genre": "Prog Rock","country": "UK","image": ["img/1592.jpg","img/1592-2.jpg"],"description": "","decade": 1980,"related": ["Yes"]},
 {"id": 1593,"name": "Prog 144","year": 2023,"artist": "Keith Emerson","media": ["Mag"],"genre": "Prog Rock","country": "UK","image": ["img/1593.jpg"],"description": "","decade": 2020,"related": ["Emerson, Lake & Palmer"]},
 {"id": 1594,"name": "Classic Rock","year": 2011,"artist": "Various","media": ["Mag"],"genre": "Prog Rock","country": "UK","image": ["img/1594.jpg","img/1594-2.jpg"],"description": "","decade": 2010,"related": ["Yes","Pink Floyd","Emerson, Lake & Palmer"]},
 {"id": 1595,"name": "Classic Rock","year": 2010,"artist": "Roger Waters","media": ["Mag"],"genre": "Prog Rock","country": "UK","image": ["img/1595.jpg","img/1595-2.jpg"],"description": "","decade": 2010,"related": ["Pink Floyd"]},
