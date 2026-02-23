@@ -538,19 +538,12 @@
 "decade": 2000,
 "related": [""]
 },
-{
-"id": 1054,
-"name": "The Storyteller",
-"year": 2006,
-"artist": "Andreas Vollenweider",
-"media": ["CD","DVD"],
-"genre": "Jazz/Fusion",
-"country": "Switzerland",
-"image": ["img/1054.jpg"],
-"description": "",
-"decade": 2000,
-"related": []
-},
+{"id": 1054,"name": "The Storyteller","year": 2006,"artist": "Andreas Vollenweider","media": ["CD","DVD"],"genre": "Jazz/Fusion","country": "Switzerland",
+"image": [
+    "img/1054.jpg",    "img/1054-2.jpg",    "img/1054-3.jpg",    "img/1054-4.jpg",    "img/1054-5.jpg",
+    "img/1054-6.jpg",    "img/1054-7.jpg",    "img/1054-8.jpg",    "img/1054-9.jpg",    "img/1054-10.jpg",
+    "img/1054-11.jpg",    "img/1054-12.jpg"
+    ],"description": "","decade": 2000,"related": []},
 {
 "id": 44,
 "name": "25 Years Live 1982-2007",
@@ -590,19 +583,12 @@
 "decade": 2020,
 "related": []
 },
-{
-"id": 1146,
-"name": "Live At Rockpalast 1982",
-"year": 2024,
-"artist": "Andreas Vollenweider",
-"media": ["CD","DVD"],
-"genre": "Jazz/Fusion",
-"country": "Switzerland",
-"image": ["img/1146.jpg"],
-"description": "",
-"decade": 2020,
-"related": []
-},
+{"id": 1146,"name": "Live At Rockpalast 1982","year": 2024,"artist": "Andreas Vollenweider","media": ["CD","DVD"],"genre": "Jazz/Fusion","country": "Switzerland",
+"image": [
+    "img/1146.jpg",    "img/1146-2.jpg",    "img/1146-3.jpg",    "img/1146-4.jpg",    "img/1146-5.jpg",
+    "img/1146-6.jpg",    "img/1146-7.jpg",    "img/1146-8.jpg",    "img/1146-9.jpg",    "img/1146-10.jpg",
+    "img/1146-11.jpg",    "img/1146-12.jpg",    "img/1146-13.jpg",    "img/1146-14.jpg"
+],"description": "","decade": 2020,"related": []},
 {
 "id": 46,
 "name": "Love And Poetry",
