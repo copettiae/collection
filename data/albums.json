@@ -11751,19 +11751,12 @@
 "decade": 1970,
 "related": []
 },
-{
-"id": 868,
-"name": "Live In Paris '79",
-"year": 1979,
-"artist": "Supertramp",
-"media": ["DVD"],
-"genre": "Prog Rock",
-"country": "UK",
-"image": ["img/868.jpg"],
-"description": "",
-"decade": 1970,
-"related": []
-},
+{"id": 868,"name": "Live In Paris '79","year": 1979,"artist": "Supertramp","media": ["DVD"],"genre": "Prog Rock","country": "UK",
+"image": [
+    "img/868.jpg",    "img/868-2.jpg",    "img/868-3.jpg",    "img/868-4.jpg",    "img/868-5.jpg",
+    "img/868-6.jpg",    "img/868-7.jpg",    "img/868-8.jpg",    "img/868-9.jpg",    "img/868-10.jpg",
+    "img/868-11.jpg",    "img/868-12.jpg",    "img/868-13.jpg",    "img/868-14.jpg"
+    ],"description": "","decade": 1970,"related": []},
 {
 "id": 869,
 "name": "Paris",
