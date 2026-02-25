@@ -8991,9 +8991,9 @@
 "decade": 1970,
 "related": []
 },
-{"id": 670,"name": "Refugee","year": 1974,"artist": "Refugee","media": ["CD"],"genre": "Prog Rock","country": "UK","image": ["img/670.jpg"],"description": "","decade": 1970,"related": []},
-{"id": 671,"name": "BBC Radio One In Concert","year": 1974,"artist": "Refugee","media": ["CD"],"genre": "Prog Rock","country": "UK","image": ["img/671.jpg"],"description": "","decade": 1970,"related": []},
-{"id": 672,"name": "Live At Newcastle City Hall","year": 1974,"artist": "Refugee","media": ["CD"],"genre": "Prog Rock","country": "UK","image": ["img/672.jpg"],"description": "","decade": 1970,"related": []},
+{"id": 670,"name": "Refugee","year": 1974,"artist": "Refugee","media": ["CD"],"genre": "Prog Rock","country": "UK","image": ["img/670.jpg","img/670-2.jpg"],"description": "","decade": 1970,"related": []},
+{"id": 671,"name": "BBC Radio One In Concert","year": 1974,"artist": "Refugee","media": ["CD"],"genre": "Prog Rock","country": "UK","image": ["img/671.jpg","img/671-2.jpg"],"description": "","decade": 1970,"related": []},
+{"id": 672,"name": "Live At Newcastle City Hall","year": 1974,"artist": "Refugee","media": ["CD"],"genre": "Prog Rock","country": "UK","image": ["img/672.jpg","img/672-2.jpg"],"description": "","decade": 1970,"related": []},
 {
 "id": 673,
 "name": "Renaissance",
@@ -9814,19 +9814,7 @@
 "decade": 2000,
 "related": ["Rick Wakeman"]
 },
-{
-"id": 743,
-"name": "The Six Wives Of Henry VIII Live At Hampton Court Palace",
-"year": 2009,
-"artist": "Rick Wakeman",
-"media": ["CD","DVD"],
-"genre": "Prog Rock",
-"country": "UK",
-"image": ["img/743.jpg"],
-"description": "",
-"decade": 2000,
-"related": ["Rick Wakeman"]
-},
+{"id": 743,"name": "The Six Wives Of Henry VIII Live At Hampton Court Palace","year": 2009,"artist": "Rick Wakeman","media": ["CD"],"genre": "Prog Rock","country": "UK","image": ["img/743.jpg"],"description": "","decade": 2000,"related": ["Rick Wakeman"]},
 {
 "id": 1166,
 "name": "Grumpy Old Rock Star",
@@ -15648,31 +15636,11 @@
 },
 {"id": 1268,"name": "Refugee","year": 1974,"artist": "Refugee","media": ["Box","CD"],"genre": "Prog Rock","country": "UK",
 "image": [
-    "img/1268.jpg",
-    "img/670.jpg",
-    "img/670-2.jpg",
-    "img/671.jpg",
-    "img/671-2.jpg",
-    "img/672.jpg",
-    "img/672-2.jpg",
-    "img/1268-2.jpg",
-    "img/1268-3.jpg",
-    "img/1268-4.jpg",
-    "img/1268-5.jpg",
-    "img/1268-6.jpg",
-    "img/1268-7.jpg",
-    "img/1268-8.jpg",
-    "img/1268-9.jpg",
-    "img/1268-10.jpg",
-    "img/1268-11.jpg",
-    "img/1268-12.jpg",
-    "img/1268-13.jpg",
-    "img/1268-14.jpg",
-    "img/1268-15.jpg",
-    "img/1268-16.jpg",
-    "img/1268-17.jpg",
-    "img/1268-18.jpg"
-
+    "img/1268.jpg",    "img/670.jpg",    "img/670-2.jpg",    "img/671.jpg",    "img/671-2.jpg",
+    "img/672.jpg",    "img/672-2.jpg",    "img/1268-2.jpg",    "img/1268-3.jpg",    "img/1268-4.jpg",
+    "img/1268-5.jpg",    "img/1268-6.jpg",    "img/1268-7.jpg",    "img/1268-8.jpg",    "img/1268-9.jpg",
+    "img/1268-10.jpg",    "img/1268-11.jpg",    "img/1268-12.jpg",    "img/1268-13.jpg",    "img/1268-14.jpg",
+    "img/1268-15.jpg",    "img/1268-16.jpg",    "img/1268-17.jpg",    "img/1268-18.jpg"
     ],"description": "","decade": 1970,"related": [""]},
 {
 "id": 1269,
@@ -15688,19 +15656,16 @@
 "related": ["Roger Dean"]
 },
 {"id": 1270,"name": "Celestial Songs","year": 2023,"artist": "Downes Braide Association","media": ["LP","CD","Box"],"genre": "Prog Rock","country": "UK","image": ["img/1270.jpg"],"description": "","decade": 2020,"related": ["Roger Dean"]},
-{
-"id": 1271,
-"name": "Yes The Yes Album (Super Deluxe Edition)",
-"year": 2024,
-"artist": "To Buy",
-"media": ["To Buy Box"],
-"genre": "To Buy",
-"country": "To Buy",
-"image": ["img/1271.jpg"],
-"description": "",
-"decade": 2020,
-"related": ["To Buy"]
-},
+{"id": 1271,"name": "Yes The Yes Album (Super Deluxe Edition)","year": 2024,"artist": "To Buy","media": ["To Buy Box"],"genre": "To Buy","country": "To Buy","image": ["img/1271.jpg"],"description": "","decade": 2020,"related": ["To Buy"]},
+{"id": 1272,"name": "The Six Wives Of Henry VIII Live At Hampton Court Palace","year": 2009,"artist": "Rick Wakeman","media": ["DVD"],"genre": "Prog Rock","country": "UK",
+"image": [
+    "img/1272.jpg",    "img/1272-2.jpg",    "img/1272-3.jpg",    "img/1272-4.jpg",    "img/1272-5.jpg",
+    "img/1272-6.jpg",    "img/1272-7.jpg",    "img/1272-8.jpg",    "img/1272-9.jpg",    "img/1272-10.jpg",
+    "img/1272-11.jpg",    "img/1272-12.jpg",    "img/1272-13.jpg",    "img/1272-14.jpg",    "img/1272-15.jpg",
+    "img/1272-16.jpg",    "img/1272-17.jpg",    "img/1272-18.jpg",    "img/1272-19.jpg",    "img/1272-20.jpg",
+    "img/1272-21.jpg",    "img/1272-22.jpg",    "img/1272-23.jpg",    "img/1272-24.jpg",    "img/1272-25.jpg",
+    "img/1272-26.jpg",    "img/1272-27.jpg",    "img/1272-28.jpg",    "img/1272-29.jpg",    "img/1272-30.jpg"
+],"description": "","decade": 2000,"related": ["Rick Wakeman"]},
 {
 "id": 1273,
 "name": "Close To the Edge Super Deluxe Edition",
