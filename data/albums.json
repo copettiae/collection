@@ -1845,19 +1845,7 @@
 "decade": 1990,
 "related": []
 },
-{
-"id": 985,
-"name": "Swinging Bach Live From The Marketplace In Leipzig",
-"year": 2000,
-"artist": "Bobby McFerrin",
-"media": ["DVD"],
-"genre": "Jazz/Fusion",
-"country": "USA",
-"image": ["img/985.jpg"],
-"description": "",
-"decade": 2000,
-"related": []
-},
+{"id": 985,"name": "Swinging Bach Live From The Marketplace In Leipzig","year": 2000,"artist": "Bobby McFerrin","media": ["DVD"],"genre": "Jazz/Fusion","country": "USA","image": ["img/985.jpg","img/985-2.jpg"],"description": "","decade": 2000,"related": []},
 {
 "id": 136,
 "name": "The Sweetest Sounds Classic 1960s Studio Sessions",
@@ -8278,19 +8266,7 @@
 "decade": 2000,
 "related": ["The Fab Four"]
 },
-{
-"id": 976,
-"name": "Paul Is Live!!! In Concert On The New World Tour",
-"year": 2003,
-"artist": "Paul McCartney",
-"media": ["DVD"],
-"genre": "Pop Rock",
-"country": "UK",
-"image": ["img/976.jpg"],
-"description": "",
-"decade": 2000,
-"related": ["The Fab Four"]
-},
+{"id": 976,"name": "Paul Is Live!!! In Concert On The New World Tour","year": 2003,"artist": "Paul McCartney","media": ["DVD"],"genre": "Pop Rock","country": "UK","image": ["img/976.jpg","img/976-2.jpg"],"description": "","decade": 2000,"related": ["The Fab Four"]},
 {
 "id": 428,
 "name": "The Lyrics",
@@ -8473,113 +8449,17 @@
 "decade": 1970,
 "related": ["Pink Floyd"]
 },
-{
-"id": 630,
-"name": "Animals",
-"year": 1977,
-"artist": "Pink Floyd",
-"media": ["CD"],
-"genre": "Prog Rock",
-"country": "UK",
-"image": ["img/630.jpg"],
-"description": "",
-"decade": 1970,
-"related": ["Pink Floyd"]
-},
-{
-"id": 631,
-"name": "The Wall",
-"year": 1979,
-"artist": "Pink Floyd",
-"media": ["CD","LP"],
-"genre": "Prog Rock",
-"country": "UK",
-"image": ["img/631.jpg"],
-"description": "",
-"decade": 1970,
-"related": ["Pink Floyd"]
-},
+{"id": 630,"name": "Animals","year": 1977,"artist": "Pink Floyd","media": ["CD"],"genre": "Prog Rock","country": "UK","image": ["img/630.jpg"],"description": "","decade": 1970,"related": ["Pink Floyd"]},
+{"id": 631,"name": "The Wall","year": 1979,"artist": "Pink Floyd","media": ["CD","LP"],"genre": "Prog Rock","country": "UK","image": ["img/631.jpg"],"description": "","decade": 1970,"related": ["Pink Floyd"]},
 {"id": 633,"name": "Is There Anybody Out There?","year": 1980,"artist": "Pink Floyd","media": ["CD","Box"],"genre": "Prog Rock","country": "UK","image": ["img/633.jpg","img/633-2.jpg","img/633-3.jpg"],"description": "","decade": 1980,"related": ["Pink Floyd"]},
 {"id": 634,"name": "The Final Cut","year": 1983,"artist": "Pink Floyd","media": ["CD","LP"],"genre": "Prog Rock","country": "UK","image": ["img/634.jpg"],"description": "","decade": 1980,"related": ["Pink Floyd"]},
-{
-"id": 192,
-"name": "The Dark Side Of The Moon Immersion Edition",
-"year": 2010,
-"artist": "Pink Floyd",
-"media": ["CD","Apparel","Box"],
-"genre": "Prog Rock",
-"country": "UK",
-"image": ["img/192.jpg"],
-"description": "",
-"decade": 2010,
-"related": ["Pink Floyd"]
-},
-{
-"id": 636,
-"name": "Pink Floyd The Making of The Wall",
-"year": 2010,
-"artist": "Gerald Scarfe",
-"media": ["Book"],
-"genre": "Prog Rock",
-"country": "UK",
-"image": ["img/636.jpg"],
-"description": "Gerald Scarfe",
-"decade": 2010,
-"related": ["Pink Floyd"]
-},
-{
-"id": 637,
-"name": "Wish You Were Here immersion Edition",
-"year": 2011,
-"artist": "Pink Floyd",
-"media": ["CD","Apparel","Box"],
-"genre": "Prog Rock",
-"country": "UK",
-"image": ["img/637.jpg"],
-"description": "2 DVD 1 BR",
-"decade": 2010,
-"related": ["Pink Floyd"]
-},
-{
-"id": 638,
-"name": "The Wall Immersion Edition",
-"year": 2012,
-"artist": "Pink Floyd",
-"media": ["CD","Apparel","Box"],
-"genre": "Prog Rock",
-"country": "UK",
-"image": ["img/638.jpg"],
-"description": "",
-"decade": 2010,
-"related": ["Pink Floyd"]
-},
+{"id": 192,"name": "The Dark Side Of The Moon Immersion Edition","year": 2010,"artist": "Pink Floyd","media": ["CD","Apparel","Box"],"genre": "Prog Rock","country": "UK","image": ["img/192.jpg"],"description": "","decade": 2010,"related": ["Pink Floyd"]},
+{"id": 636,"name": "Pink Floyd The Making of The Wall","year": 2010,"artist": "Gerald Scarfe","media": ["Book"],"genre": "Prog Rock","country": "UK","image": ["img/636.jpg"],"description": "Gerald Scarfe","decade": 2010,"related": ["Pink Floyd"]},
+{"id": 637,"name": "Wish You Were Here immersion Edition","year": 2011,"artist": "Pink Floyd","media": ["CD","Apparel","Box"],"genre": "Prog Rock","country": "UK","image": ["img/637.jpg"],"description": "2 DVD 1 BR","decade": 2010,"related": ["Pink Floyd"]},
+{"id": 638,"name": "The Wall Immersion Edition","year": 2012,"artist": "Pink Floyd","media": ["CD","Apparel","Box"],"genre": "Prog Rock","country": "UK","image": ["img/638.jpg"],"description": "","decade": 2010,"related": ["Pink Floyd"]},
 {"id": 639,"name": "Prog 59","year": 2015,"artist": "Pink Floyd","media": ["Mag"],"genre": "Prog Rock","country": "UK","image": ["img/639.jpg","img/639-2.jpg"],"description": "","decade": 2010,"related": ["Pink Floyd"]},
-{
-"id": 632,
-"name": "Pink Floyd And The Dark Side Of The Moon 50 Years",
-"year": 2023,
-"artist": "Martin Popoff",
-"media": ["Book"],
-"genre": "Prog Rock",
-"country": "UK",
-"image": ["img/632.jpg"],
-"description": "Martin Popoff",
-"decade": 2020,
-"related": ["Pink Floyd"]
-},
-{
-"id": 627,
-"name": "The Dark Side Of The Moon Live At Wembley, London, 1974",
-"year": 2023,
-"artist": "Pink Floyd",
-"media": ["CD"],
-"genre": "",
-"country": "UK",
-"image": ["img/627.jpg"],
-"description": "",
-"decade": 2020,
-"related": ["Pink Floyd"]
-},
+{"id": 632,"name": "Pink Floyd And The Dark Side Of The Moon 50 Years","year": 2023,"artist": "Martin Popoff","media": ["Book"],"genre": "Prog Rock","country": "UK","image": ["img/632.jpg"],"description": "Martin Popoff","decade": 2020,"related": ["Pink Floyd"]},
+{"id": 627,"name": "The Dark Side Of The Moon Live At Wembley, London, 1974","year": 2023,"artist": "Pink Floyd","media": ["CD"],"genre": "","country": "UK","image": ["img/627.jpg"],"description": "","decade": 2020,"related": ["Pink Floyd"]},
 {
 "id": 640,
 "name": "Pluto",
@@ -10186,19 +10066,7 @@
 "decade": 1970,
 "related": []
 },
-{
-"id": 770,
-"name": "Views",
-"year": 1975,
-"artist": "Roger Dean",
-"media": ["Book","DVD"],
-"genre": "Prog Rock",
-"country": "UK",
-"image": ["img/770.jpg"],
-"description": "",
-"decade": 1970,
-"related": []
-},
+{"id": 770,"name": "Views","year": 1975,"artist": "Roger Dean","media": ["Book"],"genre": "Prog Rock","country": "UK","image": ["img/770.jpg"],"description": "","decade": 1970,"related": ["Roger Dean"]},
 {
 "id": 999,
 "name": "ABWH Arista",
@@ -10992,19 +10860,7 @@
 "decade": 1980,
 "related": []
 },
-{
-"id": 817,
-"name": "Viva Santana!",
-"year": 1988,
-"artist": "Santana",
-"media": ["CD","DVD","LP"],
-"genre": "Afro/Latin/Fusion",
-"country": "USA",
-"image": ["img/817.jpg"],
-"description": "",
-"decade": 1980,
-"related": []
-},
+{"id": 817,"name": "Viva Santana!","year": 1988,"artist": "Santana","media": ["DVD"],"genre": "Afro/Latin/Fusion","country": "USA","image": ["img/817.jpg","img/817-2.jpg"],"description": "","decade": 1980,"related": []},
 {
 "id": 819,
 "name": "Spirits Dancing In The Flesh",
@@ -11031,19 +10887,7 @@
 "decade": 1990,
 "related": []
 },
-{
-"id": 821,
-"name": "Sacred Fire: Santana Live In South America",
-"year": 1993,
-"artist": "Santana",
-"media": ["CD","DVD"],
-"genre": "Afro/Latin/Fusion",
-"country": "USA",
-"image": ["img/821.jpg"],
-"description": "",
-"decade": 1990,
-"related": []
-},
+{"id": 821,"name": "Sacred Fire: Santana Live In South America","year": 1993,"artist": "Santana","media": ["DVD"],"genre": "Afro/Latin/Fusion","country": "USA","image": ["img/821.jpg","img/821-2.jpg"],"description": "","decade": 1990,"related": []},
 {
 "id": 822,
 "name": "Santana Brothers",
@@ -11650,7 +11494,10 @@
     ],"description": "","decade": 1970,"related": []},
 {"id": 869,"name": "Paris","year": 1979,"artist": "Supertramp","media": ["CD"],"genre": "Prog Rock","country": "UK","image": ["img/869.jpg"],"description": "","decade": 1970,"related": []},
 {"id": 870,"name": "…Famous Last Words…","year": 1982,"artist": "Supertramp","media": ["CD"],"genre": "Prog Rock","country": "UK","image": ["img/870.jpg"],"description": "","decade": 1980,"related": []},
-{"id": 981,"name": "The Story So Far…","year": 1983,"artist": "Supertramp","media": ["DVD"],"genre": "Prog Rock","country": "UK","image": ["img/981.jpg"],"description": "","decade": 1980,"related": []},
+{"id": 981,"name": "The Story So Far…","year": 1983,"artist": "Supertramp","media": ["DVD"],"genre": "Prog Rock","country": "UK",
+"image": [
+    "img/981.jpg",    "img/981-2.jpg",    "img/981-3.jpg",    "img/981-4.jpg"
+],"description": "","decade": 1980,"related": []},
 {"id": 1147,"name": "Some Things Never Change","year": 1997,"artist": "Supertramp","media": ["CD"],"genre": "Prog Rock","country": "UK","image": ["img/1147.jpg"],"description": "","decade": 1990,"related": []},
 {"id": 1148,"name": "It Was The Best Of Times","year": 1999,"artist": "Supertramp","media": ["CD"],"genre": "Prog Rock","country": "UK","image": ["img/1148.jpg"],"description": "","decade": 1990,"related": []},
 {
@@ -14458,49 +14305,14 @@
 "decade": 2000,
 "related": ["Yes","Roger Dean"]
 },
-{
-"id": 1107,
-"name": "Inside Yes 1968 - 1973 Plus Roger Dean's Views",
-"year": 2005,
-"artist": "Yes",
-"media": ["DVD"],
-"genre": "Prog Rock",
-"country": "UK",
-"image": ["img/1107.jpg"],
-"description": "",
-"decade": 2000,
-"related": ["Yes"]
-},
-{
-"id": 1108,
-"name": "Rick Wakeman The Ultimate Anthology",
-"year": 2005,
-"artist": "Yes",
-"media": ["DVD"],
-"genre": "Prog Rock",
-"country": "UK",
-"image": ["img/1108.jpg"],
-"description": "",
-"decade": 2000,
-"related": ["Yes"]
-},
-{
-"id": 1109,
-"name": "Steve Howe Careful With That Axe",
-"year": 2005,
-"artist": "Yes",
-"media": ["DVD"],
-"genre": "Prog Rock",
-"country": "UK",
-"image": ["img/1109.jpg"],
-"description": "",
-"decade": 2000,
-"related": ["Yes"]
-},
-{
-"id": 1110,"name": "The Word Is Live","year": 2005,"artist": "Yes","media": ["CD","Box"],"genre": "Prog Rock","country": "UK","image": ["img/1110.jpg","img/1110-2.jpg"],"description": "","decade": 2000,"related": ["Yes","Roger Dean"]},
-{
-"id": 1111,"name": "La Definitiva Y Autorizada Historia En Una Edicion Coleccionista De 2 Discos","year": 2006,"artist": "Yes","media": ["DVD"],"genre": "Prog Rock","country": "UK",
+{"id": 1107,"name": "Inside Yes 1968 - 1973 Featuring Roger Dean's Views","year": 2005,"artist": "Yes","media": ["DVD"],"genre": "Prog Rock","country": "UK",
+"image": [
+    "img/1107.jpg",    "img/1107-2.jpg",    "img/1107-3.jpg",    "img/1107-4.jpg"
+],"description": "","decade": 2000,"related": ["Yes","Roger Dean"]},
+{"id": 1108,"name": "Rick Wakeman The Ultimate Anthology","year": 2005,"artist": "Rick Wakeman","media": ["DVD"],"genre": "Prog Rock","country": "UK","image": ["img/1108.jpg","img/1108-2.jpg"],"description": "","decade": 2000,"related": ["Yes","Rick Wakeman","Roger Dean"]},
+{"id": 1109,"name": "Steve Howe Careful With That Axe","year": 2005,"artist": "Steve Howe","media": ["DVD"],"genre": "Prog Rock","country": "UK","image": ["img/1109.jpg","img/1109-2.jpg"],"description": "","decade": 2000,"related": ["Yes","Roger Dean"]},
+{"id": 1110,"name": "The Word Is Live","year": 2005,"artist": "Yes","media": ["CD","Box"],"genre": "Prog Rock","country": "UK","image": ["img/1110.jpg","img/1110-2.jpg"],"description": "","decade": 2000,"related": ["Yes","Roger Dean"]},
+{"id": 1111,"name": "La Definitiva Y Autorizada Historia En Una Edicion Coleccionista De 2 Discos","year": 2006,"artist": "Yes","media": ["DVD"],"genre": "Prog Rock","country": "UK",
 "image": [
     "img/1111.jpg",    "img/1111-2.jpg",    "img/1111-3.jpg",    "img/1111-4.jpg",    "img/1111-5.jpg",
     "img/1111-6.jpg",    "img/1111-7.jpg",    "img/1111-8.jpg",    "img/1111-9.jpg",    "img/1111-10.jpg",
@@ -14508,19 +14320,7 @@
     "img/1111-16.jpg",    "img/1111-17.jpg",    "img/1111-18.jpg",    "img/1111-19.jpg",    "img/1111-20.jpg",
     "img/1111-21.jpg",    "img/1111-22.jpg",    "img/1111-23.jpg",    "img/1111-24.jpg"
 ],"description": "","decade": 2000,"related": ["Yes"]},
-{
-"id": 1113,
-"name": "Live and Solo",
-"year": 2006,
-"artist": "Yes",
-"media": ["CD"],
-"genre": "Prog Rock",
-"country": "UK",
-"image": ["img/1113.jpg"],
-"description": "",
-"decade": 2000,
-"related": ["Yes"]
-},
+{"id": 1113,"name": "Live and Solo","year": 2006,"artist": "Yes","media": ["CD"],"genre": "Prog Rock","country": "UK","image": ["img/1113.jpg"],"description": "","decade": 2000,"related": ["Yes"]},
 {
 "id": 1115,
 "name": "Fly From Here",
@@ -16823,6 +16623,7 @@
 },
 {"id": 1374,"name": "Symphonic Live","year": 2002,"artist": "Yes","media": ["LP"],"genre": "Prog Rock","country": "UK","image": ["img/1102.jpg"],"description": "","decade": 2000,"related": ["Yes"]},
 {"id": 1375,"name": "An Evening Of Yes Music Plus","year": 1993,"artist": "Anderson Bruford Wakeman Howe","media": ["CD"],"genre": "Prog Rock","country": "UK","image": ["img/1375.jpg"],"description": "","decade": 1990,"related": ["Yes","Roger Dean"]},
+{"id": 1376,"name": "Viva Santana!","year": 1988,"artist": "Santana","media": ["CD","LP"],"genre": "Afro/Latin/Fusion","country": "USA","image": ["img/1376.jpg"],"description": "","decade": 1980,"related": []},
 {"id": 1377,"name": "British Tour Spring 1975","year": 1975,"artist": "Yes","media": ["Tour"],"genre": "Prog Rock","country": "UK",
 "image": [
     "img/1377.jpg",    "img/1377-2.jpg",    "img/1377-3.jpg",    "img/1377-4.jpg",    "img/1377-5.jpg",
@@ -17731,32 +17532,17 @@
 "related": ["To Buy"]
 },
 {"id": 1459,"name": "Symphonic Tour","year": 2001,"artist": "Yes","media": ["Tour"],"genre": "Prog Rock","country": "UK","image": ["img/1459.jpg"],"description": "","decade": 2000,"related": ["Yes"]},
-{
-"id": 1460,
-"name": "The Ultimate Music Guide",
-"year": 2023,
-"artist": "Yes",
-"media": ["Mag"],
-"genre": "Prog Rock",
-"country": "UK",
-"image": ["img/1460.jpg"],
-"description": "",
-"decade": 2020,
-"related": ["Yes"]
-},
-{
-"id": 1463,
-"name": "Skylark",
-"year": 1974,
-"artist": "Paul Desmond",
-"media": ["CD"],
-"genre": "Bossa/Samba/Fusion",
-"country": "USA",
-"image": ["img/1463.jpg"],
-"description": "",
-"decade": 1970,
-"related": [""]
-},
+{"id": 1460,"name": "The Ultimate Music Guide","year": 2023,"artist": "Yes","media": ["Mag"],"genre": "Prog Rock","country": "UK","image": ["img/1460.jpg"],"description": "","decade": 2020,"related": ["Yes"]},
+{"id": 1461,"name": "Sacred Fire: Santana Live In South America","year": 1993,"artist": "Santana","media": ["CD"],"genre": "Afro/Latin/Fusion","country": "USA","image": ["img/1461.jpg"],"description": "","decade": 1990,"related": []},
+{"id": 1462,"name": "Views","year": 2002,"artist": "Roger Dean","media": ["DVD"],"genre": "Prog Rock","country": "UK",
+"image": [
+    "img/1462.jpg",    "img/1462-2.jpg",    "img/1462-3.jpg",    "img/1462-4.jpg",    "img/1462-5.jpg",
+    "img/1462-6.jpg",    "img/1462-7.jpg",    "img/1462-8.jpg",    "img/1462-9.jpg",    "img/1462-10.jpg",
+    "img/1462-11.jpg",    "img/1462-12.jpg",    "img/1462-13.jpg",    "img/1462-14.jpg",    "img/1462-15.jpg",
+    "img/1462-16.jpg",    "img/1462-17.jpg",    "img/1462-18.jpg",    "img/1462-19.jpg",    "img/1462-20.jpg",
+    "img/1462-21.jpg",    "img/1462-22.jpg"
+],"description": "","decade": 2000,"related": ["Roger Dean"]},
+{"id": 1463,"name": "Skylark","year": 1974,"artist": "Paul Desmond","media": ["CD"],"genre": "Bossa/Samba/Fusion","country": "USA","image": ["img/1463.jpg"],"description": "","decade": 1970,"related": [""]},
 {
 "id": 1464,
 "name": "Yes Featuring Jon Anderson, Trevor Rabin, Rick Wakeman",
@@ -17770,19 +17556,10 @@
 "decade": 2010,
 "related": ["Yes"]
 },
-{
-"id": 1465,
-"name": "Jobim, Vinicius & Toquinho Com Miucha",
-"year": 1978,
-"artist": "Jobim, Vinicius & Toquinho Com Miucha",
-"media": ["DVD"],
-"genre": "Bossa/Samba/Fusion",
-"country": "Brazil",
-"image": ["img/1465.jpg"],
-"description": "",
-"decade": 1970,
-"related": [""]
-},
+{"id": 1465,"name": "Jobim, Vinicius & Toquinho Com Miucha","year": 1978,"artist": "Jobim, Vinicius & Toquinho Com Miucha","media": ["DVD"],"genre": "Bossa/Samba/Fusion","country": "Brazil",
+"image": [
+    "img/1465.jpg",    "img/1465-2.jpg",    "img/1465-3.jpg",    "img/1465-4.jpg"
+],"description": "","decade": 1970,"related": [""]},
 {
 "id": 1466,
 "name": "I Told You I Was Trouble",
@@ -17822,32 +17599,12 @@
 "decade": 2000,
 "related": ["Yes"]
 },
-{
-"id": 1469,
-"name": "Inside Yes Special Extended DVD",
-"year": 2005,
-"artist": "Yes",
-"media": ["DVD"],
-"genre": "Prog Rock",
-"country": "UK",
-"image": ["img/1469.jpg"],
-"description": "",
-"decade": 2000,
-"related": ["Yes"]
-},
-{
-"id": 1470,
-"name": "Majikat Earth Tour 1976",
-"year": 1976,
-"artist": "Cat Stevens / Yusuf Islam",
-"media": ["DVD"],
-"genre": "Folk Rock",
-"country": "UK",
-"image": ["img/1470.jpg"],
-"description": "",
-"decade": 1970,
-"related": [""]
-},
+{"id": 1469,"name": "Inside Yes Special Extended DVD","year": 2005,"artist": "Yes","media": ["DVD"],"genre": "Prog Rock","country": "UK",
+"image": [
+    "img/1469.jpg",    "img/1469-2.jpg",    "img/1469-3.jpg",    "img/1469-4.jpg",    "img/1469-5.jpg",
+    "img/1469-6.jpg",    "img/1469-7.jpg",    "img/1469-8.jpg",    "img/1469-9.jpg",    "img/1469-10.jpg"
+],"description": "","decade": 2000,"related": ["Yes"]},
+{"id": 1470,"name": "Majikat Earth Tour 1976","year": 1976,"artist": "Cat Stevens / Yusuf Islam","media": ["DVD"],"genre": "Folk Rock","country": "UK","image": ["img/1470.jpg","img/1470-2.jpg"],"description": "","decade": 1970,"related": [""]},
 {
 "id": 1471,
 "name": "Classic Rock",
@@ -18410,7 +18167,7 @@
 ],"description": "","decade": 2000,"related": ["Yes"]},
 {"id": 1533,"name": "Greatest Video Hits","year": 2005,"artist": "Yes","media": ["DVD"],"genre": "Prog Rock","country": "UK","image": ["img/1533.jpg","img/1533-2.jpg","img/1533-3.jpg","img/1533-4.jpg"],"description": "","decade": 2000,"related": ["Yes"]},
 {"id": 1534,"name": "Prog 66","year": 2016,"artist": "Keith Emerson","media": ["Mag"],"genre": "Prog Rock","country": "UK","image": ["img/1534.jpg","img/1534-2.jpg"],"description": "","decade": 2010,"related": ["Emerson, Lake & Palmer"]},
-{"id": 1535,"name": "In The Big Dream A Video Compilation","year": 1989,"artist": "Anderson Bruford Wakeman Howe","media": ["Cass"],"genre": "Prog Rock","country": "UK","image": ["img/1535.jpg"],"description": "","decade": 1980,"related": ["Yes","Roger Dean"]},
+{"id": 1535,"name": "In The Big Dream A Video Compilation","year": 1989,"artist": "Anderson Bruford Wakeman Howe","media": ["Cass"],"genre": "Prog Rock","country": "UK","image": ["img/1535.jpg","img/1535-2.jpg"],"description": "","decade": 1980,"related": ["Yes","Roger Dean"]},
 {"id": 1536,"name": "Abraxas","year": 1970,"artist": "Santana","media": ["Poster"],"genre": "Afro/Latin/Fusion","country": "UK","image": ["img/1536.jpg"],"description": "","decade": 1970,"related": []},
 {"id": 1537,"name": "Shine On","year": 1992,"artist": "Pink Floyd","media": ["CD","Box"],"genre": "Prog Rock","country": "UK","image": ["img/1537.jpg"],"description": "","decade": 1990,"related": ["Pink Floyd"]},
 {"id": 1538,"name": "1975 Live At The Empire Pool King Arthur On Ice","year": 2007,"artist": "Rick Wakeman","media": ["DVD"],"genre": "Prog Rock","country": "UK","image": ["img/1538.jpg"],"description": "","decade": 2000,"related": ["Rick Wakeman"]},
