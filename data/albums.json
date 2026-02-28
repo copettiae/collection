@@ -14865,7 +14865,7 @@
 },
 {"id": 1255,"name": "Brother Of Mine","year": 1989,"artist": "Anderson Bruford Wakeman Howe","media": ["Poster"],"genre": "Prog Rock","country": "UK","image": ["img/20-2.jpg"],"description": "","decade": 1980,"related": ["Yes","Roger Dean"]},
 {"id": 1212,"name": "Rick Wakeman's Criminal Record Songbook","year": 1978,"artist": "Rick Wakeman","media": ["Book"],"genre": "Prog Rock","country": "UK","image": ["img/1212.jpg","img/1212-2.jpg","img/1212-3.jpg","img/1212-4.jpg","img/1212-5.jpg"],"description": "","decade": 1970,"related": ["Rick Wakeman"]},
-{"id": 1213,"name": "Classic Rock","year": 2010,"artist": "Roger Waters","media": ["Mag"],"genre": "Prog Rock","country": "UK","image": ["img/1213.jpg"],"description": "","decade": 2010,"related": ["Pink Floyd"]},
+{"id": 1213,"name": "Omega Tour","year": 2010,"artist": "Asia","media": ["Poster"],"genre": "Prog Rock","country": "UK","image": ["img/1213.jpg"],"description": "","decade": 2010,"related": ["Roger Dean"]},
 {"id": 1214,"name": "Classic Rock Presents Prog Magazine - Issue 58 August 2015 No CD","year": 2025,"artist": "To Buy","media": ["To Buy Mag"],"genre": "To Buy","country": "To Buy","image": ["img/1214.jpg"],"description": "","decade": 2020,"related": ["To Buy"]},
 {"id": 1215,"name": "Record Collector 269","year": 2002,"artist": "Yes","media": ["Mag"],"genre": "Prog Rock","country": "UK","image": ["img/1215.jpg"],"description": "","decade": 2000,"related": ["Yes"]},
 {"id": 1216,"name": "Rick Wakeman Journey and Return to the Centre of the Earth Ltd Ed Vinyl Box Set","year": 2025,"artist": "To Buy","media": ["To Buy Box"],"genre": "To Buy","country": "To Buy","image": ["img/1216.jpg"],"description": "","decade": 2020,"related": ["To Buy"]},
@@ -18244,5 +18244,6 @@
     "img/1596.jpg",    "img/203.jpg",    "img/1596-2.jpg",    "img/1596-3.jpg",    "img/1596-4.jpg",    "img/514.jpg",
     "img/1596-5.jpg",    "img/1596-6.jpg",    "img/1596-7.jpg",    "img/515.jpg",    "img/1596-8.jpg",    "img/1596-9.jpg",
     "img/1596-10.jpg",    "img/1596-11.jpg",    "img/1596-12.jpg"
-],"description": "","decade": 2020,"related": []}
+],"description": "","decade": 2020,"related": []},
+{"id": 1597,"name": "Time And A Word","year": 2016,"artist": "Martin Popoff","media": ["Book"],"genre": "Prog Rock","country": "UK","image": ["img/1597.jpg"],"description": "","decade": 2010,"related": ["Yes"]}
 ]
