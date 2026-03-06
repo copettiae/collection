@@ -6073,19 +6073,7 @@
 "decade": 2010,
 "related": []
 },
-{
-"id": 1062,
-"name": "The Tormato Story",
-"year": 2023,
-"artist": "Kevin Mulryne",
-"media": ["Book"],
-"genre": "Prog Rock",
-"country": "UK",
-"image": ["img/1062.jpg"],
-"description": "Kevin Mulryne (Author), Oliver Wakeman (Foreword)",
-"decade": 2020,
-"related": []
-},
+{"id": 1062,"name": "The Tormato Story","year": 2023,"artist": "Kevin Mulryne","media": ["Book"],"genre": "Prog Rock","country": "UK","image": ["img/1062.jpg","img/1062-2.jpg"],"description": "Kevin Mulryne (Author), Oliver Wakeman (Foreword)","decade": 2020,"related": []},
 {
 "id": 464,
 "name": "Kin Ping Meh",
@@ -17495,19 +17483,7 @@
 "decade": 1980,
 "related": ["Roger Dean"]
 },
-{
-"id": 1490,
-"name": "Vangelis The Unknown Man - Complete",
-"year": 2025,
-"artist": "Mark J.T. Griffin",
-"media": ["Book"],
-"genre": "Prog Rock",
-"country": "UK",
-"image": ["img/1490.jpg"],
-"description": "",
-"decade": 2020,
-"related": ["Vangelis"]
-},
+{"id": 1490,"name": "Vangelis The Unknown Man - Complete","year": 2025,"artist": "Mark J.T. Griffin","media": ["Book"],"genre": "Prog Rock","country": "UK","image": ["img/1490.jpg","img/1490-2.jpg"],"description": "","decade": 2020,"related": ["Vangelis"]},
 {
 "id": 1491,
 "name": "VIP Oneness 2025 Tour",
@@ -17634,19 +17610,7 @@
     "img/1500-26.jpg",    "img/1500-27.jpg",    "img/1500-28.jpg",    "img/1500-29.jpg",    "img/1500-30.jpg",    "img/1500-31.jpg",    "img/1500-32.jpg",    "img/1500-33.jpg",
     "img/1500-34.jpg",    "img/1500-35.jpg"
     ],"description": "","decade": 2010,"related": ["Rick Wakeman","Roger Dean"]},
-{
-"id": 1501,
-"name": "Wendy Carlos every album, every song",
-"year": 2024,
-"artist": "Mark Marrington",
-"media": ["Book"],
-"genre": "Electronica",
-"country": "UK",
-"image": ["img/1501.jpg"],
-"description": "",
-"decade": 2020,
-"related": ["Wendy Carlos"]
-},
+{"id": 1501,"name": "Wendy Carlos every album, every song","year": 2024,"artist": "Mark Marrington","media": ["Book"],"genre": "Electronica","country": "UK","image": ["img/1501.jpg","img/1501-2.jpg"],"description": "","decade": 2020,"related": ["Wendy Carlos"]},
 {"id": 1502,"name": "Focus 50","year": 2021,"artist": "Focus","media": ["Box","CD"],"genre": "Prog Rock","country": "The Netherlands",
 "image": [
     "img/1502.jpg",    "img/1502-2.jpg",    "img/1502-3.jpg",    "img/1502-4.jpg",    "img/1502-5.jpg",
@@ -17778,7 +17742,7 @@
 {"id": 1514,"name": "The History Of Rock 85","year": 1983,"artist": "Keith Emerson","media": ["Mag"],"genre": "Prog Rock","country": "UK","image": ["img/1514.jpg"],"description": "","decade": 1980,"related": ["Emerson, Lake & Palmer"]},
 {"id": 1515,"name": "The Best Of","year": 1967,"artist": "Jefferson Airplane","media": ["CD"],"genre": "Psychedelic Rock","country": "UK","image": ["img/1515.jpg"],"description": "","decade": 1960,"related": [""]},
 {"id": 1516,"name": "Owner Of A Lonely Heart","year": 1991,"artist": "Yes","media": ["LP"],"genre": "Prog Rock","country": "UK","image": ["img/1516.jpg","img/1516-2.jpg"],"description": "","decade": 1990,"related": ["Yes"]},
-{"id": 1517,"name": "Rick Wakeman In The 1970s","year": 2023,"artist": "Geoffrey Feakes","media": ["Book"],"genre": "Prog Rock","country": "UK","image": ["img/1517.jpg"],"description": "","decade": 2020,"related": ["Rick Wakeman"]},
+{"id": 1517,"name": "Rick Wakeman In The 1970s","year": 2023,"artist": "Geoffrey Feakes","media": ["Book"],"genre": "Prog Rock","country": "UK","image": ["img/1517.jpg","img/1517-2.jpg"],"description": "","decade": 2020,"related": ["Rick Wakeman"]},
 {"id": 1518,"name": "Ishoku-Sokuhatsu","year": 1974,"artist": "Yonin Bayashi","media": ["CD"],"genre": "Prog Rock","country": "Japan","image": ["img/1518.jpg"],"description": "","decade": 1970,"related": [""]},
 {"id": 1519,"name": "Rolling Stones Magazine 179","year": 1974,"artist": "Rick Wakeman","media": ["Mag"],"genre": "Prog Rock","country": "UK","image": ["img/1519.jpg"],"description": "","decade": 1970,"related": ["Rick Wakeman"]},
 {"id": 1520,"name": "Classic Rock Legends","year": 2001,"artist": "Caravan","media": ["DVD"],"genre": "Prog Rock","country": "UK",
@@ -17882,8 +17846,8 @@
 {"id": 1583,"name": "Elegy","year": 1971,"artist": "The Nice","media": ["CD"],"genre": "Prog Rock","country": "UK","image": ["img/1583.jpg"],"description": "","decade": 1970,"related": ["Emerson, Lake & Palmer"]},
 {"id": 1584,"name": "Os Dias Da MadreDeus","year": 1987,"artist": "Madredeus","media": ["CD"],"genre": "Fado/Folk","country": "Portugal","image": ["img/1584.jpg"],"description": "","decade": 1980,"related": []},
 {"id": 1585,"name": "Anderson - Rabin - Wakeman","year": 2016,"artist": "ARW","media": ["Tour"],"genre": "Prog Rock","country": "UK","image": ["img/1585.jpg"],"description": "","decade": 1980,"related": ["Yes","Rick Wakeman"]},
-{"id": 1586,"name": "Pigs Might Fly The Inside Story Of Pink Floyd","year": 2007,"artist": "Mark Blake","media": ["Book"],"genre": "Prog Rock","country": "UK","image": ["img/1586.jpg"],"description": "","decade": 2000,"related": ["Pink Floyd"]},
-{"id": 1587,"name": "Inside Out A Personal History Of Pink Floyd","year": 2004,"artist": "Nick Mason","media": ["Book"],"genre": "Prog Rock","country": "UK","image": ["img/1587.jpg"],"description": "","decade": 2000,"related": ["Pink Floyd"]},
+{"id": 1586,"name": "Pigs Might Fly The Inside Story Of Pink Floyd","year": 2007,"artist": "Mark Blake","media": ["Book"],"genre": "Prog Rock","country": "UK","image": ["img/1586.jpg","img/1586-2.jpg"],"description": "","decade": 2000,"related": ["Pink Floyd"]},
+{"id": 1587,"name": "Inside Out A Personal History Of Pink Floyd","year": 2004,"artist": "Nick Mason","media": ["Book"],"genre": "Prog Rock","country": "UK","image": ["img/1587.jpg","img/1587-2.jpg"],"description": "","decade": 2000,"related": ["Pink Floyd"]},
 {"id": 1588,"name": "North America Programme","year": "1991","artist": "Yes","media": ["Tour"],"genre": "Prog Rock","country": "USA",
 "image": [
     "img/1588.jpg",    "img/0001.jpg",    "img/0002.jpg",    "img/0003.jpg",    "img/0004.jpg",    "img/0005.jpg",    "img/0006.jpg",
@@ -17909,7 +17873,7 @@
     "img/1596-5.jpg",    "img/1596-6.jpg",    "img/1596-7.jpg",    "img/515.jpg",    "img/1596-8.jpg",    "img/1596-9.jpg",
     "img/1596-10.jpg",    "img/1596-11.jpg",    "img/1596-12.jpg"
 ],"description": "","decade": 2020,"related": []},
-{"id": 1597,"name": "Time And A Word","year": 2016,"artist": "Martin Popoff","media": ["Book"],"genre": "Prog Rock","country": "UK","image": ["img/1597.jpg"],"description": "","decade": 2010,"related": ["Yes"]},
+{"id": 1597,"name": "Time And A Word","year": 2016,"artist": "Martin Popoff","media": ["Book"],"genre": "Prog Rock","country": "UK","image": ["img/1597.jpg","img/1597-2.jpg"],"description": "","decade": 2010,"related": ["Yes"]},
 {"id": 1598,"name": "The Pink Floyd & Syd Barrett Story","year": 2001,"artist": "Pink Floyd","media": ["DVD"],"genre": "Prog Rock","country": "UK","image": ["img/1598.jpg","img/1598-2.jpg"],"description": "","decade": 2000,"related": ["Pink Floyd"]},
 {"id": 1599,"name": "In The Flesh - Live","year": 2002,"artist": "Roger Waters","media": ["DVD"],"genre": "Prog Rock","country": "UK","image": ["img/1599.jpg","img/1599-2.jpg"],"description": "","decade": 2000,"related": ["Pink Floyd"]},
 {"id": 1600,"name": "The Making Of The Dark Side Of The Moon","year": 2003,"artist": "Pink Floyd","media": ["DVD"],"genre": "Prog Rock","country": "UK",
@@ -17949,5 +17913,6 @@
     "img/1606-6.jpg",    "img/1606-7.jpg",    "img/1606-8.jpg",    "img/1606-9.jpg",    "img/1606-10.jpg", 
     "img/1607.jpg",    "img/1039.jpg",    "img/1040.jpg",    "img/1042.jpg", "img/1606-11.jpg"
 ],"description": "","decade": 1960,"related": ["Wendy Carlos"]},
-{"id": 1607,"name": "Switched-On Bach","year": 1968,"artist": "Wendy Carlos","media": ["CD"],"genre": "Electronica","country": "USA","image": ["img/1607.jpg","img/1607-2.jpg"],"description": "","decade": 1960,"related": ["Wendy Carlos"]}
+{"id": 1607,"name": "Switched-On Bach","year": 1968,"artist": "Wendy Carlos","media": ["CD"],"genre": "Electronica","country": "USA","image": ["img/1607.jpg","img/1607-2.jpg"],"description": "","decade": 1960,"related": ["Wendy Carlos"]},
+{"id": 1608,"name": "Hocus Pocus Box","year": 2017,"artist": "Focus","media": ["Box"],"genre": "Prog Rock","country": "The Netherlands","image": ["img/1608.jpg","img/1608-99.jpg"],"description": "","decade": 2010,"related": [""]}
 ]
