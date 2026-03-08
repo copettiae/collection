@@ -135,8 +135,7 @@
 "image": ["img/16.jpg"],
 "description": "",
 "decade": 1990,
-"related": [],
-"letter": "A"
+"related": []
 },
 {
 "id": 899,
@@ -149,8 +148,7 @@
 "image": ["img/899.jpg"],
 "description": "",
 "decade": 1970,
-"related": [],
-"letter": "A"
+"related": []
 },
 {
 "id": 901,
@@ -163,8 +161,7 @@
 "image": ["img/901.jpg"],
 "description": "",
 "decade": 1970,
-"related": [],
-"letter": "A"
+"related": []
 },
 {
 "id": 903,
@@ -177,8 +174,7 @@
 "image": ["img/903.jpg"],
 "description": "",
 "decade": 1970,
-"related": [],
-"letter": "A"
+"related": []
 },
 {
 "id": 867,
@@ -191,8 +187,7 @@
 "image": ["img/867.jpg"],
 "description": "",
 "decade": 1970,
-"related": [],
-"letter": "A"
+"related": []
 },
 {
 "id": 17,
@@ -205,8 +200,7 @@
 "image": ["img/17.jpg"],
 "description": "",
 "decade": 1970,
-"related": [],
-"letter": "A"
+"related": []
 },
 {
 "id": 411,
@@ -219,8 +213,7 @@
 "image": ["img/411.jpg"],
 "description": "",
 "decade": 1970,
-"related": [],
-"letter": "A"
+"related": []
 },
 {
 "id": 18,
@@ -233,8 +226,7 @@
 "image": ["img/18.jpg"],
 "description": "",
 "decade": 1980,
-"related": ["Yes","Roger Dean"],
-"letter": "A"
+"related": ["Yes","Roger Dean"]
 },
 {"id": 20,"name": "Brother Of Mine","year": 1989,"artist": "Anderson Bruford Wakeman Howe","media": ["LP"],"genre": "Prog Rock","country": "UK","image": ["img/20.jpg","img/20-2.jpg","img/20-3.jpg"],"description": "","decade": 1980,"related": ["Yes","Roger Dean"]},
 {"id": 21,"name": "Order Of The Universe","year": 1989,"artist": "Anderson Bruford Wakeman Howe","media": ["LP"],"genre": "Prog Rock","country": "UK","image": ["img/21.jpg","img/21-2.jpg"],"description": "","decade": 1980,"related": ["Yes","Roger Dean"]},
@@ -253,8 +245,7 @@
 "image": ["img/23.jpg"],
 "description": "",
 "decade": 1990,
-"related": ["Yes","Roger Dean"],
-"letter": "A"
+"related": ["Yes","Roger Dean"]
 },
 {
 "id": 24,
@@ -14453,19 +14444,7 @@
 {"id": 1209,"name": "Prog 130","year": 2022,"artist": "Bill Bruford","media": ["Mag"],"genre": "Prog Rock","country": "UK","image": ["img/1209.jpg","img/1209-2.jpg"],"description": "","decade": 2020,"related": ["Yes"]},
 {"id": 1210,"name": "Prog 20","year": 2011,"artist": "Yes","media": ["Mag"],"genre": "Prog Rock","country": "UK","image": ["img/1210.jpg","img/1210-2.jpg"],"description": "","decade": 2010,"related": ["Yes"]},
 {"id": 1211,"name": "Prog 19","year": 2011,"artist": "Pink Floyd","media": ["Mag"],"genre": "Prog Rock","country": "UK","image": ["img/1211.jpg","img/1211-2.jpg"],"description": "","decade": 2010,"related": ["Pink Floyd"]},
-{
-"id": 1251,
-"name": "Jean-Michel Jarre Oxygene Trilogy Vinyl CD 40th Box Set Sealed Non MFSL",
-"year": 2025,
-"artist": "To Buy",
-"media": ["To Buy Box"],
-"genre": "To Buy",
-"country": "To Buy",
-"image": ["img/1251.jpg"],
-"description": "",
-"decade": 2020,
-"related": ["To Buy"]
-},
+{"id": 1251,"name": "Jean-Michel Jarre Oxygene Trilogy Vinyl CD 40th Box Set Sealed Non MFSL","year": 2025,"artist": "To Buy","media": ["To Buy Box"],"genre": "To Buy","country": "To Buy","image": ["img/1251.jpg"],"description": "","decade": 2020,"related": ["To Buy"]},
 {
 "id": 1252,
 "name": "Classic Rock Presents Prog Rock Magazine - Issue 80 September 2017 No CD",
@@ -17287,7 +17266,7 @@
 },
 {
 "id": 1474,
-"name": "Roger - Nucleus Elastic Rock",
+"name": "Nucleus Elastic Rock",
 "year": 2025,
 "artist": "To Buy",
 "media": ["Wanted"],
@@ -17926,5 +17905,28 @@
     "img/1608-25.jpg",    "img/1608-26.jpg",    "img/1608-27.jpg",    "img/1608-28.jpg",    "img/1608-29.jpg",    "img/1608-30.jpg",
     "img/1608-31.jpg",    "img/1608-32.jpg",    "img/1608-33.jpg",    "img/1608-34.jpg",    "img/1608-35.jpg",    "img/1608-36.jpg",
     "img/1608-37.jpg",    "img/1608-38.jpg",    "img/1608-39.jpg",    "img/1608-40.jpg",    "img/1608-41.jpg"
-],"description": "","decade": 2010,"related": [""]}
+],"description": "","decade": 2010,"related": [""]},
+{"id": 1609,"name": "The Best Of Lighthouse","year": 2025,"artist": "To Buy","media": ["Wanted"],"genre": "To Buy","country": "To Buy","image": ["img/1609.jpg"],"description": "","decade": 2020,"related": ["To Buy"]},
+{"id": 1610,"name": "Third Ear Band","year": 2025,"artist": "To Buy","media": ["Wanted"],"genre": "To Buy","country": "To Buy","image": ["img/1610.jpg"],"description": "","decade": 2020,"related": ["To Buy"]},
+{"id": 1611,"name": "Alexis Korner Bootleg Him","year": 2025,"artist": "To Buy","media": ["Wanted"],"genre": "To Buy","country": "To Buy","image": ["img/1611.jpg"],"description": "","decade": 2020,"related": ["To Buy"]},
+{"id": 1612,"name": "Vermilion","year": 2025,"artist": "To Buy","media": ["Wanted"],"genre": "To Buy","country": "To Buy","image": ["img/1612.jpg"],"description": "","decade": 2020,"related": ["To Buy"]},
+{"id": 1613,"name": "The Flower King's Islands","year": 2025,"artist": "To Buy","media": ["Wanted"],"genre": "To Buy","country": "To Buy","image": ["img/1613.jpg"],"description": "","decade": 2020,"related": ["To Buy"]},
+{"id": 1614,"name": "Gentle Giant Octopus","year": 2025,"artist": "To Buy","media": ["Wanted"],"genre": "To Buy","country": "To Buy","image": ["img/1614.jpg"],"description": "","decade": 2020,"related": ["To Buy"]},
+{"id": 1615,"name": "It Bites - Still Too Young To Remember","year": 2025,"artist": "To Buy","media": ["Wanted"],"genre": "To Buy","country": "To Buy","image": ["img/1615.jpg"],"description": "","decade": 2020,"related": ["To Buy"]},
+{"id": 1616,"name": "Pete Dello And Friends - Into Your Ears","year": 2025,"artist": "To Buy","media": ["Wanted"],"genre": "To Buy","country": "To Buy","image": ["img/1616.jpg"],"description": "","decade": 2020,"related": ["To Buy"]},
+{"id": 1617,"name": "Patto - Hold Your Fire","year": 2025,"artist": "To Buy","media": ["Wanted"],"genre": "To Buy","country": "To Buy","image": ["img/1617.jpg"],"description": "","decade": 2020,"related": ["To Buy"]},
+{"id": 1618,"name": "The John Dummer Band - Blue","year": 2025,"artist": "To Buy","media": ["Wanted"],"genre": "To Buy","country": "To Buy","image": ["img/1618.jpg"],"description": "","decade": 2020,"related": ["To Buy"]},
+{"id": 1619,"name": "Nucleus - We'll Talk About It Later","year": 2025,"artist": "To Buy","media": ["Wanted"],"genre": "To Buy","country": "To Buy","image": ["img/1619.jpg"],"description": "","decade": 2020,"related": ["To Buy"]},
+{"id": 1620,"name": "Dr. Strangely Strange - Heavy Petting","year": 2025,"artist": "To Buy","media": ["Wanted"],"genre": "To Buy","country": "To Buy","image": ["img/1620.jpg"],"description": "","decade": 2020,"related": ["To Buy"]},
+{"id": 1621,"name": "Various - The Rarest On Earth","year": 2025,"artist": "To Buy","media": ["Wanted"],"genre": "To Buy","country": "To Buy","image": ["img/1621.jpg"],"description": "","decade": 2020,"related": ["To Buy"]},
+{"id": 1622,"name": "Junco Partners","year": 2025,"artist": "To Buy","media": ["Wanted"],"genre": "To Buy","country": "To Buy","image": ["img/1622.jpg"],"description": "","decade": 2020,"related": ["To Buy"]},
+{"id": 1623,"name": "Mike Absalom","year": 2025,"artist": "To Buy","media": ["Wanted"],"genre": "To Buy","country": "To Buy","image": ["img/1623.jpg"],"description": "","decade": 2020,"related": ["To Buy"]},
+{"id": 1624,"name": "Assagai - Zimbabwe","year": 2025,"artist": "To Buy","media": ["Wanted"],"genre": "To Buy","country": "To Buy","image": ["img/1624.jpg"],"description": "","decade": 2020,"related": ["To Buy"]},
+{"id": 1625,"name": "Greenslade - Live In Stockholm","year": 2025,"artist": "To Buy","media": ["Wanted"],"genre": "To Buy","country": "To Buy","image": ["img/1625.jpg"],"description": "","decade": 2020,"related": ["To Buy"]},
+{"id": 1626,"name": "Dell Richardson - Pieces Of A Jigsaw","year": 2025,"artist": "To Buy","media": ["Wanted"],"genre": "To Buy","country": "To Buy","image": ["img/1626.jpg"],"description": "","decade": 2020,"related": ["To Buy"]},
+{"id": 1627,"name": "Ben Craven - Great & Terrible Potions","year": 2025,"artist": "To Buy","media": ["Wanted"],"genre": "To Buy","country": "To Buy","image": ["img/1627.jpg"],"description": "","decade": 2020,"related": ["To Buy"]},
+{"id": 1628,"name": "Barry Devlin - Breaking Star Codes","year": 2025,"artist": "To Buy","media": ["Wanted"],"genre": "To Buy","country": "To Buy","image": ["img/1628.jpg"],"description": "","decade": 2020,"related": ["To Buy"]},
+{"id": 1629,"name": "Linda Hoyle - The Fetch ","year": 2025,"artist": "To Buy","media": ["Wanted"],"genre": "To Buy","country": "To Buy","image": ["img/1629.jpg"],"description": "","decade": 2020,"related": ["To Buy"]}
+ 
+
 ]
