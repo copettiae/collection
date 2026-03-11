@@ -17918,7 +17918,6 @@
 {"id": 1628,"name": "Barry Devlin - Breaking Star Codes","year": 2025,"artist": "To Buy","media": ["Wanted"],"genre": "To Buy","country": "To Buy","image": ["img/1628.jpg"],"description": "","decade": 2020,"related": ["To Buy"]},
 {"id": 1629,"name": "Linda Hoyle - The Fetch ","year": 2025,"artist": "To Buy","media": ["Wanted"],"genre": "To Buy","country": "To Buy","image": ["img/1629.jpg"],"description": "","decade": 2020,"related": ["To Buy"]},
 {"id": 1630,"name": "Prog 160","year": 2025,"artist": "Chris Squire","media": ["Mag"],"genre": "Prog Rock","country": "UK","image": ["img/1630.jpg","img/1630-2.jpg"],"description": "","decade": 2020,"related": ["Yes"]},
-
 {"id": 1631,"name": "Union 30 Live Civic Centre Pensacola","year": 1991,"artist": "Yes","media": ["CD","DVD"],"genre": "Prog Rock","country": "USA","image": ["img/1631.jpg","img/1631-2.jpg"],"description": "","decade": 1990,"related": ["Yes"]},
 {"id": 1632,"name": "Union 30 Live Worcester Centrum","year": 1991,"artist": "Yes","media": ["CD","DVD"],"genre": "Prog Rock","country": "USA","image": ["img/1632.jpg","img/1632-2.jpg"],"description": "","decade": 1990,"related": ["Yes"]},
 {"id": 1633,"name": "Union 30 Live Nassau Coliseum","year": 1991,"artist": "Yes","media": ["CD","DVD"],"genre": "Prog Rock","country": "USA","image": ["img/1633.jpg","img/1633-2.jpg"],"description": "","decade": 1990,"related": ["Yes"]},
@@ -17929,5 +17928,6 @@
 {"id": 1638,"name": "Union 30 Star Lake Amphitheater + Bonus Tracks","year": 1991,"artist": "Yes","media": ["CD"],"genre": "Prog Rock","country": "USA","image": ["img/1638.jpg","img/1638-2.jpg"],"description": "","decade": 1990,"related": ["Yes"]},
 {"id": 1639,"name": "Union 30 Alpine Valley Music Theater","year": 1991,"artist": "Yes","media": ["CD"],"genre": "Prog Rock","country": "USA","image": ["img/1639.jpg","img/1639-2.jpg"],"description": "","decade": 1990,"related": ["Yes"]},
 {"id": 1640,"name": "Union 30 Shoreline Amphitheater","year": 1991,"artist": "Yes","media": ["CD","DVD"],"genre": "Prog Rock","country": "USA","image": ["img/1640.jpg","img/1640-2.jpg"],"description": "","decade": 1990,"related": ["Yes"]},
-{"id": 1641,"name": "Union 30 Bunka Taiikukan","year": 1992,"artist": "Yes","media": ["CD"],"genre": "Prog Rock","country": "Japan","image": ["img/1641.jpg","img/1641-2.jpg"],"description": "","decade": 1990,"related": ["Yes"]}
+{"id": 1641,"name": "Union 30 Bunka Taiikukan","year": 1992,"artist": "Yes","media": ["CD"],"genre": "Prog Rock","country": "Japan","image": ["img/1641.jpg","img/1641-2.jpg"],"description": "","decade": 1990,"related": ["Yes"]},
+{"id": 1642,"name": "Prog 168","year": 2026,"artist": "Keith Emerson","media": ["Mag"],"genre": "Prog Rock","country": "UK","image": ["img/1642.jpg","img/1642-2.jpg"],"description": "","decade": 2020,"related": ["Emerson, Lake & Palmer"]}
 ]
