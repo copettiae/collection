@@ -17328,19 +17328,7 @@
 "decade": 2020,
 "related": ["To Buy"]
 },
-{
-"id": 1481,
-"name": "Gun",
-"year": 1968,
-"artist": "The Gun",
-"media": ["LP"],
-"genre": "Psychedelic Rock",
-"country": "UK",
-"image": ["img/1481.jpg"],
-"description": "",
-"decade": 1960,
-"related": ["Roger Dean"]
-},
+{"id": 1481,"name": "Gun","year": 1968,"artist": "The Gun","media": ["LP"],"genre": "Psychedelic Rock","country": "UK","image": ["img/1481.jpg","img/1481-2.jpg"],"description": "","decade": 1960,"related": ["Roger Dean"]},
 {
 "id": 1482,
 "name": "Roger - Midnight Sun",
@@ -17881,7 +17869,7 @@
     "img/1608-37.jpg",    "img/1608-38.jpg",    "img/1608-39.jpg",    "img/1608-40.jpg",    "img/1608-41.jpg"
 ],"description": "","decade": 2010,"related": [""]},
 {"id": 1609,"name": "The Best Of Lighthouse","year": 2025,"artist": "To Buy","media": ["Wanted"],"genre": "To Buy","country": "To Buy","image": ["img/1609.jpg"],"description": "","decade": 2020,"related": ["To Buy"]},
-{"id": 1610,"name": "Third Ear Band","year": 2025,"artist": "To Buy","media": ["Wanted"],"genre": "To Buy","country": "To Buy","image": ["img/1610.jpg"],"description": "","decade": 2020,"related": ["To Buy"]},
+{"id": 1610,"name": "Music From Macbeth","year": 1972,"artist": "Third Ear Band","media": ["LP"],"genre": "Psychedelic Rock","country": "UK","image": ["img/1610.jpg","img/1610-2.jpg"],"description": "","decade": 1970,"related": ["Roger Dean"]},
 {"id": 1611,"name": "Alexis Korner Bootleg Him","year": 2025,"artist": "To Buy","media": ["Wanted"],"genre": "To Buy","country": "To Buy","image": ["img/1611.jpg"],"description": "","decade": 2020,"related": ["To Buy"]},
 {"id": 1612,"name": "Vermilion","year": 2025,"artist": "To Buy","media": ["Wanted"],"genre": "To Buy","country": "To Buy","image": ["img/1612.jpg"],"description": "","decade": 2020,"related": ["To Buy"]},
 {"id": 1613,"name": "The Flower King's Islands","year": 2025,"artist": "To Buy","media": ["Wanted"],"genre": "To Buy","country": "To Buy","image": ["img/1613.jpg"],"description": "","decade": 2020,"related": ["To Buy"]},
