@@ -1563,71 +1563,11 @@
 "decade": 1960,
 "related": []
 },
-{
-"id": 25,
-"name": "3",
-"year": 1968,
-"artist": "Blood, Sweat And Tears",
-"media": ["CD"],
-"genre": "Rock",
-"country": "USA",
-"image": ["img/25.jpg"],
-"description": "",
-"decade": 1960,
-"related": []
-},
-{
-"id": 118,
-"name": "4",
-"year": 1968,
-"artist": "Blood, Sweat And Tears",
-"media": ["CD"],
-"genre": "Rock",
-"country": "USA",
-"image": ["img/118.jpg"],
-"description": "",
-"decade": 1960,
-"related": []
-},
-{
-"id": 19,
-"name": "Blood, Sweat And Tears",
-"year": 1968,
-"artist": "Blood, Sweat And Tears",
-"media": ["CD"],
-"genre": "Rock",
-"country": "USA",
-"image": ["img/19.jpg"],
-"description": "",
-"decade": 1960,
-"related": []
-},
-{
-"id": 117,
-"name": "Child is Father To The Man",
-"year": 1968,
-"artist": "Blood, Sweat And Tears",
-"media": ["CD"],
-"genre": "Rock",
-"country": "USA",
-"image": ["img/117.jpg"],
-"description": "",
-"decade": 1960,
-"related": []
-},
-{
-"id": 119,
-"name": "New Blood",
-"year": 1968,
-"artist": "Blood, Sweat And Tears",
-"media": ["CD"],
-"genre": "Rock",
-"country": "USA",
-"image": ["img/119.jpg"],
-"description": "",
-"decade": 1960,
-"related": []
-},
+{"id": 25,"name": "3","year": 1970,"artist": "Blood, Sweat And Tears","media": ["CD"],"genre": "Jazz/Fusion","country": "USA","image": ["img/25.jpg","img/25-2.jpg"],"description": "","decade": 1970,"related": []},
+{"id": 118,"name": "4","year": 1971,"artist": "Blood, Sweat And Tears","media": ["CD"],"genre": "Jazz/Fusion","country": "USA","image": ["img/118.jpg","img/118-2.jpg"],"description": "","decade": 1970,"related": []},
+{"id": 19,"name": "Blood, Sweat And Tears","year": 1969,"artist": "Blood, Sweat And Tears","media": ["CD"],"genre": "Jazz/Fusion","country": "USA","image": ["img/19.jpg","img/19-2.jpg"],"description": "","decade": 1960,"related": []},
+{"id": 117,"name": "Child is Father To The Man","year": 1968,"artist": "Blood, Sweat And Tears","media": ["CD"],"genre": "Jazz/Fusion","country": "USA","image": ["img/117.jpg","img/117-2.jpg"],"description": "","decade": 1960,"related": []},
+{"id": 119,"name": "New Blood","year": 1972,"artist": "Blood, Sweat And Tears","media": ["CD"],"genre": "Jazz/Fusion","country": "USA","image": ["img/119.jpg","img/119-2.jpg"],"description": "","decade": 1970,"related": []},
 {
 "id": 1076,
 "name": "Blue Mountain Eagle",
@@ -5286,71 +5226,11 @@
 "decade": 1970,
 "related": []
 },
-{
-"id": 406,
-"name": "Upon The Wings Of Music",
-"year": 1975,
-"artist": "Jean-Luc Ponty",
-"media": ["CD"],
-"genre": "Jazz/Fusion",
-"country": "France",
-"image": ["img/406.jpg"],
-"description": "",
-"decade": 1970,
-"related": []
-},
-{
-"id": 407,
-"name": "Aurora",
-"year": 1976,
-"artist": "Jean-Luc Ponty",
-"media": ["CD"],
-"genre": "Jazz/Fusion",
-"country": "France",
-"image": ["img/407.jpg"],
-"description": "",
-"decade": 1970,
-"related": []
-},
-{
-"id": 408,
-"name": "Imaginary Voyage",
-"year": 1976,
-"artist": "Jean-Luc Ponty",
-"media": ["CD"],
-"genre": "Jazz/Fusion",
-"country": "France",
-"image": ["img/408.jpg"],
-"description": "",
-"decade": 1970,
-"related": []
-},
-{
-"id": 409,
-"name": "Enigmatic Ocean",
-"year": 1977,
-"artist": "Jean-Luc Ponty",
-"media": ["CD"],
-"genre": "Jazz/Fusion",
-"country": "France",
-"image": ["img/409.jpg"],
-"description": "",
-"decade": 1970,
-"related": []
-},
-{
-"id": 410,
-"name": "Cosmic Messenger",
-"year": 1978,
-"artist": "Jean-Luc Ponty",
-"media": ["CD"],
-"genre": "Jazz/Fusion",
-"country": "France",
-"image": ["img/410.jpg"],
-"description": "",
-"decade": 1970,
-"related": []
-},
+{"id": 406,"name": "Upon The Wings Of Music","year": 1975,"artist": "Jean-Luc Ponty","media": ["CD"],"genre": "Jazz/Fusion","country": "France","image": ["img/406.jpg","img/406-2.jpg"],"description": "","decade": 1970,"related": []},
+{"id": 407,"name": "Aurora","year": 1976,"artist": "Jean-Luc Ponty","media": ["CD"],"genre": "Jazz/Fusion","country": "France","image": ["img/407.jpg","img/407-2.jpg"],"description": "","decade": 1970,"related": []},
+{"id": 408,"name": "Imaginary Voyage","year": 1976,"artist": "Jean-Luc Ponty","media": ["CD"],"genre": "Jazz/Fusion","country": "France","image": ["img/408.jpg","img/408-2.jpg"],"description": "","decade": 1970,"related": []},
+{"id": 409,"name": "Enigmatic Ocean","year": 1977,"artist": "Jean-Luc Ponty","media": ["CD"],"genre": "Jazz/Fusion","country": "France","image": ["img/409.jpg","img/409-2.jpg"],"description": "","decade": 1970,"related": []},
+{"id": 410,"name": "Cosmic Messenger","year": 1978,"artist": "Jean-Luc Ponty","media": ["CD"],"genre": "Jazz/Fusion","country": "France","image": ["img/410.jpg","img/410-2.jpg"],"description": "","decade": 1970,"related": []},
 {
 "id": 1171,
 "name": "Oxigeno",
@@ -10496,32 +10376,8 @@
 "decade": 1970,
 "related": []
 },
-{
-"id": 807,
-"name": "Inner Secrets",
-"year": 1978,
-"artist": "Santana",
-"media": ["CD"],
-"genre": "Afro/Latin/Fusion",
-"country": "USA",
-"image": ["img/807.jpg"],
-"description": "",
-"decade": 1970,
-"related": []
-},
-{
-"id": 808,
-"name": "Marathon",
-"year": 1979,
-"artist": "Santana",
-"media": ["CD"],
-"genre": "Afro/Latin/Fusion",
-"country": "USA",
-"image": ["img/808.jpg"],
-"description": "",
-"decade": 1970,
-"related": []
-},
+{"id": 807,"name": "Inner Secrets","year": 1978,"artist": "Santana","media": ["CD"],"genre": "Afro/Latin/Fusion","country": "USA","image": ["img/807.jpg","img/807-2.jpg"],"description": "","decade": 1970,"related": []},
+{"id": 808,"name": "Marathon","year": 1979,"artist": "Santana","media": ["CD"],"genre": "Afro/Latin/Fusion","country": "USA","image": ["img/808.jpg","img/808-2.jpg"],"description": "","decade": 1970,"related": []},
 {
 "id": 809,
 "name": "Oneness",
@@ -10548,32 +10404,8 @@
 "decade": 1980,
 "related": []
 },
-{
-"id": 811,
-"name": "Zebop!",
-"year": 1981,
-"artist": "Santana",
-"media": ["CD"],
-"genre": "Afro/Latin/Fusion",
-"country": "USA",
-"image": ["img/811.jpg"],
-"description": "",
-"decade": 1980,
-"related": []
-},
-{
-"id": 812,
-"name": "Shango",
-"year": 1982,
-"artist": "Santana",
-"media": ["CD"],
-"genre": "Afro/Latin/Fusion",
-"country": "USA",
-"image": ["img/812.jpg"],
-"description": "",
-"decade": 1980,
-"related": []
-},
+{"id": 811,"name": "Zebop!","year": 1981,"artist": "Santana","media": ["CD"],"genre": "Afro/Latin/Fusion","country": "USA","image": ["img/811.jpg","img/811-2.jpg"],"description": "","decade": 1980,"related": []},
+{"id": 812,"name": "Shango","year": 1982,"artist": "Santana","media": ["CD"],"genre": "Afro/Latin/Fusion","country": "USA","image": ["img/812.jpg","img/812-2.jpg"],"description": "","decade": 1980,"related": []},
 {
 "id": 813,
 "name": "Havana Moon",
@@ -10613,19 +10445,7 @@
 "decade": 1980,
 "related": []
 },
-{
-"id": 816,
-"name": "Freedom",
-"year": 1987,
-"artist": "Santana",
-"media": ["CD"],
-"genre": "Afro/Latin/Fusion",
-"country": "USA",
-"image": ["img/816.jpg"],
-"description": "",
-"decade": 1980,
-"related": []
-},
+{"id": 816,"name": "Freedom","year": 1987,"artist": "Santana","media": ["CD"],"genre": "Afro/Latin/Fusion","country": "USA","image": ["img/816.jpg","img/816-2.jpg"],"description": "","decade": 1980,"related": []},
 {"id": 817,"name": "Viva Santana!","year": 1988,"artist": "Santana","media": ["DVD"],"genre": "Afro/Latin/Fusion","country": "USA","image": ["img/817.jpg","img/817-2.jpg"],"description": "","decade": 1980,"related": []},
 {
 "id": 819,
@@ -16767,19 +16587,7 @@
 "decade": 1980,
 "related": ["Yes","Roger Dean"]
 },
-{
-"id": 1429,
-"name": "Magnification Limited Edition 04926",
-"year": 2001,
-"artist": "Yes",
-"media": ["CD"],
-"genre": "Prog Rock",
-"country": "UK",
-"image": ["img/1429.jpg"],
-"description": "",
-"decade": 2000,
-"related": ["Yes"]
-},
+{"id": 1429,"name": "Magnification Limited Edition 04926","year": 2001,"artist": "Yes","media": ["CD"],"genre": "Prog Rock","country": "UK","image": ["img/1429.jpg"],"description": "","decade": 2000,"related": ["Yes"]},
 {"id": 1430,"name": "The Classical Connection Tour","year": 1991,"artist": "Rick Wakeman","media": ["Tour"],"genre": "Prog Rock","country": "UK",
 "image": [
     "img/1430.jpg",    "img/1430-2.jpg",    "img/1430-3.jpg",    "img/1430-4.jpg",    "img/1430-5.jpg",    "img/1430-6.jpg",
@@ -17329,58 +17137,10 @@
 "related": ["To Buy"]
 },
 {"id": 1481,"name": "Gun","year": 1968,"artist": "The Gun","media": ["LP"],"genre": "Psychedelic Rock","country": "UK","image": ["img/1481.jpg","img/1481-2.jpg"],"description": "","decade": 1960,"related": ["Roger Dean"]},
-{
-"id": 1482,
-"name": "Roger - Midnight Sun",
-"year": 2025,
-"artist": "To Buy",
-"media": ["Wanted"],
-"genre": "To Buy",
-"country": "To Buy",
-"image": ["img/1482.jpg"],
-"description": "",
-"decade": 2020,
-"related": ["To Buy"]
-},
-{
-"id": 1483,
-"name": "Roger - Midnight Sun WC",
-"year": 2025,
-"artist": "To Buy",
-"media": ["Wanted"],
-"genre": "To Buy",
-"country": "To Buy",
-"image": ["img/1483.jpg"],
-"description": "",
-"decade": 2020,
-"related": ["To Buy"]
-},
-{
-"id": 1484,
-"name": "Roger - This is Gracious",
-"year": 2025,
-"artist": "To Buy",
-"media": ["Wanted"],
-"genre": "To Buy",
-"country": "To Buy",
-"image": ["img/1484.jpg"],
-"description": "",
-"decade": 2020,
-"related": ["To Buy"]
-},
-{
-"id": 1485,
-"name": "Roger - Atomic Rooster",
-"year": 2025,
-"artist": "To Buy",
-"media": ["Wanted"],
-"genre": "To Buy",
-"country": "To Buy",
-"image": ["img/1485.jpg"],
-"description": "",
-"decade": 2020,
-"related": ["To Buy"]
-},
+{"id": 1482,"name": "Roger - Midnight Sun","year": 2025,"artist": "To Buy","media": ["Wanted"],"genre": "To Buy","country": "To Buy","image": ["img/1482.jpg"],"description": "","decade": 2020,"related": ["To Buy"]},
+{"id": 1483,"name": "Roger - Midnight Sun WC","year": 2025,"artist": "To Buy","media": ["Wanted"],"genre": "To Buy","country": "To Buy","image": ["img/1483.jpg"],"description": "","decade": 2020,"related": ["To Buy"]},
+{"id": 1484,"name": "Roger - This is Gracious","year": 2025,"artist": "To Buy","media": ["Wanted"],"genre": "To Buy","country": "To Buy","image": ["img/1484.jpg"],"description": "","decade": 2020,"related": ["To Buy"]},
+{"id": 1485,"name": "Roger - Atomic Rooster","year": 2025,"artist": "To Buy","media": ["Wanted"],"genre": "To Buy","country": "To Buy","image": ["img/1485.jpg"],"description": "","decade": 2020,"related": ["To Buy"]},
 {
 "id": 1486,
 "name": "Direct",
@@ -17492,19 +17252,13 @@
 "decade": 1970,
 "related": []
 },
-{
-"id": 1496,
-"name": "Collectors IOM Stamp Pack",
-"year": 2025,
-"artist": "Rick Wakeman",
-"media": ["Stamp"],
-"genre": "Prog Rock",
-"country": "UK",
-"image": ["img/1496.jpg"],
-"description": "",
-"decade": 2020,
-"related": ["Rick Wakeman","Roger Dean"]
-},
+{"id": 1496,"name": "Collectors IOM Stamp Pack","year": 2025,"artist": "Rick Wakeman","media": ["Stamp"],"genre": "Prog Rock","country": "UK",
+"image": [
+    "img/1496.jpg",    "img/1496-2.jpg",    "img/1496-3.jpg",    "img/1496-4.jpg",    "img/1496-5.jpg",
+    "img/1496-6.jpg",    "img/1496-7.jpg",    "img/1496-8.jpg",    "img/1496-9.jpg",    "img/1496-10.jpg",
+    "img/1496-11.jpg",    "img/1496-12.jpg",    "img/1496-13.jpg",    "img/1496-14.jpg",    "img/1496-15.jpg",
+    "img/1496-16.jpg",    "img/1496-17.jpg"
+],"description": "","decade": 2020,"related": ["Rick Wakeman","Roger Dean"]},
 {
 "id": 1497,
 "name": "Beat Instrumental And International Recording Studio",
@@ -17916,6 +17670,17 @@
 {"id": 1645,"name": "Rick Wakeman At Lincoln Cathedral","year": 2001,"artist": "Rick Wakeman","media": ["CD"],"genre": "Prog Rock","country": "UK",
 "image": [
     "img/1645.jpg",    "img/1645-2.jpg",    "img/1645-3.jpg",    "img/1645-4.jpg",    "img/1645-5.jpg"
-],"description": "","decade": 2000,"related": ["Rick Wakeman"]}
-
+],"description": "","decade": 2000,"related": ["Rick Wakeman"]},
+{"id": 1646,"name": "Original Album Series","year": 2012,"artist": "Jean-Luc Ponty","media": ["Box"],"genre": "Jazz/Fusion","country": "France",
+"image": [
+    "img/1646.jpg","img/1646-2.jpg","img/406.jpg","img/407.jpg","img/408.jpg","img/409.jpg","img/410.jpg"
+],"description": "","decade": 2010,"related": []},
+{"id": 1647,"name": "Original Album Classics","year": 2016,"artist": "Blood, Sweat And Tears","media": ["Box"],"genre": "Jazz/Fusion","country": "USA",
+"image": [
+    "img/1647.jpg","img/1647-2.jpg","img/117.jpg","img/19.jpg","img/25.jpg","img/118.jpg","img/119.jpg"
+],"description": "","decade": 2010,"related": []},
+{"id": 1648,"name": "Original Album Classics","year": 2009,"artist": "Santana","media": ["Box"],"genre": "Afro/Latin/Fusion","country": "USA",
+"image": [
+    "img/1648.jpg","img/1648-2.jpg","img/807.jpg","img/808.jpg","img/811.jpg","img/812.jpg","img/816.jpg"
+],"description": "","decade": 2000,"related": []}
 ]
