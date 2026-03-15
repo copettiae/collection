@@ -10,7 +10,7 @@
 
 	<!-- Set CSS -->
 	{{ $css := resources.Get "css/main.css" }}
-	<link rel="stylesheet" href="{{ $css.Permalink }}">
+	<link rel="stylesheet" href="{{ $css.RelPermalink }}">
 	
 	{{ with .OutputFormats.Get "RSS" -}}
 		{{ printf `<link rel="%s" type="%s" href="%s" title="%s">` .Rel .MediaType.Type .RelPermalink $.Site.Title | safeHTML }}

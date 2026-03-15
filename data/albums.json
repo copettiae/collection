@@ -137,84 +137,12 @@
 "decade": 1990,
 "related": []
 },
-{
-"id": 899,
-"name": "America",
-"year": 1971,
-"artist": "America",
-"media": ["CD"],
-"genre": "Folk Rock",
-"country": "USA",
-"image": ["img/899.jpg"],
-"description": "",
-"decade": 1970,
-"related": []
-},
-{
-"id": 901,
-"name": "Homecoming",
-"year": 1972,
-"artist": "America",
-"media": ["CD"],
-"genre": "Folk Rock",
-"country": "USA",
-"image": ["img/901.jpg"],
-"description": "",
-"decade": 1970,
-"related": []
-},
-{
-"id": 903,
-"name": "Hat Trick",
-"year": 1973,
-"artist": "America",
-"media": ["CD"],
-"genre": "Folk Rock",
-"country": "USA",
-"image": ["img/903.jpg"],
-"description": "",
-"decade": 1970,
-"related": []
-},
-{
-"id": 867,
-"name": "Holiday",
-"year": 1974,
-"artist": "America",
-"media": ["CD"],
-"genre": "Folk Rock",
-"country": "USA",
-"image": ["img/867.jpg"],
-"description": "",
-"decade": 1970,
-"related": []
-},
-{
-"id": 17,
-"name": "America's Greatest Hits History",
-"year": 1975,
-"artist": "America",
-"media": ["CD"],
-"genre": "Folk Rock",
-"country": "USA",
-"image": ["img/17.jpg"],
-"description": "",
-"decade": 1970,
-"related": []
-},
-{
-"id": 411,
-"name": "Hearts",
-"year": 1975,
-"artist": "America",
-"media": ["CD"],
-"genre": "Folk Rock",
-"country": "USA",
-"image": ["img/411.jpg"],
-"description": "",
-"decade": 1970,
-"related": []
-},
+{"id": 899,"name": "America","year": 1971,"artist": "America","media": ["CD"],"genre": "Folk Rock","country": "USA","image": ["img/899.jpg","img/899-2.jpg"],"description": "","decade": 1970,"related": []},
+{"id": 901,"name": "Homecoming","year": 1972,"artist": "America","media": ["CD"],"genre": "Folk Rock","country": "USA","image": ["img/901.jpg","img/901-2.jpg"],"description": "","decade": 1970,"related": []},
+{"id": 903,"name": "Hat Trick","year": 1973,"artist": "America","media": ["CD"],"genre": "Folk Rock","country": "USA","image": ["img/903.jpg","img/903-2.jpg"],"description": "","decade": 1970,"related": []},
+{"id": 867,"name": "Holiday","year": 1974,"artist": "America","media": ["CD"],"genre": "Folk Rock","country": "USA","image": ["img/867.jpg","img/867-2.jpg"],"description": "","decade": 1970,"related": []},
+{"id": 17,"name": "America's Greatest Hits History","year": 1975,"artist": "America","media": ["CD"],"genre": "Folk Rock","country": "USA","image": ["img/17.jpg"],"description": "","decade": 1970,"related": []},
+{"id": 411,"name": "Hearts","year": 1975,"artist": "America","media": ["CD"],"genre": "Folk Rock","country": "USA","image": ["img/411.jpg","img/411-2.jpg"],"description": "","decade": 1970,"related": []},
 {
 "id": 18,
 "name": "Anderson Bruford Wakeman Howe",
@@ -2388,71 +2316,11 @@
 "decade": 2010,
 "related": []
 },
-{
-"id": 178,
-"name": "Light As A Feather",
-"year": 1972,
-"artist": "Chick Corea",
-"media": ["CD"],
-"genre": "Jazz/Fusion",
-"country": "USA",
-"image": ["img/178.jpg"],
-"description": "Chick Corea, Return To Forever",
-"decade": 1970,
-"related": []
-},
-{
-"id": 681,
-"name": "Hymn Of The Seventh Galaxy",
-"year": 1973,
-"artist": "Chick Corea",
-"media": ["CD"],
-"genre": "Jazz/Fusion",
-"country": "USA",
-"image": ["img/681.jpg"],
-"description": "Return To Forever Featuring Chick Corea",
-"decade": 1970,
-"related": []
-},
-{
-"id": 682,
-"name": "Where Have I Known You Before",
-"year": 1974,
-"artist": "Chick Corea",
-"media": ["CD"],
-"genre": "Jazz/Fusion",
-"country": "USA",
-"image": ["img/682.jpg"],
-"description": "Return To Forever Featuring Chick Corea",
-"decade": 1970,
-"related": []
-},
-{
-"id": 683,
-"name": "No Mystery",
-"year": 1975,
-"artist": "Chick Corea",
-"media": ["CD"],
-"genre": "Jazz/Fusion",
-"country": "USA",
-"image": ["img/683.jpg"],
-"description": "Return To Forever Featuring Chick Corea",
-"decade": 1970,
-"related": []
-},
-{
-"id": 177,
-"name": "My Spanish Heart",
-"year": 1976,
-"artist": "Chick Corea",
-"media": ["CD"],
-"genre": "Jazz/Fusion",
-"country": "USA",
-"image": ["img/177.jpg"],
-"description": "Chick Corea",
-"decade": 1970,
-"related": []
-},
+{"id": 178,"name": "Light As A Feather","year": 1972,"artist": "Chick Corea","media": ["CD"],"genre": "Jazz/Fusion","country": "USA","image": ["img/178.jpg","img/178-2.jpg"],"description": "Chick Corea, Return To Forever","decade": 1970,"related": []},
+{"id": 681,"name": "Hymn Of The Seventh Galaxy","year": 1973,"artist": "Chick Corea","media": ["CD"],"genre": "Jazz/Fusion","country": "USA","image": ["img/681.jpg","img/681-2.jpg"],"description": "Return To Forever Featuring Chick Corea","decade": 1970,"related": []},
+{"id": 682,"name": "Where Have I Known You Before","year": 1974,"artist": "Chick Corea","media": ["CD"],"genre": "Jazz/Fusion","country": "USA","image": ["img/682.jpg","img/682-2.jpg"],"description": "Return To Forever Featuring Chick Corea","decade": 1970,"related": []},
+{"id": 683,"name": "No Mystery","year": 1975,"artist": "Chick Corea","media": ["CD"],"genre": "Jazz/Fusion","country": "USA","image": ["img/683.jpg","img/683-2.jpg"],"description": "Return To Forever Featuring Chick Corea","decade": 1970,"related": []},
+{"id": 177,"name": "My Spanish Heart","year": 1976,"artist": "Chick Corea","media": ["CD"],"genre": "Jazz/Fusion","country": "USA","image": ["img/177.jpg","img/177-2.jpg"],"description": "Chick Corea","decade": 1970,"related": []},
 {
 "id": 179,
 "name": "O Sambista",
@@ -6391,84 +6259,12 @@
 "decade": 2000,
 "related": []
 },
-{
-"id": 498,
-"name": "Existir",
-"year": 1990,
-"artist": "Madredeus",
-"media": ["CD"],
-"genre": "Fado/Folk",
-"country": "Portugal",
-"image": ["img/498.jpg"],
-"description": "",
-"decade": 1990,
-"related": []
-},
-{
-"id": 499,
-"name": "O Espirito Da Paz",
-"year": 1994,
-"artist": "Madredeus",
-"media": ["CD"],
-"genre": "Fado/Folk",
-"country": "Portugal",
-"image": ["img/499.jpg"],
-"description": "",
-"decade": 1990,
-"related": []
-},
-{
-"id": 500,
-"name": "Ainda",
-"year": 1995,
-"artist": "Madredeus",
-"media": ["CD"],
-"genre": "Fado/Folk",
-"country": "Portugal",
-"image": ["img/500.jpg"],
-"description": "",
-"decade": 1990,
-"related": []
-},
-{
-"id": 501,
-"name": "O Paraiso",
-"year": 1997,
-"artist": "Madredeus",
-"media": ["CD"],
-"genre": "Fado/Folk",
-"country": "Portugal",
-"image": ["img/501.jpg"],
-"description": "",
-"decade": 1990,
-"related": []
-},
-{
-"id": 502,
-"name": "Antologia",
-"year": 2000,
-"artist": "Madredeus",
-"media": ["CD"],
-"genre": "Fado/Folk",
-"country": "Portugal",
-"image": ["img/502.jpg"],
-"description": "",
-"decade": 2000,
-"related": []
-},
-{
-"id": 503,
-"name": "Movimento",
-"year": 2001,
-"artist": "Madredeus",
-"media": ["CD"],
-"genre": "Fado/Folk",
-"country": "Portugal",
-"image": ["img/503.jpg"],
-"description": "",
-"decade": 2000,
-"related": []
-},
+{"id": 498,"name": "Existir","year": 1990,"artist": "Madredeus","media": ["CD"],"genre": "Fado/Folk","country": "Portugal","image": ["img/498.jpg","img/498-2.jpg"],"description": "","decade": 1990,"related": []},
+{"id": 499,"name": "O Espirito Da Paz","year": 1994,"artist": "Madredeus","media": ["CD"],"genre": "Fado/Folk","country": "Portugal","image": ["img/499.jpg","img/499-2.jpg"],"description": "","decade": 1990,"related": []},
+{"id": 500,"name": "Ainda","year": 1995,"artist": "Madredeus","media": ["CD"],"genre": "Fado/Folk","country": "Portugal","image": ["img/500.jpg","img/500-2.jpg"],"description": "","decade": 1990,"related": []},
+{"id": 501,"name": "O Paraiso","year": 1997,"artist": "Madredeus","media": ["CD"],"genre": "Fado/Folk","country": "Portugal","image": ["img/501.jpg","img/501-2.jpg"],"description": "","decade": 1990,"related": []},
+{"id": 502,"name": "Antologia","year": 2000,"artist": "Madredeus","media": ["CD"],"genre": "Fado/Folk","country": "Portugal","image": ["img/502.jpg"],"description": "","decade": 2000,"related": []},
+{"id": 503,"name": "Movimento","year": 2001,"artist": "Madredeus","media": ["CD"],"genre": "Fado/Folk","country": "Portugal","image": ["img/503.jpg","img/503-2.jpg"],"description": "","decade": 2000,"related": []},
 {
 "id": 504,
 "name": "Faluas Do Tejo",
@@ -6508,71 +6304,11 @@
 "decade": 1970,
 "related": ["Roger Dean"]
 },
-{
-"id": 506,
-"name": "The Inner Mounting Flame",
-"year": 1971,
-"artist": "Mahavishnu Orchestra",
-"media": ["CD"],
-"genre": "Jazz/Fusion",
-"country": "UK",
-"image": ["img/506.jpg"],
-"description": "",
-"decade": 1970,
-"related": []
-},
-{
-"id": 507,
-"name": "Between Nothingness & Eternity",
-"year": 1973,
-"artist": "Mahavishnu Orchestra",
-"media": ["CD"],
-"genre": "Jazz/Fusion",
-"country": "UK",
-"image": ["img/507.jpg"],
-"description": "",
-"decade": 1970,
-"related": []
-},
-{
-"id": 508,
-"name": "Birds Of Fire",
-"year": 1973,
-"artist": "Mahavishnu Orchestra",
-"media": ["CD"],
-"genre": "Jazz/Fusion",
-"country": "UK",
-"image": ["img/508.jpg"],
-"description": "",
-"decade": 1970,
-"related": []
-},
-{
-"id": 509,
-"name": "Apocalypse",
-"year": 1974,
-"artist": "Mahavishnu Orchestra",
-"media": ["CD"],
-"genre": "Jazz/Fusion",
-"country": "UK",
-"image": ["img/509.jpg"],
-"description": "",
-"decade": 1970,
-"related": []
-},
-{
-"id": 510,
-"name": "Visions Of The Emerald Beyond",
-"year": 1975,
-"artist": "Mahavishnu Orchestra",
-"media": ["CD"],
-"genre": "Jazz/Fusion",
-"country": "UK",
-"image": ["img/510.jpg"],
-"description": "",
-"decade": 1970,
-"related": []
-},
+{"id": 506,"name": "The Inner Mounting Flame","year": 1971,"artist": "Mahavishnu Orchestra","media": ["CD"],"genre": "Jazz/Fusion","country": "UK","image": ["img/506.jpg","img/506-2.jpg"],"description": "","decade": 1970,"related": []},
+{"id": 507,"name": "Between Nothingness & Eternity","year": 1973,"artist": "Mahavishnu Orchestra","media": ["CD"],"genre": "Jazz/Fusion","country": "UK","image": ["img/507.jpg","img/507-2.jpg"],"description": "","decade": 1970,"related": []},
+{"id": 508,"name": "Birds Of Fire","year": 1973,"artist": "Mahavishnu Orchestra","media": ["CD"],"genre": "Jazz/Fusion","country": "UK","image": ["img/508.jpg","img/508-2.jpg"],"description": "","decade": 1970,"related": []},
+{"id": 509,"name": "Apocalypse","year": 1974,"artist": "Mahavishnu Orchestra","media": ["CD"],"genre": "Jazz/Fusion","country": "UK","image": ["img/509.jpg","img/509-2.jpg"],"description": "","decade": 1970,"related": []},
+{"id": 510,"name": "Visions Of The Emerald Beyond","year": 1975,"artist": "Mahavishnu Orchestra","media": ["CD"],"genre": "Jazz/Fusion","country": "UK","image": ["img/510.jpg","img/510-2.jpg"],"description": "","decade": 1970,"related": []},
 {
 "id": 511,
 "name": "Máire",
@@ -10311,19 +10047,7 @@
 "decade": 1970,
 "related": []
 },
-{
-"id": 802,
-"name": "Illuminations",
-"year": 1974,
-"artist": "Santana",
-"media": ["CD"],
-"genre": "Afro/Latin/Fusion",
-"country": "USA",
-"image": ["img/802.jpg"],
-"description": "Santana - Devadip",
-"decade": 1970,
-"related": []
-},
+{"id": 802,"name": "Illuminations","year": 1974,"artist": "Santana","media": ["CD"],"genre": "Afro/Latin/Fusion","country": "USA","image": ["img/802.jpg","img/802-2.jpg"],"description": "Santana - Devadip","decade": 1970,"related": []},
 {
 "id": 803,
 "name": "Lotus",
@@ -10378,32 +10102,8 @@
 },
 {"id": 807,"name": "Inner Secrets","year": 1978,"artist": "Santana","media": ["CD"],"genre": "Afro/Latin/Fusion","country": "USA","image": ["img/807.jpg","img/807-2.jpg"],"description": "","decade": 1970,"related": []},
 {"id": 808,"name": "Marathon","year": 1979,"artist": "Santana","media": ["CD"],"genre": "Afro/Latin/Fusion","country": "USA","image": ["img/808.jpg","img/808-2.jpg"],"description": "","decade": 1970,"related": []},
-{
-"id": 809,
-"name": "Oneness",
-"year": 1979,
-"artist": "Santana",
-"media": ["CD"],
-"genre": "Afro/Latin/Fusion",
-"country": "USA",
-"image": ["img/809.jpg"],
-"description": "Santana - Devadip",
-"decade": 1970,
-"related": []
-},
-{
-"id": 810,
-"name": "The Swing Of Delight",
-"year": 1980,
-"artist": "Santana",
-"media": ["CD"],
-"genre": "Afro/Latin/Fusion",
-"country": "USA",
-"image": ["img/810.jpg"],
-"description": "Santana - Devadip",
-"decade": 1980,
-"related": []
-},
+{"id": 809,"name": "Oneness","year": 1979,"artist": "Santana","media": ["CD"],"genre": "Afro/Latin/Fusion","country": "USA","image": ["img/809.jpg","img/809-2.jpg"],"description": "Santana - Devadip","decade": 1970,"related": []},
+{"id": 810,"name": "The Swing Of Delight","year": 1980,"artist": "Santana","media": ["CD"],"genre": "Afro/Latin/Fusion","country": "USA","image": ["img/810.jpg","img/810-2.jpg"],"description": "Santana - Devadip","decade": 1980,"related": []},
 {"id": 811,"name": "Zebop!","year": 1981,"artist": "Santana","media": ["CD"],"genre": "Afro/Latin/Fusion","country": "USA","image": ["img/811.jpg","img/811-2.jpg"],"description": "","decade": 1980,"related": []},
 {"id": 812,"name": "Shango","year": 1982,"artist": "Santana","media": ["CD"],"genre": "Afro/Latin/Fusion","country": "USA","image": ["img/812.jpg","img/812-2.jpg"],"description": "","decade": 1980,"related": []},
 {
@@ -17682,5 +17382,25 @@
 {"id": 1648,"name": "Original Album Classics","year": 2009,"artist": "Santana","media": ["Box"],"genre": "Afro/Latin/Fusion","country": "USA",
 "image": [
     "img/1648.jpg","img/1648-2.jpg","img/807.jpg","img/808.jpg","img/811.jpg","img/812.jpg","img/816.jpg"
-],"description": "","decade": 2000,"related": []}
+],"description": "","decade": 2000,"related": []},
+{"id": 1649,"name": "Original Album Classics","year": 2010,"artist": "Santana","media": ["Box"],"genre": "Afro/Latin/Fusion","country": "USA",
+"image": [
+    "img/1649.jpg","img/1649-2.jpg","img/802.jpg","img/809.jpg","img/810.jpg"
+],"description": "","decade": 2000,"related": []},
+{"id": 1650,"name": "5 Original Albums","year": 2016,"artist": "Chick Corea","media": ["Box"],"genre": "Jazz/Fusion","country": "USA",
+"image": [
+    "img/1650.jpg","img/1650-2.jpg","img/178.jpg","img/681.jpg","img/682.jpg","img/683.jpg","img/177.jpg"
+],"description": "Chick Corea","decade": 2010,"related": []},
+{"id": 1651,"name": "Original Album Series","year": 2014,"artist": "Madredeus","media": ["Box"],"genre": "Fado/Folk","country": "Portugal",
+"image": [
+    "img/1651.jpg","img/1651-2.jpg","img/498.jpg","img/499.jpg","img/500.jpg","img/501.jpg","img/503.jpg"
+],"description": "","decade": 2010,"related": []},
+{"id": 1652,"name": "Original Album Classics","year": 2007,"artist": "Mahavishnu Orchestra","media": ["Box"],"genre": "Jazz/Fusion","country": "UK",
+"image": [
+    "img/1652.jpg","img/1652-2.jpg","img/506.jpg","img/507.jpg","img/508.jpg","img/509.jpg","img/510.jpg"
+],"description": "","decade": 2000,"related": []},
+{"id": 1653,"name": "Original Album Series","year": 2011,"artist": "America","media": ["Box"],"genre": "Folk Rock","country": "USA",
+"image": [
+    "img/1653.jpg","img/1653-2.jpg","img/899.jpg","img/901.jpg","img/903.jpg","img/867.jpg","img/411.jpg"
+],"description": "","decade": 2010,"related": []}
 ]
