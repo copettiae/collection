@@ -6335,71 +6335,11 @@
 "decade": 1990,
 "related": []
 },
-{
-"id": 121,
-"name": "Be Good To Yourself At Least Once A Day",
-"year": 1971,
-"artist": "Man",
-"media": ["CD"],
-"genre": "Prog Rock",
-"country": "UK",
-"image": ["img/121.jpg"],
-"description": "Original Album Series",
-"decade": 1970,
-"related": []
-},
-{
-"id": 120,
-"name": "Do You Like It Here Now, Are You Settling In?",
-"year": 1971,
-"artist": "Man",
-"media": ["CD"],
-"genre": "Prog Rock",
-"country": "UK",
-"image": ["img/120.jpg"],
-"description": "Original Album Series",
-"decade": 1970,
-"related": []
-},
-{
-"id": 513,
-"name": "Man",
-"year": 1971,
-"artist": "Man",
-"media": ["CD"],
-"genre": "Prog Rock",
-"country": "UK",
-"image": ["img/513.jpg"],
-"description": "Original Album Series",
-"decade": 1970,
-"related": []
-},
-{
-"id": 204,
-"name": "Rhinos, Winos & Lunatics",
-"year": 1971,
-"artist": "Man",
-"media": ["CD"],
-"genre": "Prog Rock",
-"country": "UK",
-"image": ["img/204.jpg"],
-"description": "Original Album Series",
-"decade": 1970,
-"related": []
-},
-{
-"id": 205,
-"name": "Slow Motion",
-"year": 1971,
-"artist": "Man",
-"media": ["CD"],
-"genre": "Prog Rock",
-"country": "UK",
-"image": ["img/205.jpg"],
-"description": "Original Album Series",
-"decade": 1970,
-"related": []
-},
+{"id": 121,"name": "Be Good To Yourself At Least Once A Day","year": 1971,"artist": "Man","media": ["CD"],"genre": "Prog Rock","country": "UK","image": ["img/121.jpg","img/121-2.jpg"],"description": "Original Album Series","decade": 1970,"related": []},
+{"id": 120,"name": "Do You Like It Here Now, Are You Settling In?","year": 1971,"artist": "Man","media": ["CD"],"genre": "Prog Rock","country": "UK","image": ["img/120.jpg","img/120-2.jpg"],"description": "Original Album Series","decade": 1970,"related": []},
+{"id": 513,"name": "Man","year": 1971,"artist": "Man","media": ["CD"],"genre": "Prog Rock","country": "UK","image": ["img/513.jpg","img/513-2.jpg"],"description": "Original Album Series","decade": 1970,"related": []},
+{"id": 204,"name": "Rhinos, Winos & Lunatics","year": 1971,"artist": "Man","media": ["CD"],"genre": "Prog Rock","country": "UK","image": ["img/204.jpg","img/204-2.jpg"],"description": "Original Album Series","decade": 1970,"related": []},
+{"id": 205,"name": "Slow Motion","year": 1971,"artist": "Man","media": ["CD"],"genre": "Prog Rock","country": "UK","image": ["img/205.jpg","img/205-2.jpg"],"description": "Original Album Series","decade": 1970,"related": []},
 {
 "id": 183,
 "name": "Mandalaband I & II - Resurrection",
@@ -17402,5 +17342,9 @@
 {"id": 1653,"name": "Original Album Series","year": 2011,"artist": "America","media": ["Box"],"genre": "Folk Rock","country": "USA",
 "image": [
     "img/1653.jpg","img/1653-2.jpg","img/899.jpg","img/901.jpg","img/903.jpg","img/867.jpg","img/411.jpg"
+],"description": "","decade": 2010,"related": []},
+{"id": 1654,"name": "Original Album Series","year": 2014,"artist": "Man","media": ["Box"],"genre": "Prog Rock","country": "UK",
+"image": [
+    "img/1654.jpg","img/1654-2.jpg","img/513.jpg","img/120.jpg","img/121.jpg","img/204.jpg","img/205.jpg"
 ],"description": "","decade": 2010,"related": []}
 ]
