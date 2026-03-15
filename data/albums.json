@@ -4743,58 +4743,10 @@
 "decade": 1970,
 "related": []
 },
-{
-"id": 379,
-"name": "Bach l'Africain Lambarena",
-"year": 2012,
-"artist": "Hughes De Courson",
-"media": ["CD"],
-"genre": "Jazz/Fusion",
-"country": "France",
-"image": ["img/379.jpg"],
-"description": "Bach l'Africain Lambarena",
-"decade": 2010,
-"related": []
-},
-{
-"id": 377,
-"name": "Mozart l'Egyptien",
-"year": 2012,
-"artist": "Hughes De Courson",
-"media": ["CD"],
-"genre": "Jazz/Fusion",
-"country": "France",
-"image": ["img/377.jpg"],
-"description": "Mozart l'Egyptien",
-"decade": 2010,
-"related": []
-},
-{
-"id": 378,
-"name": "Mozart l'Egyptien 2",
-"year": 2012,
-"artist": "Hughes De Courson",
-"media": ["CD"],
-"genre": "Jazz/Fusion",
-"country": "France",
-"image": ["img/378.jpg"],
-"description": "Mozart l'Egyptien 2",
-"decade": 2010,
-"related": []
-},
-{
-"id": 380,
-"name": "Vivaldi l'Irlandais O'Stravaganza",
-"year": 2012,
-"artist": "Hughes De Courson",
-"media": ["CD"],
-"genre": "Jazz/Fusion",
-"country": "France",
-"image": ["img/380.jpg"],
-"description": "Vivaldi l'Irlandais O'Stravaganza",
-"decade": 2010,
-"related": []
-},
+{"id": 379,"name": "Bach l'Africain Lambarena","year": 1993,"artist": "Hughes De Courson","media": ["CD"],"genre": "Jazz/Fusion","country": "France","image": ["img/379.jpg","img/379-2.jpg"],"description": "Bach l'Africain Lambarena","decade": 1990,"related": []},
+{"id": 377,"name": "Mozart l'Egyptien","year": 1997,"artist": "Hughes De Courson","media": ["CD"],"genre": "Jazz/Fusion","country": "France","image": ["img/377.jpg","img/377-2.jpg"],"description": "Mozart l'Egyptien","decade": 1990,"related": []},
+{"id": 378,"name": "Mozart l'Egyptien 2","year": 2005,"artist": "Hughes De Courson","media": ["CD"],"genre": "Jazz/Fusion","country": "France","image": ["img/378.jpg","img/378-2.jpg"],"description": "Mozart l'Egyptien 2","decade": 2000,"related": []},
+{"id": 380,"name": "Vivaldi l'Irlandais O'Stravaganza","year": 2001,"artist": "Hughes De Courson","media": ["CD"],"genre": "Jazz/Fusion","country": "France","image": ["img/380.jpg","img/380-2.jpg"],"description": "Vivaldi l'Irlandais O'Stravaganza","decade": 2000,"related": []},
 {
 "id": 381,
 "name": "Sentiments",
@@ -8309,45 +8261,12 @@
 "related": []
 },
 {"id": 684,"name": "The White Ladies","year": 1976,"artist": "Trace","media": ["CD"],"genre": "Prog Rock","country": "The Netherlands","image": ["img/684.jpg"],"description": "","decade": 1970,"related": []},
-{
-"id": 685,
-"name": "The Six Wives of Henry VIII",
-"year": 1973,
-"artist": "Rick Wakeman",
-"media": ["CD","LP"],
-"genre": "Prog Rock",
-"country": "UK",
-"image": ["img/685.jpg"],
-"description": "",
-"decade": 1970,
-"related": ["Rick Wakeman"]
-},
-{
-"id": 516,
-"name": "5 Classic Albums",
-"year": 1974,
-"artist": "Rick Wakeman",
-"media": ["CD"],
-"genre": "Prog Rock",
-"country": "UK",
-"image": ["img/516.jpg"],
-"description": "",
-"decade": 1970,
-"related": ["Rick Wakeman"]
-},
-{
-"id": 688,
-"name": "Journey To The Centre Of The Earth",
-"year": 1974,
-"artist": "Rick Wakeman",
-"media": ["CD"],
-"genre": "Prog Rock",
-"country": "UK",
-"image": ["img/688.jpg"],
-"description": "",
-"decade": 1970,
-"related": ["Rick Wakeman"]
-},
+{"id": 685,"name": "The Six Wives of Henry VIII","year": 1973,"artist": "Rick Wakeman","media": ["CD","LP"],"genre": "Prog Rock","country": "UK","image": ["img/685.jpg","img/685-2.jpg"],"description": "","decade": 1970,"related": ["Rick Wakeman"]},
+{"id": 516,"name": "5 Classic Albums","year": 2016,"artist": "Rick Wakeman","media": ["Box"],"genre": "Prog Rock","country": "UK",
+"image": [
+    "img/516.jpg","img/516-2.jpg","img/685.jpg","img/688.jpg","img/694.jpg","img/697.jpg","img/700.jpg"
+],"description": "","decade": 2010,"related": ["Rick Wakeman"]},
+{"id": 688,"name": "Journey To The Centre Of The Earth","year": 1974,"artist": "Rick Wakeman","media": ["CD"],"genre": "Prog Rock","country": "UK","image": ["img/688.jpg","img/688-2.jpg"],"description": "","decade": 1970,"related": ["Rick Wakeman"]},
 {
 "id": 689,
 "name": "Viaje Al Centro De La Tierra",
@@ -8404,45 +8323,9 @@
 "decade": 1970,
 "related": ["Rick Wakeman"]
 },
-{
-"id": 694,
-"name": "The Myths And Legends Of King Arthur And The Knights Of The Round Table",
-"year": 1975,
-"artist": "Rick Wakeman",
-"media": ["CD","LP"],
-"genre": "Prog Rock",
-"country": "UK",
-"image": ["img/694.jpg"],
-"description": "LP: UK Original",
-"decade": 1970,
-"related": ["Rick Wakeman"]
-},
-{
-"id": 697,
-"name": "No Earthly Connection",
-"year": 1976,
-"artist": "Rick Wakeman",
-"media": ["CD","LP"],
-"genre": "Prog Rock",
-"country": "UK",
-"image": ["img/697.jpg"],
-"description": "",
-"decade": 1970,
-"related": ["Rick Wakeman"]
-},
-{
-"id": 700,
-"name": "White Rock",
-"year": 1976,
-"artist": "Rick Wakeman",
-"media": ["CD","LP"],
-"genre": "Prog Rock",
-"country": "UK",
-"image": ["img/700.jpg"],
-"description": "Classic Albums",
-"decade": 1970,
-"related": ["Rick Wakeman"]
-},
+{"id": 694,"name": "The Myths And Legends Of King Arthur And The Knights Of The Round Table","year": 1975,"artist": "Rick Wakeman","media": ["CD","LP"],"genre": "Prog Rock","country": "UK","image": ["img/694.jpg","img/694-2.jpg"],"description": "","decade": 1970,"related": ["Rick Wakeman"]},
+{"id": 697,"name": "No Earthly Connection","year": 1976,"artist": "Rick Wakeman","media": ["CD","LP"],"genre": "Prog Rock","country": "UK","image": ["img/697.jpg","img/697-2.jpg"],"description": "","decade": 1970,"related": ["Rick Wakeman"]},
+{"id": 700,"name": "White Rock","year": 1976,"artist": "Rick Wakeman","media": ["CD","LP"],"genre": "Prog Rock","country": "UK","image": ["img/700.jpg","img/700-2.jpg"],"description": "Classic Albums","decade": 1970,"related": ["Rick Wakeman"]},
 {
 "id": 701,
 "name": "Rick Wakeman's Criminal Record",
@@ -10400,19 +10283,11 @@
 "decade": 1970,
 "related": []
 },
-{
-"id": 842,
-"name": "The Classic Albums Collection 1955-1963",
-"year": 2017,
-"artist": "Stan Getz",
-"media": ["CD"],
-"genre": "Bossa/Samba/Fusion",
-"country": "USA",
-"image": ["img/842.jpg"],
-"description": "Lionel Hampton And Stan Getz - Hamp And Getz 1955 Stan Getz And J.J. Johnson - At The Opera House 1957 Stan Getz - Jazz Giants '58 Album art Stan Getz Gerry Mulligan Harry Edison, Louis Bellson And The Oscar Peterson Trio - Jazz Giants '58 1958 Stan ",
-"decade": 2010,
-"related": []
-},
+{"id": 842,"name": "The Classic Albums Collection 1955-1963","year": 2017,"artist": "Stan Getz","media": ["Box","CD"],"genre": "Bossa/Samba/Fusion","country": "USA",
+"image": [
+    "img/842.jpg",    "img/842-2.jpg",    "img/842-3.jpg",    "img/842-4.jpg",    "img/842-5.jpg",
+    "img/842-6.jpg",    "img/842-7.jpg",    "img/842-8.jpg",    "img/842-9.jpg",    "img/842-10.jpg"
+],"description": "","decade": 2010,"related": []},
 {
 "id": 843,
 "name": "Blue Hour - The Complete Sessions",
@@ -17346,5 +17221,9 @@
 {"id": 1654,"name": "Original Album Series","year": 2014,"artist": "Man","media": ["Box"],"genre": "Prog Rock","country": "UK",
 "image": [
     "img/1654.jpg","img/1654-2.jpg","img/513.jpg","img/120.jpg","img/121.jpg","img/204.jpg","img/205.jpg"
+],"description": "","decade": 2010,"related": []},
+{"id": 1655,"name": "Hughes De Courson","year": 2012,"artist": "Hughes De Courson","media": ["Box"],"genre": "Jazz/Fusion","country": "France",
+"image": [
+    "img/1655.jpg","img/1655-2.jpg","img/379.jpg","img/377.jpg","img/380.jpg","img/378.jpg"
 ],"description": "","decade": 2010,"related": []}
 ]
