@@ -98,19 +98,7 @@
 "decade": 1970,
 "related": []
 },
-{
-"id": 1169,
-"name": "The Extraordinary World Of Yes",
-"year": 2004,
-"artist": "Alan Farley",
-"media": ["Book"],
-"genre": "Prog Rock",
-"country": "UK",
-"image": ["img/1169.jpg"],
-"description": "",
-"decade": 2000,
-"related": []
-},
+{"id": 1169,"name": "The Extraordinary World Of Yes","year": 2004,"artist": "Alan Farley","media": ["Book"],"genre": "Prog Rock","country": "UK","image": ["img/1169.jpg","img/1169-2.jpg"],"description": "","decade": 2000,"related": []},
 {
 "id": 15,
 "name": "I Wanna Get Funky",
@@ -997,19 +985,7 @@
 "decade": 1970,
 "related": []
 },
-{
-"id": 1160,
-"name": "Italian Prog",
-"year": 2019,
-"artist": "Augusto Croce",
-"media": ["Book"],
-"genre": "Prog Rock",
-"country": "Italy",
-"image": ["img/1160.jpg"],
-"description": "",
-"decade": 2010,
-"related": []
-},
+{"id": 1160,"name": "Italian Prog","year": 2019,"artist": "Augusto Croce","media": ["Book"],"genre": "Prog Rock","country": "Italy","image": ["img/1160.jpg","img/1160-2.jpg"],"description": "","decade": 2010,"related": []},
 {
 "id": 86,
 "name": "Azymuth",
@@ -2264,19 +2240,7 @@
 "decade": 2000,
 "related": []
 },
-{
-"id": 1165,
-"name": "The Strawberry Bricks Guide To Progressive Rock",
-"year": 2020,
-"artist": "Charles Snider",
-"media": ["Book"],
-"genre": "Prog Rock",
-"country": "UK",
-"image": ["img/1165.jpg"],
-"description": "",
-"decade": 2020,
-"related": []
-},
+{"id": 1165,"name": "The Strawberry Bricks Guide To Progressive Rock","year": 2020,"artist": "Charles Snider","media": ["Book"],"genre": "Prog Rock","country": "UK","image": ["img/1165.jpg","img/1165-2.jpg"],"description": "","decade": 2020,"related": []},
 {
 "id": 174,
 "name": "Clics Modernos",
@@ -3366,71 +3330,11 @@
 "decade": 1990,
 "related": []
 },
-{
-"id": 1154,
-"name": "50.000.000 Elvis Fans Can't Be Wrong Gold Records, Vol. 2",
-"year": 1968,
-"artist": "Elvis Presley",
-"media": ["CD","Book"],
-"genre": "Folk Rock",
-"country": "USA",
-"image": ["img/1154.jpg"],
-"description": "",
-"decade": 1960,
-"related": []
-},
-{
-"id": 1152,
-"name": "Elvis Presley",
-"year": 1968,
-"artist": "Elvis Presley",
-"media": ["CD","Book"],
-"genre": "Folk Rock",
-"country": "USA",
-"image": ["img/1152.jpg"],
-"description": "",
-"decade": 1960,
-"related": []
-},
-{
-"id": 1153,
-"name": "Elvis, NBC TV Special",
-"year": 1968,
-"artist": "Elvis Presley",
-"media": ["CD","Book"],
-"genre": "Folk Rock",
-"country": "USA",
-"image": ["img/1153.jpg"],
-"description": "",
-"decade": 1960,
-"related": []
-},
-{
-"id": 986,
-"name": "His Hand In Mine",
-"year": 1968,
-"artist": "Elvis Presley",
-"media": ["CD","Book"],
-"genre": "Folk Rock",
-"country": "USA",
-"image": ["img/986.jpg"],
-"description": "",
-"decade": 1960,
-"related": []
-},
-{
-"id": 1156,
-"name": "From Elvis In Memphis",
-"year": 1969,
-"artist": "Elvis Presley",
-"media": ["CD","Book"],
-"genre": "Folk Rock",
-"country": "USA",
-"image": ["img/1156.jpg"],
-"description": "",
-"decade": 1960,
-"related": []
-},
+{"id": 1154,"name": "50.000.000 Elvis Fans Can't Be Wrong Gold Records, Vol. 2","year": 1968,"artist": "Elvis Presley","media": ["CD","Book"],"genre": "Folk Rock","country": "USA","image": ["img/1154.jpg","img/1154-2.jpg"],"description": "","decade": 1960,"related": []},
+{"id": 1152,"name": "Elvis Presley","year": 1968,"artist": "Elvis Presley","media": ["CD","Book"],"genre": "Folk Rock","country": "USA","image": ["img/1152.jpg","img/1152-2.jpg"],"description": "","decade": 1960,"related": []},
+{"id": 1153,"name": "Elvis, NBC TV Special","year": 1968,"artist": "Elvis Presley","media": ["CD","Book"],"genre": "Folk Rock","country": "USA","image": ["img/1153.jpg","img/1153-2.jpg"],"description": "","decade": 1960,"related": []},
+{"id": 986,"name": "His Hand In Mine","year": 1968,"artist": "Elvis Presley","media": ["CD","Book"],"genre": "Folk Rock","country": "USA","image": ["img/986.jpg","img/986-2.jpg"],"description": "","decade": 1960,"related": []},
+{"id": 1156,"name": "From Elvis In Memphis","year": 1969,"artist": "Elvis Presley","media": ["CD","Book"],"genre": "Folk Rock","country": "USA","image": ["img/1156.jpg","img/1156-2.jpg"],"description": "","decade": 1960,"related": []},
 {
 "id": 261,
 "name": "On Stage",
@@ -3444,19 +3348,7 @@
 "decade": 1970,
 "related": []
 },
-{
-"id": 1155,
-"name": "That's The Way It Is",
-"year": 1970,
-"artist": "Elvis Presley",
-"media": ["CD","Book"],
-"genre": "Folk Rock",
-"country": "USA",
-"image": ["img/1155.jpg"],
-"description": "",
-"decade": 1970,
-"related": []
-},
+{"id": 1155,"name": "That's The Way It Is","year": 1970,"artist": "Elvis Presley","media": ["CD","Book"],"genre": "Folk Rock","country": "USA","image": ["img/1155.jpg","img/1155-2.jpg"],"description": "","decade": 1970,"related": []},
 {
 "id": 262,
 "name": "Elvis Aloha From Hawaii Via Satellite",
@@ -4039,19 +3931,7 @@
 "decade": 1970,
 "related": []
 },
-{
-"id": 1170,
-"name": "1973 The Golden Year of Progressive Rock",
-"year": 2022,
-"artist": "Geoffrey Feakes",
-"media": ["Book"],
-"genre": "Prog Rock",
-"country": "UK",
-"image": ["img/1170.jpg"],
-"description": "",
-"decade": 2020,
-"related": []
-},
+{"id": 1170,"name": "1973 The Golden Year of Progressive Rock","year": 2022,"artist": "Geoffrey Feakes","media": ["Book"],"genre": "Prog Rock","country": "UK","image": ["img/1170.jpg","img/1170-2.jpg"],"description": "","decade": 2020,"related": []},
 {
 "id": 326,
 "name": "The Essential George Benson",
@@ -4442,45 +4322,9 @@
 "decade": 1980,
 "related": []
 },
-{
-"id": 1158,
-"name": "Vivaldi Las Cuatro Estaciones",
-"year": 1972,
-"artist": "Gran Seleccion Deutsche Grammophon",
-"media": ["CD","Book"],
-"genre": "Classical",
-"country": "Germany",
-"image": ["img/1158.jpg"],
-"description": "",
-"decade": 1970,
-"related": []
-},
-{
-"id": 1157,
-"name": "Bach Tocatas Y Fugas Variaciones Goldberg",
-"year": 1984,
-"artist": "Gran Seleccion Deutsche Grammophon",
-"media": ["CD","Book"],
-"genre": "Classical",
-"country": "Germany",
-"image": ["img/1157.jpg"],
-"description": "",
-"decade": 1980,
-"related": []
-},
-{
-"id": 1159,
-"name": "Bach Conciertos de Brandenburgo Conciertos Para Viaolin",
-"year": 1987,
-"artist": "Gran Seleccion Deutsche Grammophon",
-"media": ["CD","Book"],
-"genre": "Classical",
-"country": "Germany",
-"image": ["img/1159.jpg"],
-"description": "",
-"decade": 1980,
-"related": []
-},
+{"id": 1158,"name": "Vivaldi Las Cuatro Estaciones","year": 1972,"artist": "Gran Seleccion Deutsche Grammophon","media": ["CD","Book"],"genre": "Classical","country": "Germany","image": ["img/1158.jpg","img/1158-2.jpg"],"description": "","decade": 1970,"related": []},
+{"id": 1157,"name": "Bach Tocatas Y Fugas Variaciones Goldberg","year": 1984,"artist": "Gran Seleccion Deutsche Grammophon","media": ["CD","Book"],"genre": "Classical","country": "Germany","image": ["img/1157.jpg","img/1157-2.jpg"],"description": "","decade": 1980,"related": []},
+{"id": 1159,"name": "Bach Conciertos de Brandenburgo Conciertos Para Viaolin","year": 1987,"artist": "Gran Seleccion Deutsche Grammophon","media": ["CD","Book"],"genre": "Classical","country": "Germany","image": ["img/1159.jpg","img/1159-2.jpg"],"description": "","decade": 1980,"related": []},
 {
 "id": 356,
 "name": "Idle Moments",
@@ -8677,19 +8521,7 @@
 "decade": 1990,
 "related": ["Rick Wakeman"]
 },
-{
-"id": 1167,
-"name": "Say Yes! An Autobiography",
-"year": 1995,
-"artist": "Rick Wakeman",
-"media": ["Book"],
-"genre": "Prog Rock",
-"country": "UK",
-"image": ["img/1167.jpg"],
-"description": "",
-"decade": 1990,
-"related": ["Rick Wakeman"]
-},
+{"id": 1167,"name": "Say Yes! An Autobiography","year": 1995,"artist": "Rick Wakeman","media": ["Book"],"genre": "Prog Rock","country": "UK","image": ["img/1167.jpg","img/1167-2.jpg"],"description": "","decade": 1990,"related": ["Rick Wakeman"]},
 {
 "id": 729,
 "name": "The Seven Wonders Of The World",
@@ -8860,19 +8692,7 @@
 "related": ["Rick Wakeman"]
 },
 {"id": 743,"name": "The Six Wives Of Henry VIII Live At Hampton Court Palace","year": 2009,"artist": "Rick Wakeman","media": ["CD"],"genre": "Prog Rock","country": "UK","image": ["img/743.jpg"],"description": "","decade": 2000,"related": ["Rick Wakeman"]},
-{
-"id": 1166,
-"name": "Grumpy Old Rock Star",
-"year": 2010,
-"artist": "Rick Wakeman",
-"media": ["Book"],
-"genre": "Prog Rock",
-"country": "UK",
-"image": ["img/1166.jpg"],
-"description": "",
-"decade": 2010,
-"related": ["Rick Wakeman"]
-},
+{"id": 1166,"name": "Grumpy Old Rock Star","year": 2010,"artist": "Rick Wakeman","media": ["Book"],"genre": "Prog Rock","country": "UK","image": ["img/1166.jpg","img/1166-2.jpg"],"description": "","decade": 2010,"related": ["Rick Wakeman"]},
 {"id": 698,"name": "Video Vault","year": 2007,"artist": "Rick Wakeman","media": ["Box"],"genre": "Prog Rock","country": "UK","image": ["img/698.jpg","img/1538.jpg","img/1539.jpg","img/1540.jpg","img/1541.jpg","img/1542.jpg","img/1543.jpg"],"description": "","decade": 2000,"related": ["Rick Wakeman"]},
 {
 "id": 1164,
@@ -9545,19 +9365,7 @@
 "decade": 1970,
 "related": []
 },
-{
-"id": 1168,
-"name": "En Casa De John Lennon",
-"year": 2004,
-"artist": "Rosaura Lopez Lorenzo",
-"media": ["Book"],
-"genre": "Prog Rock",
-"country": "UK",
-"image": ["img/1168.jpg"],
-"description": "",
-"decade": 2000,
-"related": ["The Fab Four"]
-},
+{"id": 1168,"name": "En Casa De John Lennon","year": 2004,"artist": "Rosaura Lopez Lorenzo","media": ["Book"],"genre": "Prog Rock","country": "UK","image": ["img/1168.jpg","img/1168-2.jpg"],"description": "","decade": 2000,"related": ["The Fab Four"]},
 {
 "id": 778,
 "name": "Ludwig Van Beethoven Sinfonia N 9",
@@ -12693,19 +12501,7 @@
 "decade": 1960,
 "related": []
 },
-{
-"id": 939,
-"name": "Mountains Come Out Of The Sky",
-"year": 2010,
-"artist": "Will Romano",
-"media": ["Book"],
-"genre": "Prog Rock",
-"country": "USA",
-"image": ["img/939.jpg"],
-"description": "The Illustrated History Of Prog Rock",
-"decade": 2010,
-"related": []
-},
+{"id": 939,"name": "Mountains Come Out Of The Sky","year": 2010,"artist": "Will Romano","media": ["Book"],"genre": "Prog Rock","country": "USA","image": ["img/939.jpg","img/939-2.jpg"],"description": "The Illustrated History Of Prog Rock","decade": 2010,"related": []},
 {
 "id": 1046,
 "name": "Always On My Mind",
@@ -12981,19 +12777,7 @@
 "decade": 1980,
 "related": ["Yes","Roger Dean"]
 },
-{
-"id": 1064,
-"name": "Yes The Authorised Biography",
-"year": 1981,
-"artist": "Dan Hedges",
-"media": ["Book"],
-"genre": "",
-"country": "UK",
-"image": ["img/1064.jpg"],
-"description": "",
-"decade": 1980,
-"related": ["Yes"]
-},
+{"id": 1064,"name": "Yes The Authorised Biography","year": 1981,"artist": "Dan Hedges","media": ["Book"],"genre": "","country": "UK","image": ["img/1064.jpg","img/1064-2.jpg"],"description": "","decade": 1980,"related": ["Yes","Roger Dean"]},
 {
 "id": 1077,
 "name": "90125",
@@ -13570,32 +13354,8 @@
 "decade": 2020,
 "related": ["Yes"]
 },
-{
-"id": 1057,
-"name": "Yes: A Visual Biography I: 1968 - 1981",
-"year": 2022,
-"artist": "Martin Popoff",
-"media": ["Book"],
-"genre": "Prog Rock",
-"country": "UK",
-"image": ["img/1057.jpg"],
-"description": "",
-"decade": 2020,
-"related": ["Yes"]
-},
-{
-"id": 1059,
-"name": "Yes: A Visual Biography II: 1982 - 2022",
-"year": 2022,
-"artist": "Martin Popoff",
-"media": ["Book"],
-"genre": "Prog Rock",
-"country": "UK",
-"image": ["img/1059.jpg"],
-"description": "",
-"decade": 2020,
-"related": ["Yes"]
-},
+{"id": 1057,"name": "Yes: A Visual Biography I: 1968 - 1981","year": 2022,"artist": "Martin Popoff","media": ["Book"],"genre": "Prog Rock","country": "UK","image": ["img/1057.jpg","img/1057-2.jpg"],"description": "","decade": 2020,"related": ["Yes"]},
+{"id": 1059,"name": "Yes: A Visual Biography II: 1982 - 2022","year": 2022,"artist": "Martin Popoff","media": ["Book"],"genre": "Prog Rock","country": "UK","image": ["img/1059.jpg","img/1059-2.jpg"],"description": "","decade": 2020,"related": ["Yes"]},
 {
 "id": 1116,
 "name": "Mirror To The Sky",
@@ -15995,19 +15755,7 @@
 "decade": 2010,
 "related": ["Roger Dean"]
 },
-{
-"id": 1420,
-"name": "The Caped Crusader",
-"year": 1978,
-"artist": "Dan Wooding",
-"media": ["Book"],
-"genre": "Prog Rock",
-"country": "UK",
-"image": ["img/1420.jpg"],
-"description": "",
-"decade": 1970,
-"related": ["Rick Wakeman"]
-},
+{"id": 1420,"name": "The Caped Crusader","year": 1978,"artist": "Dan Wooding","media": ["Book"],"genre": "Prog Rock","country": "UK","image": ["img/1420.jpg","img/1420-2.jpg"],"description": "","decade": 1970,"related": ["Rick Wakeman"]},
 {"id": 1421,"name": "Yesshows Tour","year": 1980,"artist": "Yes","media": ["Tour"],"genre": "Prog Rock","country": "UK",
 "image": [
     "img/1421.jpg",    "img/1421-2.jpg",    "img/1421-3.jpg",    "img/1421-4.jpg",    "img/1421-5.jpg",
@@ -16221,19 +15969,7 @@
 "decade": 2010,
 "related": []
 },
-{
-"id": 1443,
-"name": "Yes In The 1980s",
-"year": 2021,
-"artist": "Stephen Lambe With David Walkinson",
-"media": ["Book"],
-"genre": "Prog Rock",
-"country": "UK",
-"image": ["img/1443.jpg"],
-"description": "",
-"decade": 2020,
-"related": ["Yes"]
-},
+{"id": 1443,"name": "Yes In The 1980s","year": 2021,"artist": "Stephen Lambe With David Walkinson","media": ["Book"],"genre": "Prog Rock","country": "UK","image": ["img/1443.jpg","img/1443-2.jpg"],"description": "","decade": 2020,"related": ["Yes"]},
 {
 "id": 1444,
 "name": "The Turn Of A Friendly Card",
@@ -16489,19 +16225,7 @@
 "decade": 2000,
 "related": [""]
 },
-{
-"id": 1467,
-"name": "Yes Perpetual Change",
-"year": 2001,
-"artist": "David Watkinson",
-"media": ["Book"],
-"genre": "Prog Rock",
-"country": "UK",
-"image": ["img/1467.jpg"],
-"description": "",
-"decade": 2000,
-"related": ["Yes"]
-},
+{"id": 1467,"name": "Yes Perpetual Change","year": 2001,"artist": "David Watkinson","media": ["Book"],"genre": "Prog Rock","country": "UK","image": ["img/1467.jpg","img/1467-2.jpg"],"description": "","decade": 2000,"related": ["Yes","Roger Dean"]},
 {
 "id": 1468,
 "name": "35th Anniversary Tour",
@@ -16975,7 +16699,7 @@
 {"id": 1524,"name": "Badger","year": 2025,"artist": "To Buy","media": ["Wanted"],"genre": "To Buy","country": "To Buy","image": ["img/1524.jpg"],"description": "","decade": 2020,"related": ["To Buy"]},
 {"id": 1525,"name": "Yes Live From House Of Blues","year": 2025,"artist": "To Buy","media": ["To Buy DVD"],"genre": "To Buy","country": "To Buy","image": ["img/1525.jpg"],"description": "","decade": 2020,"related": ["To Buy"]},
 {"id": 1526,"name": "Yessongs Special Edition","year": 2012,"artist": "Yes","media": ["DVD"],"genre": "Prog Rock","country": "UK","image": ["img/1526.jpg","img/1526-2.jpg"],"description": "","decade": 2010,"related": ["Yes","Roger Dean"]},
-{"id": 1527,"name": "Close To The Edge The Story Of Yes","year": 1999,"artist": "Chris Welch","media": ["Book"],"genre": "Prog Rock","country": "UK","image": ["img/1527.jpg"],"description": "","decade": 1990,"related": ["Yes"]},
+{"id": 1527,"name": "Close To The Edge The Story Of Yes","year": 1999,"artist": "Chris Welch","media": ["Book"],"genre": "Prog Rock","country": "UK","image": ["img/1527.jpg","img/1527-2.jpg"],"description": "","decade": 1990,"related": ["Yes"]},
 {"id": 1528,"name": "Remedy Live","year": 2005,"artist": "Steve Howe","media": ["DVD"],"genre": "Prog Rock","country": "UK",
 "image": [
     "img/1528.jpg",    "img/1528-2.jpg",    "img/1528-3.jpg",    "img/1528-4.jpg"
