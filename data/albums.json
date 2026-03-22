@@ -8693,20 +8693,11 @@
 },
 {"id": 743,"name": "The Six Wives Of Henry VIII Live At Hampton Court Palace","year": 2009,"artist": "Rick Wakeman","media": ["CD"],"genre": "Prog Rock","country": "UK","image": ["img/743.jpg"],"description": "","decade": 2000,"related": ["Rick Wakeman"]},
 {"id": 1166,"name": "Grumpy Old Rock Star","year": 2010,"artist": "Rick Wakeman","media": ["Book"],"genre": "Prog Rock","country": "UK","image": ["img/1166.jpg","img/1166-2.jpg"],"description": "","decade": 2010,"related": ["Rick Wakeman"]},
-{"id": 698,"name": "Video Vault","year": 2007,"artist": "Rick Wakeman","media": ["Box"],"genre": "Prog Rock","country": "UK","image": ["img/698.jpg","img/1538.jpg","img/1539.jpg","img/1540.jpg","img/1541.jpg","img/1542.jpg","img/1543.jpg"],"description": "","decade": 2000,"related": ["Rick Wakeman"]},
-{
-"id": 1164,
-"name": "Classic Rock",
-"year": 2012,
-"artist": "Rick Wakeman",
-"media": ["Mag"],
-"genre": "Prog Rock",
-"country": "UK",
-"image": ["img/1164.jpg"],
-"description": "",
-"decade": 2010,
-"related": ["Rick Wakeman"]
-},
+{"id": 698,"name": "Video Vault","year": 2007,"artist": "Rick Wakeman","media": ["Box"],"genre": "Prog Rock","country": "UK",
+"image": [
+    "img/698.jpg",    "img/1538.jpg",    "img/1539.jpg",    "img/1540.jpg",    "img/1541.jpg",    "img/1542.jpg",    "img/1543.jpg"
+],"description": "","decade": 2000,"related": ["Rick Wakeman"]},
+{"id": 1164,"name": "Classic Rock","year": 2012,"artist": "Rick Wakeman","media": ["Mag"],"genre": "Prog Rock","country": "UK","image": ["img/1164.jpg","img/1164-2.jpg"],"description": "","decade": 2010,"related": ["Rick Wakeman"]},
 {
 "id": 746,
 "name": "Journey To The Centre Of The Earth",
@@ -16161,19 +16152,7 @@
 "related": [""]
 },
 {"id": 1467,"name": "Yes Perpetual Change","year": 2001,"artist": "David Watkinson","media": ["Book"],"genre": "Prog Rock","country": "UK","image": ["img/1467.jpg","img/1467-2.jpg"],"description": "","decade": 2000,"related": ["Yes","Roger Dean"]},
-{
-"id": 1468,
-"name": "35th Anniversary Tour",
-"year": 2004,
-"artist": "Yes",
-"media": ["Tour"],
-"genre": "Prog Rock",
-"country": "UK",
-"image": ["img/1468.jpg"],
-"description": "",
-"decade": 2000,
-"related": ["Yes"]
-},
+{"id": 1468,"name": "35th Anniversary Tour","year": 2004,"artist": "Yes","media": ["Tour"],"genre": "Prog Rock","country": "UK","image": ["img/1468.jpg"],"description": "","decade": 2000,"related": ["Yes","Roger Dean"]},
 {"id": 1469,"name": "Inside Yes Special Extended DVD","year": 2005,"artist": "Yes","media": ["DVD"],"genre": "Prog Rock","country": "UK",
 "image": [
     "img/1469.jpg",    "img/1469-2.jpg",    "img/1469-3.jpg",    "img/1469-4.jpg",    "img/1469-5.jpg",
@@ -16433,8 +16412,8 @@
     "img/1496-11.jpg",    "img/1496-12.jpg",    "img/1496-13.jpg",    "img/1496-14.jpg",    "img/1496-15.jpg",
     "img/1496-16.jpg",    "img/1496-17.jpg"
 ],"description": "","decade": 2020,"related": ["Rick Wakeman","Roger Dean"]},
-{"id": 1497,"name": "Beat Instrumental And International Recording Studio","year": 1974,"artist": "Rick Wakeman","media": ["Mag"],"genre": "Prog Rock","country": "UK","image": ["img/1497.jpg"],"description": "","decade": 1970,"related": ["Rick Wakeman"]},
-{"id": 1498,"name": "Home Keyboard Review","year": 1987,"artist": "Rick Wakeman","media": ["Mag"],"genre": "Prog Rock","country": "UK","image": ["img/1498.jpg"],"description": "","decade": 1980,"related": ["Rick Wakeman"]},
+{"id": 1497,"name": "Beat Instrumental And International Recording Studio","year": 1974,"artist": "Rick Wakeman","media": ["Mag"],"genre": "Prog Rock","country": "UK","image": ["img/1497.jpg","img/1497-2.jpg"],"description": "","decade": 1970,"related": ["Rick Wakeman"]},
+{"id": 1498,"name": "Home Keyboard Review","year": 1987,"artist": "Rick Wakeman","media": ["Mag"],"genre": "Prog Rock","country": "UK","image": ["img/1498.jpg","img/1498-2.jpg"],"description": "","decade": 1980,"related": ["Rick Wakeman"]},
 {"id": 1499,"name": "Ommadawn","year": 1975,"artist": "Mike Oldfield","media": ["CD"],"genre": "Prog Rock","country": "UK","image": ["img/1499.jpg"],"description": "","decade": 1970,"related": []},
 {"id": 1500,"name": "Journey To The Centre Of The Earth Official Programme","year": 2014,"artist": "Rick Wakeman","media": ["Tour"],"genre": "Prog Rock","country": "UK",
 "image": [
@@ -16595,7 +16574,7 @@
 {"id": 1590,"name": "Love Will Find The Way","year": 1987,"artist": "Yes","media": ["LP"],"genre": "Prog Rock","country": "UK","image": ["img/1590.jpg","img/1590-2.jpg"],"description": "","decade": 1980,"related": ["Yes"]},
 {"id": 1591,"name": "Symphonic Tour","year": 2001,"artist": "Yes","media": ["Tour"],"genre": "Prog Rock","country": "UK","image": ["img/1591.jpg"],"description": "","decade": 2000,"related": ["Yes"]},
 {"id": 1592,"name": "It Can Happen","year": 1984,"artist": "Yes","media": ["LP"],"genre": "Prog Rock","country": "UK","image": ["img/1592.jpg","img/1592-2.jpg"],"description": "","decade": 1980,"related": ["Yes"]},
-{"id": 1593,"name": "Prog 144","year": 2023,"artist": "Keith Emerson","media": ["Mag"],"genre": "Prog Rock","country": "UK","image": ["img/1593.jpg"],"description": "","decade": 2020,"related": ["Emerson, Lake & Palmer"]},
+{"id": 1593,"name": "Prog 144","year": 2023,"artist": "Keith Emerson","media": ["Mag"],"genre": "Prog Rock","country": "UK","image": ["img/1593.jpg","img/1593-2.jpg"],"description": "","decade": 2020,"related": ["Emerson, Lake & Palmer"]},
 {"id": 1594,"name": "Classic Rock","year": 2011,"artist": "Various","media": ["Mag"],"genre": "Prog Rock","country": "UK","image": ["img/1594.jpg","img/1594-2.jpg"],"description": "","decade": 2010,"related": ["Yes","Pink Floyd","Emerson, Lake & Palmer"]},
 {"id": 1595,"name": "Classic Rock","year": 2010,"artist": "Roger Waters","media": ["Mag"],"genre": "Prog Rock","country": "UK","image": ["img/1595.jpg","img/1595-2.jpg"],"description": "","decade": 2010,"related": ["Pink Floyd"]},
 {"id": 1596,"name": "Tales by Gaslight","year": 2021,"artist": "Clive Nolan & Oliver Wakeman","media": ["Box","CD"],"genre": "Prog Rock","country": "UK",
@@ -16764,6 +16743,11 @@
 "image": [
     "img/1664.jpg",    "img/1664-2.jpg",    "img/1664-3.jpg",    "img/1664-4.jpg",    "img/1520-5.jpg",
     "img/1520-6.jpg",    "img/1520-7.jpg",    "img/1520-8.jpg",    "img/1664-5.jpg",    "img/1664-6.jpg"
-],"description": "","decade": 2000,"related": ["Roger Dean"]}
-
+],"description": "","decade": 2000,"related": ["Roger Dean"]},
+{"id": 1665,"name": "Rick Wakeman: Journey To The Centre Of The Earth","year": 1974,"artist": "Rick Wakeman","media": ["Tour"],"genre": "Prog Rock","country": "UK",
+"image": [
+    "img/1665.jpg",    "img/1665-2.jpg",    "img/1665-3.jpg",    "img/1665-4.jpg",
+    "img/1665-5.jpg",    "img/1665-6.jpg",    "img/1665-7.jpg",    "img/1665-8.jpg"
+],"description": "","decade": 1970,"related": ["Rick Wakeman"]},
+{"id": 1666,"name": "Yes 50 Tour","year": 2018,"artist": "Yes","media": ["Tour"],"genre": "Prog Rock","country": "UK","image": ["img/1666.jpg"],"description": "","decade": 2010,"related": ["Yes","Roger Dean"]}
 ]
