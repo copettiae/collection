@@ -13096,7 +13096,7 @@
     "img/1111-11.jpg",    "img/1111-12.jpg",    "img/1111-13.jpg",    "img/1111-14.jpg",    "img/1111-15.jpg",
     "img/1111-16.jpg",    "img/1111-17.jpg",    "img/1111-18.jpg",    "img/1111-19.jpg",    "img/1111-20.jpg",
     "img/1111-21.jpg",    "img/1111-22.jpg",    "img/1111-23.jpg",    "img/1111-24.jpg"
-],"description": "","decade": 2000,"related": ["Yes"]},
+],"description": "","decade": 2000,"related": ["Yes","Roger Dean"]},
 {"id": 1113,"name": "Live and Solo","year": 2006,"artist": "Yes","media": ["CD"],"genre": "Prog Rock","country": "UK","image": ["img/1113.jpg"],"description": "","decade": 2000,"related": ["Yes"]},
 {
 "id": 1115,
@@ -14564,41 +14564,12 @@
 },
 {"id": 1314,"name": "Treasure Chest","year": 2002,"artist": "Rick Wakeman","media": ["CD","Box"],"genre": "Prog Rock","country": "UK",
 "image": [
-    "img/1314.jpg",
-    "img/1314-2.jpg",
-    "img/1314-3.jpg",
-    "img/1314-4.jpg",
-    "img/1314-5.jpg",
-    "img/1314-6.jpg",
-    "img/1314-7.jpg",
-    "img/1314-8.jpg",
-    "img/1314-9.jpg",
-    "img/1314-10.jpg",
-    "img/1314-11.jpg",
-    "img/1314-12.jpg",
-    "img/1314-13.jpg",
-    "img/1544.jpg",
-    "img/1545.jpg",
-    "img/1548.jpg",
-    "img/1546.jpg",
-    "img/1550.jpg",
-    "img/1549.jpg",
-    "img/740.jpg",
-    "img/1547.jpg"
+    "img/1314.jpg",    "img/1314-2.jpg",    "img/1314-3.jpg",    "img/1314-4.jpg",    "img/1314-5.jpg",    "img/1314-6.jpg",
+    "img/1314-7.jpg",    "img/1314-8.jpg",    "img/1314-9.jpg",    "img/1314-10.jpg",    "img/1314-11.jpg",    "img/1314-12.jpg",
+    "img/1314-13.jpg",    "img/1544.jpg",    "img/1545.jpg",    "img/1548.jpg",    "img/1546.jpg",    "img/1550.jpg",    "img/1549.jpg",
+    "img/740.jpg",    "img/1547.jpg"
 ],"description": "","decade": 2000,"related": ["Rick Wakeman"]},
-{
-"id": 1315,
-"name": "International Musician And Recording World",
-"year": 1978,
-"artist": "Rick Wakeman",
-"media": ["Mag"],
-"genre": "Prog Rock",
-"country": "UK",
-"image": ["img/1315.jpg"],
-"description": "",
-"decade": 1970,
-"related": ["Rick Wakeman"]
-},
+{"id": 1315,"name": "International Musician And Recording World","year": 1978,"artist": "Rick Wakeman","media": ["Mag"],"genre": "Prog Rock","country": "UK","image": ["img/1315.jpg","img/1315-2.jpg"],"description": "","decade": 1970,"related": ["Rick Wakeman"]},
 {
 "id": 1316,
 "name": "Uriah Heep Saling The Sea Of Light",
@@ -14651,32 +14622,8 @@
 "decade": 2020,
 "related": []
 },
-{
-"id": 1320,
-"name": "International Musician And Recording World",
-"year": 1975,
-"artist": "Rick Wakeman",
-"media": ["Mag"],
-"genre": "Prog Rock",
-"country": "UK",
-"image": ["img/1320.jpg"],
-"description": "",
-"decade": 1970,
-"related": ["Rick Wakeman"]
-},
-{
-"id": 1321,
-"name": "Rick Wakeman Two Sides of Yes (2001) ",
-"year": 2024,
-"artist": "To Buy",
-"media": ["To Buy CD"],
-"genre": "To Buy",
-"country": "To Buy",
-"image": ["img/1321.jpg"],
-"description": "",
-"decade": 2020,
-"related": ["To Buy"]
-},
+{"id": 1320,"name": "International Musician And Recording World","year": 1975,"artist": "Rick Wakeman","media": ["Mag"],"genre": "Prog Rock","country": "UK","image": ["img/1320.jpg"],"description": "","decade": 1970,"related": ["Rick Wakeman"]},
+{"id": 1321,"name": "Rick Wakeman Two Sides of Yes (2001) ","year": 2024,"artist": "To Buy","media": ["To Buy CD"],"genre": "To Buy","country": "To Buy","image": ["img/1321.jpg"],"description": "","decade": 2020,"related": ["To Buy"]},
 {
 "id": 1322,
 "name": "Rick Wakeman Christmas Variations (2000) ",
@@ -15875,7 +15822,7 @@
 {"id": 1435,"name": "Live At Montreux","year": 2003,"artist": "Yes","media": ["DVD"],"genre": "Prog Rock","country": "UK",
 "image": [
     "img/1435.jpg",    "img/1435-2.jpg",    "img/1435-3.jpg",    "img/1435-4.jpg"
-],"description": "","decade": 2000,"related": ["Yes"]},
+],"description": "","decade": 2000,"related": ["Yes","Roger Dean"]},
 {
 "id": 1436,"name": "The Classical Connection II Tour","year": 1992,"artist": "Rick Wakeman","media": ["Tour"],"genre": "Prog Rock","country": "UK",
 "image": [
@@ -16231,7 +16178,7 @@
 "image": [
     "img/1469.jpg",    "img/1469-2.jpg",    "img/1469-3.jpg",    "img/1469-4.jpg",    "img/1469-5.jpg",
     "img/1469-6.jpg",    "img/1469-7.jpg",    "img/1469-8.jpg",    "img/1469-9.jpg",    "img/1469-10.jpg"
-],"description": "","decade": 2000,"related": ["Yes"]},
+],"description": "","decade": 2000,"related": ["Yes","Roger Dean"]},
 {"id": 1470,"name": "Majikat Earth Tour 1976","year": 1976,"artist": "Cat Stevens / Yusuf Islam","media": ["DVD"],"genre": "Folk Rock","country": "UK","image": ["img/1470.jpg","img/1470-2.jpg"],"description": "","decade": 1970,"related": [""]},
 {
 "id": 1471,
@@ -16517,8 +16464,8 @@
 {"id": 1510,"name": "Close To The Edge 50th Anniversary","year": 2022,"artist": "Yes","media": ["Mug"],"genre": "Prog Rock","country": "UK","image": ["img/1510.jpg"],"description": "","decade": 2020,"related": [""]},
 {"id": 1511,"name": "Grumpy Old Rock Star","year": 2019,"artist": "Rick Wakeman","media": ["Mug"],"genre": "Prog Rock","country": "UK","image": ["img/1511.jpg"],"description": "","decade": 2010,"related": []},
 {"id": 1512,"name": "Prog 164","year": 2025,"artist": "Supertramp","media": ["Mag"],"genre": "Prog Rock","country": "UK","image": ["img/1512.jpg","img/1512-2.jpg"],"description": "","decade": 2020,"related": []},
-{"id": 1513,"name": "Classic Rock Society","year": 2009,"artist": "Rick Wakeman","media": ["Mag"],"genre": "Prog Rock","country": "UK","image": ["img/1513.jpg"],"description": "","decade": 2000,"related": ["Rick Wakeman"]},
-{"id": 1514,"name": "The History Of Rock 85","year": 1983,"artist": "Keith Emerson","media": ["Mag"],"genre": "Prog Rock","country": "UK","image": ["img/1514.jpg"],"description": "","decade": 1980,"related": ["Emerson, Lake & Palmer"]},
+{"id": 1513,"name": "Classic Rock Society","year": 2009,"artist": "Rick Wakeman","media": ["Mag"],"genre": "Prog Rock","country": "UK","image": ["img/1513.jpg","img/1513-2.jpg"],"description": "","decade": 2000,"related": ["Rick Wakeman"]},
+{"id": 1514,"name": "The History Of Rock 85","year": 1983,"artist": "Keith Emerson","media": ["Mag"],"genre": "Prog Rock","country": "UK","image": ["img/1514.jpg","img/1514-2.jpg"],"description": "","decade": 1980,"related": ["Emerson, Lake & Palmer"]},
 {"id": 1515,"name": "The Best Of","year": 1967,"artist": "Jefferson Airplane","media": ["CD"],"genre": "Psychedelic Rock","country": "UK","image": ["img/1515.jpg"],"description": "","decade": 1960,"related": [""]},
 {"id": 1516,"name": "Owner Of A Lonely Heart","year": 1991,"artist": "Yes","media": ["LP"],"genre": "Prog Rock","country": "UK","image": ["img/1516.jpg","img/1516-2.jpg"],"description": "","decade": 1990,"related": ["Yes"]},
 {"id": 1517,"name": "Rick Wakeman In The 1970s","year": 2023,"artist": "Geoffrey Feakes","media": ["Book"],"genre": "Prog Rock","country": "UK","image": ["img/1517.jpg","img/1517-2.jpg"],"description": "","decade": 2020,"related": ["Rick Wakeman"]},
@@ -16528,16 +16475,16 @@
 "image": [
     "img/1520.jpg",    "img/1520-2.jpg",    "img/1520-3.jpg",    "img/1520-4.jpg",    "img/1520-5.jpg",
     "img/1520-6.jpg",    "img/1520-7.jpg",    "img/1520-8.jpg",    "img/1520-9.jpg",    "img/1520-10.jpg"
-],"description": "","decade": 2000,"related": [""]},
+],"description": "","decade": 2000,"related": ["Roger Dean"]},
 {"id": 1521,"name": "Classic Rock Legends","year": 2001,"artist": "Caravan","media": ["DVD"],"genre": "Prog Rock","country": "UK",
 "image": [
     "img/1521.jpg",    "img/1521-2.jpg",    "img/1521-3.jpg",    "img/1521-4.jpg",    "img/1521-5.jpg",
     "img/1521-6.jpg",    "img/1521-7.jpg",    "img/1521-8.jpg",    "img/1521-9.jpg",    "img/1521-10.jpg"
-],"description": "","decade": 2000,"related": [""]},
+],"description": "","decade": 2000,"related": ["Roger Dean"]},
 {"id": 1522,"name": "Yesspeak","year": 2002,"artist": "Yes","media": ["DVD"],"genre": "Prog Rock","country": "UK",
 "image": [
     "img/1522.jpg",    "img/1522-2.jpg",    "img/1522-3.jpg",    "img/1522-4.jpg"
-],"description": "","decade": 2000,"related": ["Yes"]},
+],"description": "","decade": 2000,"related": ["Yes","Roger Dean"]},
 {"id": 1523,"name": "Kingdom Come","year": 2025,"artist": "To Buy","media": ["Wanted"],"genre": "To Buy","country": "To Buy","image": ["img/1523.jpg"],"description": "","decade": 2020,"related": ["To Buy"]},
 {"id": 1524,"name": "Badger","year": 2025,"artist": "To Buy","media": ["Wanted"],"genre": "To Buy","country": "To Buy","image": ["img/1524.jpg"],"description": "","decade": 2020,"related": ["To Buy"]},
 {"id": 1525,"name": "Yes Live From House Of Blues","year": 2025,"artist": "To Buy","media": ["To Buy DVD"],"genre": "To Buy","country": "To Buy","image": ["img/1525.jpg"],"description": "","decade": 2020,"related": ["To Buy"]},
@@ -16546,15 +16493,15 @@
 {"id": 1528,"name": "Remedy Live","year": 2005,"artist": "Steve Howe","media": ["DVD"],"genre": "Prog Rock","country": "UK",
 "image": [
     "img/1528.jpg",    "img/1528-2.jpg",    "img/1528-3.jpg",    "img/1528-4.jpg"
-    ],"description": "","decade": 2000,"related": [""]},
-{"id": 1529,"name": "Yesyears","year": 1991,"artist": "Yes","media": ["DVD"],"genre": "Prog Rock","country": "UK","image": ["img/1529.jpg","img/1529-2.jpg","img/1529-3.jpg","img/1529-4.jpg"],"description": "","decade": 1990,"related": ["Yes"]},
+    ],"description": "","decade": 2000,"related": ["Roger Dean"]},
+{"id": 1529,"name": "Yesyears","year": 1991,"artist": "Yes","media": ["DVD"],"genre": "Prog Rock","country": "UK","image": ["img/1529.jpg","img/1529-2.jpg","img/1529-3.jpg","img/1529-4.jpg"],"description": "","decade": 1990,"related": ["Yes","Roger Dean"]},
 {"id": 1530,"name": "At The Mesa Arts Center DVD","year": 2015,"artist": "To Buy","media": ["To Buy DVD"],"genre": "Prog Rock","country": "UK","image": ["img/1530.jpg"],"description": "","decade": 2010,"related": [""]},
 {"id": 1531,"name": "Yes Featuring Jon Anderson, Trevor Rabin, Rick Wakeman DVD","year": 2018,"artist": "To Buy","media": ["To Buy DVD"],"genre": "Prog Rock","country": "UK","image": ["img/1531.jpg"],"description": "","decade": 2010,"related": [""]},
 {"id": 1532,"name": "Total Rock Review","year": 2006,"artist": "Yes","media": ["DVD"],"genre": "Prog Rock","country": "UK",
 "image": [
     "img/1532.jpg",    "img/1532-2.jpg",    "img/1532-3.jpg",    "img/1532-4.jpg"
 ],"description": "","decade": 2000,"related": ["Yes"]},
-{"id": 1533,"name": "Greatest Video Hits","year": 2005,"artist": "Yes","media": ["DVD"],"genre": "Prog Rock","country": "UK","image": ["img/1533.jpg","img/1533-2.jpg","img/1533-3.jpg","img/1533-4.jpg"],"description": "","decade": 2000,"related": ["Yes"]},
+{"id": 1533,"name": "Greatest Video Hits","year": 2005,"artist": "Yes","media": ["DVD"],"genre": "Prog Rock","country": "UK","image": ["img/1533.jpg","img/1533-2.jpg","img/1533-3.jpg","img/1533-4.jpg"],"description": "","decade": 2000,"related": ["Yes","Roger Dean"]},
 {"id": 1534,"name": "Prog 66","year": 2016,"artist": "Keith Emerson","media": ["Mag"],"genre": "Prog Rock","country": "UK","image": ["img/1534.jpg","img/1534-2.jpg"],"description": "","decade": 2010,"related": ["Emerson, Lake & Palmer"]},
 {"id": 1535,"name": "In The Big Dream A Video Compilation","year": 1989,"artist": "Anderson Bruford Wakeman Howe","media": ["Cass"],"genre": "Prog Rock","country": "UK","image": ["img/1535.jpg","img/1535-2.jpg"],"description": "","decade": 1980,"related": ["Yes","Roger Dean"]},
 {"id": 1536,"name": "Abraxas","year": 1970,"artist": "Santana","media": ["Poster"],"genre": "Afro/Latin/Fusion","country": "UK","image": ["img/1536.jpg"],"description": "","decade": 1970,"related": []},
@@ -16807,30 +16754,16 @@
 {"id": 1662,"name": "The Ultimate Music Guide Uncut 03","year": 2018,"artist": "Yes","media": ["Mag"],"genre": "Prog Rock","country": "UK","image": ["img/1662.jpg","img/1662-2.jpg"],"description": "","decade": 2010,"related": ["Yes","Roger Dean"]},
 {"id": 1663,"name": "Queens Park Rangers And Stoke City Football Stadiums","year": 1975,"artist": "Yes","media": ["Tour"],"genre": "Prog Rock","country": "UK",
 "image": [
-    "img/1663.jpg",
-    "img/1663-2.jpg",
-    "img/1377-3.jpg",
-    "img/1377-4.jpg",
-    "img/1377-5.jpg",
-    "img/1377-6.jpg",
-    "img/1377-17.jpg",
-    "img/1377-18.jpg",
-    "img/1663-3.jpg",
-    "img/1663-4.jpg",
-    "img/1377-9.jpg",
-    "img/1377-10.jpg",
-    "img/1377-11.jpg",
-    "img/1377-12.jpg",
-    "img/1377-13.jpg",
-    "img/1663-5.jpg",
-    "img/1663-6.jpg",
-    "img/1377-14.jpg",
-    "img/1377-15.jpg",
-    "img/1377-16.jpg",
-    "img/1663-7.jpg",
-    "img/1663-8.jpg",
-    "img/1663-9.jpg",
-    "img/1663-10.jpg",
+    "img/1663.jpg",    "img/1663-2.jpg",    "img/1377-3.jpg",    "img/1377-4.jpg",    "img/1377-5.jpg",    "img/1377-6.jpg",
+    "img/1377-17.jpg",    "img/1377-18.jpg",    "img/1663-3.jpg",    "img/1663-4.jpg",    "img/1377-9.jpg",    "img/1377-10.jpg",
+    "img/1377-11.jpg",    "img/1377-12.jpg",    "img/1377-13.jpg",    "img/1663-5.jpg",    "img/1663-6.jpg",    "img/1377-14.jpg",
+    "img/1377-15.jpg",    "img/1377-16.jpg",    "img/1663-7.jpg",    "img/1663-8.jpg",    "img/1663-9.jpg",    "img/1663-10.jpg",
     "img/1663-11.jpg"
-],"description": "","decade": 1970,"related": ["Yes","Roger Dean"]}
+],"description": "","decade": 1970,"related": ["Yes","Roger Dean"]},
+{"id": 1664,"name": "Classic Rock Legends","year": 2001,"artist": "Wishbone Ash","media": ["DVD"],"genre": "Prog Rock","country": "UK",
+"image": [
+    "img/1664.jpg",    "img/1664-2.jpg",    "img/1664-3.jpg",    "img/1664-4.jpg",    "img/1520-5.jpg",
+    "img/1520-6.jpg",    "img/1520-7.jpg",    "img/1520-8.jpg",    "img/1664-5.jpg",    "img/1664-6.jpg"
+],"description": "","decade": 2000,"related": ["Roger Dean"]}
+
 ]
