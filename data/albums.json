@@ -15313,8 +15313,8 @@
     "img/1377.jpg",    "img/1377-2.jpg",    "img/1377-3.jpg",    "img/1377-4.jpg",    "img/1377-5.jpg",
     "img/1377-6.jpg",    "img/1377-7.jpg",    "img/1377-8.jpg",    "img/1377-9.jpg",    "img/1377-10.jpg",
     "img/1377-11.jpg",    "img/1377-12.jpg",    "img/1377-13.jpg",    "img/1377-14.jpg",    "img/1377-15.jpg",
-    "img/1377-16.jpg",    "img/1377-17.jpg",    "img/1377-18.jpg"
-],"description": "","decade": 1970,"related": ["Yes"]},
+    "img/1377-16.jpg",    "img/1377-17.jpg",    "img/1377-18.jpg",    "img/1377-19.jpg"
+],"description": "","decade": 1970,"related": ["Yes","Roger Dean"]},
 {
 "id": 1378,
 "name": "Yes - High Vibration - SACD Box",
@@ -16804,6 +16804,33 @@
 {"id": 1659,"name": "An Evening Of Yes Music Plus Double DVD","year": 2022,"artist": "Anderson Bruford Wakeman Howe","media": ["DVD"],"genre": "Prog Rock","country": "UK","image": ["img/1659.jpg","img/1659-2.jpg"],"description": "","decade": 2020,"related": ["Yes","Roger Dean"]},
 {"id": 1660,"name": "An Evening Of Yes Music Plus The Interviews","year": 2022,"artist": "Anderson Bruford Wakeman Howe","media": ["CD"],"genre": "Prog Rock","country": "UK","image": ["img/1660.jpg","img/1660-2.jpg"],"description": "","decade": 2020,"related": ["Yes","Roger Dean"]},
 {"id": 1661,"name": "The Ultimate Music Guide Uncut 75","year": 2026,"artist": "Yes","media": ["Mag"],"genre": "Prog Rock","country": "UK","image": ["img/1661.jpg","img/1661-2.jpg"],"description": "","decade": 2020,"related": ["Yes","Roger Dean"]},
-{"id": 1662,"name": "The Ultimate Music Guide Uncut 03","year": 2018,"artist": "Yes","media": ["Mag"],"genre": "Prog Rock","country": "UK","image": ["img/1662.jpg","img/1662-2.jpg"],"description": "","decade": 2010,"related": ["Yes","Roger Dean"]}
-
+{"id": 1662,"name": "The Ultimate Music Guide Uncut 03","year": 2018,"artist": "Yes","media": ["Mag"],"genre": "Prog Rock","country": "UK","image": ["img/1662.jpg","img/1662-2.jpg"],"description": "","decade": 2010,"related": ["Yes","Roger Dean"]},
+{"id": 1663,"name": "Queens Park Rangers And Stoke City Football Stadiums","year": 1975,"artist": "Yes","media": ["Tour"],"genre": "Prog Rock","country": "UK",
+"image": [
+    "img/1663.jpg",
+    "img/1663-2.jpg",
+    "img/1377-3.jpg",
+    "img/1377-4.jpg",
+    "img/1377-5.jpg",
+    "img/1377-6.jpg",
+    "img/1377-17.jpg",
+    "img/1377-18.jpg",
+    "img/1663-3.jpg",
+    "img/1663-4.jpg",
+    "img/1377-9.jpg",
+    "img/1377-10.jpg",
+    "img/1377-11.jpg",
+    "img/1377-12.jpg",
+    "img/1377-13.jpg",
+    "img/1663-5.jpg",
+    "img/1663-6.jpg",
+    "img/1377-14.jpg",
+    "img/1377-15.jpg",
+    "img/1377-16.jpg",
+    "img/1663-7.jpg",
+    "img/1663-8.jpg",
+    "img/1663-9.jpg",
+    "img/1663-10.jpg",
+    "img/1663-11.jpg"
+],"description": "","decade": 1970,"related": ["Yes","Roger Dean"]}
 ]
