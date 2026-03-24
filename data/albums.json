@@ -11064,19 +11064,17 @@
 "decade": 1970,
 "related": []
 },
-{
-"id": 920,
-"name": "Bach Concertos",
-"year": 2000,
-"artist": "The English Concert - Trevor Pinnock",
-"media": ["CD"],
-"genre": "Classical",
-"country": "Germany",
-"image": ["img/920.jpg"],
-"description": "Harpsichord, violin, flute, oboe d'amore. 5 CDs.",
-"decade": 2000,
-"related": []
-},
+{"id": 920,"name": "Bach Concertos","year": 1981,"artist": "The English Concert - Trevor Pinnock","media": ["Box"],"genre": "Classical","country": "Germany",
+"image": [
+    "img/920.jpg",    "img/920-2.jpg",    "img/920-3.jpg",    "img/920-4.jpg",    "img/920-5.jpg",    "img/920-6.jpg",
+    "img/920-7.jpg",    "img/920-8.jpg",    "img/920-9.jpg",    "img/920-10.jpg",    "img/920-11.jpg",    "img/920-12.jpg",
+    "img/920-13.jpg",    "img/920-14.jpg",    "img/920-15.jpg",    "img/920-16.jpg",    "img/920-17.jpg",    "img/920-18.jpg",
+    "img/920-19.jpg",    "img/920-20.jpg",    "img/920-21.jpg",    "img/920-22.jpg",    "img/920-23.jpg",    "img/920-24.jpg",
+    "img/920-25.jpg",    "img/920-26.jpg",    "img/920-27.jpg",    "img/920-28.jpg",    "img/920-29.jpg",    "img/920-30.jpg",
+    "img/920-31.jpg",    "img/920-32.jpg",    "img/920-33.jpg",    "img/920-34.jpg",    "img/920-35.jpg",    "img/920-36.jpg",
+    "img/920-37.jpg",    "img/920-38.jpg",    "img/920-39.jpg",    "img/920-40.jpg",    "img/920-41.jpg",    "img/1668.jpg",
+    "img/1669.jpg",    "img/1670.jpg",    "img/1671.jpg",    "img/1672.jpg",    "img/920-42.jpg"
+],"description": "","decade": 1980,"related": []},
 {
 "id": 919,
 "name": "Johann Sebastian Bach - Overtures BWV 1066 - 1069",
@@ -16750,5 +16748,11 @@
     "img/1665-5.jpg",    "img/1665-6.jpg",    "img/1665-7.jpg",    "img/1665-8.jpg"
 ],"description": "","decade": 1970,"related": ["Rick Wakeman"]},
 {"id": 1666,"name": "Yes 50 Tour","year": 2018,"artist": "Yes","media": ["Tour"],"genre": "Prog Rock","country": "UK","image": ["img/1666.jpg"],"description": "","decade": 2010,"related": ["Yes","Roger Dean"]},
-{"id": 1667,"name": "Symphonic Tour","year": 2001,"artist": "Yes","media": ["Tour"],"genre": "Prog Rock","country": "UK","image": ["img/1667.jpg"],"description": "","decade": 2000,"related": ["Yes"]}
+{"id": 1667,"name": "Symphonic Tour","year": 2001,"artist": "Yes","media": ["Tour"],"genre": "Prog Rock","country": "UK","image": ["img/1667.jpg"],"description": "","decade": 2000,"related": ["Yes"]},
+
+{"id": 1668,"name": "Bach Concertos 1","year": 1981,"artist": "The English Concert - Trevor Pinnock","media": ["CD"],"genre": "Classical","country": "Germany","image": ["img/1668.jpg","img/1668-2.jpg"],"description": "","decade": 1980,"related": []},
+{"id": 1669,"name": "Bach Concertos 2","year": 1981,"artist": "The English Concert - Trevor Pinnock","media": ["CD"],"genre": "Classical","country": "Germany","image": ["img/1669.jpg","img/1669-2.jpg"],"description": "","decade": 1980,"related": []},
+{"id": 1670,"name": "Bach Concertos 3","year": 1981,"artist": "The English Concert - Trevor Pinnock","media": ["CD"],"genre": "Classical","country": "Germany","image": ["img/1670.jpg","img/1670-2.jpg"],"description": "","decade": 1980,"related": []},
+{"id": 1671,"name": "Bach Concertos 4","year": 1984,"artist": "The English Concert - Trevor Pinnock","media": ["CD"],"genre": "Classical","country": "Germany","image": ["img/1671.jpg","img/1671-2.jpg"],"description": "","decade": 1980,"related": []},
+{"id": 1672,"name": "Bach Concertos 5","year": 1984,"artist": "The English Concert - Trevor Pinnock","media": ["CD"],"genre": "Classical","country": "Germany","image": ["img/1672.jpg","img/1672-2.jpg"],"description": "","decade": 1980,"related": []}
 ]
