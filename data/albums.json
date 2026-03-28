@@ -10856,84 +10856,12 @@
 "decade": 1980,
 "related": []
 },
-{
-"id": 1026,
-"name": "Volume 1 Meditation",
-"year": 1999,
-"artist": "The Essential Classics Collection",
-"media": ["CD"],
-"genre": "Classical",
-"country": "Germany",
-"image": ["img/1026.jpg"],
-"description": "The Essential Classics Collection",
-"decade": 1990,
-"related": []
-},
-{
-"id": 1027,
-"name": "Volume 2 Orchestral Fireworks",
-"year": 1999,
-"artist": "The Essential Classics Collection",
-"media": ["CD"],
-"genre": "Classical",
-"country": "Germany",
-"image": ["img/1027.jpg"],
-"description": "",
-"decade": 1990,
-"related": []
-},
-{
-"id": 1028,
-"name": "Volume 3 Invitation To The Dance",
-"year": 1999,
-"artist": "The Essential Classics Collection",
-"media": ["CD"],
-"genre": "Classical",
-"country": "Germany",
-"image": ["img/1028.jpg"],
-"description": "",
-"decade": 1990,
-"related": []
-},
-{
-"id": 1029,
-"name": "Volume 4 Nocturne",
-"year": 1999,
-"artist": "The Essential Classics Collection",
-"media": ["CD"],
-"genre": "Classical",
-"country": "Germany",
-"image": ["img/1029.jpg"],
-"description": "",
-"decade": 1990,
-"related": []
-},
-{
-"id": 1030,
-"name": "Volume 5 Pomp & Circumstance",
-"year": 1999,
-"artist": "The Essential Classics Collection",
-"media": ["CD"],
-"genre": "Classical",
-"country": "Germany",
-"image": ["img/1030.jpg"],
-"description": "",
-"decade": 1990,
-"related": []
-},
-{
-"id": 1031,
-"name": "Volume 6 Grand Opera",
-"year": 1999,
-"artist": "The Essential Classics Collection",
-"media": ["CD"],
-"genre": "Classical",
-"country": "Germany",
-"image": ["img/1031.jpg"],
-"description": "",
-"decade": 1990,
-"related": []
-},
+{"id": 1026,"name": "Volume 1 Meditation","year": 1999,"artist": "The Essential Classics Collection","media": ["CD"],"genre": "Classical","country": "Germany","image": ["img/1026.jpg","img/1026-2.jpg"],"description": "The Essential Classics Collection","decade": 1990,"related": []},
+{"id": 1027,"name": "Volume 2 Orchestral Fireworks","year": 1999,"artist": "The Essential Classics Collection","media": ["CD"],"genre": "Classical","country": "Germany","image": ["img/1027.jpg","img/1027-2.jpg"],"description": "","decade": 1990,"related": []},
+{"id": 1028,"name": "Volume 3 Invitation To The Dance","year": 1999,"artist": "The Essential Classics Collection","media": ["CD"],"genre": "Classical","country": "Germany","image": ["img/1028.jpg","img/1028-2.jpg"],"description": "","decade": 1990,"related": []},
+{"id": 1029,"name": "Volume 4 Nocturne","year": 1999,"artist": "The Essential Classics Collection","media": ["CD"],"genre": "Classical","country": "Germany","image": ["img/1029.jpg","img/1029-2.jpg"],"description": "","decade": 1990,"related": []},
+{"id": 1030,"name": "Volume 5 Pomp & Circumstance","year": 1999,"artist": "The Essential Classics Collection","media": ["CD"],"genre": "Classical","country": "Germany","image": ["img/1030.jpg","img/1030-2.jpg"],"description": "","decade": 1990,"related": []},
+{"id": 1031,"name": "Volume 6 Grand Opera","year": 1999,"artist": "The Essential Classics Collection","media": ["CD"],"genre": "Classical","country": "Germany","image": ["img/1031.jpg","img/1031-2.jpg"],"description": "","decade": 1990,"related": []},
 {
 "id": 984,
 "name": "Reunion Concert Live From The Royal Albert Hall London",
@@ -16430,5 +16358,10 @@
     "img/686.jpg",    "img/687.jpg",    "img/517.jpg",    "img/692.jpg",    "img/921.jpg",    "img/922.jpg",    "img/923.jpg",
     "img/924.jpg",    "img/186.jpg",    "img/187.jpg",    "img/188.jpg",    "img/189.jpg",    "img/190.jpg",    "img/191.jpg",
     "img/1674-4.jpg"
-],"description": "Frederic Chopin (1810-1849)","decade": 2000,"related": []}
+],"description": "Frederic Chopin (1810-1849)","decade": 2000,"related": []},
+{"id": 1675,"name": "The Essential Classics Collection","year": 1999,"artist": "The Essential Classics Collection","media": ["Box"],"genre": "Classical","country": "Germany",
+"image": [
+    "img/1675.jpg",    "img/1026.jpg",    "img/1027.jpg",    "img/1028.jpg",    "img/1029.jpg",
+    "img/1030.jpg",    "img/1031.jpg",    "img/1675-2.jpg"
+],"description": "","decade": 1990,"related": []}
 ]
