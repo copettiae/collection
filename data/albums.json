@@ -2983,19 +2983,7 @@
 "decade": 1980,
 "related": []
 },
-{
-"id": 252,
-"name": "3",
-"year": 1967,
-"artist": "Ekseption",
-"media": ["CD"],
-"genre": "Prog Rock",
-"country": "The Netherlands",
-"image": ["img/252.jpg"],
-"description": "The First Five + Bonus CD",
-"decade": 1960,
-"related": []
-},
+{"id": 252,"name": "3","year": 1967,"artist": "Ekseption","media": ["CD"],"genre": "Prog Rock","country": "The Netherlands","image": ["img/252.jpg"],"description": "The First Five + Bonus CD","decade": 1960,"related": []},
 {
 "id": 248,
 "name": "5",
@@ -10743,7 +10731,7 @@
 "id": 919,
 "name": "Johann Sebastian Bach - Overtures BWV 1066 - 1069",
 "year": 1980,
-"artist": "The English Concert - Trevor Pinnock - Original Instruments",
+"artist": "The English Concert - Trevor Pinnock",
 "media": ["CD"],
 "genre": "Classical",
 "country": "Germany",
@@ -10752,102 +10740,18 @@
 "decade": 1980,
 "related": []
 },
-{
-"id": 925,
-"name": "Concertos for Recoder",
-"year": 2012,
-"artist": "The English Concert - Trevor Pinnock - Original Instruments",
-"media": ["CD"],
-"genre": "Classical",
-"country": "Germany",
-"image": ["img/925.jpg"],
-"description": "Antonio Vivaldi (1678 - 1741)",
-"decade": 2010,
-"related": []
-},
-{
-"id": 926,
-"name": "Concertos for Violin L'amoroso",
-"year": 2012,
-"artist": "The English Concert - Trevor Pinnock - Original Instruments",
-"media": ["CD"],
-"genre": "Classical",
-"country": "Germany",
-"image": ["img/926.jpg"],
-"description": "Antonio Vivaldi (1678 - 1741)",
-"decade": 2010,
-"related": []
-},
-{
-"id": 927,
-"name": "La stravaganza op. 4 nos 10-12",
-"year": 2012,
-"artist": "The English Concert - Trevor Pinnock - Original Instruments",
-"media": ["CD"],
-"genre": "Classical",
-"country": "Germany",
-"image": ["img/927.jpg"],
-"description": "Antonio Vivaldi (1678 - 1741)",
-"decade": 2010,
-"related": []
-},
-{
-"id": 928,
-"name": "La stravaganza op. 4 nos 1-9",
-"year": 2012,
-"artist": "The English Concert - Trevor Pinnock - Original Instruments",
-"media": ["CD"],
-"genre": "Classical",
-"country": "Germany",
-"image": ["img/928.jpg"],
-"description": "Antonio Vivaldi (1678 - 1741)",
-"decade": 2010,
-"related": []
-},
-{
-"id": 929,
-"name": "L'estro armonico op. 3 nos. 10-12",
-"year": 2012,
-"artist": "The English Concert - Trevor Pinnock - Original Instruments",
-"media": ["CD"],
-"genre": "Classical",
-"country": "Germany",
-"image": ["img/929.jpg"],
-"description": "Antonio Vivaldi (1678 - 1741)",
-"decade": 2010,
-"related": []
-},
-{
-"id": 930,
-"name": "L'estro armonico op. 3 nos. 1-9",
-"year": 2012,
-"artist": "The English Concert - Trevor Pinnock - Original Instruments",
-"media": ["CD"],
-"genre": "Classical",
-"country": "Germany",
-"image": ["img/930.jpg"],
-"description": "Antonio Vivaldi (1678 - 1741)",
-"decade": 2010,
-"related": []
-},
-{
-"id": 931,
-"name": "The Four Seasons - al Santo Sepolcro",
-"year": 2012,
-"artist": "The English Concert - Trevor Pinnock - Original Instruments",
-"media": ["CD"],
-"genre": "Classical",
-"country": "Germany",
-"image": ["img/931.jpg"],
-"description": "Antonio Vivaldi (1678 - 1741)",
-"decade": 2010,
-"related": []
-},
+{"id": 925,"name": "Concertos for Recoder - Per L'oschestra Di Desda","year": 1995,"artist": "The English Concert - Trevor Pinnock","media": ["CD"],"genre": "Classical","country": "Germany","image": ["img/925.jpg"],"description": "Antonio Vivaldi (1678 - 1741)","decade": 1990,"related": []},
+{"id": 926,"name": "Concertos for Violin L'amoroso","year": 1987,"artist": "The English Concert - Trevor Pinnock","media": ["CD"],"genre": "Classical","country": "Germany","image": ["img/926.jpg"],"description": "Antonio Vivaldi (1678 - 1741)","decade": 1980,"related": []},
+{"id": 927,"name": "La stravaganza op. 4 nos 10-12 - Concertos For Oboe - Concerto All Rustica - Concerto Con Molti Stromenti","year": 1986,"artist": "The English Concert - Trevor Pinnock","media": ["CD"],"genre": "Classical","country": "Germany","image": ["img/927.jpg"],"description": "Antonio Vivaldi (1678 - 1741)","decade": 1980,"related": []},
+{"id": 928,"name": "La stravaganza op. 4 nos 1-9","year": 1986,"artist": "The English Concert - Trevor Pinnock","media": ["CD"],"genre": "Classical","country": "Germany","image": ["img/928.jpg"],"description": "Antonio Vivaldi (1678 - 1741)","decade": 1980,"related": []},
+{"id": 929,"name": "L'estro armonico op. 3 nos. 10-12 - 6 Flute Concertos op. 10","year": 1987,"artist": "The English Concert - Trevor Pinnock","media": ["CD"],"genre": "Classical","country": "Germany","image": ["img/929.jpg"],"description": "Antonio Vivaldi (1678 - 1741)","decade": 1980,"related": []},
+{"id": 930,"name": "L'estro armonico op. 3 nos. 1-9","year": 1987,"artist": "The English Concert - Trevor Pinnock","media": ["CD"],"genre": "Classical","country": "Germany","image": ["img/930.jpg"],"description": "Antonio Vivaldi (1678 - 1741)","decade": 1980,"related": []},
+{"id": 931,"name": "The Four Seasons - Concerto For Strings In D Minor - Al Santo Sepolcro","year": 1982,"artist": "The English Concert - Trevor Pinnock","media": ["CD"],"genre": "Classical","country": "Germany","image": ["img/931.jpg"],"description": "Antonio Vivaldi (1678 - 1741)","decade": 1980,"related": []},
 {
 "id": 932,
 "name": "BWV 1044 - 1067 - 1068",
 "year": 1984,
-"artist": "The English Concert Trevor Pinnock",
+"artist": "The English Concert - Trevor Pinnock",
 "media": ["CD"],
 "genre": "Classical",
 "country": "Germany",
@@ -16363,5 +16267,16 @@
 "image": [
     "img/1675.jpg",    "img/1026.jpg",    "img/1027.jpg",    "img/1028.jpg",    "img/1029.jpg",
     "img/1030.jpg",    "img/1031.jpg",    "img/1675-2.jpg"
-],"description": "","decade": 1990,"related": []}
+],"description": "","decade": 1990,"related": []},
+{"id": 1676,"name": "Antonio Vivaldi Stravaganza: 55 Concertos","year": 1997,"artist": "The English Concert - Trevor Pinnock","media": ["Box"],"genre": "Classical","country": "Germany",
+"image": [
+    "img/1676.jpg",    "img/1676-2.jpg",    "img/1676-3.jpg",    "img/1676-4.jpg",    "img/1676-5.jpg",    "img/1676-6.jpg",
+    "img/1676-7.jpg",    "img/1676-8.jpg",    "img/1676-9.jpg",    "img/1676-10.jpg",    "img/1676-11.jpg",    "img/1676-12.jpg",
+    "img/1676-13.jpg",    "img/1676-14.jpg",    "img/1676-15.jpg",    "img/1676-16.jpg",    "img/1676-17.jpg",    "img/1676-18.jpg",
+    "img/1676-19.jpg",    "img/1676-20.jpg",    "img/1676-21.jpg",      "img/1676-22.jpg"
+],"description": "Antonio Vivaldi (1678 - 1741)","decade": 1990,"related": []},
+{"id": 1677,"name": "The First Five + Bonus CD","year": 2019,"artist": "Ekseption","media": ["Box"],"genre": "Prog Rock","country": "The Netherlands",
+"image": [
+    "img/1677.jpg"
+],"description": "The First Five + Bonus CD","decade": 2010,"related": []}
 ]
