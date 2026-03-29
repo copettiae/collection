@@ -6952,19 +6952,7 @@
 "decade": 1970,
 "related": []
 },
-{
-"id": 1181,
-"name": "Canon",
-"year": 1983,
-"artist": "Pachelbel",
-"media": ["LP"],
-"genre": "Classical",
-"country": "USA",
-"image": ["img/1181.jpg"],
-"description": "Edition: Argentina",
-"decade": 1980,
-"related": []
-},
+{"id": 1181,"name": "Pachelbel: Canon","year": 1983,"artist": "Raymond Leppard","media": ["LP"],"genre": "Classical","country": "USA","image": ["img/1181.jpg"],"description": "Edition: Argentina","decade": 1980,"related": []},
 {
 "id": 603,
 "name": "Cositas Buenas",
@@ -7293,7 +7281,7 @@
 },
 {"id": 630,"name": "Animals","year": 1977,"artist": "Pink Floyd","media": ["CD"],"genre": "Prog Rock","country": "UK","image": ["img/630.jpg"],"description": "","decade": 1970,"related": ["Pink Floyd"]},
 {"id": 631,"name": "The Wall","year": 1979,"artist": "Pink Floyd","media": ["CD","LP"],"genre": "Prog Rock","country": "UK","image": ["img/631.jpg"],"description": "","decade": 1970,"related": ["Pink Floyd"]},
-{"id": 633,"name": "Is There Anybody Out There?","year": 1980,"artist": "Pink Floyd","media": ["CD","Box"],"genre": "Prog Rock","country": "UK","image": ["img/633.jpg","img/633-2.jpg","img/633-3.jpg"],"description": "","decade": 1980,"related": ["Pink Floyd"]},
+{"id": 633,"name": "Is There Anybody Out There?","year": 1980,"artist": "Pink Floyd","media": ["Box"],"genre": "Prog Rock","country": "UK","image": ["img/633.jpg","img/633-2.jpg","img/633-3.jpg"],"description": "","decade": 1980,"related": ["Pink Floyd"]},
 {"id": 634,"name": "The Final Cut","year": 1983,"artist": "Pink Floyd","media": ["CD","LP"],"genre": "Prog Rock","country": "UK","image": ["img/634.jpg"],"description": "","decade": 1980,"related": ["Pink Floyd"]},
 {"id": 192,"name": "The Dark Side Of The Moon Immersion Edition","year": 2010,"artist": "Pink Floyd","media": ["CD","Apparel","Box"],"genre": "Prog Rock","country": "UK","image": ["img/192.jpg"],"description": "","decade": 2010,"related": ["Pink Floyd"]},
 {"id": 636,"name": "Pink Floyd The Making of The Wall","year": 2010,"artist": "Gerald Scarfe","media": ["Book"],"genre": "Prog Rock","country": "UK","image": ["img/636.jpg"],"description": "Gerald Scarfe","decade": 2010,"related": ["Pink Floyd"]},
@@ -9666,7 +9654,7 @@
 "decade": 1970,
 "related": []
 },
-{"id": 842,"name": "The Classic Albums Collection 1955-1963","year": 2017,"artist": "Stan Getz","media": ["Box","CD"],"genre": "Bossa/Samba/Fusion","country": "USA",
+{"id": 842,"name": "The Classic Albums Collection 1955-1963","year": 2017,"artist": "Stan Getz","media": ["Box"],"genre": "Bossa/Samba/Fusion","country": "USA",
 "image": [
     "img/842.jpg",    "img/842-2.jpg",    "img/842-3.jpg",    "img/842-4.jpg",    "img/842-5.jpg",
     "img/842-6.jpg",    "img/842-7.jpg",    "img/842-8.jpg",    "img/842-9.jpg",    "img/842-10.jpg"
@@ -11571,7 +11559,7 @@
 "decade": 1990,
 "related": []
 },
-{"id": 699,"name": "Supernatural Fairy Tales - The Progressive Rock Era","year": 1996,"artist": "Various","media": ["Box","CD"],"genre": "Prog Rock","country": "UK","image": ["img/699.jpg","img/699-2.jpg","img/699-3.jpg","img/699-4.jpg","img/699-5.jpg","img/699-6.jpg","img/699-7.jpg"],"description": "","decade": 1990,"related": ["Roger Dean"]},
+{"id": 699,"name": "Supernatural Fairy Tales - The Progressive Rock Era","year": 1996,"artist": "Various","media": ["Box"],"genre": "Prog Rock","country": "UK","image": ["img/699.jpg","img/699-2.jpg","img/699-3.jpg","img/699-4.jpg","img/699-5.jpg","img/699-6.jpg","img/699-7.jpg"],"description": "","decade": 1990,"related": ["Roger Dean"]},
 {
 "id": 140,
 "name": "Buena Vista Social Club",
@@ -11806,19 +11794,7 @@
 "decade": 1970,
 "related": []
 },
-{
-"id": 1189,
-"name": "Las Cuatro Estaciones",
-"year": 1983,
-"artist": "Vivaldi",
-"media": ["LP"],
-"genre": "Classical",
-"country": "USA",
-"image": ["img/1189.jpg"],
-"description": "Edition: Argentina",
-"decade": 1980,
-"related": []
-},
+{"id": 1189,"name": "Las Cuatro Estaciones","year": 1983,"artist": "Pinchas Zukerman","media": ["LP"],"genre": "Classical","country": "USA","image": ["img/1189.jpg"],"description": "Edition: Argentina","decade": 1980,"related": []},
 {
 "id": 1032,
 "name": "La Biblia",
@@ -12717,7 +12693,7 @@
 "decade": 2020,
 "related": ["Yes"]
 },
-{"id": 1112,"name": "Union 30 Live","year": 2021,"artist": "Yes","media": ["CD","Box"],"genre": "Prog Rock","country": "UK",
+{"id": 1112,"name": "Union 30 Live","year": 2021,"artist": "Yes","media": ["Box"],"genre": "Prog Rock","country": "UK",
 "image": [
     "img/1112.jpg",    "img/1112-2.jpg",    "img/1112-3.jpg",    "img/1112-4.jpg",    "img/1112-5.jpg",    "img/1112-6.jpg",
     "img/1112-7.jpg",    "img/1112-8.jpg",    "img/1112-9.jpg",    "img/1112-10.jpg",    "img/1112-11.jpg",    "img/1112-12.jpg",
@@ -13426,7 +13402,7 @@
 "related": ["To Buy"]
 },
 {"id": 1267,"name": "Relayer","year": 2019,"artist": "Gottlieb Bros","media": ["Book"],"genre": "Prog Rock","country": "UK","image": ["img/1267.jpg"],"description": "","decade": 2010,"related": ["Yes","Roger Dean"]},
-{"id": 1268,"name": "Refugee","year": 1974,"artist": "Refugee","media": ["Box","CD"],"genre": "Prog Rock","country": "UK",
+{"id": 1268,"name": "Refugee","year": 1974,"artist": "Refugee","media": ["Box"],"genre": "Prog Rock","country": "UK",
 "image": [
     "img/1268.jpg",    "img/670.jpg",    "img/670-2.jpg",    "img/671.jpg",    "img/671-2.jpg",
     "img/672.jpg",    "img/672-2.jpg",    "img/1268-2.jpg",    "img/1268-3.jpg",    "img/1268-4.jpg",
@@ -13434,19 +13410,7 @@
     "img/1268-10.jpg",    "img/1268-11.jpg",    "img/1268-12.jpg",    "img/1268-13.jpg",    "img/1268-14.jpg",
     "img/1268-15.jpg",    "img/1268-16.jpg",    "img/1268-17.jpg",    "img/1268-18.jpg"
     ],"description": "","decade": 1970,"related": [""]},
-{
-"id": 1269,
-"name": "Halcyon Hymns",
-"year": 2021,
-"artist": "Downes Braide Association",
-"media": ["LP"],
-"genre": "Prog Rock",
-"country": "UK",
-"image": ["img/1269.jpg"],
-"description": "",
-"decade": 2020,
-"related": ["Roger Dean"]
-},
+{"id": 1269,"name": "Halcyon Hymns","year": 2021,"artist": "Downes Braide Association","media": ["LP"],"genre": "Prog Rock","country": "UK","image": ["img/1269.jpg"],"description": "","decade": 2020,"related": ["Roger Dean"]},
 {"id": 1270,"name": "Celestial Songs","year": 2023,"artist": "Downes Braide Association","media": ["LP","CD","Box"],"genre": "Prog Rock","country": "UK","image": ["img/1270.jpg"],"description": "","decade": 2020,"related": ["Roger Dean"]},
 {"id": 1271,"name": "Yes The Yes Album (Super Deluxe Edition)","year": 2024,"artist": "To Buy","media": ["To Buy Box"],"genre": "To Buy","country": "To Buy","image": ["img/1271.jpg"],"description": "","decade": 2020,"related": ["To Buy"]},
 {"id": 1272,"name": "The Six Wives Of Henry VIII Live At Hampton Court Palace","year": 2009,"artist": "Rick Wakeman","media": ["DVD"],"genre": "Prog Rock","country": "UK",
@@ -13979,7 +13943,7 @@
 "decade": 2020,
 "related": ["To Buy"]
 },
-{"id": 1314,"name": "Treasure Chest","year": 2002,"artist": "Rick Wakeman","media": ["CD","Box"],"genre": "Prog Rock","country": "UK",
+{"id": 1314,"name": "Treasure Chest","year": 2002,"artist": "Rick Wakeman","media": ["Box"],"genre": "Prog Rock","country": "UK",
 "image": [
     "img/1314.jpg",    "img/1314-2.jpg",    "img/1314-3.jpg",    "img/1314-4.jpg",    "img/1314-5.jpg",    "img/1314-6.jpg",
     "img/1314-7.jpg",    "img/1314-8.jpg",    "img/1314-9.jpg",    "img/1314-10.jpg",    "img/1314-11.jpg",    "img/1314-12.jpg",
@@ -15853,7 +15817,7 @@
     "img/1500-34.jpg",    "img/1500-35.jpg"
     ],"description": "","decade": 2010,"related": ["Rick Wakeman","Roger Dean"]},
 {"id": 1501,"name": "Wendy Carlos every album, every song","year": 2024,"artist": "Mark Marrington","media": ["Book"],"genre": "Electronica","country": "UK","image": ["img/1501.jpg","img/1501-2.jpg"],"description": "","decade": 2020,"related": ["Wendy Carlos"]},
-{"id": 1502,"name": "Focus 50","year": 2021,"artist": "Focus","media": ["Box","CD"],"genre": "Prog Rock","country": "The Netherlands",
+{"id": 1502,"name": "Focus 50","year": 2021,"artist": "Focus","media": ["Box"],"genre": "Prog Rock","country": "The Netherlands",
 "image": [
     "img/1502.jpg",    "img/1502-2.jpg",    "img/1502-3.jpg",    "img/1502-4.jpg",    "img/1502-5.jpg",
     "img/1502-6.jpg",    "img/1502-7.jpg",    "img/1502-8.jpg",    "img/1502-9.jpg",    "img/1502-10.jpg",
@@ -15966,7 +15930,7 @@
 {"id": 1564,"name": "The Yes Album The Steve Wilson Remix","year": 2018,"artist": "Yes","media": ["LP"],"genre": "Prog Rock","country": "UK","image": ["img/1564.jpg"],"description": "","decade": 2010,"related": ["Yes"]},
 {"id": 1565,"name": "Close To The Edge The Steve Wilson Remix","year": 2018,"artist": "Yes","media": ["LP"],"genre": "Prog Rock","country": "UK","image": ["img/1565.jpg"],"description": "","decade": 2010,"related": ["Yes","Roger Dean"]},
 {"id": 1566,"name": "Celestial Songs","year": 2023,"artist": "Downes Braide Association","media": ["Poster"],"genre": "Prog Rock","country": "UK","image": ["img/1566.jpg"],"description": "","decade": 2020,"related": ["Roger Dean"]},
-{"id": 1567,"name": "Wondrous Stories A Complete Introduction To Progressive Rock","year": 2010,"artist": "Various","media": ["CD","Box"],"genre": "Prog Rock","country": "UK","image": ["img/1567.jpg","img/1567-2.jpg","img/1567-3.jpg"],"description": "","decade": 2020,"related": ["Roger Dean"]},
+{"id": 1567,"name": "Wondrous Stories A Complete Introduction To Progressive Rock","year": 2010,"artist": "Various","media": ["Box"],"genre": "Prog Rock","country": "UK","image": ["img/1567.jpg","img/1567-2.jpg","img/1567-3.jpg"],"description": "","decade": 2020,"related": ["Roger Dean"]},
 {"id": 1568,"name": "Um Amor Infinito","year": 2004,"artist": "Madredeus","media": ["CD"],"genre": "Fado/Folk","country": "Portugal","image": ["img/1568.jpg"],"description": "","decade": 2000,"related": []},
 {"id": 1569,"name": "Yes Magazine Vol 6 No 3","year": 1996,"artist": "Gottlieb Bros","media": ["Mag"],"genre": "Prog Rock","country": "UK","image": ["img/1569.jpg"],"description": "","decade": 1990,"related": ["Yes","Roger Dean"]},
 {"id": 1570,"name": "Yes Magazine Vol 5 No 1","year": 1993,"artist": "Gottlieb Bros","media": ["Mag"],"genre": "Prog Rock","country": "UK","image": ["img/1570.jpg"],"description": "","decade": 1990,"related": ["Yes","Roger Dean"]},
@@ -16006,7 +15970,7 @@
 {"id": 1593,"name": "Prog 144","year": 2023,"artist": "Keith Emerson","media": ["Mag"],"genre": "Prog Rock","country": "UK","image": ["img/1593.jpg","img/1593-2.jpg"],"description": "","decade": 2020,"related": ["Emerson, Lake & Palmer"]},
 {"id": 1594,"name": "Classic Rock","year": 2011,"artist": "Various","media": ["Mag"],"genre": "Prog Rock","country": "UK","image": ["img/1594.jpg","img/1594-2.jpg"],"description": "","decade": 2010,"related": ["Yes","Pink Floyd","Emerson, Lake & Palmer"]},
 {"id": 1595,"name": "Classic Rock","year": 2010,"artist": "Roger Waters","media": ["Mag"],"genre": "Prog Rock","country": "UK","image": ["img/1595.jpg","img/1595-2.jpg"],"description": "","decade": 2010,"related": ["Pink Floyd"]},
-{"id": 1596,"name": "Tales by Gaslight","year": 2021,"artist": "Clive Nolan & Oliver Wakeman","media": ["Box","CD"],"genre": "Prog Rock","country": "UK",
+{"id": 1596,"name": "Tales by Gaslight","year": 2021,"artist": "Clive Nolan & Oliver Wakeman","media": ["Box"],"genre": "Prog Rock","country": "UK",
 "image": [
     "img/1596.jpg",    "img/203.jpg",    "img/1596-2.jpg",    "img/1596-3.jpg",    "img/1596-4.jpg",    "img/514.jpg",
     "img/1596-5.jpg",    "img/1596-6.jpg",    "img/1596-7.jpg",    "img/515.jpg",    "img/1596-8.jpg",    "img/1596-9.jpg",
