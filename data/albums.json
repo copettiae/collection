@@ -2983,72 +2983,12 @@
 "decade": 1980,
 "related": []
 },
-{"id": 252,"name": "3","year": 1967,"artist": "Ekseption","media": ["CD"],"genre": "Prog Rock","country": "The Netherlands","image": ["img/252.jpg"],"description": "The First Five + Bonus CD","decade": 1960,"related": []},
-{
-"id": 248,
-"name": "5",
-"year": 1967,
-"artist": "Ekseption",
-"media": ["CD"],
-"genre": "Prog Rock",
-"country": "The Netherlands",
-"image": ["img/248.jpg"],
-"description": "The First Five + Bonus CD",
-"decade": 1960,
-"related": []
-},
-{
-"id": 250,
-"name": "Beggar Julias's Time Trip",
-"year": 1967,
-"artist": "Ekseption",
-"media": ["CD"],
-"genre": "Prog Rock",
-"country": "The Netherlands",
-"image": ["img/250.jpg"],
-"description": "The First Five + Bonus CD",
-"decade": 1960,
-"related": []
-},
-{
-"id": 251,
-"name": "Ekseption",
-"year": 1967,
-"artist": "Ekseption",
-"media": ["CD"],
-"genre": "Prog Rock",
-"country": "The Netherlands",
-"image": ["img/251.jpg"],
-"description": "The First Five + Bonus CD",
-"decade": 1960,
-"related": []
-},
-{
-"id": 249,
-"name": "Ekseption - Bonus",
-"year": 1967,
-"artist": "Ekseption",
-"media": ["CD"],
-"genre": "Prog Rock",
-"country": "The Netherlands",
-"image": ["img/249.jpg"],
-"description": "The First Five + Bonus CD",
-"decade": 1960,
-"related": []
-},
-{
-"id": 253,
-"name": "Royal Philharmonic Orchestra",
-"year": 1967,
-"artist": "Ekseption",
-"media": ["CD"],
-"genre": "Prog Rock",
-"country": "The Netherlands",
-"image": ["img/253.jpg"],
-"description": "The First Five + Bonus CD",
-"decade": 1960,
-"related": []
-},
+{"id": 252,"name": "3","year": 1970,"artist": "Ekseption","media": ["CD"],"genre": "Prog Rock","country": "The Netherlands","image": ["img/252.jpg","img/252-2.jpg"],"description": "The First Five + Bonus CD","decade": 1970,"related": []},
+{"id": 248,"name": "5","year": 1972,"artist": "Ekseption","media": ["CD"],"genre": "Prog Rock","country": "The Netherlands","image": ["img/248.jpg","img/248-2.jpg"],"description": "The First Five + Bonus CD","decade": 1970,"related": []},
+{"id": 250,"name": "Beggar Julias's Time Trip","year": 1970,"artist": "Ekseption","media": ["CD"],"genre": "Prog Rock","country": "The Netherlands","image": ["img/250.jpg","img/250-2.jpg"],"description": "The First Five + Bonus CD","decade": 1970,"related": []},
+{"id": 251,"name": "Ekseption","year": 1969,"artist": "Ekseption","media": ["CD"],"genre": "Prog Rock","country": "The Netherlands","image": ["img/251.jpg","img/251-2.jpg"],"description": "The First Five + Bonus CD","decade": 1960,"related": []},
+{"id": 249,"name": "The First Five Bonus CD","year": 1972,"artist": "Ekseption","media": ["CD"],"genre": "Prog Rock","country": "The Netherlands","image": ["img/249.jpg","img/249-2.jpg"],"description": "The First Five + Bonus CD","decade": 1970,"related": []},
+{"id": 253,"name": "Royal Philharmonic Orchestra","year": 1971,"artist": "Ekseption","media": ["CD"],"genre": "Prog Rock","country": "The Netherlands","image": ["img/253.jpg","img/253-2.jpg"],"description": "The First Five + Bonus CD","decade": 1970,"related": []},
 {
 "id": 254,
 "name": "Discovery",
@@ -16277,6 +16217,9 @@
 ],"description": "Antonio Vivaldi (1678 - 1741)","decade": 1990,"related": []},
 {"id": 1677,"name": "The First Five + Bonus CD","year": 2019,"artist": "Ekseption","media": ["Box"],"genre": "Prog Rock","country": "The Netherlands",
 "image": [
-    "img/1677.jpg"
+    "img/1677.jpg",    "img/1677-2.jpg",    "img/1677-3.jpg",    "img/1677-4.jpg",    "img/1677-5.jpg",    "img/1677-6.jpg",
+    "img/1677-7.jpg",    "img/1677-8.jpg",    "img/1677-9.jpg",    "img/1677-10.jpg",    "img/1677-11.jpg",    "img/1677-12.jpg",
+    "img/1677-13.jpg",    "img/248.jpg",    "img/249.jpg",    "img/250.jpg",    "img/251.jpg",    "img/252.jpg",    "img/253.jpg",
+    "img/1677-14.jpg"
 ],"description": "The First Five + Bonus CD","decade": 2010,"related": []}
 ]
