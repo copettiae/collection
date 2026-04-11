@@ -5075,71 +5075,11 @@
 "related": ["Yes"]
 },
 {"id": 449,"name": "Prog 68","year": 2016,"artist": "Jon Anderson","media": ["Mag"],"genre": "Prog Rock","country": "UK","image": ["img/449.jpg","img/449-2.jpg"],"description": "","decade": 2010,"related": ["Yes"]},
-{
-"id": 1192,
-"name": "Prog 115",
-"year": 2020,
-"artist": "Jon Anderson",
-"media": ["Mag"],
-"genre": "Prog Rock",
-"country": "UK",
-"image": ["img/1192.jpg"],
-"description": "",
-"decade": 2020,
-"related": ["Yes"]
-},
-{
-"id": 1174,
-"name": "The Lost Demos EP",
-"year": 2020,
-"artist": "Jon Anderson And The Warriors",
-"media": ["LP"],
-"genre": "Rock",
-"country": "UK",
-"image": ["img/1174.jpg"],
-"description": "",
-"decade": 2020,
-"related": ["Yes"]
-},
-{
-"id": 452,
-"name": "Gemini Suite London Symphony Orchestra",
-"year": 1971,
-"artist": "Jon Lord",
-"media": ["CD"],
-"genre": "Prog Rock",
-"country": "UK",
-"image": ["img/452.jpg"],
-"description": "",
-"decade": 1970,
-"related": []
-},
-{
-"id": 453,
-"name": "Windows",
-"year": 1974,
-"artist": "Jon Lord",
-"media": ["CD"],
-"genre": "Prog Rock",
-"country": "UK",
-"image": ["img/453.jpg"],
-"description": "",
-"decade": 1970,
-"related": []
-},
-{
-"id": 454,
-"name": "Sarabande",
-"year": 1976,
-"artist": "Jon Lord",
-"media": ["CD"],
-"genre": "Prog Rock",
-"country": "UK",
-"image": ["img/454.jpg"],
-"description": "",
-"decade": 1970,
-"related": []
-},
+{"id": 1192,"name": "Prog 115","year": 2020,"artist": "Jon Anderson","media": ["Mag"],"genre": "Prog Rock","country": "UK","image": ["img/1192.jpg"],"description": "","decade": 2020,"related": ["Yes"]},
+{"id": 1174,"name": "The Lost Demos EP","year": 2020,"artist": "Jon Anderson And The Warriors","media": ["LP"],"genre": "Rock","country": "UK","image": ["img/1174.jpg"],"description": "","decade": 2020,"related": ["Yes"]},
+{"id": 452,"name": "Gemini Suite London Symphony Orchestra","year": 1971,"artist": "Jon Lord","media": ["CD"],"genre": "Prog Rock","country": "UK","image": ["img/452.jpg"],"description": "","decade": 1970,"related": []},
+{"id": 453,"name": "Windows","year": 1974,"artist": "Jon Lord","media": ["CD"],"genre": "Prog Rock","country": "UK","image": ["img/453.jpg"],"description": "","decade": 1970,"related": []},
+{"id": 454,"name": "Sarabande","year": 1976,"artist": "Jon Lord","media": ["CD"],"genre": "Prog Rock","country": "UK","image": ["img/454.jpg"],"description": "","decade": 1970,"related": []},
 {
 "id": 455,
 "name": "Jorge Pardo",
@@ -15733,71 +15673,11 @@
 "related": ["Roger Dean"]
 },
 {"id": 1490,"name": "Vangelis The Unknown Man - Complete","year": 2025,"artist": "Mark J.T. Griffin","media": ["Book"],"genre": "Prog Rock","country": "UK","image": ["img/1490.jpg","img/1490-2.jpg"],"description": "","decade": 2020,"related": ["Vangelis"]},
-{
-"id": 1491,
-"name": "VIP Oneness 2025 Tour",
-"year": 2025,
-"artist": "Santana",
-"media": ["Pass"],
-"genre": "Afro/Latin/Fusion",
-"country": "UK",
-"image": ["img/1491.jpg"],
-"description": "",
-"decade": 2020,
-"related": []
-},
-{
-"id": 1492,
-"name": "Oneness 2025 Tour",
-"year": 2025,
-"artist": "Santana",
-"media": ["Bag"],
-"genre": "Afro/Latin/Fusion",
-"country": "UK",
-"image": ["img/1492.jpg"],
-"description": "",
-"decade": 2020,
-"related": []
-},
-{
-"id": 1493,
-"name": "Oneness 2025 Tour",
-"year": 2025,
-"artist": "Santana",
-"media": ["Poster"],
-"genre": "Afro/Latin/Fusion",
-"country": "UK",
-"image": ["img/1493.jpg"],
-"description": "",
-"decade": 2020,
-"related": []
-},
-{
-"id": 1494,
-"name": "The Concerts In China",
-"year": 1982,
-"artist": "Jean-Michel Jarre",
-"media": ["Poster"],
-"genre": "Electronica",
-"country": "France",
-"image": ["img/1494.jpg"],
-"description": "",
-"decade": 1980,
-"related": []
-},
-{
-"id": 1495,
-"name": "Leb i Sol I & II",
-"year": 1978,
-"artist": "Leb i Sol",
-"media": ["CD"],
-"genre": "Jazz/Fusion",
-"country": "Slovenia",
-"image": ["img/1495.jpg"],
-"description": "",
-"decade": 1970,
-"related": []
-},
+{"id": 1491,"name": "VIP Oneness 2025 Tour","year": 2025,"artist": "Santana","media": ["Pass"],"genre": "Afro/Latin/Fusion","country": "UK","image": ["img/1491.jpg"],"description": "","decade": 2020,"related": []},
+{"id": 1492,"name": "Oneness 2025 Tour","year": 2025,"artist": "Santana","media": ["Bag"],"genre": "Afro/Latin/Fusion","country": "UK","image": ["img/1492.jpg"],"description": "","decade": 2020,"related": []},
+{"id": 1493,"name": "Oneness 2025 Tour","year": 2025,"artist": "Santana","media": ["Poster"],"genre": "Afro/Latin/Fusion","country": "UK","image": ["img/1493.jpg"],"description": "","decade": 2020,"related": []},
+{"id": 1494,"name": "The Concerts In China","year": 1982,"artist": "Jean-Michel Jarre","media": ["Poster"],"genre": "Electronica","country": "France","image": ["img/1494.jpg"],"description": "","decade": 1980,"related": []},
+{"id": 1495,"name": "Leb i Sol I & II","year": 1978,"artist": "Leb i Sol","media": ["CD"],"genre": "Jazz/Fusion","country": "Slovenia","image": ["img/1495.jpg"],"description": "","decade": 1970,"related": []},
 {"id": 1496,"name": "Collectors IOM Stamp Pack","year": 2025,"artist": "Rick Wakeman","media": ["Stamp"],"genre": "Prog Rock","country": "UK",
 "image": [
     "img/1496.jpg",    "img/1496-2.jpg",    "img/1496-3.jpg",    "img/1496-4.jpg",    "img/1496-5.jpg",
@@ -15816,7 +15696,7 @@
     "img/1500-26.jpg",    "img/1500-27.jpg",    "img/1500-28.jpg",    "img/1500-29.jpg",    "img/1500-30.jpg",    "img/1500-31.jpg",    "img/1500-32.jpg",    "img/1500-33.jpg",
     "img/1500-34.jpg",    "img/1500-35.jpg"
     ],"description": "","decade": 2010,"related": ["Rick Wakeman","Roger Dean"]},
-{"id": 1501,"name": "Wendy Carlos every album, every song","year": 2024,"artist": "Mark Marrington","media": ["Book"],"genre": "Electronica","country": "UK","image": ["img/1501.jpg","img/1501-2.jpg"],"description": "","decade": 2020,"related": ["Wendy Carlos"]},
+{"id": 1501,"name": "Wendy Carlos Every Album, Every Song","year": 2024,"artist": "Mark Marrington","media": ["Book"],"genre": "Electronica","country": "UK","image": ["img/1501.jpg","img/1501-2.jpg"],"description": "","decade": 2020,"related": ["Wendy Carlos"]},
 {"id": 1502,"name": "Focus 50","year": 2021,"artist": "Focus","media": ["Box"],"genre": "Prog Rock","country": "The Netherlands",
 "image": [
     "img/1502.jpg",    "img/1502-2.jpg",    "img/1502-3.jpg",    "img/1502-4.jpg",    "img/1502-5.jpg",
@@ -16210,5 +16090,9 @@
     "img/1684-11.jpg",    "img/1684-12.jpg",    "img/1684-13.jpg",    "img/1684-14.jpg",    "img/1684-15.jpg",
     "img/1684-16.jpg",    "img/1684-17.jpg",    "img/1684-18.jpg",    "img/1684-19.jpg",    "img/1684-20.jpg",
     "img/1684-21.jpg",    "img/1684-22.jpg",    "img/1684-23.jpg",    "img/1684-24.jpg"
-    ],"description": "","decade": 2000,"related": ["Rick Wakeman"]}
+],"description": "","decade": 2000,"related": ["Rick Wakeman"]},
+{"id": 1685,"name": "It Was Fifty Years Ago Today!","year": 2017,"artist": "Alan G. Parker","media": ["DVD"],"genre": "Pop Rock","country": "UK","image": ["img/1685.jpg","img/1685-2.jpg"],"description": "","decade": 2010,"related": ["The Fab Four"]},
+{"id": 1686,"name": "All You Need Is Love","year": 2016,"artist": "Paul Skellet & Simon Weitzman","media": ["Book"],"genre": "Pop Rock","country": "UK","image": ["img/1686.jpg","img/1686-2.jpg"],"description": "","decade": 2010,"related": ["The Fab Four"]},
+{"id": 1687,"name": "Wonderous Stories","year": 2017,"artist": "Jerry Ewing","media": ["Book"],"genre": "Pop Rock","country": "UK","image": ["img/1687.jpg","img/1687-2.jpg"],"description": "","decade": 2010,"related": [""]},
+{"id": 1688,"name": "Wonderous Stories","year": 2017,"artist": "Jerry Ewing","media": ["Poster"],"genre": "Pop Rock","country": "UK","image": ["img/1688.jpg"],"description": "","decade": 2010,"related": [""]}
 ]
