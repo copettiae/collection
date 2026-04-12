@@ -16094,5 +16094,13 @@
 {"id": 1685,"name": "It Was Fifty Years Ago Today!","year": 2017,"artist": "Alan G. Parker","media": ["DVD"],"genre": "Pop Rock","country": "UK","image": ["img/1685.jpg","img/1685-2.jpg"],"description": "","decade": 2010,"related": ["The Fab Four"]},
 {"id": 1686,"name": "All You Need Is Love","year": 2016,"artist": "Paul Skellet & Simon Weitzman","media": ["Book"],"genre": "Pop Rock","country": "UK","image": ["img/1686.jpg","img/1686-2.jpg"],"description": "","decade": 2010,"related": ["The Fab Four"]},
 {"id": 1687,"name": "Wonderous Stories","year": 2017,"artist": "Jerry Ewing","media": ["Book"],"genre": "Pop Rock","country": "UK","image": ["img/1687.jpg","img/1687-2.jpg"],"description": "","decade": 2010,"related": [""]},
-{"id": 1688,"name": "Wonderous Stories","year": 2017,"artist": "Jerry Ewing","media": ["Poster"],"genre": "Pop Rock","country": "UK","image": ["img/1688.jpg"],"description": "","decade": 2010,"related": [""]}
+{"id": 1688,"name": "Wonderous Stories","year": 2017,"artist": "Jerry Ewing","media": ["Poster"],"genre": "Pop Rock","country": "UK","image": ["img/1688.jpg"],"description": "","decade": 2010,"related": [""]},
+{"id": 1689,"name": "Back Again","year": 2001,"artist": "Rick Wakeman","media": ["Tour"],"genre": "Prog Rock","country": "UK",
+"image": [
+    "img/1689.jpg",    "img/1689-2.jpg",    "img/1689-3.jpg",    "img/1689-4.jpg",    "img/1689-5.jpg",
+    "img/1689-6.jpg",    "img/1689-7.jpg",    "img/1689-8.jpg",    "img/1689-9.jpg",    "img/1689-10.jpg",
+    "img/1689-11.jpg",    "img/1689-12.jpg",    "img/1689-13.jpg",    "img/1689-14.jpg",    "img/1689-15.jpg",
+    "img/1689-16.jpg"
+],"description": "","decade": 2000,"related": ["Rick Wakeman"]},
+{"id": 1690,"name": "Back Again","year": 2001,"artist": "Rick Wakeman","media": ["Poster"],"genre": "Prog Rock","country": "UK","image": ["img/1690.jpg"],"description": "","decade": 2000,"related": ["Rick Wakeman"]}
 ]
