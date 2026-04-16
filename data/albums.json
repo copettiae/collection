@@ -13125,19 +13125,17 @@
 "decade": 2020,
 "related": ["To Buy"]
 },
-{
-"id": 1239,
-"name": "Renaissance - Can You Hear Me - Broadcasts 1974-1978 (NEW 2CD+BLU-RAY)",
-"year": 2025,
-"artist": "To Buy",
-"media": ["To Buy Box"],
-"genre": "To Buy",
-"country": "To Buy",
-"image": ["img/1239.jpg"],
-"description": "",
-"decade": 2020,
-"related": ["To Buy"]
-},
+{"id": 1239,"name": "Progeny: Seven Shows From Seventy-Two","year": 2022,"artist": "Yes","media": ["Box"],"genre": "Prog Rock","country": "USA",
+"image": [
+    "img/1239.jpg",    "img/1239-2.jpg",
+    "img/1696.jpg",    "img/1696-2.jpg",    "img/1696-3.jpg",
+    "img/1697.jpg",    "img/1697-2.jpg",    "img/1697-3.jpg",
+    "img/1698.jpg",    "img/1698-2.jpg",    "img/1698-3.jpg",
+    "img/1699.jpg",    "img/1699-2.jpg",    "img/1699-3.jpg",
+    "img/1700.jpg",    "img/1700-2.jpg",    "img/1700-3.jpg",
+    "img/1701.jpg",    "img/1701-2.jpg",    "img/1701-3.jpg",
+    "img/1702.jpg",    "img/1702-2.jpg",    "img/1702-3.jpg"
+],"description": "","decade": 2020,"related": ["Yes"]},
 {
 "id": 1240,
 "name": "Roger - Budgie",
@@ -15468,186 +15466,30 @@
     "img/1469-6.jpg",    "img/1469-7.jpg",    "img/1469-8.jpg",    "img/1469-9.jpg",    "img/1469-10.jpg"
 ],"description": "","decade": 2000,"related": ["Yes","Roger Dean"]},
 {"id": 1470,"name": "Majikat Earth Tour 1976","year": 1976,"artist": "Cat Stevens / Yusuf Islam","media": ["DVD"],"genre": "Folk Rock","country": "UK","image": ["img/1470.jpg","img/1470-2.jpg"],"description": "","decade": 1970,"related": [""]},
-{
-"id": 1471,
-"name": "Classic Rock",
-"year": 2009,
-"artist": "Pink Floyd",
-"media": ["Mag"],
-"genre": "Prog Rock",
-"country": "UK",
-"image": ["img/1471.jpg"],
-"description": "",
-"decade": 2000,
-"related": ["Pink Floyd"]
-},
-{
-"id": 1472,
-"name": "Roger - Budgie2",
-"year": 2025,
-"artist": "To Buy",
-"media": ["Wanted"],
-"genre": "To Buy",
-"country": "To Buy",
-"image": ["img/1472.jpg"],
-"description": "",
-"decade": 2020,
-"related": ["To Buy"]
-},
-{
-"id": 1473,
-"name": "Roger - Keith Tippett Group",
-"year": 2025,
-"artist": "To Buy",
-"media": ["Wanted"],
-"genre": "To Buy",
-"country": "To Buy",
-"image": ["img/1473.jpg"],
-"description": "",
-"decade": 2020,
-"related": ["To Buy"]
-},
-{
-"id": 1474,
-"name": "Nucleus Elastic Rock",
-"year": 2025,
-"artist": "To Buy",
-"media": ["Wanted"],
-"genre": "To Buy",
-"country": "To Buy",
-"image": ["img/1474.jpg"],
-"description": "",
-"decade": 2020,
-"related": ["To Buy"]
-},
-{
-"id": 1475,
-"name": "First Base",
-"year": 1972,
-"artist": "Babe Ruth",
-"media": ["LP"],
-"genre": "Rock",
-"country": "UK",
-"image": ["img/1475.jpg"],
-"description": "",
-"decade": 1970,
-"related": ["Roger Dean"]
-},
-{
-"id": 1476,
-"name": "Motown Chartbusters Vol. 6",
-"year": 1971,
-"artist": "Various",
-"media": ["LP"],
-"genre": "Funk/Soul/R&B",
-"country": "UK",
-"image": ["img/1476.jpg"],
-"description": "",
-"decade": 1970,
-"related": ["Roger Dean"]
-},
-{
-"id": 1477,
-"name": "Roger - Rare Earth One World",
-"year": 2025,
-"artist": "To Buy",
-"media": ["Wanted"],
-"genre": "To Buy",
-"country": "To Buy",
-"image": ["img/1477.jpg"],
-"description": "",
-"decade": 2020,
-"related": ["To Buy"]
-},
-{
-"id": 1478,
-"name": "Roger - Billy Cox's Nitro Function",
-"year": 2025,
-"artist": "To Buy",
-"media": ["Wanted"],
-"genre": "To Buy",
-"country": "To Buy",
-"image": ["img/1478.jpg"],
-"description": "",
-"decade": 2020,
-"related": ["To Buy"]
-},
-{
-"id": 1479,
-"name": "Snafu",
-"year": 1973,
-"artist": "Snafu",
-"media": ["LP"],
-"genre": "Rock",
-"country": "UK",
-"image": ["img/1479.jpg"],
-"description": "",
-"decade": 1970,
-"related": ["Roger Dean"]
-},
-{
-"id": 1480,
-"name": "Roger - McKendree String",
-"year": 2025,
-"artist": "To Buy",
-"media": ["Wanted"],
-"genre": "To Buy",
-"country": "To Buy",
-"image": ["img/1480.jpg"],
-"description": "",
-"decade": 2020,
-"related": ["To Buy"]
-},
+{"id": 1471,"name": "Classic Rock","year": 2009,"artist": "Pink Floyd","media": ["Mag"],"genre": "Prog Rock","country": "UK","image": ["img/1471.jpg"],"description": "","decade": 2000,"related": ["Pink Floyd"]},
+{"id": 1472,"name": "Roger - Budgie2","year": 2025,"artist": "To Buy","media": ["Wanted"],"genre": "To Buy","country": "To Buy","image": ["img/1472.jpg"],"description": "","decade": 2020,"related": ["To Buy"]},
+{"id": 1473,"name": "Roger - Keith Tippett Group","year": 2025,"artist": "To Buy","media": ["Wanted"],"genre": "To Buy","country": "To Buy","image": ["img/1473.jpg"],"description": "","decade": 2020,"related": ["To Buy"]},
+{"id": 1474,"name": "Nucleus Elastic Rock","year": 2025,"artist": "To Buy","media": ["Wanted"],"genre": "To Buy","country": "To Buy","image": ["img/1474.jpg"],"description": "","decade": 2020,"related": ["To Buy"]},
+{"id": 1475,"name": "First Base","year": 1972,"artist": "Babe Ruth","media": ["LP"],"genre": "Rock","country": "UK","image": ["img/1475.jpg"],"description": "","decade": 1970,"related": ["Roger Dean"]},
+{"id": 1476,"name": "Motown Chartbusters Vol. 6","year": 1971,"artist": "Various","media": ["LP"],"genre": "Funk/Soul/R&B","country": "UK","image": ["img/1476.jpg"],"description": "","decade": 1970,"related": ["Roger Dean"]},
+{"id": 1477,"name": "Roger - Rare Earth One World","year": 2025,"artist": "To Buy","media": ["Wanted"],"genre": "To Buy","country": "To Buy","image": ["img/1477.jpg"],"description": "","decade": 2020,"related": ["To Buy"]},
+{"id": 1478,"name": "Roger - Billy Cox's Nitro Function","year": 2025,"artist": "To Buy","media": ["Wanted"],"genre": "To Buy","country": "To Buy","image": ["img/1478.jpg"],"description": "","decade": 2020,"related": ["To Buy"]},
+{"id": 1479,"name": "Snafu","year": 1973,"artist": "Snafu","media": ["LP"],"genre": "Rock","country": "UK","image": ["img/1479.jpg"],"description": "","decade": 1970,"related": ["Roger Dean"]},
+{"id": 1480,"name": "Roger - McKendree String","year": 2025,"artist": "To Buy","media": ["Wanted"],"genre": "To Buy","country": "To Buy","image": ["img/1480.jpg"],"description": "","decade": 2020,"related": ["To Buy"]},
 {"id": 1481,"name": "Gun","year": 1968,"artist": "The Gun","media": ["LP"],"genre": "Psychedelic Rock","country": "UK","image": ["img/1481.jpg","img/1481-2.jpg"],"description": "","decade": 1960,"related": ["Roger Dean"]},
 {"id": 1482,"name": "Roger - Midnight Sun","year": 2025,"artist": "To Buy","media": ["Wanted"],"genre": "To Buy","country": "To Buy","image": ["img/1482.jpg"],"description": "","decade": 2020,"related": ["To Buy"]},
 {"id": 1483,"name": "Roger - Midnight Sun WC","year": 2025,"artist": "To Buy","media": ["Wanted"],"genre": "To Buy","country": "To Buy","image": ["img/1483.jpg"],"description": "","decade": 2020,"related": ["To Buy"]},
 {"id": 1484,"name": "Roger - This is Gracious","year": 2025,"artist": "To Buy","media": ["Wanted"],"genre": "To Buy","country": "To Buy","image": ["img/1484.jpg"],"description": "","decade": 2020,"related": ["To Buy"]},
 {"id": 1485,"name": "Roger - Atomic Rooster","year": 2025,"artist": "To Buy","media": ["Wanted"],"genre": "To Buy","country": "To Buy","image": ["img/1485.jpg"],"description": "","decade": 2020,"related": ["To Buy"]},
-{
-"id": 1486,
-"name": "Direct",
-"year": 1988,
-"artist": "Vangelis",
-"media": ["CD"],
-"genre": "Electronica",
-"country": "Greece",
-"image": ["img/1486.jpg"],
-"description": "",
-"decade": 1980,
-"related": ["Vangelis"]
-},
+{"id": 1486,"name": "Direct","year": 1988,"artist": "Vangelis","media": ["CD"],"genre": "Electronica","country": "Greece","image": ["img/1486.jpg"],"description": "","decade": 1980,"related": ["Vangelis"]},
 {"id": 1487,"name": "An Evening With Rick Wakeman Tour","year": 2000,"artist": "Rick Wakeman","media": ["Tour"],"genre": "Prog Rock","country": "UK",
 "image": [
     "img/1487.jpg",    "img/1487-2.jpg",    "img/1487-3.jpg",    "img/1487-4.jpg",    "img/1487-5.jpg",    "img/1487-6.jpg",
     "img/1487-7.jpg",    "img/1487-8.jpg",    "img/1487-9.jpg",    "img/1487-10.jpg",    "img/1487-11.jpg",    "img/1487-12.jpg",
     "img/1487-13.jpg",    "img/1487-14.jpg",    "img/1487-15.jpg",    "img/1487-16.jpg"
 ],"description": "","decade": 2000,"related": ["Rick Wakeman"]},
-{
-"id": 1488,
-"name": "The Six Wives of Henry VIII Hampton Court Palace",
-"year": 2009,
-"artist": "Rick Wakeman",
-"media": ["Tour"],
-"genre": "Prog Rock",
-"country": "UK",
-"image": ["img/1488.jpg"],
-"description": "",
-"decade": 2000,
-"related": ["Rick Wakeman"]
-},
-{
-"id": 1489,
-"name": "The Smile Has Left Your Eyes",
-"year": 1983,
-"artist": "Asia",
-"media": ["LP"],
-"genre": "Prog Rock",
-"country": "UK",
-"image": ["img/1489.jpg"],
-"description": "",
-"decade": 1980,
-"related": ["Roger Dean"]
-},
+{"id": 1488,"name": "The Six Wives of Henry VIII Hampton Court Palace","year": 2009,"artist": "Rick Wakeman","media": ["Tour"],"genre": "Prog Rock","country": "UK","image": ["img/1488.jpg"],"description": "","decade": 2000,"related": ["Rick Wakeman"]},
+{"id": 1489,"name": "The Smile Has Left Your Eyes","year": 1983,"artist": "Asia","media": ["LP"],"genre": "Prog Rock","country": "UK","image": ["img/1489.jpg"],"description": "","decade": 1980,"related": ["Roger Dean"]},
 {"id": 1490,"name": "Vangelis The Unknown Man - Complete","year": 2025,"artist": "Mark J.T. Griffin","media": ["Book"],"genre": "Prog Rock","country": "UK","image": ["img/1490.jpg","img/1490-2.jpg"],"description": "","decade": 2020,"related": ["Vangelis"]},
 {"id": 1491,"name": "VIP Oneness 2025 Tour","year": 2025,"artist": "Santana","media": ["Pass"],"genre": "Afro/Latin/Fusion","country": "UK","image": ["img/1491.jpg"],"description": "","decade": 2020,"related": []},
 {"id": 1492,"name": "Oneness 2025 Tour","year": 2025,"artist": "Santana","media": ["Bag"],"genre": "Afro/Latin/Fusion","country": "UK","image": ["img/1492.jpg"],"description": "","decade": 2020,"related": []},
@@ -16097,5 +15939,33 @@
     "img/1693-26.jpg",    "img/1693-27.jpg"
 ],"description": "","decade": 1980,"related": ["Rick Wakeman"]},
 {"id": 1694,"name": "Crimes Of Passion","year": 2017,"artist": "Rick Wakeman","media": ["Box"],"genre": "Prog Rock","country": "UK","image": ["img/1694.jpg"],"description": "","decade": 2010,"related": ["Rick Wakeman"]},
-{"id": 1695,"name": "A New Day Yesterday","year": 2020,"artist": "Mike Barnes","media": ["Book"],"genre": "Prog Rock","country": "UK","image": ["img/1695.jpg","img/1695-2.jpg"],"description": "","decade": 2010,"related": [""]}
+{"id": 1695,"name": "A New Day Yesterday","year": 2020,"artist": "Mike Barnes","media": ["Book"],"genre": "Prog Rock","country": "UK","image": ["img/1695.jpg","img/1695-2.jpg"],"description": "","decade": 2010,"related": [""]},
+{"id": 1696,"name": "Progeny: Maple Leaf Garden","year": 1972,"artist": "Yes","media": ["LP"],"genre": "Prog Rock","country": "Canada",
+"image": [
+    "img/1696.jpg",    "img/1696-2.jpg",    "img/1696-3.jpg"
+],"description": "","decade": 1970,"related": ["Yes"]},
+{"id": 1697,"name": "Progeny: Ottawa Civil Centre","year": 1972,"artist": "Yes","media": ["LP"],"genre": "Prog Rock","country": "Canada",
+"image": [
+    "img/1697.jpg",    "img/1697-2.jpg",    "img/1697-3.jpg"
+],"description": "","decade": 1970,"related": ["Yes"]},
+{"id": 1698,"name": "Progeny: Duke University","year": 1972,"artist": "Yes","media": ["LP"],"genre": "Prog Rock","country": "USA",
+"image": [
+    "img/1698.jpg",    "img/1698-2.jpg",    "img/1698-3.jpg"
+],"description": "","decade": 1970,"related": ["Yes"]},
+{"id": 1699,"name": "Progeny: Greensboro Colisuem","year": 1972,"artist": "Yes","media": ["LP"],"genre": "Prog Rock","country": "USA",
+"image": [
+    "img/1699.jpg",    "img/1699-2.jpg",    "img/1699-3.jpg"
+],"description": "","decade": 1970,"related": ["Yes"]},
+{"id": 1700,"name": "Progeny: University Of Giorgia","year": 1972,"artist": "Yes","media": ["LP"],"genre": "Prog Rock","country": "USA",
+"image": [
+    "img/1700.jpg",    "img/1700-2.jpg",    "img/1700-3.jpg"
+],"description": "","decade": 1970,"related": ["Yes"]},
+{"id": 1701,"name": "Progeny: Knoxville Civic Coliseum","year": 1972,"artist": "Yes","media": ["LP"],"genre": "Prog Rock","country": "USA",
+"image": [
+    "img/1701.jpg",    "img/1701-2.jpg",    "img/1701-3.jpg"
+],"description": "","decade": 1970,"related": ["Yes"]},
+{"id": 1702,"name": "Progeny: Nassau Veterans Memorial Coliseum","year": 1972,"artist": "Yes","media": ["LP"],"genre": "Prog Rock","country": "USA",
+"image": [
+    "img/1702.jpg",    "img/1702-2.jpg",    "img/1702-3.jpg"
+],"description": "","decade": 1970,"related": ["Yes"]}
 ]
