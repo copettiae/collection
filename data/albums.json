@@ -7025,7 +7025,11 @@
 "related": ["The Fab Four"]
 },
 {"id": 976,"name": "Paul Is Live!!! In Concert On The New World Tour","year": 2003,"artist": "Paul McCartney","media": ["DVD"],"genre": "Pop Rock","country": "UK","image": ["img/976.jpg","img/976-2.jpg"],"description": "","decade": 2000,"related": ["The Fab Four"]},
-{"id": 428,"name": "The Lyrics","year": 2021,"artist": "Paul McCartney","media": ["Book"],"genre": "Pop Rock","country": "UK","image": ["img/428.jpg"],"description": "","decade": 2020,"related": ["The Fab Four"]},
+{"id": 428,"name": "The Lyrics","year": 2021,"artist": "Paul McCartney","media": ["Book"],"genre": "Pop Rock","country": "UK",
+"image": [
+    "img/428.jpg",    "img/428-2.jpg",    "img/428-3.jpg",    "img/428-4.jpg",    "img/428-5.jpg",
+    "img/428-6.jpg",    "img/428-7.jpg",    "img/428-8.jpg",    "img/428-9.jpg",    "img/428-10.jpg"
+],"description": "","decade": 2020,"related": ["The Fab Four"]},
 {
 "id": 614,
 "name": "Band On The Run",
