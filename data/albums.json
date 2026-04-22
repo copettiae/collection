@@ -15859,5 +15859,13 @@
     "img/1703-11.jpg",    "img/1703-12.jpg",    "img/1703-13.jpg",    "img/1703-14.jpg",    "img/1703-15.jpg",
     "img/1703-16.jpg",    "img/1703-17.jpg",    "img/1703-18.jpg",    "img/1703-19.jpg",    "img/1703-20.jpg",
     "img/1703-21.jpg",    "img/1703-22.jpg",    "img/1703-23.jpg"
-],"description": "","decade": 1970,"related": ["Rick Wakeman"]}
+],"description": "","decade": 1970,"related": ["Rick Wakeman"]},
+{"id": 1704,"name": "Daily Error","year": 1981,"artist": "Rick Wakeman","media": ["Tour"],"genre": "Prog Rock","country": "UK",
+"image": [
+    "img/1704.jpg"
+],"description": "","decade": 1980,"related": ["Rick Wakeman"]},
+{"id": 1705,"name": "Progressive Music Awards","year": 2012,"artist": "Arik Roper","media": ["Poster"],"genre": "Prog Rock","country": "UK",
+"image": [
+    "img/1705.jpg"
+],"description": "","decade": 2010,"related": [""]}
 ]
