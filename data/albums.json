@@ -12419,19 +12419,7 @@
 {"id": 1121,"name": "Prog 47","year": 2014,"artist": "Yes","media": ["Mag"],"genre": "Prog Rock","country": "UK","image": ["img/1121.jpg","img/1121-2.jpg"],"description": "","decade": 2010,"related": ["Yes"]},
 {"id": 1122,"name": "Union Live","year": 2014,"artist": "Yes","media": ["Box","LP"],"genre": "Prog Rock","country": "UK","image": ["img/1122.jpg"],"description": "","decade": 2010,"related": ["Yes","Roger Dean"]},
 {"id": 1123,"name": "At The Mesa Arts Center","year": 2015,"artist": "Yes","media": ["LP"],"genre": "Prog Rock","country": "UK","image": ["img/1123.jpg"],"description": "","decade": 2010,"related": ["Yes","Roger Dean"]},
-{
-"id": 1124,
-"name": "Progeny: Highlights From Seventy-Two",
-"year": 2015,
-"artist": "Yes",
-"media": ["LP"],
-"genre": "Prog Rock",
-"country": "UK",
-"image": ["img/1124.jpg"],
-"description": "",
-"decade": 2010,
-"related": ["Yes","Roger Dean"]
-},
+{"id": 1124,"name": "Progeny: Highlights From Seventy-Two","year": 2015,"artist": "Yes","media": ["LP"],"genre": "Prog Rock","country": "UK","image": ["img/1124.jpg"],"description": "","decade": 2010,"related": ["Yes","Roger Dean"]},
 {
 "id": 1125,
 "name": "Prog 71",
@@ -13103,7 +13091,7 @@
     "img/1700.jpg",    "img/1700-2.jpg",    "img/1700-3.jpg",
     "img/1701.jpg",    "img/1701-2.jpg",    "img/1701-3.jpg",
     "img/1702.jpg",    "img/1702-2.jpg",    "img/1702-3.jpg"
-],"description": "","decade": 2020,"related": ["Yes"]},
+],"description": "","decade": 2020,"related": ["Yes","Roger Dean"]},
 {
 "id": 1240,
 "name": "Roger - Budgie",
@@ -15827,31 +15815,31 @@
 {"id": 1696,"name": "Progeny: Maple Leaf Garden","year": 1972,"artist": "Yes","media": ["LP"],"genre": "Prog Rock","country": "Canada",
 "image": [
     "img/1696.jpg",    "img/1696-2.jpg",    "img/1696-3.jpg"
-],"description": "","decade": 1970,"related": ["Yes"]},
+],"description": "","decade": 1970,"related": ["Yes","Roger Dean"]},
 {"id": 1697,"name": "Progeny: Ottawa Civil Centre","year": 1972,"artist": "Yes","media": ["LP"],"genre": "Prog Rock","country": "Canada",
 "image": [
     "img/1697.jpg",    "img/1697-2.jpg",    "img/1697-3.jpg"
-],"description": "","decade": 1970,"related": ["Yes"]},
+],"description": "","decade": 1970,"related": ["Yes","Roger Dean"]},
 {"id": 1698,"name": "Progeny: Duke University","year": 1972,"artist": "Yes","media": ["LP"],"genre": "Prog Rock","country": "USA",
 "image": [
     "img/1698.jpg",    "img/1698-2.jpg",    "img/1698-3.jpg"
-],"description": "","decade": 1970,"related": ["Yes"]},
+],"description": "","decade": 1970,"related": ["Yes","Roger Dean"]},
 {"id": 1699,"name": "Progeny: Greensboro Colisuem","year": 1972,"artist": "Yes","media": ["LP"],"genre": "Prog Rock","country": "USA",
 "image": [
     "img/1699.jpg",    "img/1699-2.jpg",    "img/1699-3.jpg"
-],"description": "","decade": 1970,"related": ["Yes"]},
+],"description": "","decade": 1970,"related": ["Yes","Roger Dean"]},
 {"id": 1700,"name": "Progeny: University Of Giorgia","year": 1972,"artist": "Yes","media": ["LP"],"genre": "Prog Rock","country": "USA",
 "image": [
     "img/1700.jpg",    "img/1700-2.jpg",    "img/1700-3.jpg"
-],"description": "","decade": 1970,"related": ["Yes"]},
+],"description": "","decade": 1970,"related": ["Yes","Roger Dean"]},
 {"id": 1701,"name": "Progeny: Knoxville Civic Coliseum","year": 1972,"artist": "Yes","media": ["LP"],"genre": "Prog Rock","country": "USA",
 "image": [
     "img/1701.jpg",    "img/1701-2.jpg",    "img/1701-3.jpg"
-],"description": "","decade": 1970,"related": ["Yes"]},
+],"description": "","decade": 1970,"related": ["Yes","Roger Dean"]},
 {"id": 1702,"name": "Progeny: Nassau Veterans Memorial Coliseum","year": 1972,"artist": "Yes","media": ["LP"],"genre": "Prog Rock","country": "USA",
 "image": [
     "img/1702.jpg",    "img/1702-2.jpg",    "img/1702-3.jpg"
-],"description": "","decade": 1970,"related": ["Yes"]},
+],"description": "","decade": 1970,"related": ["Yes","Roger Dean"]},
 {"id": 1703,"name": "The F.A. Challenge Tankard Final","year": 1976,"artist": "Rick Wakeman","media": ["Tour"],"genre": "Prog Rock","country": "UK",
 "image": [
     "img/1703.jpg",    "img/1703-2.jpg",    "img/1703-3.jpg",    "img/1703-4.jpg",    "img/1703-5.jpg",
