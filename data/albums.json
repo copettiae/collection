@@ -7786,19 +7786,13 @@
 "decade": 1970,
 "related": ["Rick Wakeman"]
 },
-{
-"id": 695,
-"name": "Empire Pool Wembley Tour",
-"year": 1975,
-"artist": "Rick Wakeman",
-"media": ["Tour"],
-"genre": "Prog Rock",
-"country": "UK",
-"image": ["img/695.jpg"],
-"description": "",
-"decade": 1970,
-"related": ["Rick Wakeman"]
-},
+{"id": 695,"name": "Empire Pool Wembley Tour","year": 1975,"artist": "Rick Wakeman","media": ["Tour"],"genre": "Prog Rock","country": "UK",
+"image": [
+    "img/695.jpg",    "img/695-2.jpg",    "img/695-3.jpg",    "img/695-4.jpg",    "img/695-5.jpg",
+    "img/695-6.jpg",    "img/695-7.jpg",    "img/695-8.jpg",    "img/695-9.jpg",    "img/695-10.jpg",
+    "img/695-11.jpg",    "img/695-12.jpg",    "img/695-13.jpg",    "img/695-14.jpg",    "img/695-15.jpg",
+    "img/695-16.jpg"
+],"description": "","decade": 1970,"related": ["Rick Wakeman"]},
 {"id": 694,"name": "The Myths And Legends Of King Arthur And The Knights Of The Round Table","year": 1975,"artist": "Rick Wakeman","media": ["CD","LP"],"genre": "Prog Rock","country": "UK","image": ["img/694.jpg","img/694-2.jpg"],"description": "","decade": 1970,"related": ["Rick Wakeman"]},
 {"id": 697,"name": "No Earthly Connection","year": 1976,"artist": "Rick Wakeman","media": ["CD","LP"],"genre": "Prog Rock","country": "UK","image": ["img/697.jpg","img/697-2.jpg"],"description": "","decade": 1970,"related": ["Rick Wakeman"]},
 {"id": 700,"name": "White Rock","year": 1976,"artist": "Rick Wakeman","media": ["CD","LP"],"genre": "Prog Rock","country": "UK","image": ["img/700.jpg","img/700-2.jpg"],"description": "Classic Albums","decade": 1970,"related": ["Rick Wakeman"]},
