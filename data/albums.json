@@ -15863,12 +15863,13 @@
 "image": [
     "img/1712.jpg",    "img/1712-2.jpg",    "img/1712-3.jpg",    "img/1712-4.jpg",    "img/1712-5.jpg",    "img/1712-6.jpg"
 ],"description": "","decade": 1970,"related": ["Rick Wakeman"]},
-{"id": 1713,"name": "Going For A Song","year": 2018,"artist": "Garth Cartwright","media": ["Book"],"genre": "Pop Rock","country": "UK","image": ["img/1713.jpg","img/1713-2.jpg"],"description": "","decade": 2010,"related": [""]},
+{"id": 1713,"name": "Going For A Song","year": 2018,"artist": "Garth Cartwright","media": ["Book"],"genre": "Prog Rock","country": "UK","image": ["img/1713.jpg","img/1713-2.jpg"],"description": "","decade": 2010,"related": [""]},
 {"id": 1714,"name": "Garden Party VII July 27","year": 1974,"artist": "Rick Wakeman","media": ["Tour"],"genre": "Prog Rock","country": "UK",
 "image": [
     "img/1714.jpg",    "img/1714-2.jpg",    "img/1714-3.jpg",    "img/1714-4.jpg",    "img/1714-5.jpg",
     "img/1714-6.jpg",    "img/1714-7.jpg",    "img/1714-8.jpg",    "img/1714-9.jpg",    "img/1714-10.jpg",
     "img/1714-11.jpg",    "img/1714-12.jpg",    "img/1714-13.jpg",    "img/1714-14.jpg",    "img/1714-15.jpg",
     "img/1714-16.jpg"
-],"description": "","decade": 1970,"related": ["Rick Wakeman"]}
+],"description": "","decade": 1970,"related": ["Rick Wakeman"]},
+{"id": 1715,"name": "Live Tokio","year": 2014,"artist": "Yes","media": ["Poster"],"genre": "Prog Rock","country": "Japan","image": ["img/1715.jpg","img/1715-2.jpg"],"description": "","decade": 2010,"related": ["Yes","Roger Dean"]}
 ]
