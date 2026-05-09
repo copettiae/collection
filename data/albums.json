@@ -12827,19 +12827,7 @@
 {"id": 1219,"name": "Prog 88","year": 2018,"artist": "Pink Floyd","media": ["Mag"],"genre": "Prog Rock","country": "UK","image": ["img/1219.jpg"],"description": "","decade": 2010,"related": ["Pink Floyd"]},
 {"id": 1220,"name": "Uncertain Times European Tour","year": 2018,"artist": "King Crimson","media": ["Tour"],"genre": "Prog Rock","country": "UK","image": ["img/1220.jpg","img/1220-2.jpg"],"description": "","decade": 2010,"related": [""]},
 {"id": 1221,"name": "European Tour","year": 2016,"artist": "King Crimson","media": ["Tour"],"genre": "Prog Rock","country": "UK","image": ["img/1221.jpg","img/1221-2.jpg"],"description": "","decade": 2010,"related": [""]},
-{
-"id": 1222,
-"name": "PROG ROCK MAGAZINE/CD ISSUE NO 27 JUNE 2012 EMERSON LAKE & PALMER COVER, AS NEW",
-"year": 2025,
-"artist": "To Buy",
-"media": ["To Buy Mag"],
-"genre": "To Buy",
-"country": "To Buy",
-"image": ["img/1222.jpg"],
-"description": "",
-"decade": 2020,
-"related": ["To Buy"]
-},
+{"id": 1222,"name": "Reunion","year": 2021,"artist": "Asia","media": ["Poster"],"genre": "Prog Rock","country": "UK","image": ["img/1222.jpg"],"description": "","decade": 2020,"related": [""]},
 {
 "id": 1223,
 "name": "PINK FLOYD - Prog Magazine Issue 50 SEALED (OCT 2014)",
