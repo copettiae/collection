@@ -12829,18 +12829,7 @@
 {"id": 1221,"name": "European Tour","year": 2016,"artist": "King Crimson","media": ["Tour"],"genre": "Prog Rock","country": "UK","image": ["img/1221.jpg","img/1221-2.jpg"],"description": "","decade": 2010,"related": [""]},
 {"id": 1222,"name": "Reunion","year": 2021,"artist": "Asia","media": ["Poster"],"genre": "Prog Rock","country": "UK","image": ["img/1222.jpg"],"description": "","decade": 2020,"related": [""]},
 {
-"id": 1223,
-"name": "PINK FLOYD - Prog Magazine Issue 50 SEALED (OCT 2014)",
-"year": 2025,
-"artist": "To Buy",
-"media": ["To Buy Mag"],
-"genre": "To Buy",
-"country": "To Buy",
-"image": ["img/1223.jpg"],
-"description": "",
-"decade": 2020,
-"related": ["To Buy"]
-},
+"id": 1223,"name": "1972 When Progressive Rock Ruled The World","year": 2023,"artist": "Kevan Furbank","media": ["Book"],"genre": "Prog Rock","country": "UK","image": ["img/1223.jpg","img/1223-2.jpg"],"description": "","decade": 2020,"related": [""]},
 {
 "id": 1224,
 "name": "Prog 70",
