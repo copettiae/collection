@@ -12843,19 +12843,7 @@
 "decade": 2010,
 "related": ["Pink Floyd"]
 },
-{
-"id": 1225,
-"name": "PINK FLOYD PROG MAGAZINE JANUARY 2021 ISSUE 116 + FREE CD",
-"year": 2025,
-"artist": "To Buy",
-"media": ["To Buy Mag"],
-"genre": "To Buy",
-"country": "To Buy",
-"image": ["img/1225.jpg"],
-"description": "",
-"decade": 2020,
-"related": ["To Buy"]
-},
+{"id": 1225,"name": "Symphonic Tour","year": 2001,"artist": "Yes","media": ["Tour"],"genre": "Prog Rock","country": "UK","image": ["img/1225.jpg"],"description": "","decade": 2000,"related": ["Yes"]},
 {"id": 1226,"name": "Rick Wakeman At Lincoln Cathedral","year": 2018,"artist": "Rick Wakeman","media": ["Box"],"genre": "Prog Rock","country": "UK",
 "image": [
     "img/1226.jpg",    "img/1226-2.jpg",    "img/1226-3.jpg",    "img/1226-4.jpg",    "img/1226-5.jpg",    "img/1226-6.jpg",
@@ -15650,7 +15638,6 @@
 ],"description": "","decade": 1970,"related": ["Rick Wakeman"]},
 {"id": 1666,"name": "Yes 50 Tour","year": 2018,"artist": "Yes","media": ["Tour"],"genre": "Prog Rock","country": "UK","image": ["img/1666.jpg"],"description": "","decade": 2010,"related": ["Yes","Roger Dean"]},
 {"id": 1667,"name": "Symphonic Tour","year": 2001,"artist": "Yes","media": ["Tour"],"genre": "Prog Rock","country": "UK","image": ["img/1667.jpg"],"description": "","decade": 2000,"related": ["Yes"]},
-
 {"id": 1668,"name": "Bach Concertos 1","year": 1981,"artist": "The English Concert - Trevor Pinnock","media": ["CD"],"genre": "Classical","country": "Germany","image": ["img/1668.jpg","img/1668-2.jpg"],"description": "","decade": 1980,"related": []},
 {"id": 1669,"name": "Bach Concertos 2","year": 1981,"artist": "The English Concert - Trevor Pinnock","media": ["CD"],"genre": "Classical","country": "Germany","image": ["img/1669.jpg","img/1669-2.jpg"],"description": "","decade": 1980,"related": []},
 {"id": 1670,"name": "Bach Concertos 3","year": 1981,"artist": "The English Concert - Trevor Pinnock","media": ["CD"],"genre": "Classical","country": "Germany","image": ["img/1670.jpg","img/1670-2.jpg"],"description": "","decade": 1980,"related": []},
