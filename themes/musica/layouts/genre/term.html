@@ -1,5 +1,11 @@
 {{ define "main" }}
 
+{{ if eq (.Title | lower) "reggae" }}
+<canvas id="smoke-canvas"></canvas>
+{{ $smoke := resources.Get "js/smoke.js" | minify | fingerprint }}
+<script src="{{ $smoke.RelPermalink }}"></script>
+{{ end }}
+
 	<main>
 		
 		{{ if or .Title .Content }}
