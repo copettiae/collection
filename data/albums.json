@@ -12854,18 +12854,7 @@
     "img/1226-31.jpg",    "img/1226-32.jpg",    "img/1226-33.jpg"
 ],"description": "","decade": 2010,"related": ["Rick Wakeman"]},
 {
-"id": 1227,
-"name": "PINK FLOYD Animals: 2018 Remix (Deluxe Edition)",
-"year": 2025,
-"artist": "To Buy",
-"media": ["To Buy CD"],
-"genre": "To Buy",
-"country": "To Buy",
-"image": ["img/1227.jpg"],
-"description": "",
-"decade": 2020,
-"related": ["To Buy"]
-},
+"id": 1227,"name": "Always With You","year": 2010,"artist": "Rick Wakeman","media": ["CD"],"genre": "Classical","country": "UK","image": ["img/1227.jpg"],"description": "","decade": 2010,"related": ["Rick Wakeman"]},
 {"id": 1228,"name": "Essentially","year": 2006,"artist": "Yes","media": ["Box","CD"],"genre": "Prog Rock","country": "UK",
 "image": [
     "img/1228.jpg",    "img/1228-2.jpg",    "img/1228-3.jpg",    "img/1228-4.jpg",    "img/1228-5.jpg",
@@ -12875,19 +12864,7 @@
     "img/1228-21.jpg",    "img/1228-22.jpg",    "img/1228-23.jpg",    "img/1228-24.jpg",    "img/1228-25.jpg",
     "img/1228-26.jpg",    "img/1228-27.jpg",    "img/1228-28.jpg"
 ],"description": "","decade": 2000,"related": ["Yes","Roger Dean"]},
-{
-"id": 1229,
-"name": "Tony Kaye End Of Innocence CD",
-"year": 2025,
-"artist": "To Buy",
-"media": ["To Buy CD"],
-"genre": "To Buy",
-"country": "To Buy",
-"image": ["img/1229.jpg"],
-"description": "",
-"decade": 2020,
-"related": ["To Buy"]
-},
+{"id": 1229,"name": "Journey To The Centre Of The Earth And Return To The Centre Of The Earth","year": 2014,"artist": "Rick Wakeman","media": ["Box","LP","CD"],"genre": "Prog Rock","country": "UK","image": ["img/1229.jpg","img/1229-2.jpg"],"description": "","decade": 2010,"related": ["Rick Wakeman"]},
 {
 "id": 1230,
 "name": "Live From Birmingham: The 10,000 Light Years Tour",
@@ -12914,19 +12891,10 @@
 "decade": 1970,
 "related": ["Roger Dean"]
 },
-{
-"id": 1232,
-"name": "Pink Floyd Discovery 16 Music CD include14 Studio Albums + 60 Page Book",
-"year": 2025,
-"artist": "To Buy",
-"media": ["To Buy Box"],
-"genre": "To Buy",
-"country": "To Buy",
-"image": ["img/1232.jpg"],
-"description": "",
-"decade": 2020,
-"related": ["To Buy"]
-},
+{"id": 1232,"name": "The Legend Live In Concert 2000","year": 2000,"artist": "Rick Wakeman","media": ["DVD","CD"],"genre": "Prog Rock","country": "UK",
+"image": [
+    "img/1232.jpg",    "img/1232-2.jpg",    "img/1232-3.jpg",    "img/1232-4.jpg"
+],"description": "","decade": 2000,"related": ["Rick Wakeman"]},
 {
 "id": 1233,
 "name": "PINK FLOYD The Dark Side Of The Moon (50th Anniversary Deluxe Edition)",
