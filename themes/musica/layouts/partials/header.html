@@ -1,5 +1,8 @@
 <header>
-	<a href="{{ .Site.BaseURL }}">{{ .Site.Title }}</a>
+	<div style="display:flex;align-items:center;gap:12px;">
+		{{ with .Parent }}<a href="{{ .Permalink }}" class="back-btn">&#8592;</a>{{ end }}
+		<a href="{{ .Site.BaseURL }}">{{ .Site.Title }}</a>
+	</div>
 	{{ with .Site.Menus.main }}
 	<nav>
 		<ul>

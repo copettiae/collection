@@ -1,265 +1,481 @@
-body{
+/* ========================================
+   MUSICA — Music Library Theme
+   ======================================== */
+
+:root {
+    --bg:           #f2ede8;
+    --surface:      #faf7f4;
+    --surface-card: #ffffff;
+    --surface-hover:#f0ebe4;
+    --accent:       #9b5a2e;
+    --accent-muted: #7a4422;
+    --accent-light: #f5e8dc;
+    --purple:       #6155a0;
+    --text:         #2a2118;
+    --text-muted:   #7a6e64;
+    --border:       #ddd5cc;
+    --shadow:       rgba(60, 40, 20, 0.12);
+    --shadow-md:    rgba(60, 40, 20, 0.2);
+    --radius:       12px;
+    --radius-sm:    8px;
+    --transition:   0.18s ease;
+}
+
+*, *::before, *::after { box-sizing: border-box; }
+
+body {
     margin: 0;
     font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+    background-color: var(--bg);
+    color: var(--text);
+    min-height: 100vh;
+    line-height: 1.5;
 }
-a{
-    color: unset;
+
+a {
+    color: inherit;
     text-decoration: none;
 }
-.container{
-    width: 1800px;
-    /*margin: auto;*/
-    max-width: 90vw;
-    text-align: center;
-    padding-top: 10px;
-    margin-left: 20px;
-}
-.title{
-    font-size: xx-large;
-    padding: 20px 0;
-}
-.listProduct .item > img{
-    width: 100%;
-    /*filter: drop-shadow(0 20px 20px #0009);*/
-    border-radius: 10px;
-}
-.medium-group > .imgOpacity{
-    opacity: 0.2;
-}
-.listProduct{
-    display: grid;
-    grid-template-columns: repeat(8, 1fr);
-    grid-gap: 15px;
-    padding: 15px;
-}
-.listProduct .item{
-    background-color: #EEEEE6;
-    /*padding: 10px;*/
-    border-radius: 10px;
-    align-items: center;
-    display: flex;
-    flex-direction: column;
-    filter: drop-shadow(0 5px 5px #0009);
-}
-.listSingleGrid{
-    display: grid;
-    grid-template-columns: repeat(8, 1fr);
-    grid-gap: 15px;
-    padding: 15px;
-}
-.listSingle{
-    background-color: #EEEEE6;
-    padding: 0px;
-    border-radius: 10px;
-    align-items: center;
-    display: flex;
-    flex-direction: column;
-    filter: drop-shadow(0 5px 5px #0009);
-    width: 100%;
-    height: 100%;
-}
-.listProduct .item > .title{
-    font-weight: 500;
-    font-size: 0.8rem;
-    padding: 10px;
-}
-.listProduct .item > .id-year-container{
-    display: flex;
-    flex-wrap: nowrap;
-    margin: 0px;
-    justify-content: center;
-    flex: 1;
-    width: 100%;
-}
-.listProduct .item .id-year-container > .id{
-    font-size: 10px;
-    color: black;
-    margin: 0px;
-    align-content: center;
-    flex: 1;
-    text-align: start;
-    margin-top: auto;
-}
-.listProduct .item .id-year-container > .year{
-    font-size: 10px;
-    color: black;
-    margin: 0px;
-    flex: 1;
-    margin-top: auto;
-    text-align: end;
-}
-.listProduct .item .id-year-container > .flag{
-    font-size: 40px;
-    /*filter: drop-shadow(0px 5px 5px #0009);*/
-}
-.listProduct .item > .artist{
-    font-size: 20px; 
-    color: black;
-    margin: 5px;
-    padding: 10px;
-    /*text-shadow: 2px 2px 4px #000000;*/
-}
-.medium-group{
-    display: flex;
-    flex-wrap: nowrap;
-    justify-content: left;
-}
-.medium-group > img{
-    width: 25px;
-    margin: 2px;
-    /*filter: drop-shadow(0 20px 20px #0009);*/
-}
-.medium-group > img_opacity{
-    width: 25px;
-    margin: 2px;
-    filter: drop-shadow(0 20px 20px #0009);
-    filter: opacity(30%);
-}
-/* detail page */
 
-.detail{
+/* ---- Header ---- */
+
+header {
+    background: var(--surface);
+    border-bottom: 1px solid var(--border);
+    padding: 0 28px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    height: 58px;
+    position: sticky;
+    top: 0;
+    z-index: 100;
+    box-shadow: 0 1px 6px var(--shadow);
+}
+
+.back-btn {
+    font-size: 1.3rem;
+    color: var(--text-muted);
+    line-height: 1;
+    transition: color var(--transition);
+}
+
+.back-btn:hover {
+    color: var(--accent);
+}
+
+header > div > a:not(.back-btn) {
+    font-size: 1.15rem;
+    font-weight: 700;
+    color: var(--accent);
+    letter-spacing: 0.06em;
+    text-transform: uppercase;
+}
+
+header nav ul {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    gap: 2px;
+}
+
+header nav li a {
+    padding: 6px 14px;
+    border-radius: var(--radius-sm);
+    font-size: 0.85rem;
+    color: var(--text-muted);
+    transition: color var(--transition), background var(--transition);
+}
+
+header nav li a:hover {
+    color: var(--accent);
+    background: var(--accent-light);
+}
+
+/* ---- Footer ---- */
+
+footer {
+    border-top: 1px solid var(--border);
+    padding: 28px 24px;
+    text-align: center;
+    color: var(--text-muted);
+    font-size: 0.78rem;
+    margin-top: 48px;
+}
+
+footer a {
+    color: var(--accent);
+}
+
+footer a:hover {
+    text-decoration: underline;
+}
+
+/* ---- Page structure ---- */
+
+main {
+    padding-bottom: 40px;
+}
+
+main h1 {
+    padding: 28px 24px 8px;
+    margin: 0;
+    font-size: 1.6rem;
+    font-weight: 700;
+    color: var(--text);
+}
+
+/* ---- Album grid ---- */
+
+.listProduct {
     display: grid;
-    grid-template-columns: repeat(3, 1fr);
-    gap: 5px;
+    grid-template-columns: repeat(auto-fill, minmax(170px, 1fr));
+    gap: 16px;
+    padding: 16px 24px;
+}
+
+.listProduct .item {
+    background: var(--surface-card);
+    border: 1px solid var(--border);
+    border-radius: var(--radius);
+    display: flex;
+    flex-direction: column;
+    overflow: hidden;
+    transition: transform var(--transition), box-shadow var(--transition), border-color var(--transition);
+    cursor: pointer;
+    text-align: center;
+}
+
+.listProduct .item:hover {
+    transform: translateY(-4px);
+    box-shadow: 0 10px 28px var(--shadow-md);
+    border-color: var(--accent);
+}
+
+.listProduct .item > img {
+    width: 100%;
+    aspect-ratio: 1 / 1;
+    object-fit: contain;
+    display: block;
+    border-radius: var(--radius) var(--radius) 0 0;
+    background: var(--bg);
+}
+
+.listProduct .item > div {
+    padding-left: 10px;
+    padding-right: 10px;
+}
+
+.listProduct .item > .title {
+    font-weight: 600;
+    font-size: 0.78rem;
+    padding: 8px 10px 4px;
+    color: var(--text);
+    line-height: 1.35;
+}
+
+.listProduct .item > .artist {
+    font-size: 0.7rem;
+    color: var(--text-muted);
+    padding: 0 10px 4px;
+}
+
+.listProduct .item > .id-year-container {
+    display: flex;
+    align-items: center;
+    padding: 4px 10px 8px;
+    gap: 4px;
+    margin-top: auto;
+}
+
+.listProduct .item .id-year-container > .id {
+    font-size: 10px;
+    color: var(--text-muted);
+    flex: 1;
     text-align: left;
 }
-.detail .image img{
-    width: 500px;
-    filter: drop-shadow(0 20px 20px #0009);
+
+.listProduct .item .id-year-container > .year {
+    font-size: 10px;
+    color: var(--text-muted);
+    flex: 1;
+    text-align: right;
 }
-.detail .image{
+
+.listProduct .item .id-year-container > .flag {
+    font-size: 1.1rem;
+    line-height: 1;
+}
+
+/* ---- Media icons ---- */
+
+.medium-group {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: center;
+    gap: 3px;
+    padding: 0 10px 6px;
+}
+
+.medium-group > img {
+    width: 20px;
+    opacity: 0.7;
+}
+
+.medium-group > .imgOpacity {
+    opacity: 0.2;
+}
+
+/* ---- Detail / single page ---- */
+
+.detail {
+    display: grid;
+    grid-template-columns: auto 1fr 1fr;
+    gap: 36px;
+    padding: 36px 24px;
+    text-align: left;
+}
+
+.detail .image {
     position: relative;
 }
-/*.detail .image::before{
-    position: absolute;
+
+.detail .image img {
     width: 300px;
-    height: 300px;
-    content: '';
-    background-color: #94817733;
-    z-index: -1;
-    border-radius: 190px 100px 170px 180px;
-    left: calc(50% - 150px);
-    top: 50px;
+    border-radius: var(--radius);
+    box-shadow: 0 16px 48px var(--shadow-md);
+    display: block;
+}
 
-}*/
-.detail .name{
-    font-size: xxx-large;
-    padding: 40px 0 0 0;
+.detail .name {
+    font-size: 2.4rem;
+    font-weight: 700;
+    padding: 0;
     margin: 0 0 10px 0;
+    line-height: 1.15;
+    color: var(--text);
 }
-.artist{
-    font-size: 0.8rem;
+
+.detail .year {
+    font-weight: 700;
+    font-size: 1rem;
+    letter-spacing: 5px;
+    color: var(--accent);
+    margin-bottom: 16px;
 }
-.artist-single{
-    font-size: 1.5rem;
+
+.detail .description {
+    color: var(--text-muted);
+    line-height: 1.65;
 }
-.detail .year{
-    font-weight: bold;
-    font-size: x-large;
-    letter-spacing: 7px;
-    margin-bottom: 20px;
+
+.artist {
+    font-size: 0.78rem;
+    color: var(--text-muted);
 }
-.detail .description{
-    font-weight: 300;
+
+.artist-single {
+    font-size: 1.25rem;
+    color: var(--text-muted);
+    font-style: normal;
 }
-.listArtist{
+
+/* ---- Single image grid (back-of-album photos) ---- */
+
+.listSingleGrid {
     display: grid;
-    grid-template-columns: repeat(8, 1fr);
-    gap: 10px;
-    filter: drop-shadow(0 5px 5px #0009);
+    grid-template-columns: repeat(auto-fill, minmax(280px, 1fr));
+    gap: 16px;
+    padding: 16px 24px;
 }
-.listArtist .artist{
-    background-color: #BAB8ED;
-    padding: 20px;
-    border-radius: 20px;
-    align-items: center;
-    text-align: center;
-    display: flex;
-    flex-direction: row;
-    margin: 0;
+
+.listSingle {
+    border-radius: var(--radius);
+    overflow: hidden;
+    box-shadow: 0 4px 16px var(--shadow);
+    width: 100%;
+    height: 100%;
+    display: block;
+    object-fit: cover;
 }
-.listCountry{
+
+/* ---- Artist list ---- */
+
+.listArtist {
     display: grid;
-    grid-template-columns: repeat(8, 1fr);
-    gap: 10px;
-    filter: drop-shadow(0 5px 5px #0009);
+    grid-template-columns: repeat(auto-fill, minmax(160px, 1fr));
+    gap: 12px;
+    padding: 16px 24px;
 }
-.listCountry .country{
-    background-color: #e2eed8;
-    padding: 20px;
-    border-radius: 20px;
-    align-items: center;
+
+.listArtist .artist {
+    background: var(--surface-card);
+    border: 1px solid var(--border);
+    padding: 16px 20px;
+    border-radius: var(--radius);
     text-align: center;
-    font-size: 50px;
+    font-size: 0.85rem;
+    font-weight: 500;
+    color: var(--purple);
+    transition: transform var(--transition), border-color var(--transition), box-shadow var(--transition);
     display: flex;
-    flex-direction: row;
-    margin: 0;
+    align-items: center;
+    justify-content: center;
 }
-/* // ipad */
-@media only screen and (max-width: 992px) {
-    .listProduct{
-        grid-template-columns: repeat(3, 1fr);
+
+.listArtist .artist:hover {
+    transform: translateY(-3px);
+    border-color: var(--purple);
+    box-shadow: 0 6px 16px var(--shadow);
+}
+
+/* ---- Country list ---- */
+
+.listCountry {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(110px, 1fr));
+    gap: 12px;
+    padding: 16px 24px;
+}
+
+.listCountry .country {
+    background: var(--surface-card);
+    border: 1px solid var(--border);
+    padding: 20px 10px;
+    border-radius: var(--radius);
+    text-align: center;
+    font-size: 2.4rem;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    transition: transform var(--transition), border-color var(--transition), box-shadow var(--transition);
+}
+
+.listCountry .country:hover {
+    transform: translateY(-3px);
+    border-color: var(--accent);
+    box-shadow: 0 6px 16px var(--shadow);
+}
+
+/* ---- Pagination ---- */
+
+.pagination {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 12px;
+    padding: 28px 24px;
+    font-size: 0.85rem;
+    color: var(--text-muted);
+}
+
+.pagination a {
+    padding: 8px 20px;
+    background: var(--surface-card);
+    border: 1px solid var(--border);
+    border-radius: var(--radius-sm);
+    color: var(--text);
+    transition: border-color var(--transition), background var(--transition), color var(--transition);
+}
+
+.pagination a:hover {
+    border-color: var(--accent);
+    background: var(--accent-light);
+    color: var(--accent);
+}
+
+/* ---- Tags ---- */
+
+#tags {
+    list-style: none;
+    padding: 0;
+    margin: 12px 0;
+    display: flex;
+    flex-wrap: wrap;
+    gap: 8px;
+}
+
+#tags li a {
+    padding: 4px 12px;
+    background: var(--surface-hover);
+    border: 1px solid var(--border);
+    border-radius: 20px;
+    font-size: 0.76rem;
+    color: var(--text-muted);
+    transition: color var(--transition), border-color var(--transition), background var(--transition);
+}
+
+#tags li a:hover {
+    color: var(--accent);
+    border-color: var(--accent);
+    background: var(--accent-light);
+}
+
+/* ---- Responsive — tablet ---- */
+
+@media (max-width: 992px) {
+    .listProduct {
+        grid-template-columns: repeat(auto-fill, minmax(140px, 1fr));
     }
-    .detail{
-        grid-template-columns:  40% 1fr;
+    .detail {
+        grid-template-columns: auto 1fr;
+    }
+    .detail .image img {
+        width: 240px;
     }
 }
 
+/* ---- Responsive — mobile ---- */
 
-/* mobile */
-@media only screen and (max-width: 768px) {
-    .listProduct{
+@media (max-width: 768px) {
+    header {
+        padding: 0 16px;
+        height: 52px;
+    }
+    header > a { font-size: 0.95rem; }
+    header nav li a { padding: 5px 10px; font-size: 0.78rem; }
+
+    .listProduct {
         grid-template-columns: repeat(2, 1fr);
-        grid-gap: 20px;
-        padding: 10px;
+        gap: 12px;
+        padding: 12px;
     }
-    .detail{
-        text-align: center;
+
+    .detail {
         grid-template-columns: 1fr;
+        padding: 16px;
+        gap: 16px;
+        text-align: center;
     }
-    .detail .image img{
-        width: unset;
-        height: 40vh;
-    } 
-    .detail .name{
-        font-size: x-large;
-        margin: 0;
+
+    .detail .image img {
+        width: 100%;
+        max-width: 260px;
+        margin: 0 auto;
     }
-    .detail .buttons button{
-        font-size: small;
+
+    .detail .name {
+        font-size: 1.7rem;
     }
-    .detail .buttons{
+
+    .medium-group {
         justify-content: center;
     }
-    .listCountry{
-        display: grid;
-        grid-template-columns: repeat(2, 1fr);
-        grid-gap: 20px;
-        padding: 10px;
-        filter: drop-shadow(0 5px 5px #0009);
+
+    .listCountry {
+        grid-template-columns: repeat(3, 1fr);
+        padding: 12px;
     }
-    .listArtist{
-        display: grid;
+
+    .listArtist {
         grid-template-columns: repeat(2, 1fr);
-        grid-gap: 20px;
-        padding: 10px;
-        filter: drop-shadow(0 5px 5px #0009);
+        padding: 12px;
     }
-    .listSingleGrid{
-        display: grid;
-        grid-template-columns: repeat(2, 1fr);
-        grid-gap: 15px;
-        padding: 15px;
-    }
-    .listSingle{
-        background-color: #EEEEE6;
-        padding: 0px;
-        border-radius: 10px;
-        align-items: center;
-        display: flex;
-        flex-direction: column;
-        filter: drop-shadow(0 5px 5px #0009);
-        width: 100%;
-        height: 100%;
+
+    .listSingleGrid {
+        grid-template-columns: 1fr;
+        padding: 12px;
     }
 }
