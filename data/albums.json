@@ -12895,19 +12895,7 @@
 "image": [
     "img/1232.jpg",    "img/1232-2.jpg",    "img/1232-3.jpg",    "img/1232-4.jpg"
 ],"description": "","decade": 2000,"related": ["Rick Wakeman"]},
-{
-"id": 1233,
-"name": "PINK FLOYD The Dark Side Of The Moon (50th Anniversary Deluxe Edition)",
-"year": 2025,
-"artist": "To Buy",
-"media": ["To Buy Box"],
-"genre": "To Buy",
-"country": "To Buy",
-"image": ["img/1233.jpg"],
-"description": "",
-"decade": 2020,
-"related": ["To Buy"]
-},
+{"id": 1233,"name": "Go","year": 1985,"artist": "Asia","media": ["LP"],"genre": "Prog Rock","country": "UK","image": ["img/1233.jpg","img/1233-2.jpg"],"description": "","decade": 1980,"related": ["Roger Dean"]},
 {
 "id": 1234,
 "name": "PINK FLOYD Atom Heart Mother (Special Edition)",
