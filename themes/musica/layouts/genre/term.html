@@ -30,15 +30,7 @@
 		</div>
 
 		{{/* Paginator navigation */}}
-		<div class="pagination">
-			{{ if $paginator.HasPrev }}
-				<a href="{{ $paginator.Prev.URL }}">Previous Page</a>
-			{{ end }}
-			{{ $paginator.PageNumber }} of {{ $paginator.TotalPages }}
-			{{ if $paginator.HasNext }}
-				<a href="{{ $paginator.Next.URL }}">Next Page</a>
-			{{ end }}
-		</div>
+		{{ partial "pagination.html" $paginator }}
 	</main>
 {{ partial "sidebar.html" . }}
 {{ end }}
