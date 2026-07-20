@@ -3,7 +3,7 @@
   {{ .Content }}
   <div class="listArtist">
     {{ range .Pages }}
-      <h2 class="artist"><a href="{{ .RelPermalink }}">{{ .LinkTitle }} ({{ len .Pages }})</a></h2>
+      <a class="artist" href="{{ .RelPermalink }}">{{ .LinkTitle }} ({{ len .Pages }})</a>
     {{ end }}
   </div>
 {{ end }}

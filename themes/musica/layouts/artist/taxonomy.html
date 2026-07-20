@@ -1,36 +1,40 @@
 {{ define "main" }}
-  <h2>{{ .Title }}</h2>
-  
+  <h1>{{ .Title }}</h1>
+
   {{/* List of letters */}}
   {{ $letterList := split "ABCDEFGHIJKLMNOPQRSTUVWXYZ" ""}}
-  {{ range $letterList }}
-    <a href="#{{ . }}">{{ . }}</a>
-  {{ end }}
-  
-  {{ .Content }}
-
   {{ $pages := .Pages }}
-  {{ range $letter := $letterList }}
-    {{ $group := slice }}
-    {{ range $pages }}
-      {{ if hasPrefix (upper .LinkTitle) $letter }}
-        {{ $group = $group | append . }}
+
+  <nav class="alphaNav">
+    {{ range $letter := $letterList }}
+      {{ $has := false }}
+      {{ range $pages }}
+        {{ if hasPrefix (upper .LinkTitle) $letter }}{{ $has = true }}{{ end }}
+      {{ end }}
+      {{ if $has }}
+        <a href="#{{ $letter }}">{{ $letter }}</a>
+      {{ else }}
+        <span>{{ $letter }}</span>
       {{ end }}
     {{ end }}
-    {{ if gt (len $group) 0 }}
-      <h2 id="{{ $letter }}">{{ $letter }}</h2>
-      <ul>
-        {{ range $group }}
-          <li><a href="{{ .RelPermalink }}">{{ .LinkTitle }} ({{ len .Pages }})</a></li>
-        {{ end }}
-      </ul>
-    {{ end }}
-  {{ end }}
+  </nav>
 
+  {{ .Content }}
 
   <div class="listArtist">
-    {{ range .Pages }}
-      <h2 class="artist" ><a href="{{ .RelPermalink }}">{{ .LinkTitle }} ({{ len .Pages }})</a></h2>
+    {{ range $letter := $letterList }}
+      {{ $group := slice }}
+      {{ range $pages }}
+        {{ if hasPrefix (upper .LinkTitle) $letter }}
+          {{ $group = $group | append . }}
+        {{ end }}
+      {{ end }}
+      {{ if gt (len $group) 0 }}
+        <h2 class="letterDivider" id="{{ $letter }}">{{ $letter }}</h2>
+        {{ range $group }}
+          <a class="artist" href="{{ .RelPermalink }}">{{ .LinkTitle }} ({{ len .Pages }})</a>
+        {{ end }}
+      {{ end }}
     {{ end }}
   </div>
 {{ end }}

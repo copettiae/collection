@@ -316,6 +316,52 @@ main h1 {
     object-fit: cover;
 }
 
+/* ---- Alphabet nav ---- */
+
+.alphaNav {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 6px;
+    padding: 14px 24px;
+    position: sticky;
+    top: 58px;
+    z-index: 90;
+    background: color-mix(in srgb, var(--bg) 92%, transparent);
+    backdrop-filter: blur(6px);
+    border-bottom: 1px solid var(--border);
+}
+
+.alphaNav a,
+.alphaNav span {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 28px;
+    height: 28px;
+    border-radius: 50%;
+    font-size: 0.78rem;
+    font-weight: 600;
+}
+
+.alphaNav a {
+    background: var(--surface-card);
+    border: 1px solid var(--border);
+    color: var(--accent);
+    transition: transform var(--transition), border-color var(--transition), background var(--transition), color var(--transition);
+}
+
+.alphaNav a:hover {
+    background: var(--accent);
+    border-color: var(--accent);
+    color: #fff;
+    transform: translateY(-2px);
+}
+
+.alphaNav span {
+    color: var(--text-muted);
+    opacity: 0.35;
+}
+
 /* ---- Artist list ---- */
 
 .listArtist {
@@ -323,6 +369,23 @@ main h1 {
     grid-template-columns: repeat(auto-fill, minmax(160px, 1fr));
     gap: 12px;
     padding: 16px 24px;
+}
+
+.listArtist .letterDivider {
+    grid-column: 1 / -1;
+    margin: 20px 0 2px;
+    padding-top: 12px;
+    padding-bottom: 6px;
+    border-bottom: 2px solid var(--accent-light);
+    color: var(--accent);
+    font-size: 1.1rem;
+    font-weight: 700;
+    letter-spacing: 0.08em;
+    scroll-margin-top: 108px;
+}
+
+.listArtist .letterDivider:first-of-type {
+    margin-top: 0;
 }
 
 .listArtist .artist {
@@ -541,6 +604,19 @@ main h1 {
     .listArtist {
         grid-template-columns: repeat(2, 1fr);
         padding: 12px;
+    }
+
+    .alphaNav {
+        top: 52px;
+        padding: 10px 12px;
+        gap: 4px;
+    }
+
+    .alphaNav a,
+    .alphaNav span {
+        width: 24px;
+        height: 24px;
+        font-size: 0.72rem;
     }
 
     .listSingleGrid {
