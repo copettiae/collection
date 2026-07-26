@@ -1095,7 +1095,7 @@
 {"id":1095,"name":"The Ladder","year":1999,"artist":"Yes","media":["CD","LP"],"genre":"Prog Rock","country":"UK","image":["img/1095.jpg"],"description":"","decade":1990,"related":["Yes","Roger Dean"]},
 {"id":1096,"name":"Imán, Califato Independiente","year":1978,"artist":"Imán, Califato Independiente","media":["CD"],"genre":"Prog Rock","country":"Spain","image":["img/1096.jpg"],"description":"1978 - 1980","decade":1970,"related":[]},
 {"id":1097,"name":"House Of Yes: Live From House Of Blues","year":2000,"artist":"Yes","media":["CD","LP"],"genre":"Prog Rock","country":"UK","image":["img/1097.jpg"],"description":"","decade":2000,"related":["Yes","Roger Dean"]},
-{"id":1098,"name":"The Moray Eels Eat The Space Needle","year":1997,"artist":"Space Needle","media":["CD"],"genre":"Psychedelic","country":"USA","image":["img/1098.jpg"],"description":"","decade":1990,"related":[]},
+{"id":1098,"name":"The Moray Eels Eat The Space Needle","year":1997,"artist":"Space Needle","media":["CD","LP"],"genre":"Psychedelic","country":"USA","image":["img/1098.jpg"],"description":"","decade":1990,"related":["Roger Dean"]},
 {"id":1099,"name":"Yes, Friends And Relatives Volume Two","year":2000,"artist":"Yes","media":["CD"],"genre":"Prog Rock","country":"UK","image":["img/1099.jpg"],"description":"","decade":2000,"related":["Yes"]},
 {"id":1100,"name":"Magnification","year":2001,"artist":"Yes","media":["CD"],"genre":"Prog Rock","country":"UK","image":["img/1100.jpg"],"description":"","decade":2000,"related":["Yes"]},
 {"id":1101,"name":"In A Word: Yes (1969 - )","year":2002,"artist":"Yes","media":["Box","CD"],"genre":"Prog Rock","country":"UK","image":["img/1101.jpg","img/1101-2.jpg","img/1101-3.jpg"],"description":"","decade":2000,"related":["Yes","Roger Dean"]},
