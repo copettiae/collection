@@ -489,6 +489,11 @@ main h1 {
     border-top: 1px solid var(--border);
 }
 
+.relatedItem img {
+    object-fit: cover;
+    padding: 0;
+}
+
 .mediaItem .countryFlag {
     width: 100%;
     aspect-ratio: 1 / 1;

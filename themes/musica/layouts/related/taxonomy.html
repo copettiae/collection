@@ -4,7 +4,7 @@
   <div class="listMedia">
   {{ range .Pages }}
     {{ $img := index $.Site.Data.related .LinkTitle }}
-    <a class="mediaItem" href="{{ .RelPermalink }}">
+    <a class="mediaItem relatedItem" href="{{ .RelPermalink }}">
       {{ with $img }}<img src="{{ relURL (printf "img/%s" .) }}" alt="">{{ end }}
       <span>{{ .LinkTitle }} ({{ len .Pages }})</span>
     </a>
