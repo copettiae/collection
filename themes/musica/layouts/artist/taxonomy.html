@@ -32,7 +32,15 @@
       {{ if gt (len $group) 0 }}
         <h2 class="letterDivider" id="{{ $letter }}">{{ $letter }}</h2>
         {{ range $group }}
-          <a class="artist" href="{{ .RelPermalink }}">{{ .LinkTitle }} ({{ len .Pages }})</a>
+          {{ $bg := "" }}
+          {{ with (index (.Pages.ByParam "year") 0) }}
+            {{ with .Params.image }}
+              {{ $bg = index . 0 }}
+            {{ end }}
+          {{ end }}
+          <a class="artist{{ if $bg }} has-bg{{ end }}" href="{{ .RelPermalink }}"{{ if $bg }} style="background-image:linear-gradient(rgba(20,14,8,0.3),rgba(20,14,8,0.3)),url('{{ $.Site.BaseURL }}/{{ $bg }}')"{{ end }}>
+            <span>{{ .LinkTitle }} ({{ len .Pages }})</span>
+          </a>
         {{ end }}
       {{ end }}
     {{ end }}
