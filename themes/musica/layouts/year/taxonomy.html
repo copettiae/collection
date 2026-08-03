@@ -1,15 +1,56 @@
 {{ define "main" }}
   <h1>{{ .Title }}</h1>
+
+  {{/* List of decades */}}
+  {{ $decadeList := slice
+    (dict "prefix" "194" "label" "40s" "id" "1940s")
+    (dict "prefix" "195" "label" "50s" "id" "1950s")
+    (dict "prefix" "196" "label" "60s" "id" "1960s")
+    (dict "prefix" "197" "label" "70s" "id" "1970s")
+    (dict "prefix" "198" "label" "80s" "id" "1980s")
+    (dict "prefix" "199" "label" "90s" "id" "1990s")
+    (dict "prefix" "200" "label" "00s" "id" "2000s")
+    (dict "prefix" "201" "label" "10s" "id" "2010s")
+    (dict "prefix" "202" "label" "20s" "id" "2020s")
+  }}
+  {{ $pages := .Pages }}
+
+  <nav class="alphaNav">
+    {{ range $decade := $decadeList }}
+      {{ $has := false }}
+      {{ range $pages }}
+        {{ if hasPrefix .LinkTitle $decade.prefix }}{{ $has = true }}{{ end }}
+      {{ end }}
+      {{ if $has }}
+        <a href="#{{ $decade.id }}">{{ $decade.label }}</a>
+      {{ else }}
+        <span>{{ $decade.label }}</span>
+      {{ end }}
+    {{ end }}
+  </nav>
+
   {{ .Content }}
+
   <div class="listYear">
-  {{ range .Pages }}
-    {{ $data := index $.Site.Data.year .LinkTitle }}
-    <a class="yearItem" href="{{ .RelPermalink }}">
-      {{ with $data }}{{ with .image }}<img src="{{ relURL (printf "img/%s" .) }}" alt="">{{ end }}{{ end }}
-      <span class="yearTitle">{{ .LinkTitle }}</span>
-      {{ with $data }}{{ with .event }}<span class="yearEvent">{{ . }}</span>{{ end }}{{ end }}
-      <span class="yearSubtitle">{{ len .Pages }} item{{ if ne (len .Pages) 1 }}s{{ end }}</span>
-    </a>
-  {{ end }}
+    {{ range $decade := $decadeList }}
+      {{ $group := slice }}
+      {{ range $pages }}
+        {{ if hasPrefix .LinkTitle $decade.prefix }}
+          {{ $group = $group | append . }}
+        {{ end }}
+      {{ end }}
+      {{ if gt (len $group) 0 }}
+        <h2 class="letterDivider" id="{{ $decade.id }}">{{ $decade.id }}</h2>
+        {{ range $group }}
+          {{ $data := index $.Site.Data.year .LinkTitle }}
+          <a class="yearItem" href="{{ .RelPermalink }}">
+            {{ with $data }}{{ with .image }}<img src="{{ relURL (printf "img/%s" .) }}" alt="">{{ end }}{{ end }}
+            <span class="yearTitle">{{ .LinkTitle }}</span>
+            {{ with $data }}{{ with .event }}<span class="yearEvent">{{ . }}</span>{{ end }}{{ end }}
+            <span class="yearSubtitle">{{ len .Pages }} item{{ if ne (len .Pages) 1 }}s{{ end }}</span>
+          </a>
+        {{ end }}
+      {{ end }}
+    {{ end }}
   </div>
 {{ end }}

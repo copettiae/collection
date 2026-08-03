@@ -529,6 +529,23 @@ main h1 {
     padding: 16px 24px;
 }
 
+.listYear .letterDivider {
+    grid-column: 1 / -1;
+    margin: 20px 0 2px;
+    padding-top: 12px;
+    padding-bottom: 6px;
+    border-bottom: 2px solid var(--accent-light);
+    color: var(--accent);
+    font-size: 1.1rem;
+    font-weight: 700;
+    letter-spacing: 0.08em;
+    scroll-margin-top: 108px;
+}
+
+.listYear .letterDivider:first-of-type {
+    margin-top: 0;
+}
+
 .yearItem {
     display: flex;
     flex-direction: column;
