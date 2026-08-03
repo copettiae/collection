@@ -381,6 +381,11 @@ main h1 {
     padding: 16px 24px;
 }
 
+.listArtist.listArtistPhotos {
+    grid-template-columns: repeat(auto-fill, minmax(220px, 1fr));
+    gap: 28px 20px;
+}
+
 .listArtist .letterDivider {
     grid-column: 1 / -1;
     margin: 20px 0 2px;

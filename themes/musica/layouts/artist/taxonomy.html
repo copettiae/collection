@@ -21,7 +21,7 @@
 
   {{ .Content }}
 
-  <div class="listArtist">
+  <div class="listArtist listArtistPhotos">
     {{ range $letter := $letterList }}
       {{ $group := slice }}
       {{ range $pages }}
@@ -38,8 +38,10 @@
               {{ $bg = index . 0 }}
             {{ end }}
           {{ end }}
-          <a class="artist{{ if $bg }} has-bg{{ end }}" href="{{ .RelPermalink }}"{{ if $bg }} style="background-image:linear-gradient(rgba(20,14,8,0.3),rgba(20,14,8,0.3)),url('{{ $.Site.BaseURL }}/{{ $bg }}')"{{ end }}>
-            <span>{{ .LinkTitle }} ({{ len .Pages }})</span>
+          <a class="yearItem" href="{{ .RelPermalink }}">
+            {{ with $bg }}<img src="{{ relURL (printf "img/artist/%s" (path.Base .)) }}" alt="">{{ end }}
+            <span class="yearTitle">{{ .LinkTitle }}</span>
+            <span class="yearSubtitle">{{ len .Pages }} item{{ if ne (len .Pages) 1 }}s{{ end }}</span>
           </a>
         {{ end }}
       {{ end }}
