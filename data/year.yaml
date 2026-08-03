@@ -3,11 +3,11 @@
 1947: { image: "year/event-1947.jpg", event: "Kenneth Arnold's UFO sighting sparks the \"flying saucer\" craze" }
 1952: { image: "year/event-1952.jpg", event: "Accession of Queen Elizabeth II" }
 1954: { image: "year/event-1954.jpg", event: "Elvis records \"That's All Right\" at Sun Studio" }
-1955: { image: "year/event-1955.jpg", event: "Montgomery Bus Boycott begins" }
+1955: { image: "year/event-1955.jpg", event: "Ray Kroc opens the first McDonald's franchise" }
 1957: { image: "year/event-1957.jpg", event: "Sputnik 1 launched, dawn of the space age" }
 1958: { image: "year/event-1958.jpg", event: "NASA founded" }
 1959: { image: "year/event-1959.jpg", event: "Motown Records founded by Berry Gordy" }
-1960: { image: "year/event-1960.jpg", event: "Year of Africa: 17 nations gain independence" }
+1960: { image: "year/event-1960.jpg", event: "Hitchcock's Psycho premieres" }
 1961: { image: "year/event-1961.jpg", event: "Yuri Gagarin, first human in space" }
 1962: { image: "year/event-1962.jpg", event: "Telstar 1, first active communications satellite" }
 1963: { image: "year/event-1963.jpg", event: "MLK delivers \"I Have a Dream\" speech" }
@@ -21,9 +21,9 @@
 1971: { image: "year/event-1971.jpg", event: "Intel releases the 4004 microprocessor" }
 1972: { image: "year/event-1972.jpg", event: "The Godfather premieres" }
 1973: { image: "year/event-1973.jpg", event: "Skylab, first US space station, launched" }
-1974: { image: "year/event-1974.jpg", event: "Nixon resigns the presidency" }
+1974: { image: "year/event-1974.jpg", event: "Rubik's Cube invented" }
 1975: { image: "year/event-1975.jpg", event: "Microsoft founded" }
-1976: { image: "year/event-1976.jpg", event: "Apple Computer founded" }
+1976: { image: "year/event-1976.jpg", event: "Concorde begins supersonic passenger service" }
 1977: { image: "year/event-1977.jpg", event: "Star Wars premieres" }
 1978: { image: "year/event-1978.jpg", event: "Camp David Accords" }
 1979: { image: "year/event-1979.jpg", event: "Sony Walkman released" }
@@ -65,7 +65,7 @@
 2015: { image: "year/event-2015.jpg", event: "Paris Agreement on climate change adopted" }
 2016: { image: "year/event-2016.jpg", event: "Brexit referendum" }
 2017: { image: "year/event-2017.jpg", event: "Great American total solar eclipse" }
-2018: { image: "year/event-2018.jpg", event: "Royal wedding of Harry and Meghan" }
+2018: { image: "year/event-2018.jpg", event: "SpaceX Falcon Heavy's first launch" }
 2019: { image: "year/event-2019.jpg", event: "First-ever image of a black hole released" }
 2020: { image: "year/event-2020.jpg", event: "COVID-19 pandemic declared" }
 2021: { image: "year/event-2021.jpg", event: "Global rollout of COVID-19 vaccines" }
@@ -73,4 +73,4 @@
 2023: { image: "year/event-2023.jpg", event: "Generative AI boom following ChatGPT's rise" }
 2024: { image: "year/event-2024.jpg", event: "Paris Summer Olympics" }
 2025: { image: "year/event-2025.jpg", event: "Second inauguration of Donald Trump" }
-# 2026: left blank — too recent to pick a defining event with confidence
+2026: { image: "year/event-2026.jpg", event: "tbc" }
