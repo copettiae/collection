@@ -4,7 +4,7 @@
 			{{ $baseURL := .Site.BaseURL }}
 			<h1>{{ .Title }}</h1>
 			<div class="artist-single-container">
-				<a href="{{ "/artist/" | relLangURL }}{{ .Params.artist | urlize }}/"><em class="artist-single">{{ .Params.artist }}</em></a>
+				<a href="{{ "artist/" | relLangURL }}{{ .Params.artist | urlize }}/"><em class="artist-single">{{ .Params.artist }}</em></a>
 			</div>
 			<div class="listSingleGrid">
 				{{ with .Params.image }}
@@ -17,10 +17,10 @@
 				{{$media := .Params.media}}
 				{{ range $type, $filename := .Site.Data.media }}
 					{{ if (in $media $type) }}
-						<a href="{{ "/media/" | relLangURL }}{{ $type | urlize }}/"><img src="{{ $baseURL }}/img/{{ $filename }}"></a>
+						<a href="{{ "media/" | relLangURL }}{{ $type | urlize }}/"><img src="{{ $baseURL }}/img/{{ $filename }}"></a>
 					{{ end }}
 				{{ end }}
-				<em class="medium-info">#{{ .Params.id }} <a href="{{ "/country/" | relLangURL }}{{ .Params.country | urlize }}/">{{ index .Site.Data.country .Params.country }}</a> <a href="{{ "/year/" | relLangURL }}{{ .Params.year | urlize }}/">{{ .Params.year }}</a></em>
+				<em class="medium-info">#{{ .Params.id }} <a href="{{ "country/" | relLangURL }}{{ .Params.country | urlize }}/">{{ index .Site.Data.country .Params.country }}</a> <a href="{{ "year/" | relLangURL }}{{ .Params.year | urlize }}/">{{ .Params.year }}</a></em>
 			</div>
 			
 			
