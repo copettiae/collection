@@ -1,25 +1,25 @@
 # Photos sourced from Wikipedia/Wikimedia Commons, picked to represent one
 # notable event per year, favoring peace, science, and culture over war/conflict.
-1947: { image: "year/event-1947.jpg", event: "Partition and independence of India" }
+1947: { image: "year/event-1947.jpg", event: "Kenneth Arnold's UFO sighting sparks the \"flying saucer\" craze" }
 1952: { image: "year/event-1952.jpg", event: "Accession of Queen Elizabeth II" }
-1954: { image: "year/event-1954.jpg", event: "Brown v. Board of Education ruling" }
+1954: { image: "year/event-1954.jpg", event: "Elvis records \"That's All Right\" at Sun Studio" }
 1955: { image: "year/event-1955.jpg", event: "Montgomery Bus Boycott begins" }
 1957: { image: "year/event-1957.jpg", event: "Sputnik 1 launched, dawn of the space age" }
 1958: { image: "year/event-1958.jpg", event: "NASA founded" }
-1959: { image: "year/event-1959.jpg", event: "Barbie doll debuts" }
+1959: { image: "year/event-1959.jpg", event: "Motown Records founded by Berry Gordy" }
 1960: { image: "year/event-1960.jpg", event: "Year of Africa: 17 nations gain independence" }
 1961: { image: "year/event-1961.jpg", event: "Yuri Gagarin, first human in space" }
 1962: { image: "year/event-1962.jpg", event: "Telstar 1, first active communications satellite" }
 1963: { image: "year/event-1963.jpg", event: "MLK delivers \"I Have a Dream\" speech" }
-1964: { image: "year/event-1964.jpg", event: "US Civil Rights Act signed" }
-1965: { image: "year/event-1965.jpg", event: "US Voting Rights Act signed" }
+1964: { image: "year/event-1964.jpg", event: "IBM announces the System/360 mainframe" }
+1965: { image: "year/event-1965.jpg", event: "The Beatles are awarded MBEs by the Queen" }
 1966: { image: "year/event-1966.jpg", event: "Star Trek premieres on television" }
-1967: { image: "year/event-1967.jpg", event: "First human heart transplant performed" }
-1968: { image: "year/event-1968.jpg", event: "Apollo 8 orbits the Moon, \"Earthrise\" photo taken" }
+1967: { image: "year/event-1967.jpg", event: "The Doors release their debut album" }
+1968: { image: "year/event-1968.jpg", event: "2001: A Space Odyssey premieres" }
 1969: { image: "year/event-1969.jpg", event: "Apollo 11 Moon landing" }
-1970: { image: "year/event-1970.jpg", event: "First Earth Day" }
+1970: { image: "year/event-1970.jpg", event: "Simon & Garfunkel release \"Bridge Over Troubled Water\"" }
 1971: { image: "year/event-1971.jpg", event: "Intel releases the 4004 microprocessor" }
-1972: { image: "year/event-1972.jpg", event: "Pioneer 10 launched toward the outer solar system" }
+1972: { image: "year/event-1972.jpg", event: "The Godfather premieres" }
 1973: { image: "year/event-1973.jpg", event: "Skylab, first US space station, launched" }
 1974: { image: "year/event-1974.jpg", event: "Nixon resigns the presidency" }
 1975: { image: "year/event-1975.jpg", event: "Microsoft founded" }
