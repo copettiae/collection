@@ -7,7 +7,7 @@
     <a class="yearItem" href="{{ .RelPermalink }}">
       {{ with $img }}<img src="{{ relURL (printf "img/%s" .) }}" alt="">{{ end }}
       <span class="yearTitle">{{ .LinkTitle }}</span>
-      <span class="yearSubtitle">{{ len .Pages }} album{{ if ne (len .Pages) 1 }}s{{ end }}</span>
+      <span class="yearSubtitle">{{ len .Pages }} item{{ if ne (len .Pages) 1 }}s{{ end }}</span>
     </a>
   {{ end }}
   </div>
