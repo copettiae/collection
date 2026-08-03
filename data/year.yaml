@@ -1,76 +1,76 @@
-# Scaffold: one notable event picked per year as a starting point.
-# Edit the event/filename freely, then drop the matching image into static/img/.
-1947: "event-1947.jpg" # Partition and independence of India
-1952: "event-1952.jpg" # Accession of Queen Elizabeth II
-1954: "event-1954.jpg" # Brown v. Board of Education desegregation ruling
-1955: "event-1955.jpg" # Montgomery Bus Boycott begins
-1957: "event-1957.jpg" # Sputnik 1 launched, dawn of the space age
-1958: "event-1958.jpg" # NASA founded
-1959: "event-1959.jpg" # Barbie doll debuts
-1960: "event-1960.jpg" # Year of Africa: 17 nations gain independence
-1961: "event-1961.jpg" # Yuri Gagarin, first human in space
-1962: "event-1962.jpg" # Telstar 1, first active communications satellite, launched
-1963: "event-1963.jpg" # Martin Luther King Jr. delivers "I Have a Dream" speech
-1964: "event-1964.jpg" # US Civil Rights Act signed
-1965: "event-1965.jpg" # US Voting Rights Act signed
-1966: "event-1966.jpg" # Star Trek premieres on television
-1967: "event-1967.jpg" # First human heart transplant performed
-1968: "event-1968.jpg" # Apollo 8 orbits the Moon, "Earthrise" photo taken
-1969: "event-1969.jpg" # Apollo 11 Moon landing
-1970: "event-1970.jpg" # First Earth Day
-1971: "event-1971.jpg" # Intel releases the 4004, first commercial microprocessor
-1972: "event-1972.jpg" # Pioneer 10 launched toward the outer solar system
-1973: "event-1973.jpg" # Skylab, first US space station, launched
-1974: "event-1974.jpg" # Nixon resigns the presidency
-1975: "event-1975.jpg" # Microsoft founded by Bill Gates and Paul Allen
-1976: "event-1976.jpg" # Apple Computer founded
-1977: "event-1977.jpg" # Star Wars premieres
-1978: "event-1978.jpg" # Camp David Accords
-1979: "event-1979.jpg" # Sony Walkman released
-1980: "event-1980.jpg" # Pac-Man arcade game released
-1981: "event-1981.jpg" # MTV launches
-1982: "event-1982.jpg" # Compact Disc format launched commercially
-1983: "event-1983.jpg" # ARPANET adopts TCP/IP, birth of the modern internet
-1984: "event-1984.jpg" # Apple Macintosh launched
-1985: "event-1985.jpg" # Live Aid concert
-1986: "event-1986.jpg" # Voyager 2 flies by Uranus
-1987: "event-1987.jpg" # Reagan's "tear down this wall" speech
-1988: "event-1988.jpg" # Seoul Summer Olympics
-1989: "event-1989.jpg" # Fall of the Berlin Wall
-1990: "event-1990.jpg" # Nelson Mandela released from prison
-1991: "event-1991.jpg" # Dissolution of the Soviet Union
-1992: "event-1992.jpg" # Maastricht Treaty forms the European Union
-1993: "event-1993.jpg" # World Wide Web released into the public domain
-1994: "event-1994.jpg" # Nelson Mandela elected President, end of apartheid
-1995: "event-1995.jpg" # Dayton Accords end the Bosnian War
-1996: "event-1996.jpg" # Dolly the sheep, first cloned mammal
-1997: "event-1997.jpg" # Handover of Hong Kong to China
-1998: "event-1998.jpg" # Good Friday Agreement
-1999: "event-1999.jpg" # Euro currency introduced
-2000: "event-2000.jpg" # Y2K and the turn of the millennium
-2001: "event-2001.jpg" # Wikipedia launches
-2002: "event-2002.jpg" # Euro banknotes and coins enter circulation
-2003: "event-2003.jpg" # Human Genome Project completed
-2004: "event-2004.jpg" # Indian Ocean earthquake and tsunami
-2005: "event-2005.jpg" # Hurricane Katrina
-2006: "event-2006.jpg" # Pluto reclassified as a dwarf planet
-2007: "event-2007.jpg" # iPhone launched
-2008: "event-2008.jpg" # Barack Obama elected first Black US President
-2009: "event-2009.jpg" # Death of Michael Jackson
-2010: "event-2010.jpg" # 33 Chilean miners rescued after being trapped underground
-2011: "event-2011.jpg" # South Sudan becomes an independent nation
-2012: "event-2012.jpg" # London Summer Olympics
-2013: "event-2013.jpg" # Pope Francis elected
-2014: "event-2014.jpg" # Rosetta's Philae lander touches down on a comet
-2015: "event-2015.jpg" # Paris Agreement on climate change adopted
-2016: "event-2016.jpg" # Brexit referendum
-2017: "event-2017.jpg" # Great American total solar eclipse
-2018: "event-2018.jpg" # Royal wedding of Harry and Meghan
-2019: "event-2019.jpg" # First-ever image of a black hole released
-2020: "event-2020.jpg" # COVID-19 pandemic declared
-2021: "event-2021.jpg" # Global rollout of COVID-19 vaccines
-2022: "event-2022.jpg" # James Webb Space Telescope releases first images
-2023: "event-2023.jpg" # Generative AI boom following ChatGPT's rise
-2024: "event-2024.jpg" # Paris Summer Olympics
-2025: "event-2025.jpg" # Second inauguration of Donald Trump as US President
+# Photos sourced from Wikipedia/Wikimedia Commons, picked to represent one
+# notable event per year, favoring peace, science, and culture over war/conflict.
+1947: { image: "year/event-1947.jpg", event: "Partition and independence of India" }
+1952: { image: "year/event-1952.jpg", event: "Accession of Queen Elizabeth II" }
+1954: { image: "year/event-1954.jpg", event: "Brown v. Board of Education ruling" }
+1955: { image: "year/event-1955.jpg", event: "Montgomery Bus Boycott begins" }
+1957: { image: "year/event-1957.jpg", event: "Sputnik 1 launched, dawn of the space age" }
+1958: { image: "year/event-1958.jpg", event: "NASA founded" }
+1959: { image: "year/event-1959.jpg", event: "Barbie doll debuts" }
+1960: { image: "year/event-1960.jpg", event: "Year of Africa: 17 nations gain independence" }
+1961: { image: "year/event-1961.jpg", event: "Yuri Gagarin, first human in space" }
+1962: { image: "year/event-1962.jpg", event: "Telstar 1, first active communications satellite" }
+1963: { image: "year/event-1963.jpg", event: "MLK delivers \"I Have a Dream\" speech" }
+1964: { image: "year/event-1964.jpg", event: "US Civil Rights Act signed" }
+1965: { image: "year/event-1965.jpg", event: "US Voting Rights Act signed" }
+1966: { image: "year/event-1966.jpg", event: "Star Trek premieres on television" }
+1967: { image: "year/event-1967.jpg", event: "First human heart transplant performed" }
+1968: { image: "year/event-1968.jpg", event: "Apollo 8 orbits the Moon, \"Earthrise\" photo taken" }
+1969: { image: "year/event-1969.jpg", event: "Apollo 11 Moon landing" }
+1970: { image: "year/event-1970.jpg", event: "First Earth Day" }
+1971: { image: "year/event-1971.jpg", event: "Intel releases the 4004 microprocessor" }
+1972: { image: "year/event-1972.jpg", event: "Pioneer 10 launched toward the outer solar system" }
+1973: { image: "year/event-1973.jpg", event: "Skylab, first US space station, launched" }
+1974: { image: "year/event-1974.jpg", event: "Nixon resigns the presidency" }
+1975: { image: "year/event-1975.jpg", event: "Microsoft founded" }
+1976: { image: "year/event-1976.jpg", event: "Apple Computer founded" }
+1977: { image: "year/event-1977.jpg", event: "Star Wars premieres" }
+1978: { image: "year/event-1978.jpg", event: "Camp David Accords" }
+1979: { image: "year/event-1979.jpg", event: "Sony Walkman released" }
+1980: { image: "year/event-1980.jpg", event: "Pac-Man arcade game released" }
+1981: { image: "year/event-1981.jpg", event: "MTV launches" }
+1982: { image: "year/event-1982.jpg", event: "Compact Disc format launched commercially" }
+1983: { image: "year/event-1983.jpg", event: "ARPANET adopts TCP/IP, birth of the internet" }
+1984: { image: "year/event-1984.jpg", event: "Apple Macintosh launched" }
+1985: { image: "year/event-1985.jpg", event: "Live Aid concert" }
+1986: { image: "year/event-1986.jpg", event: "Voyager 2 flies by Uranus" }
+1987: { image: "year/event-1987.jpg", event: "Reagan's \"tear down this wall\" speech" }
+1988: { image: "year/event-1988.jpg", event: "Seoul Summer Olympics" }
+1989: { image: "year/event-1989.jpg", event: "Fall of the Berlin Wall" }
+1990: { image: "year/event-1990.jpg", event: "Nelson Mandela released from prison" }
+1991: { image: "year/event-1991.jpg", event: "Dissolution of the Soviet Union" }
+1992: { image: "year/event-1992.jpg", event: "Maastricht Treaty forms the European Union" }
+1993: { image: "year/event-1993.jpg", event: "World Wide Web released into the public domain" }
+1994: { image: "year/event-1994.jpg", event: "Mandela elected President, end of apartheid" }
+1995: { image: "year/event-1995.jpg", event: "Dayton Accords end the Bosnian War" }
+1996: { image: "year/event-1996.jpg", event: "Dolly the sheep, first cloned mammal" }
+1997: { image: "year/event-1997.jpg", event: "Handover of Hong Kong to China" }
+1998: { image: "year/event-1998.jpg", event: "Good Friday Agreement" }
+1999: { image: "year/event-1999.jpg", event: "Euro currency introduced" }
+2000: { image: "year/event-2000.jpg", event: "Y2K and the turn of the millennium" }
+2001: { image: "year/event-2001.jpg", event: "Wikipedia launches" }
+2002: { image: "year/event-2002.jpg", event: "Euro banknotes and coins enter circulation" }
+2003: { image: "year/event-2003.jpg", event: "Human Genome Project completed" }
+2004: { image: "year/event-2004.jpg", event: "Indian Ocean earthquake and tsunami" }
+2005: { image: "year/event-2005.jpg", event: "Hurricane Katrina" }
+2006: { image: "year/event-2006.jpg", event: "Pluto reclassified as a dwarf planet" }
+2007: { image: "year/event-2007.jpg", event: "iPhone launched" }
+2008: { image: "year/event-2008.jpg", event: "Obama elected first Black US President" }
+2009: { image: "year/event-2009.jpg", event: "Death of Michael Jackson" }
+2010: { image: "year/event-2010.jpg", event: "33 Chilean miners rescued" }
+2011: { image: "year/event-2011.jpg", event: "South Sudan becomes independent" }
+2012: { image: "year/event-2012.jpg", event: "London Summer Olympics" }
+2013: { image: "year/event-2013.jpg", event: "Pope Francis elected" }
+2014: { image: "year/event-2014.jpg", event: "Philae lander touches down on a comet" }
+2015: { image: "year/event-2015.jpg", event: "Paris Agreement on climate change adopted" }
+2016: { image: "year/event-2016.jpg", event: "Brexit referendum" }
+2017: { image: "year/event-2017.jpg", event: "Great American total solar eclipse" }
+2018: { image: "year/event-2018.jpg", event: "Royal wedding of Harry and Meghan" }
+2019: { image: "year/event-2019.jpg", event: "First-ever image of a black hole released" }
+2020: { image: "year/event-2020.jpg", event: "COVID-19 pandemic declared" }
+2021: { image: "year/event-2021.jpg", event: "Global rollout of COVID-19 vaccines" }
+2022: { image: "year/event-2022.jpg", event: "James Webb Space Telescope's first images" }
+2023: { image: "year/event-2023.jpg", event: "Generative AI boom following ChatGPT's rise" }
+2024: { image: "year/event-2024.jpg", event: "Paris Summer Olympics" }
+2025: { image: "year/event-2025.jpg", event: "Second inauguration of Donald Trump" }
 # 2026: left blank — too recent to pick a defining event with confidence

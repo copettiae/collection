@@ -1,12 +1,13 @@
 {{ define "main" }}
   <h1>{{ .Title }}</h1>
   {{ .Content }}
-  <div class="listMedia">
+  <div class="listYear">
   {{ range .Pages }}
     {{ $img := index $.Site.Data.related .LinkTitle }}
-    <a class="mediaItem relatedItem" href="{{ .RelPermalink }}">
+    <a class="yearItem" href="{{ .RelPermalink }}">
       {{ with $img }}<img src="{{ relURL (printf "img/%s" .) }}" alt="">{{ end }}
-      <span>{{ .LinkTitle }} ({{ len .Pages }})</span>
+      <span class="yearTitle">{{ .LinkTitle }}</span>
+      <span class="yearSubtitle">{{ len .Pages }} album{{ if ne (len .Pages) 1 }}s{{ end }}</span>
     </a>
   {{ end }}
   </div>

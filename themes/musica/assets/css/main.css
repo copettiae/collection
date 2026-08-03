@@ -515,6 +515,55 @@ main h1 {
     border-top: none;
 }
 
+/* ---- Year grid ---- */
+
+.listYear {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(220px, 1fr));
+    gap: 28px 20px;
+    padding: 16px 24px;
+}
+
+.yearItem {
+    display: flex;
+    flex-direction: column;
+    text-align: left;
+    transition: transform var(--transition);
+}
+
+.yearItem:hover {
+    transform: translateY(-4px);
+}
+
+.yearItem img {
+    width: 100%;
+    aspect-ratio: 1 / 1;
+    object-fit: cover;
+    border-radius: var(--radius);
+    background: var(--surface-card);
+    box-shadow: 0 4px 14px var(--shadow);
+}
+
+.yearItem .yearTitle {
+    font-weight: 700;
+    font-size: 1rem;
+    color: var(--text);
+    margin-top: 10px;
+}
+
+.yearItem .yearEvent {
+    font-size: 0.8rem;
+    color: var(--accent);
+    line-height: 1.35;
+    margin-top: 2px;
+}
+
+.yearItem .yearSubtitle {
+    font-size: 0.85rem;
+    color: var(--text-muted);
+    margin-top: 2px;
+}
+
 /* ---- Pagination ---- */
 
 .pagination {
