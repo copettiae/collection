@@ -6,7 +6,7 @@
     {{/* Decade-scoped: show the years within this decade */}}
     {{ $decadeVal := .Params.decade }}
     {{ $yearTaxPage := $.Site.GetPage "/year" }}
-    <div class="listYear">
+    <div class="listYear listYearCompact">
     {{ range $yearTaxPage.Pages }}
       {{ $yearInt := int .LinkTitle }}
       {{ if eq (sub $yearInt (mod $yearInt 10)) $decadeVal }}
