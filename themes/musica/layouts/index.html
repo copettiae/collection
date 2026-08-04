@@ -2,8 +2,13 @@
 	<main>
 		<div class="listArtist">
 			{{ range $name, $taxonomy := .Site.Taxonomies }}
+				{{ if ne $name "year" }}
    				<a class="artist" href="{{ $name | urlize }}">{{ $name }} ({{ len $taxonomy }})</a>
+				{{ end }}
  			{{ end }}
+			{{ with $.Site.GetPage "/ages" }}
+				<a class="artist" href="{{ .RelPermalink }}">ages ({{ len .Pages }})</a>
+			{{ end }}
 		</div>
 	</main>
 {{ partial "sidebar.html" . }}

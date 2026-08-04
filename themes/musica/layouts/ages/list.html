@@ -1,0 +1,37 @@
+{{ define "main" }}
+  <h1>{{ .Title }}</h1>
+  {{ .Content }}
+
+  {{ if .Params.decade }}
+    {{/* Decade-scoped: show the years within this decade */}}
+    {{ $decadeVal := .Params.decade }}
+    {{ $yearTaxPage := $.Site.GetPage "/year" }}
+    <div class="listYear">
+    {{ range $yearTaxPage.Pages }}
+      {{ $yearInt := int .LinkTitle }}
+      {{ if eq (sub $yearInt (mod $yearInt 10)) $decadeVal }}
+        {{ $data := index $.Site.Data.year .LinkTitle }}
+        <a class="yearItem" href="{{ .RelPermalink }}">
+          {{ with $data }}{{ with .image }}<img src="{{ relURL (printf "img/%s" .) }}" alt="">{{ end }}{{ end }}
+          <span class="yearTitle">{{ .LinkTitle }}</span>
+          {{ with $data }}{{ with .event }}<span class="yearEvent">{{ . }}</span>{{ end }}{{ end }}
+          <span class="yearSubtitle">{{ len .Pages }} item{{ if ne (len .Pages) 1 }}s{{ end }}</span>
+        </a>
+      {{ end }}
+    {{ end }}
+    </div>
+  {{ else }}
+    {{/* Root: show the decades */}}
+    <div class="listMedia">
+    {{ range .Pages.ByTitle }}
+      {{ $decadeKey := .Params.decade }}
+      {{ $img := index $.Site.Data.decade (printf "%v" $decadeKey) }}
+      {{ $count := len (where $.Site.RegularPages "Params.decade" $decadeKey) }}
+      <a class="mediaItem" href="{{ .RelPermalink }}">
+        {{ with $img }}<img src="{{ relURL (printf "img/%s" .) }}" alt="">{{ end }}
+        <span>{{ .Title }} ({{ $count }})</span>
+      </a>
+    {{ end }}
+    </div>
+  {{ end }}
+{{ end }}
