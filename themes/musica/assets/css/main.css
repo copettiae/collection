@@ -243,6 +243,18 @@ main h1 {
     opacity: 0.2;
 }
 
+.medium-group-left a {
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    box-sizing: border-box;
+    height: 40px;
+    background: var(--surface-card);
+    padding: 6px;
+    border-radius: var(--radius-sm);
+    box-shadow: 0 2px 8px var(--shadow);
+}
+
 .medium-group-left {
     justify-content: flex-start;
     padding-left: 24px;
@@ -298,13 +310,22 @@ main h1 {
 }
 
 .artist-single {
+    display: inline-flex;
+    align-items: center;
+    box-sizing: border-box;
+    height: 40px;
     font-size: 1.25rem;
     color: var(--text-muted);
     font-style: normal;
+    background: var(--surface-card);
+    padding: 0 14px;
+    border-radius: var(--radius-sm);
+    box-shadow: 0 2px 8px var(--shadow);
 }
 
 .artist-single-container {
     padding: 0 24px;
+    margin-bottom: 6px;
 }
 
 /* ---- Single image grid (back-of-album photos) ---- */

@@ -29,7 +29,9 @@
 						<a href="{{ "media/" | relLangURL }}{{ $type | urlize }}/"><img src="{{ $baseURL }}/img/{{ $filename }}"></a>
 					{{ end }}
 				{{ end }}
-				<em class="artist-single medium-info">#{{ .Params.id }} <a href="{{ "country/" | relLangURL }}{{ .Params.country | urlize }}/">{{ index .Site.Data.country .Params.country }}</a> <a href="{{ "year/" | relLangURL }}{{ .Params.year | urlize }}/">{{ .Params.year }}</a></em>
+				<a href="{{ "country/" | relLangURL }}{{ .Params.country | urlize }}/"><em class="artist-single">{{ index .Site.Data.country .Params.country }}</em></a>
+				<a href="{{ "year/" | relLangURL }}{{ .Params.year | urlize }}/"><em class="artist-single">{{ .Params.year }}</em></a>
+				<em class="medium-info">#{{ .Params.id }}</em>
 			</div>
 			<div class="listSingleGrid">
 				{{ with .Params.image }}
