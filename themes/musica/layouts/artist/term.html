@@ -11,17 +11,21 @@
 
 		{{ $genres := slice }}
 		{{ range .Pages }}
-			{{ with .Params.genre }}
+			{{ $pageGenres := slice }}
+			{{ if reflect.IsSlice .Params.genre }}
+				{{ $pageGenres = .Params.genre }}
+			{{ else if .Params.genre }}
+				{{ $pageGenres = slice .Params.genre }}
+			{{ end }}
+			{{ range $pageGenres }}
 				{{ if not (in $genres .) }}
 					{{ $genres = $genres | append . }}
 				{{ end }}
 			{{ end }}
 		{{ end }}
-		{{ if gt (len $genres) 0 }}
+		{{ range $genres }}
 		<div class="artist-single-container">
-			{{ range $genres }}
-				<a href="{{ "genre/" | relLangURL }}{{ . | urlize }}/"><em class="artist-single">{{ . }}</em></a>
-			{{ end }}
+			<a href="{{ "genre/" | relLangURL }}{{ . | urlize }}/"><em class="artist-single">{{ . }}</em></a>
 		</div>
 		{{ end }}
 
@@ -33,9 +37,9 @@
 				{{ end }}
 			{{ end }}
 		{{ end }}
-		{{ if gt (len $related) 0 }}
+		{{ range $related }}
 		<div class="artist-single-container">
-			<em class="artist-single">{{ range $i, $r := $related }}{{ if $i }}, {{ end }}<a href="{{ "related/" | relLangURL }}{{ $r | urlize }}/">{{ $r }}</a>{{ end }}</em>
+			<a href="{{ "related/" | relLangURL }}{{ . | urlize }}/"><em class="artist-single">{{ . }}</em></a>
 		</div>
 		{{ end }}
 

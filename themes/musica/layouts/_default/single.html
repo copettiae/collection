@@ -6,7 +6,13 @@
 			<div class="artist-single-container">
 				<a href="{{ "artist/" | relLangURL }}{{ .Params.artist | urlize }}/"><em class="artist-single">{{ .Params.artist }}</em></a>
 			</div>
-			{{ with .Params.genre }}
+			{{ $genres := slice }}
+			{{ if reflect.IsSlice .Params.genre }}
+				{{ $genres = .Params.genre }}
+			{{ else if .Params.genre }}
+				{{ $genres = slice .Params.genre }}
+			{{ end }}
+			{{ range $genres }}
 			<div class="artist-single-container">
 				<a href="{{ "genre/" | relLangURL }}{{ . | urlize }}/"><em class="artist-single">{{ . }}</em></a>
 			</div>
@@ -17,9 +23,9 @@
 					{{ $related = $related | append . }}
 				{{ end }}
 			{{ end }}
-			{{ if gt (len $related) 0 }}
+			{{ range $related }}
 			<div class="artist-single-container">
-				<em class="artist-single">{{ range $i, $r := $related }}{{ if $i }}, {{ end }}<a href="{{ "related/" | relLangURL }}{{ $r | urlize }}/">{{ $r }}</a>{{ end }}</em>
+				<a href="{{ "related/" | relLangURL }}{{ . | urlize }}/"><em class="artist-single">{{ . }}</em></a>
 			</div>
 			{{ end }}
 			<div class="artist-single-container medium-group medium-group-left">
