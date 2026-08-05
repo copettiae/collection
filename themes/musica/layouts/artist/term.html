@@ -24,7 +24,21 @@
 			{{ end }}
 		</div>
 		{{ end }}
-		
+
+		{{ $related := slice }}
+		{{ range .Pages }}
+			{{ range .Params.related }}
+				{{ if and (ne . "") (not (in $related .)) }}
+					{{ $related = $related | append . }}
+				{{ end }}
+			{{ end }}
+		{{ end }}
+		{{ if gt (len $related) 0 }}
+		<div class="artist-single-container">
+			<em class="artist-single">{{ range $i, $r := $related }}{{ if $i }}, {{ end }}<a href="{{ "related/" | relLangURL }}{{ $r | urlize }}/">{{ $r }}</a>{{ end }}</em>
+		</div>
+		{{ end }}
+
 		{{ $sortedPages := .Pages.ByParam "year" }}
 		{{ $paginator := .Paginate $sortedPages }}
 

@@ -11,6 +11,17 @@
 				<a href="{{ "genre/" | relLangURL }}{{ . | urlize }}/"><em class="artist-single">{{ . }}</em></a>
 			</div>
 			{{ end }}
+			{{ $related := slice }}
+			{{ range .Params.related }}
+				{{ if ne . "" }}
+					{{ $related = $related | append . }}
+				{{ end }}
+			{{ end }}
+			{{ if gt (len $related) 0 }}
+			<div class="artist-single-container">
+				<em class="artist-single">{{ range $i, $r := $related }}{{ if $i }}, {{ end }}<a href="{{ "related/" | relLangURL }}{{ $r | urlize }}/">{{ $r }}</a>{{ end }}</em>
+			</div>
+			{{ end }}
 			<div class="artist-single-container medium-group medium-group-left">
 				{{$media := .Params.media}}
 				{{ range $type, $filename := .Site.Data.media }}
