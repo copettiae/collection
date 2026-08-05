@@ -11,21 +11,19 @@
 				<a href="{{ "genre/" | relLangURL }}{{ . | urlize }}/"><em class="artist-single">{{ . }}</em></a>
 			</div>
 			{{ end }}
-			<div class="artist-single-container">
+			<div class="artist-single-container medium-group medium-group-left">
+				{{$media := .Params.media}}
+				{{ range $type, $filename := .Site.Data.media }}
+					{{ if (in $media $type) }}
+						<a href="{{ "media/" | relLangURL }}{{ $type | urlize }}/"><img src="{{ $baseURL }}/img/{{ $filename }}"></a>
+					{{ end }}
+				{{ end }}
 				<em class="artist-single medium-info">#{{ .Params.id }} <a href="{{ "country/" | relLangURL }}{{ .Params.country | urlize }}/">{{ index .Site.Data.country .Params.country }}</a> <a href="{{ "year/" | relLangURL }}{{ .Params.year | urlize }}/">{{ .Params.year }}</a></em>
 			</div>
 			<div class="listSingleGrid">
 				{{ with .Params.image }}
 					{{ range . }}
 						<img class="listSingle" src="{{ $baseURL }}/{{ . }}" alt="" loading="lazy">
-					{{ end }}
-				{{ end }}
-			</div>
-			<div class="medium-group medium-group-left">
-				{{$media := .Params.media}}
-				{{ range $type, $filename := .Site.Data.media }}
-					{{ if (in $media $type) }}
-						<a href="{{ "media/" | relLangURL }}{{ $type | urlize }}/"><img src="{{ $baseURL }}/img/{{ $filename }}"></a>
 					{{ end }}
 				{{ end }}
 			</div>
