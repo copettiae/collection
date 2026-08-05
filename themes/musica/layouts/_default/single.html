@@ -6,6 +6,14 @@
 			<div class="artist-single-container">
 				<a href="{{ "artist/" | relLangURL }}{{ .Params.artist | urlize }}/"><em class="artist-single">{{ .Params.artist }}</em></a>
 			</div>
+			{{ with .Params.genre }}
+			<div class="artist-single-container">
+				<a href="{{ "genre/" | relLangURL }}{{ . | urlize }}/"><em class="artist-single">{{ . }}</em></a>
+			</div>
+			{{ end }}
+			<div class="artist-single-container">
+				<em class="artist-single medium-info">#{{ .Params.id }} <a href="{{ "country/" | relLangURL }}{{ .Params.country | urlize }}/">{{ index .Site.Data.country .Params.country }}</a> <a href="{{ "year/" | relLangURL }}{{ .Params.year | urlize }}/">{{ .Params.year }}</a></em>
+			</div>
 			<div class="listSingleGrid">
 				{{ with .Params.image }}
 					{{ range . }}
@@ -20,7 +28,6 @@
 						<a href="{{ "media/" | relLangURL }}{{ $type | urlize }}/"><img src="{{ $baseURL }}/img/{{ $filename }}"></a>
 					{{ end }}
 				{{ end }}
-				<em class="medium-info">#{{ .Params.id }} <a href="{{ "country/" | relLangURL }}{{ .Params.country | urlize }}/">{{ index .Site.Data.country .Params.country }}</a> <a href="{{ "year/" | relLangURL }}{{ .Params.year | urlize }}/">{{ .Params.year }}</a></em>
 			</div>
 			
 			

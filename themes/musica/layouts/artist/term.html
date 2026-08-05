@@ -8,6 +8,22 @@
 			{{ with .Content }}<div>{{ . }}</div>{{ end }}
 		</div>
 		{{ end }}
+
+		{{ $genres := slice }}
+		{{ range .Pages }}
+			{{ with .Params.genre }}
+				{{ if not (in $genres .) }}
+					{{ $genres = $genres | append . }}
+				{{ end }}
+			{{ end }}
+		{{ end }}
+		{{ if gt (len $genres) 0 }}
+		<div class="artist-single-container">
+			{{ range $genres }}
+				<a href="{{ "genre/" | relLangURL }}{{ . | urlize }}/"><em class="artist-single">{{ . }}</em></a>
+			{{ end }}
+		</div>
+		{{ end }}
 		
 		{{ $sortedPages := .Pages.ByParam "year" }}
 		{{ $paginator := .Paginate $sortedPages }}
