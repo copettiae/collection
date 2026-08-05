@@ -9,37 +9,35 @@
 		</div>
 		{{ end }}
 
-		{{ $genres := slice }}
+		{{ $genreTerms := slice }}
+		{{ $seenGenres := slice }}
 		{{ range .Pages }}
-			{{ $pageGenres := slice }}
-			{{ if reflect.IsSlice .Params.genre }}
-				{{ $pageGenres = .Params.genre }}
-			{{ else if .Params.genre }}
-				{{ $pageGenres = slice .Params.genre }}
-			{{ end }}
-			{{ range $pageGenres }}
-				{{ if not (in $genres .) }}
-					{{ $genres = $genres | append . }}
+			{{ range .GetTerms "genre" }}
+				{{ if not (in $seenGenres .RelPermalink) }}
+					{{ $seenGenres = $seenGenres | append .RelPermalink }}
+					{{ $genreTerms = $genreTerms | append . }}
 				{{ end }}
 			{{ end }}
 		{{ end }}
-		{{ range $genres }}
+		{{ range $genreTerms }}
 		<div class="artist-single-container">
-			<a href="{{ "genre/" | relLangURL }}{{ . | urlize }}/"><em class="artist-single">{{ . }}</em></a>
+			<a href="{{ .RelPermalink }}"><em class="artist-single">{{ .LinkTitle }}</em></a>
 		</div>
 		{{ end }}
 
-		{{ $related := slice }}
+		{{ $relatedTerms := slice }}
+		{{ $seenRelated := slice }}
 		{{ range .Pages }}
-			{{ range .Params.related }}
-				{{ if and (ne . "") (not (in $related .)) }}
-					{{ $related = $related | append . }}
+			{{ range .GetTerms "related" }}
+				{{ if not (in $seenRelated .RelPermalink) }}
+					{{ $seenRelated = $seenRelated | append .RelPermalink }}
+					{{ $relatedTerms = $relatedTerms | append . }}
 				{{ end }}
 			{{ end }}
 		{{ end }}
-		{{ range $related }}
+		{{ range $relatedTerms }}
 		<div class="artist-single-container">
-			<a href="{{ "related/" | relLangURL }}{{ . | urlize }}/"><em class="artist-single">{{ . }}</em></a>
+			<a href="{{ .RelPermalink }}"><em class="artist-single">{{ .LinkTitle }}</em></a>
 		</div>
 		{{ end }}
 

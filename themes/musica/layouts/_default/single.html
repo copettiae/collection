@@ -4,28 +4,18 @@
 			{{ $baseURL := .Site.BaseURL }}
 			<h1>{{ .Title }}</h1>
 			<div class="artist-single-container">
-				<a href="{{ "artist/" | relLangURL }}{{ .Params.artist | urlize }}/"><em class="artist-single">{{ .Params.artist }}</em></a>
-			</div>
-			{{ $genres := slice }}
-			{{ if reflect.IsSlice .Params.genre }}
-				{{ $genres = .Params.genre }}
-			{{ else if .Params.genre }}
-				{{ $genres = slice .Params.genre }}
-			{{ end }}
-			{{ range $genres }}
-			<div class="artist-single-container">
-				<a href="{{ "genre/" | relLangURL }}{{ . | urlize }}/"><em class="artist-single">{{ . }}</em></a>
-			</div>
-			{{ end }}
-			{{ $related := slice }}
-			{{ range .Params.related }}
-				{{ if ne . "" }}
-					{{ $related = $related | append . }}
+				{{ range .GetTerms "artist" }}
+					<a href="{{ .RelPermalink }}"><em class="artist-single">{{ .LinkTitle }}</em></a>
 				{{ end }}
-			{{ end }}
-			{{ range $related }}
+			</div>
+			{{ range .GetTerms "genre" }}
 			<div class="artist-single-container">
-				<a href="{{ "related/" | relLangURL }}{{ . | urlize }}/"><em class="artist-single">{{ . }}</em></a>
+				<a href="{{ .RelPermalink }}"><em class="artist-single">{{ .LinkTitle }}</em></a>
+			</div>
+			{{ end }}
+			{{ range .GetTerms "related" }}
+			<div class="artist-single-container">
+				<a href="{{ .RelPermalink }}"><em class="artist-single">{{ .LinkTitle }}</em></a>
 			</div>
 			{{ end }}
 			<div class="artist-single-container medium-group medium-group-left">
@@ -37,7 +27,7 @@
 				{{ end }}
 				<a href="{{ "country/" | relLangURL }}{{ .Params.country | urlize }}/"><em class="artist-single">{{ index .Site.Data.country .Params.country }}</em></a>
 				<a href="{{ "year/" | relLangURL }}{{ .Params.year | urlize }}/"><em class="artist-single">{{ .Params.year }}</em></a>
-				<em class="medium-info">#{{ .Params.id }}</em>
+				<em class="artist-single medium-info">#{{ .Params.id }}</em>
 			</div>
 			<div class="listSingleGrid">
 				{{ with .Params.image }}
