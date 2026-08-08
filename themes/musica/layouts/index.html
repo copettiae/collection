@@ -1,4 +1,13 @@
 {{ define "main" }}
+	<style>
+		body {
+			background-image: linear-gradient(rgba(242, 237, 232, 0.5), rgba(242, 237, 232, 0.5)), url('{{ relURL "img/pages/collage.png" }}');
+			background-repeat: no-repeat;
+			background-position: center top;
+			background-attachment: fixed;
+			background-size: cover;
+		}
+	</style>
 	<main>
 		<div class="listArtist">
 			{{ range $name, $taxonomy := .Site.Taxonomies }}
