@@ -404,7 +404,13 @@ h1 {
     flex: 0 1 220px;
 }
 
-.artistSearch input {
+.albumSearch {
+    padding: 0 24px 14px;
+    max-width: 320px;
+}
+
+.artistSearch input,
+.albumSearch input {
     width: 100%;
     padding: 6px 14px;
     font-size: 0.85rem;
@@ -417,11 +423,13 @@ h1 {
     transition: border-color var(--transition), box-shadow var(--transition);
 }
 
-.artistSearch input::placeholder {
+.artistSearch input::placeholder,
+.albumSearch input::placeholder {
     color: var(--text-muted);
 }
 
-.artistSearch input:focus {
+.artistSearch input:focus,
+.albumSearch input:focus {
     border-color: var(--purple);
     box-shadow: 0 0 0 3px color-mix(in srgb, var(--purple) 18%, transparent);
 }
