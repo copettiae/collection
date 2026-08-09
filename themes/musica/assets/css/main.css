@@ -545,8 +545,29 @@ h1 {
 }
 
 .taxonomyIcon {
-    font-size: 2.3rem;
+    width: 56px;
+    height: 56px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border-radius: 20px;
+    background: linear-gradient(150deg, var(--surface), var(--surface-card));
+    box-shadow:
+        -6px -6px 12px rgba(255, 255, 255, 0.85),
+        6px 6px 14px var(--shadow);
+    transition: box-shadow var(--transition);
+}
+
+.taxonomyCard:hover .taxonomyIcon {
+    box-shadow:
+        -4px -4px 9px rgba(255, 255, 255, 0.85),
+        4px 4px 10px var(--shadow);
+}
+
+.taxonomyIconGlyph {
+    font-size: 1.8rem;
     line-height: 1;
+    filter: drop-shadow(0 1px 1px rgba(60, 40, 20, 0.15));
 }
 
 .taxonomyLabel {
@@ -866,7 +887,13 @@ h1 {
     }
 
     .taxonomyIcon {
-        font-size: 1.9rem;
+        width: 48px;
+        height: 48px;
+        border-radius: 16px;
+    }
+
+    .taxonomyIconGlyph {
+        font-size: 1.5rem;
     }
 
     .alphaNav {
