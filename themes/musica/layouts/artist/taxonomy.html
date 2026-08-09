@@ -17,6 +17,9 @@
         <span>{{ $letter }}</span>
       {{ end }}
     {{ end }}
+    <div class="artistSearch">
+      <input type="search" id="artistSearchInput" placeholder="Search artists…" autocomplete="off">
+    </div>
   </nav>
 
   {{ .Content }}
@@ -47,4 +50,7 @@
       {{ end }}
     {{ end }}
   </div>
+
+  {{ $search := resources.Get "js/artist-search.js" | minify | fingerprint }}
+  <script src="{{ $search.RelPermalink }}" defer></script>
 {{ end }}

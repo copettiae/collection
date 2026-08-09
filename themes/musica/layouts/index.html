@@ -9,14 +9,27 @@
 		}
 	</style>
 	<main>
-		<div class="listArtist">
+		<div class="homeIntro">
+			<h1>Browse the Collection</h1>
+			<p>Explore by artist, genre, country, media and more.</p>
+		</div>
+		{{ $icons := dict "artist" "🎤" "country" "🌍" "genre" "🎸" "media" "💿" "related" "🔗" "ages" "📅" }}
+		<div class="taxonomyGrid">
 			{{ range $name, $taxonomy := .Site.Taxonomies }}
 				{{ if ne $name "year" }}
-   				<a class="artist" href="{{ $name | urlize }}">{{ $name }} ({{ len $taxonomy }})</a>
+				<a class="taxonomyCard" href="{{ $name | urlize }}">
+					<span class="taxonomyIcon">{{ index $icons $name }}</span>
+					<span class="taxonomyLabel">{{ $name }}</span>
+					<span class="taxonomyCount">{{ len $taxonomy }}</span>
+				</a>
 				{{ end }}
  			{{ end }}
 			{{ with $.Site.GetPage "/ages" }}
-				<a class="artist" href="{{ .RelPermalink }}">ages ({{ len .Pages }})</a>
+				<a class="taxonomyCard" href="{{ .RelPermalink }}">
+					<span class="taxonomyIcon">{{ index $icons "ages" }}</span>
+					<span class="taxonomyLabel">ages</span>
+					<span class="taxonomyCount">{{ len .Pages }}</span>
+				</a>
 			{{ end }}
 		</div>
 	</main>
