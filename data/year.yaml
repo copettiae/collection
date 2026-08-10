@@ -25,7 +25,7 @@
 1975: { image: "year/event-1975.jpg", event: "Microsoft founded" }
 1976: { image: "year/event-1976.jpg", event: "Concorde begins supersonic passenger service" }
 1977: { image: "year/event-1977.jpg", event: "Star Wars premieres" }
-1978: { image: "year/event-1978.jpg", event: "Camp David Accords" }
+1978: { image: "year/event-1978.jpg", event: "Grease tops the box office" }
 1979: { image: "year/event-1979.jpg", event: "Sony Walkman released" }
 1980: { image: "year/event-1980.jpg", event: "Pac-Man arcade game released" }
 1981: { image: "year/event-1981.jpg", event: "MTV launches" }
@@ -70,7 +70,7 @@
 2020: { image: "year/event-2020.jpg", event: "COVID-19 pandemic declared" }
 2021: { image: "year/event-2021.jpg", event: "Global rollout of COVID-19 vaccines" }
 2022: { image: "year/event-2022.jpg", event: "James Webb Space Telescope's first images" }
-2023: { image: "year/event-2023.jpg", event: "Generative AI boom following ChatGPT's rise" }
+2023: { image: "year/event-2023.jpg", event: "Coronation of King Charles III" }
 2024: { image: "year/event-2024.jpg", event: "Paris Summer Olympics" }
 2025: { image: "year/event-2025.jpg", event: "Second inauguration of Donald Trump" }
 2026: { image: "year/event-2026.jpg", event: "tbc" }

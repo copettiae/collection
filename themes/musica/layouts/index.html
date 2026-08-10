@@ -9,26 +9,20 @@
 		}
 	</style>
 	<main>
-		<div class="homeIntro">
-			<h1>Browse the Collection</h1>
-			<p>Explore by artist, genre, country, media and more.</p>
-		</div>
-		{{ $icons := dict "artist" "🎤" "country" "🌍" "genre" "🎸" "media" "💿" "related" "🔗" "ages" "📅" }}
-		<div class="taxonomyGrid">
+		{{ $icons := dict "artist" "microphone-stage" "country" "globe" "genre" "music-notes-simple" "media" "disc" "related" "users-three" "ages" "calendar-dots" }}
+		<div class="listMedia">
 			{{ range $name, $taxonomy := .Site.Taxonomies }}
 				{{ if ne $name "year" }}
-				<a class="taxonomyCard" href="{{ $name | urlize }}">
-					<span class="taxonomyIcon"><span class="taxonomyIconGlyph">{{ index $icons $name }}</span></span>
-					<span class="taxonomyLabel">{{ $name }}</span>
-					<span class="taxonomyCount">{{ len $taxonomy }}</span>
+				<a class="mediaItem" href="{{ $name | urlize }}">
+					<img src="{{ relURL (printf "img/taxonomy/%s.svg" (index $icons $name)) }}" alt="">
+					<span>{{ $name }} ({{ len $taxonomy }})</span>
 				</a>
 				{{ end }}
  			{{ end }}
 			{{ with $.Site.GetPage "/ages" }}
-				<a class="taxonomyCard" href="{{ .RelPermalink }}">
-					<span class="taxonomyIcon"><span class="taxonomyIconGlyph">{{ index $icons "ages" }}</span></span>
-					<span class="taxonomyLabel">ages</span>
-					<span class="taxonomyCount">{{ len .Pages }}</span>
+				<a class="mediaItem" href="{{ .RelPermalink }}">
+					<img src="{{ relURL (printf "img/taxonomy/%s.svg" (index $icons "ages")) }}" alt="">
+					<span>ages ({{ len .Pages }})</span>
 				</a>
 			{{ end }}
 		</div>
