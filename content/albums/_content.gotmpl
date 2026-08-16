@@ -199,8 +199,6 @@
 1305
 1307
 1308
-1309
-1310
 }}
 
 // -- U
@@ -220,6 +218,7 @@
       $params := dict
         "image" $album.image
         "artist" $album.artist
+        "artist_sort" (index $album.artist 0)
         "id" $album.id
         "country" $album.country
         "year" $album.year

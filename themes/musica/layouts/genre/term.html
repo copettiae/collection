@@ -19,7 +19,7 @@
 			<input type="search" id="albumSearchInput" placeholder="Search albums…" autocomplete="off">
 		</div>
 
-		{{ $sortedPages := (.Pages.ByParam "year").Reverse.ByParam "artist" }}
+		{{ $sortedPages := (.Pages.ByParam "year").Reverse.ByParam "artist_sort" }}
 		{{ $paginator := .Paginate $sortedPages }}
 
 		{{/* Loop for every album */}}

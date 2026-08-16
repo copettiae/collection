@@ -16,7 +16,7 @@
 			<em class="artist">#{{ .Params.id }} {{ index .Site.Data.country .Params.country }} {{ .Params.year }}</em>    
 		</div>
 		<div> 
-			<em class="artist">{{ .Params.artist }}</em>
+			<em class="artist">{{ delimit .Params.artist ", " }}</em>
 		</div>
 	
 </a>
