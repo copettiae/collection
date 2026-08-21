@@ -8,21 +8,25 @@
 					<a href="{{ .RelPermalink }}"><em class="artist-single">{{ .LinkTitle }}</em></a>
 				{{ end }}
 			</div>
-			{{ range .GetTerms "genre" }}
+			{{ with .GetTerms "genre" }}
 			<div class="artist-single-container">
+				{{ range . }}
 				<a href="{{ .RelPermalink }}"><em class="artist-single">{{ .LinkTitle }}</em></a>
+				{{ end }}
 			</div>
 			{{ end }}
-			{{ range .GetTerms "related" }}
+			{{ with .GetTerms "related" }}
 			<div class="artist-single-container">
+				{{ range . }}
 				<a href="{{ .RelPermalink }}"><em class="artist-single">{{ .LinkTitle }}</em></a>
+				{{ end }}
 			</div>
 			{{ end }}
 			<div class="artist-single-container medium-group medium-group-left">
 				{{$media := .Params.media}}
 				{{ range $type, $filename := .Site.Data.media }}
 					{{ if (in $media $type) }}
-						<a href="{{ "media/" | relLangURL }}{{ $type | urlize }}/"><img src="{{ $baseURL }}/img/{{ $filename }}"></a>
+						<a class="media-icon" href="{{ "media/" | relLangURL }}{{ $type | urlize }}/"><img src="{{ $baseURL }}/img/{{ $filename }}"></a>
 					{{ end }}
 				{{ end }}
 				<a href="{{ "country/" | relLangURL }}{{ .Params.country | urlize }}/"><em class="artist-single">{{ index .Site.Data.country .Params.country }}</em></a>

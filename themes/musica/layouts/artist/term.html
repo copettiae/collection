@@ -19,9 +19,11 @@
 				{{ end }}
 			{{ end }}
 		{{ end }}
-		{{ range $genreTerms }}
+		{{ if $genreTerms }}
 		<div class="artist-single-container">
+			{{ range $genreTerms }}
 			<a href="{{ .RelPermalink }}"><em class="artist-single">{{ .LinkTitle }}</em></a>
+			{{ end }}
 		</div>
 		{{ end }}
 
@@ -35,9 +37,11 @@
 				{{ end }}
 			{{ end }}
 		{{ end }}
-		{{ range $relatedTerms }}
+		{{ if $relatedTerms }}
 		<div class="artist-single-container">
+			{{ range $relatedTerms }}
 			<a href="{{ .RelPermalink }}"><em class="artist-single">{{ .LinkTitle }}</em></a>
+			{{ end }}
 		</div>
 		{{ end }}
 

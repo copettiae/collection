@@ -247,7 +247,7 @@ h1 {
     opacity: 0.2;
 }
 
-.medium-group-left a {
+.medium-group-left .media-icon {
     display: inline-flex;
     align-items: center;
     justify-content: center;
@@ -328,6 +328,9 @@ h1 {
 }
 
 .artist-single-container {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 10px;
     padding: 0 24px;
     margin-bottom: 6px;
 }
