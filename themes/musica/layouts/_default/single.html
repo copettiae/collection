@@ -7,21 +7,17 @@
 				{{ range .GetTerms "artist" }}
 					<a href="{{ .RelPermalink }}"><em class="artist-single">{{ .LinkTitle }}</em></a>
 				{{ end }}
-			</div>
-			{{ with .GetTerms "genre" }}
-			<div class="artist-single-container">
-				{{ range . }}
-				<a href="{{ .RelPermalink }}"><em class="artist-single">{{ .LinkTitle }}</em></a>
+				{{ with .GetTerms "genre" }}
+					{{ range . }}
+					<a href="{{ .RelPermalink }}"><em class="artist-single">{{ .LinkTitle }}</em></a>
+					{{ end }}
+				{{ end }}
+				{{ with .GetTerms "related" }}
+					{{ range . }}
+					<a href="{{ .RelPermalink }}"><em class="artist-single">{{ .LinkTitle }}</em></a>
+					{{ end }}
 				{{ end }}
 			</div>
-			{{ end }}
-			{{ with .GetTerms "related" }}
-			<div class="artist-single-container">
-				{{ range . }}
-				<a href="{{ .RelPermalink }}"><em class="artist-single">{{ .LinkTitle }}</em></a>
-				{{ end }}
-			</div>
-			{{ end }}
 			<div class="artist-single-container medium-group medium-group-left">
 				{{$media := .Params.media}}
 				{{ range $type, $filename := .Site.Data.media }}

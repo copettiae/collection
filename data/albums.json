@@ -150,7 +150,7 @@
 {"id":150,"name":"Livro","year":1997,"artist":["Caetano Veloso"],"media":["CD"],"genre":["Bossa/Samba/Fusion"],"country":"Brazil","image":["img/150.jpg"],"description":"","decade":1990,"related":["Bossa"]},
 {"id":151,"name":"Prenda Minha","year":1998,"artist":["Caetano Veloso"],"media":["CD"],"genre":["Bossa/Samba/Fusion"],"country":"Brazil","image":["img/151.jpg"],"description":"","decade":1990,"related":["Bossa"]},
 {"id":152,"name":"A Foreign Sound","year":2004,"artist":["Caetano Veloso"],"media":["CD"],"genre":["Bossa/Samba/Fusion"],"country":"Brazil","image":["img/152.jpg"],"description":"","decade":2000,"related":["Bossa"]},
-{"id":153,"name":"Tropicalia 2","year":1993,"artist":["Caetano Veloso E Gilberto Gil"],"media":["CD"],"genre":["Bossa/Samba/Fusion"],"country":"Brazil","image":["img/153.jpg"],"description":"","decade":1990,"related":["Bossa"]},
+{"id":153,"name":"Tropicalia 2","year":1993,"artist":["Caetano Veloso","Gilberto Gil"],"media":["CD"],"genre":["Bossa/Samba/Fusion"],"country":"Brazil","image":["img/153.jpg"],"description":"","decade":1990,"related":["Bossa"]},
 {"id":154,"name":"Latino Con Cal Tjader","year":1962,"artist":["Cal Tjader"],"media":["CD"],"genre":["Jazz/Fusion"],"country":"USA","image":["img/154.jpg"],"description":"","decade":1960,"related":[]},
 {"id":155,"name":"Camel","year":1973,"artist":["Camel"],"media":["CD"],"genre":["Prog Rock"],"country":"UK","image":["img/155.jpg"],"description":"","decade":1970,"related":[]},
 {"id":156,"name":"Music Inspired By The Snow Goose","year":1975,"artist":["Camel"],"media":["CD"],"genre":["Prog Rock"],"country":"UK","image":["img/156.jpg"],"description":"","decade":1970,"related":[]},

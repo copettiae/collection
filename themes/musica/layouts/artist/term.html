@@ -19,14 +19,6 @@
 				{{ end }}
 			{{ end }}
 		{{ end }}
-		{{ if $genreTerms }}
-		<div class="artist-single-container">
-			{{ range $genreTerms }}
-			<a href="{{ .RelPermalink }}"><em class="artist-single">{{ .LinkTitle }}</em></a>
-			{{ end }}
-		</div>
-		{{ end }}
-
 		{{ $relatedTerms := slice }}
 		{{ $seenRelated := slice }}
 		{{ range .Pages }}
@@ -37,8 +29,12 @@
 				{{ end }}
 			{{ end }}
 		{{ end }}
-		{{ if $relatedTerms }}
+
+		{{ if or $genreTerms $relatedTerms }}
 		<div class="artist-single-container">
+			{{ range $genreTerms }}
+			<a href="{{ .RelPermalink }}"><em class="artist-single">{{ .LinkTitle }}</em></a>
+			{{ end }}
 			{{ range $relatedTerms }}
 			<a href="{{ .RelPermalink }}"><em class="artist-single">{{ .LinkTitle }}</em></a>
 			{{ end }}
