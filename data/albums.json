@@ -328,7 +328,7 @@
 {"id":328,"name":"The Concert For Bangladesh","year":1971,"artist":["George Harrison"],"media":["LP"],"genre":["Pop Rock"],"country":"USA","image":["img/328.jpg"],"description":"","decade":1970,"related":["The Fab Four"]},
 {"id":329,"name":"Jazzpaña II","year":2000,"artist":["Gerardo Nuñez / Chano Dominguez"],"media":["CD"],"genre":["Flamenco/Fusion"],"country":"Spain","image":["img/329.jpg"],"description":"","decade":2000,"related":[]},
 {"id":330,"name":"Baker Street","year":1998,"artist":["Gerry Rafferty"],"media":["CD"],"genre":["Pop Rock"],"country":"UK","image":["img/330.jpg"],"description":"","decade":1990,"related":[]},
-{"id":331,"name":"Kaya N'Gan Daya","year":2002,"artist":["Gilberto Gil"],"media":["CD"],"genre":["Reggae"],"country":"Brazil","image":["img/331.jpg"],"description":"","decade":2000,"related":["Bossa"]},
+{"id":331,"name":"Kaya N'Gan Daya","year":2002,"artist":["Gilberto Gil"],"media":["CD","DVD"],"genre":["Reggae"],"country":"Brazil","image":["img/331.jpg"],"description":"","decade":2000,"related":["Bossa"]},
 {"id":332,"name":"Midnight Express","year":1978,"artist":["Various"],"media":["CD"],"genre":["Soundtrack"],"country":"USA","image":["img/332.jpg"],"description":"OST Giorgio Moroder","decade":1970,"related":[]},
 {"id":333,"name":"Glass Harp","year":1970,"artist":["Glass Harp"],"media":["CD"],"genre":["Prog Rock"],"country":"USA","image":["img/333.jpg"],"description":"","decade":1970,"related":[]},
 {"id":334,"name":"Synergy","year":1971,"artist":["Glass Harp"],"media":["CD"],"genre":["Prog Rock"],"country":"USA","image":["img/334.jpg"],"description":"","decade":1970,"related":[]},
@@ -463,7 +463,7 @@
 {"id":463,"name":"Midnight Blue","year":2014,"artist":["Kenny Burrell"],"media":["CD"],"genre":["Jazz/Fusion"],"country":"USA","image":["img/463.jpg"],"description":"Kenny Burrell with Stanley Turrentine / Major Holley Jr / Bill English / Ray Barretto","decade":2010,"related":[]},
 {"id":464,"name":"Kin Ping Meh","year":1972,"artist":["Kin Ping Meh"],"media":["CD"],"genre":["Prog Rock"],"country":"Germany","image":["img/464.jpg"],"description":"","decade":1970,"related":[]},
 {"id":465,"name":"In The Court Of The Crimson King","year":1969,"artist":["King Crimson"],"media":["CD","LP"],"genre":["Prog Rock"],"country":"UK","image":["img/465.jpg"],"description":"","decade":1960,"related":[]},
-{"id":466,"name":"The Legend Live","year":1979,"artist":["Bob Marley & The Wailers"],"media":["CD"],"genre":["Reggae"],"country":"Jamaica","image":["img/466.jpg"],"description":"Santa Barbara County Bowl November 25th 1979","decade":1970,"related":[]},
+{"id":466,"name":"The Legend Live Santa Barbara - County Bowl","year":1979,"artist":["Bob Marley & The Wailers"],"media":["CD"],"genre":["Reggae"],"country":"Jamaica","image":["img/466.jpg"],"description":"Santa Barbara County Bowl November 25th 1979","decade":1970,"related":[]},
 {"id":467,"name":"In The Wake Of Poseidon","year":1970,"artist":["King Crimson"],"media":["CD"],"genre":["Prog Rock"],"country":"UK","image":["img/467.jpg"],"description":"","decade":1970,"related":[]},
 {"id":468,"name":"Lizard","year":1970,"artist":["King Crimson"],"media":["CD"],"genre":["Prog Rock"],"country":"UK","image":["img/468.jpg"],"description":"","decade":1970,"related":[]},
 {"id":469,"name":"Islands","year":1971,"artist":["King Crimson"],"media":["CD"],"genre":["Prog Rock"],"country":"UK","image":["img/469.jpg"],"description":"","decade":1970,"related":[]},
@@ -1719,5 +1719,6 @@
 {"id":1719,"name":"The Wall","year":2011,"artist":["Pink FLoyd"],"media":["Poster"],"genre":["Prog Rock"],"country":"UK","image":["img/1719.jpg"],"description":"","decade":2010,"related":["Pink Floyd"]},
 {"id":1720,"name":"Record Collector Presents","year":2026,"artist":["Yes"],"media":["Mag"],"genre":["Prog Rock"],"country":"UK","image":["img/1720.jpg","img/1720-2.jpg"],"description":"","decade":2020,"related":["Yes","Roger Dean"]},
 {"id":1721,"name":"Classic Rock","year":2025,"artist":["The Doors"],"media":["Mag"],"genre":["Prog Rock"],"country":"USA","image":["img/1721.jpg","img/1721-2.jpg"],"description":"","decade":2020,"related":[""]},
-{"id":1722,"name":"Sunday Express Review","year":2020,"artist":["Rick Wakeman"],"media":["Mag"],"genre":["Prog Rock"],"country":"UK","image":["img/1722.jpg","img/1722-2.jpg"],"description":"","decade":2020,"related":["Rick Wakeman"]}
+{"id":1722,"name":"Sunday Express Review","year":2020,"artist":["Rick Wakeman"],"media":["Mag"],"genre":["Prog Rock"],"country":"UK","image":["img/1722.jpg","img/1722-2.jpg"],"description":"","decade":2020,"related":["Rick Wakeman"]},
+{"id":1723,"name":"The Legend Live Santa Barbara - County Bowl","year":1979,"artist":["Bob Marley & The Wailers"],"media":["DVD"],"genre":["Reggae"],"country":"Jamaica","image":["img/466.jpg"],"description":"Santa Barbara County Bowl November 25th 1979","decade":1970,"related":[]}
 ]
