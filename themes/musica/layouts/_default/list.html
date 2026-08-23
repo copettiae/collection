@@ -10,21 +10,17 @@
 		{{ end }}
 		
 		{{ $sortedPages := (.Pages.ByParam "year").Reverse.ByParam "artist_sort" }}
-		{{ $paginator := .Paginate $sortedPages }}
 
 		{{/* Loop for every album */}}
-		
+
 		<div class="listProduct">
-		{{ range $paginator.Pages }}
-		
+		{{ range $sortedPages }}
+
 
 			{{ .Render "summary" }}
 
 		{{ end }}
 		</div>
-
-		{{/* Paginator navigation */}}
-		{{ partial "pagination.html" $paginator }}
 	</main>
 {{ partial "sidebar.html" . }}
 {{ end }}
