@@ -1734,5 +1734,6 @@
 {"id":1734,"name":"In Tokio","year":2009,"artist":["Patrick Moraz", "Bill Bruford"],"media":["CD"],"genre":["Jazz/Fusion"],"country":"UK","image":["img/1734.jpg"],"description":"","decade":2000,"related":["Yes"]},
 {"id":1735,"name":"Beat Instrumental Wakeman's New Keyboards","year":1976,"artist":["Rick Wakeman"],"media":["Mag"],"genre":["Prog Rock"],"country":"UK","image":["img/1735.jpg","img/1735-2.jpg","img/1735-3.jpg","img/1735-4.jpg"],"description":"","decade":1970,"related":["Rick Wakeman"]},
 {"id":1736,"name":"Journey To The Centre Of The Earth","year":1974,"artist":["Rick Wakeman"],"media":["Tape"],"genre":["Prog Rock"],"country":"UK","image":["img/1736.jpg","img/1736-2.jpg","img/1736-3.jpg","img/1736-4.jpg","img/1736-5.jpg"],"description":"","decade":1970,"related":["Rick Wakeman"]},
-{"id":1737,"name":"Brother Of Mine","year":1989,"artist":["Anderson Bruford Wakeman Howe"],"media":["Tape"],"genre":["Prog Rock"],"country":"UK","image":["img/1737.jpg","img/1737-2.jpg"],"description":"","decade":1980,"related":["Yes","Roger Dean"]}
+{"id":1737,"name":"Brother Of Mine","year":1989,"artist":["Anderson Bruford Wakeman Howe"],"media":["Tape"],"genre":["Prog Rock"],"country":"UK","image":["img/1737.jpg","img/1737-2.jpg"],"description":"","decade":1980,"related":["Yes","Roger Dean"]},
+{"id":1738,"name":"Prog 173","year":2026,"artist":["Rick Wakeman"],"media":["Mag"],"genre":["Prog Rock"],"country":"UK","image":["img/1738.jpg","img/1738-2.jpg"],"description":"","decade":2026,"related":["Rick Wakeman"]}
 ]
