@@ -1741,5 +1741,6 @@
 {"id":1741,"name":"Journey To The Centre Of The Earth Songbook","year":1974,"artist":["Rick Wakeman"],"media":["Book"],"genre":["Prog Rock"],"country":"UK","image":["img/1741.jpg","img/1741-2.jpg","img/1741-3.jpg"],"description":"","decade":1970,"related":["Rick Wakeman"]},
 {"id":1742,"name":"Wish You Were Here Songbook","year":1980,"artist":["Pink FLoyd"],"media":["Book"],"genre":["Prog Rock"],"country":"UK","image":["img/1742.jpg","img/1742-2.jpg","img/1742-3.jpg"],"description":"","decade":1980,"related":["Pink Floyd"]},
 {"id":1743,"name":"Yes Complete Deluxe Edition Songbook","year":1999,"artist":["Yes"],"media":["Book"],"genre":["Prog Rock"],"country":"USA","image":["img/1743.jpg","img/1743-2.jpg","img/1743-3.jpg","img/1743-4.jpg"],"description":"","decade":1990,"related":["Yes"]},
-{"id":1744,"name":"The Gospels Cassette","year":1987,"artist":["Rick Wakeman"],"media":["Misc"],"genre":["Prog Rock"],"country":"UK","image":["img/1744.jpg","img/1744-2.jpg","img/1744-3.jpg"],"description":"","decade":1980,"related":["Rick Wakeman"]}
+{"id":1744,"name":"The Gospels Cassette","year":1987,"artist":["Rick Wakeman"],"media":["Misc"],"genre":["Prog Rock"],"country":"UK","image":["img/1744.jpg","img/1744-2.jpg","img/1744-3.jpg"],"description":"","decade":1980,"related":["Rick Wakeman"]},
+{"id":1745,"name":"Return To The Centre Of The Earth","year":2021,"artist":["Rick Wakeman"],"media":["Box"],"genre":["Prog Rock"],"country":"UK","image":["img/1745.jpg"],"description":"","decade":2020,"related":["Rick Wakeman","Roger Dean"]}
 ]
