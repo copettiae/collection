@@ -1743,5 +1743,10 @@
 {"id":1743,"name":"Yes Complete Deluxe Edition Songbook","year":1999,"artist":["Yes"],"media":["Book"],"genre":["Prog Rock"],"country":"USA","image":["img/1743.jpg","img/1743-2.jpg","img/1743-3.jpg","img/1743-4.jpg"],"description":"","decade":1990,"related":["The Yes Family"]},
 {"id":1744,"name":"The Gospels Cassette","year":1987,"artist":["Rick Wakeman"],"media":["Misc"],"genre":["Prog Rock"],"country":"UK","image":["img/1744.jpg","img/1744-2.jpg","img/1744-3.jpg"],"description":"","decade":1980,"related":["Grumpy Old Rock Star"]},
 {"id":1745,"name":"Return To The Centre Of The Earth","year":2021,"artist":["Rick Wakeman"],"media":["Box"],"genre":["Prog Rock"],"country":"UK","image":["img/1745.jpg"],"description":"","decade":2020,"related":["Grumpy Old Rock Star","The Artist"]},
-{"id":1746,"name":"No Sense Of Measure","year":1984,"artist":["Yes"],"media":["DVD"],"genre":["Prog Rock"],"country":"Germany","image":["img/1746.jpg","img/1746-2.jpg","img/1746-3.jpg"],"description":"","decade":1980,"related":["The Yes Family"]}
+{"id":1746,"name":"No Sense Of Measure","year":1984,"artist":["Yes"],"media":["DVD"],"genre":["Prog Rock"],"country":"Germany","image":["img/1746.jpg","img/1746-2.jpg","img/1746-3.jpg"],"description":"","decade":1980,"related":["The Yes Family"]},
+{"id":1747,"name":"The Natural World Trilogy","year":1999,"artist":["Rick Wakeman"],"media":["CD"],"genre":["Prog Rock"],"country":"UK","image":["img/1747.jpg"],"description":"","decade":1990,"related":["Grumpy Old Rock Star"]},
+{"id":1748,"name":"Uncut Curated Editions","year":2026,"artist":["King Crimson"],"media":["Mag"],"genre":["Prog Rock"],"country":"UK","image":["img/1748.jpg","img/1748-2.jpg"],"description":"","decade":2020,"related":[]},
+{"id":1749,"name":"Experiencing Progressive Rock A Listener's Companion","year":2018,"artist":["Robert G. H. Burns"],"media":["Book"],"genre":["Prog Rock"],"country":"USA","image":["img/1749.jpg","img/1749-2.jpg"],"description":"","decade":2010,"related":[]},
+{"id":1750,"name":"Close To The Edge How Yes's Masterpiece Defined Prog Rock","year":2017,"artist":["Will Romano"],"media":["Book"],"genre":["Prog Rock"],"country":"USA","image":["img/1750.jpg","img/1750-2.jpg"],"description":"","decade":2010,"related":["The Yes Family"]}
+
 ]
