@@ -1747,6 +1747,7 @@
 {"id":1747,"name":"The Natural World Trilogy","year":1999,"artist":["Rick Wakeman"],"media":["CD"],"genre":["Prog Rock"],"country":"UK","image":["img/1747.jpg"],"description":"","decade":1990,"related":["Grumpy Old Rock Star"]},
 {"id":1748,"name":"Uncut Curated Editions","year":2026,"artist":["King Crimson"],"media":["Mag"],"genre":["Prog Rock"],"country":"UK","image":["img/1748.jpg","img/1748-2.jpg"],"description":"","decade":2020,"related":[]},
 {"id":1749,"name":"Experiencing Progressive Rock A Listener's Companion","year":2018,"artist":["Robert G. H. Burns"],"media":["Book"],"genre":["Prog Rock"],"country":"USA","image":["img/1749.jpg","img/1749-2.jpg"],"description":"","decade":2010,"related":[]},
-{"id":1750,"name":"Close To The Edge How Yes's Masterpiece Defined Prog Rock","year":2017,"artist":["Will Romano"],"media":["Book"],"genre":["Prog Rock"],"country":"USA","image":["img/1750.jpg","img/1750-2.jpg"],"description":"","decade":2010,"related":["The Yes Family"]}
-
+{"id":1750,"name":"Close To The Edge How Yes's Masterpiece Defined Prog Rock","year":2017,"artist":["Will Romano"],"media":["Book"],"genre":["Prog Rock"],"country":"USA","image":["img/1750.jpg","img/1750-2.jpg"],"description":"","decade":2010,"related":["The Yes Family"]},
+{"id":1751,"name":"The Progressive Rock Encyclopedia","year":2015,"artist":["Markus Freytag"],"media":["Book"],"genre":["Prog Rock"],"country":"UK","image":["img/1751.jpg","img/1751-2.jpg"],"description":"","decade":2010,"related":[""]},
+{"id":1752,"name":"Live","year":1987,"artist":["Rick Wakeman"],"media":["LP"],"genre":["Prog Rock"],"country":"UK","image":["img/1752.jpg","img/1752-2.jpg"],"description":"","decade":1980,"related":["Grumpy Old Rock Star"]}
 ]
