@@ -34,14 +34,14 @@
 1984: { image: "year/event-1984.jpg", event: "Apple Macintosh launched" }
 1985: { image: "year/event-1985.jpg", event: "Live Aid concert" }
 1986: { image: "year/event-1986.jpg", event: "Voyager 2 flies by Uranus" }
-1987: { image: "year/event-1987.jpg", event: "Reagan's \"tear down this wall\" speech" }
+1987: { image: "year/event-1987.jpg", event: "Death of Andy Warhol" }
 1988: { image: "year/event-1988.jpg", event: "Seoul Summer Olympics" }
 1989: { image: "year/event-1989.jpg", event: "Fall of the Berlin Wall" }
 1990: { image: "year/event-1990.jpg", event: "Nelson Mandela released from prison" }
 1991: { image: "year/event-1991.jpg", event: "Dissolution of the Soviet Union" }
 1992: { image: "year/event-1992.jpg", event: "Maastricht Treaty forms the European Union" }
 1993: { image: "year/event-1993.jpg", event: "World Wide Web released into the public domain" }
-1994: { image: "year/event-1994.jpg", event: "Mandela elected President, end of apartheid" }
+1994: { image: "year/event-1994.jpg", event: "Munch's \"The Scream\" stolen in Oslo" }
 1995: { image: "year/event-1995.jpg", event: "Dayton Accords end the Bosnian War" }
 1996: { image: "year/event-1996.jpg", event: "Dolly the sheep, first cloned mammal" }
 1997: { image: "year/event-1997.jpg", event: "Handover of Hong Kong to China" }
@@ -51,7 +51,7 @@
 2001: { image: "year/event-2001.jpg", event: "Wikipedia launches" }
 2002: { image: "year/event-2002.jpg", event: "Euro banknotes and coins enter circulation" }
 2003: { image: "year/event-2003.jpg", event: "Human Genome Project completed" }
-2004: { image: "year/event-2004.jpg", event: "Indian Ocean earthquake and tsunami" }
+2004: { image: "year/event-2004.jpg", event: "Death of Ray Charles" }
 2005: { image: "year/event-2005.jpg", event: "Hurricane Katrina" }
 2006: { image: "year/event-2006.jpg", event: "Pluto reclassified as a dwarf planet" }
 2007: { image: "year/event-2007.jpg", event: "iPhone launched" }
@@ -73,4 +73,4 @@
 2023: { image: "year/event-2023.jpg", event: "Coronation of King Charles III" }
 2024: { image: "year/event-2024.jpg", event: "Paris Summer Olympics" }
 2025: { image: "year/event-2025.jpg", event: "Second inauguration of Donald Trump" }
-2026: { image: "year/event-2026.jpg", event: "tbc" }
+2026: { image: "year/event-2026.jpg", event: "Banksy statue appears in central London" }
