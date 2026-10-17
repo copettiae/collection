@@ -36,13 +36,17 @@
         <h2 class="letterDivider" id="{{ $letter }}">{{ $letter }}</h2>
         {{ range $group }}
           {{ $bg := "" }}
-          {{ with (index (.Pages.ByParam "year") 0) }}
-            {{ with .Params.image }}
-              {{ $bg = index . 0 }}
+          {{ with index site.Data.artist .LinkTitle }}
+            {{ $bg = printf "img/%s" . }}
+          {{ else }}
+            {{ with (index (.Pages.ByParam "year") 0) }}
+              {{ with .Params.image }}
+                {{ $bg = printf "img/artist/%s" (path.Base (index . 0)) }}
+              {{ end }}
             {{ end }}
           {{ end }}
           <a class="yearItem" href="{{ .RelPermalink }}">
-            {{ with $bg }}<img src="{{ relURL (printf "img/artist/%s" (path.Base .)) }}" alt="">{{ end }}
+            {{ with $bg }}<img src="{{ relURL . }}" alt="">{{ end }}
             <span class="yearTitle">{{ .LinkTitle }}</span>
             <span class="yearSubtitle">{{ len .Pages }} item{{ if ne (len .Pages) 1 }}s{{ end }}</span>
           </a>
