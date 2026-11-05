@@ -1611,7 +1611,7 @@
 {"id":1611,"name":"Bootleg Him!","year":1972,"artist":["Alexis Korner"],"media":["LP"],"genre":["Folk Rock"],"country":"UK","image":["img/1611.jpg"],"description":"","decade":1970,"related":["The Artist"]},
 {"id":1612,"name":"Flattening Mountains And Creating Empires","year":2002,"artist":["Vermillion"],"media":["LP"],"genre":["Prog Rock"],"country":"USA","image":["img/1612.jpg"],"description":"","decade":2000,"related":["The Artist"]},
 {"id":1613,"name":"Islands","year":2020,"artist":["The Flower Kings"],"media":["Box","CD","LP"],"genre":["Prog Rock"],"country":"Sweden","image":["img/1613.jpg"],"description":"","decade":2020,"related":["The Artist"]},
-{"id":1614,"name":"Gentle Giant Octopus","year":2025,"artist":["Wanted"],"media":["Wanted"],"genre":["Wanted"],"country":"Wanted","image":["img/1614.jpg"],"description":"","decade":2020,"related":["Wanted"]},
+{"id":1614,"name":"Octopus","year":1972,"artist":["Gentle Giant"],"media":["LP"],"genre":["Prog Rock"],"country":"UK","image":["img/1614.jpg"],"description":"","decade":1970,"related":["The Artist"]},
 {"id":1615,"name":"Still Too Young To Remember","year":1989,"artist":["It Bytes"],"media":["LP"],"genre":["Rock"],"country":"UK","image":["img/1615.jpg"],"description":"","decade":1980,"related":["The Artist"]},
 {"id":1616,"name":"Pete Dello And Friends - Into Your Ears","year":2025,"artist":["Wanted"],"media":["Wanted"],"genre":["Wanted"],"country":"Wanted","image":["img/1616.jpg"],"description":"","decade":2020,"related":["Wanted"]},
 {"id":1617,"name":"Patto - Hold Your Fire","year":2025,"artist":["Wanted"],"media":["Wanted"],"genre":["Wanted"],"country":"Wanted","image":["img/1617.jpg"],"description":"","decade":2020,"related":["Wanted"]},
@@ -1791,5 +1791,6 @@
 {"id":1791,"name":"Songs Of Middle Earth","year":2002,"artist":["Rick Wakeman"],"media":["CD"],"genre":["Prog Rock"],"country":"UK","image":["img/1787-6.jpg"],"description":"","decade":2000,"related":["Grumpy Old Rock Star"]},
 {"id":1792,"name":"Mr. Moonlight: 1966 The Beatles Live In Budokan Film","year":2023,"artist":["The Beatles"],"media":["Flyer"],"genre":["Pop Rock"],"country":"Japan","image":["img/1792.jpg","img/1792-2.jpg"],"description":"","decade":2020,"related":["The Fab Four"]},
 {"id":1793,"name":"Myths And Legends","year":2016,"artist":["Roger Dean"],"media":["Poster"],"genre":["Pop Rock"],"country":"UK","image":["img/1793.jpg"],"description":"","decade":2010,"related":["The Artist"]},
-{"id":1794,"name":"Slow Flow & Dancer","year":2022,"artist":["Andreas Vollenweider"],"media":["CD"],"genre":["Jazz/Fusion"],"country":"Switzerland","image":["img/1794.jpg"],"description":"","decade":2020,"related":[""]}
+{"id":1794,"name":"Slow Flow & Dancer","year":2022,"artist":["Andreas Vollenweider"],"media":["CD"],"genre":["Jazz/Fusion"],"country":"Switzerland","image":["img/1794.jpg"],"description":"","decade":2020,"related":[""]},
+{"id":1795,"name":"Inside Yes 1968-1973","year":2003,"artist":["Yes"],"media":["DVD"],"genre":["Prog Rock"],"country":"UK","image":["img/1795.jpg","img/1795-2.jpg","img/1795-3.jpg","img/1795-4.jpg"],"description":"","decade":2000,"related":["The Yes Family"]}
 ]
